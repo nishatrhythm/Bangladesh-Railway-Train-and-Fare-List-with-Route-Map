@@ -40,7 +40,8 @@ index = create_index(processed_directory)
 def add_security_headers(response):
     response.headers['Content-Security-Policy'] = (
         "default-src 'self'; "
-        "img-src 'self' https://eticket.railway.gov.bd; "
+        "img-src 'self' https://raw.githubusercontent.com/nishatrhythm/Bangladesh-Railway-Fare-List/main/images/bangladesh-railway.png;"
+        "img-src 'self' https://raw.githubusercontent.com/nishatrhythm/Bangladesh-Railway-Fare-List/main/images/link_share_image.png;"
         "font-src 'self' https://fonts.gstatic.com https://cdnjs.cloudflare.com; "
         "style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://cdnjs.cloudflare.com; "
         "script-src 'self' 'unsafe-inline' https://cdnjs.cloudflare.com https://kit.fontawesome.com; "
