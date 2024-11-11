@@ -38,6 +38,7 @@
 
             if (isValid) {
                 document.getElementById('loader').style.display = 'block'; // Show the loader
+                document.getElementById('content').classList.add('hidden'); // Hide content
             }
 
             return isValid;
@@ -118,48 +119,51 @@
         <!-- Loader -->
         <div id="loader" class="loader" style="display: none;"></div>
 
-        <!-- Display the error message if present -->
-        {% if error %}
-            <p class="error">{{ error }}</p>
-        {% endif %}
+        <!-- Content to hide when the loader is active -->
+        <div id="content">
+            <!-- Display the error message if present -->
+            {% if error %}
+                <p class="error">{{ error }}</p>
+            {% endif %}
 
-        {% if results %}
-        <h2 class="fare-list-heading">
-            Fare List for<br>
-            <span class="highlight-station">{{ results.origin }}</span> to <span class="highlight-station">{{ results.destination }}</span>
-        </h2>
-        
-            <div class="table-wrapper">
-                <table>
-                    <thead>
-                        <tr>
-                            <th>Seat Type</th>
-                            <th>Base Fare (BDT)</th>
-                            <th>VAT (15%) (BDT)</th>
-                            <th>Total Fare (BDT)</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        {% for info in results.data['info'] %}
-                        <tr>
-                            <td>{{ info['type'] }}</td>
-                            <td>{{ "%.2f" | format(info['fare']) }}</td>
-                            <td>{{ "%.2f" | format(info['vat_amount']) }}</td>
-                            <td>{{ "%.2f" | format(info['fare'] + info['vat_amount']) }}</td>
-                        </tr>
-                        {% endfor %}
-                    </tbody>
-                </table>
-            </div>
-            <p class="note">
-                <strong>Note:</strong> An extra <span class="highlight">BDT 20</span> online payment charge applies. Total fare includes <span class="highlight">BDT 50</span> bedding charges per seat for <strong>AC_B</strong> and <strong>F_BERTH</strong> seat classes.
-            </p>
-        {% endif %}
+            {% if results %}
+            <h2 class="fare-list-heading">
+                Fare List for<br>
+                <span class="highlight-station">{{ results.origin }}</span> to <span class="highlight-station">{{ results.destination }}</span>
+            </h2>
+            
+                <div class="table-wrapper">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>Seat Type</th>
+                                <th>Base Fare (BDT)</th>
+                                <th>VAT (15%) (BDT)</th>
+                                <th>Total Fare (BDT)</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for info in results.data['info'] %}
+                            <tr>
+                                <td>{{ info['type'] }}</td>
+                                <td>{{ "%.2f" | format(info['fare']) }}</td>
+                                <td>{{ "%.2f" | format(info['vat_amount']) }}</td>
+                                <td>{{ "%.2f" | format(info['fare'] + info['vat_amount']) }}</td>
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+                <p class="note">
+                    <strong>Note:</strong> An extra <span class="highlight">BDT 20</span> online payment charge applies. Total fare includes <span class="highlight">BDT 50</span> bedding charges per seat for <strong>AC_B</strong> and <strong>F_BERTH</strong> seat classes.
+                </p>
+            {% endif %}
 
-        <!-- Footer -->
-        <footer class="footer">
-            <p><strong>This project is open source.</strong> Check it out on <a href="https://github.com/nishatrhythm/Bangladesh-Railway-Fare-List" target="_blank">GitHub</a>.</p>
-        </footer>
+            <!-- Footer -->
+            <footer class="footer">
+                <p><strong>This project is open source.</strong> Check it out on <a href="https://github.com/nishatrhythm/Bangladesh-Railway-Fare-List" target="_blank">GitHub</a>.</p>
+            </footer>
+        </div>
     </div>
 </body>
 </html>
