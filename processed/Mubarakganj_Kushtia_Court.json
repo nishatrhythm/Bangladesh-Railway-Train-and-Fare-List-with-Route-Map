@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "mubarakganj",
+    "destination_city_name": "kushtia_court",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 195.0,
+            "vat_percent": 15,
+            "vat_amount": 30
+        }
+    ]
+}

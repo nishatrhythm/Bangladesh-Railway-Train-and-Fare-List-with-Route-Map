@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "mymensingh",
+    "destination_city_name": "bhairab_bazar",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 155.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "origin_city_name": "bhairab_bazar",
+    "destination_city_name": "kulaura",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 365.0,
+            "vat_percent": 15,
+            "vat_amount": 55
+        },
+        {
+            "type": "AC_B",
+            "fare": 655.0,
+            "vat_percent": 15,
+            "vat_amount": 99
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 220.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "F_SEAT",
+            "fare": 295.0,
+            "vat_percent": 15,
+            "vat_amount": 45
+        },
+        {
+            "type": "AC_S",
+            "fare": 440.0,
+            "vat_percent": 15,
+            "vat_amount": 66
+        }
+    ]
+}

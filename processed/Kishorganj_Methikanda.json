@@ -1,0 +1,24 @@
+{
+    "origin_city_name": "kishorganj",
+    "destination_city_name": "methikanda",
+    "info": [
+        {
+            "type": "SHOVAN",
+            "fare": 65.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 125.0,
+            "vat_percent": 15,
+            "vat_amount": 19
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 75.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

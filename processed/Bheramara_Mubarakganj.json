@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "bheramara",
+    "destination_city_name": "mubarakganj",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 125.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

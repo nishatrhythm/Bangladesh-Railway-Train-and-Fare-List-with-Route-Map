@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "burimari",
+    "destination_city_name": "kankina",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 75.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

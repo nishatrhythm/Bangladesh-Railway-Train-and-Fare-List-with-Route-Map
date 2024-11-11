@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "abdulpur",
+    "destination_city_name": "sh m monsur ali",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 155.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 255.0,
+            "vat_percent": 15,
+            "vat_amount": 39
+        },
+        {
+            "type": "AC_B",
+            "fare": 460.0,
+            "vat_percent": 15,
+            "vat_amount": 69
+        },
+        {
+            "type": "AC_S",
+            "fare": 305.0,
+            "vat_percent": 15,
+            "vat_amount": 46
+        }
+    ]
+}

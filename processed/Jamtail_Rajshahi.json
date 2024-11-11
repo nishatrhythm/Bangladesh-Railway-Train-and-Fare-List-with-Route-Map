@@ -1,0 +1,24 @@
+{
+    "origin_city_name": "jamtail",
+    "destination_city_name": "rajshahi",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 150.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 245.0,
+            "vat_percent": 15,
+            "vat_amount": 37
+        },
+        {
+            "type": "AC_S",
+            "fare": 295.0,
+            "vat_percent": 15,
+            "vat_amount": 45
+        }
+    ]
+}

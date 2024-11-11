@@ -1,0 +1,42 @@
+{
+    "origin_city_name": "chattogram",
+    "destination_city_name": "dhaka",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 405.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_S",
+            "fare": 810.0,
+            "vat_percent": 15,
+            "vat_amount": 122
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 675.0,
+            "vat_percent": 15,
+            "vat_amount": 102
+        },
+        {
+            "type": "F_SEAT",
+            "fare": 595.0,
+            "vat_percent": 15,
+            "vat_amount": 90
+        },
+        {
+            "type": "AC_B",
+            "fare": 1339.0,
+            "vat_percent": 15,
+            "vat_amount": 201
+        },
+        {
+            "type": "F_BERTH",
+            "fare": 810.0,
+            "vat_percent": 15,
+            "vat_amount": 122
+        }
+    ]
+}

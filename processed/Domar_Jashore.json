@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "domar",
+    "destination_city_name": "jashore",
+    "info": [
+        {
+            "type": "AC_S",
+            "fare": 1015.0,
+            "vat_percent": 15,
+            "vat_amount": 153
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 845.0,
+            "vat_percent": 15,
+            "vat_amount": 127
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 510.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_B",
+            "fare": 1520.0,
+            "vat_percent": 15,
+            "vat_amount": 228
+        }
+    ]
+}

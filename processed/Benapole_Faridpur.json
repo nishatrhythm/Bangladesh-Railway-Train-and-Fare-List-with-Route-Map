@@ -1,0 +1,24 @@
+{
+    "origin_city_name": "benapole",
+    "destination_city_name": "faridpur",
+    "info": [
+        {
+            "type": "AC_S",
+            "fare": 595.0,
+            "vat_percent": 15,
+            "vat_amount": 90
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 300.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 500.0,
+            "vat_percent": 15,
+            "vat_amount": 75
+        }
+    ]
+}

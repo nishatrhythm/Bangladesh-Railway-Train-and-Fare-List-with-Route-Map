@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "darshana_halt",
+    "destination_city_name": "ullapara",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 215.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "shaistaganj",
+    "destination_city_name": "brahmanbaria",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 145.0,
+            "vat_percent": 15,
+            "vat_amount": 22
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 90.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "F_SEAT",
+            "fare": 120.0,
+            "vat_percent": 15,
+            "vat_amount": 18
+        },
+        {
+            "type": "AC_S",
+            "fare": 175.0,
+            "vat_percent": 15,
+            "vat_amount": 27
+        }
+    ]
+}

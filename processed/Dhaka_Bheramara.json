@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "dhaka",
+    "destination_city_name": "bheramara",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 450.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "F_SEAT",
+            "fare": 595.0,
+            "vat_percent": 15,
+            "vat_amount": 90
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 745.0,
+            "vat_percent": 15,
+            "vat_amount": 112
+        },
+        {
+            "type": "AC_B",
+            "fare": 1225.0,
+            "vat_percent": 15,
+            "vat_amount": 184
+        }
+    ]
+}

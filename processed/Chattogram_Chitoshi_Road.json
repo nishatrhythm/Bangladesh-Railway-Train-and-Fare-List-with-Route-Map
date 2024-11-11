@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "chattogram",
+    "destination_city_name": "chitoshi_road",
+    "info": [
+        {
+            "type": "F_SEAT",
+            "fare": 225.0,
+            "vat_percent": 15,
+            "vat_amount": 34
+        },
+        {
+            "type": "SHOVAN",
+            "fare": 140.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 170.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "F_CHAIR",
+            "fare": 225.0,
+            "vat_percent": 15,
+            "vat_amount": 34
+        }
+    ]
+}

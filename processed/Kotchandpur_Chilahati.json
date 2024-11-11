@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "kotchandpur",
+    "destination_city_name": "chilahati",
+    "info": [
+        {
+            "type": "AC_S",
+            "fare": 915.0,
+            "vat_percent": 15,
+            "vat_amount": 138
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 765.0,
+            "vat_percent": 15,
+            "vat_amount": 115
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 460.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_B",
+            "fare": 1375.0,
+            "vat_percent": 15,
+            "vat_amount": 207
+        }
+    ]
+}

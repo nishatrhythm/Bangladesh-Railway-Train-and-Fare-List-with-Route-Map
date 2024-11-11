@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "joypurhat",
+    "destination_city_name": "natore",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 95.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_S",
+            "fare": 185.0,
+            "vat_percent": 15,
+            "vat_amount": 28
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 155.0,
+            "vat_percent": 15,
+            "vat_amount": 24
+        },
+        {
+            "type": "AC_B",
+            "fare": 280.0,
+            "vat_percent": 15,
+            "vat_amount": 42
+        }
+    ]
+}

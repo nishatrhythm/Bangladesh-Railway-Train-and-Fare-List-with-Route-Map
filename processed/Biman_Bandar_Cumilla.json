@@ -1,0 +1,36 @@
+{
+    "origin_city_name": "biman_bandar",
+    "destination_city_name": "cumilla",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 375.0,
+            "vat_percent": 15,
+            "vat_amount": 57
+        },
+        {
+            "type": "AC_S",
+            "fare": 450.0,
+            "vat_percent": 15,
+            "vat_amount": 68
+        },
+        {
+            "type": "F_SEAT",
+            "fare": 300.0,
+            "vat_percent": 15,
+            "vat_amount": 45
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 225.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_B",
+            "fare": 675.0,
+            "vat_percent": 15,
+            "vat_amount": 102
+        }
+    ]
+}

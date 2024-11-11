@@ -1,0 +1,24 @@
+{
+    "origin_city_name": "kurigram",
+    "destination_city_name": "badarganj",
+    "info": [
+        {
+            "type": "AC_S",
+            "fare": 165.0,
+            "vat_percent": 15,
+            "vat_amount": 25
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 135.0,
+            "vat_percent": 15,
+            "vat_amount": 21
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 85.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "rajshahi",
+    "destination_city_name": "safdarpur",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 235.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

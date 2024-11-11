@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "saidpur",
+    "destination_city_name": "natore",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 185.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_S",
+            "fare": 370.0,
+            "vat_percent": 15,
+            "vat_amount": 56
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 310.0,
+            "vat_percent": 15,
+            "vat_amount": 47
+        },
+        {
+            "type": "AC_B",
+            "fare": 555.0,
+            "vat_percent": 15,
+            "vat_amount": 84
+        }
+    ]
+}

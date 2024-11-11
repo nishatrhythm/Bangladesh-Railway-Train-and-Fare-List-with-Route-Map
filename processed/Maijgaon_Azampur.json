@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "maijgaon",
+    "destination_city_name": "azampur",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 205.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

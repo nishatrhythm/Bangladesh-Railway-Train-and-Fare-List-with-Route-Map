@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "mirpur",
+    "destination_city_name": "khulna",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 210.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "mohanganj",
+    "destination_city_name": "mymensingh",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 105.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "SHOVAN",
+            "fare": 85.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "F_SEAT",
+            "fare": 140.0,
+            "vat_percent": 15,
+            "vat_amount": 21
+        },
+        {
+            "type": "AC_B",
+            "fare": 354.0,
+            "vat_percent": 15,
+            "vat_amount": 54
+        }
+    ]
+}

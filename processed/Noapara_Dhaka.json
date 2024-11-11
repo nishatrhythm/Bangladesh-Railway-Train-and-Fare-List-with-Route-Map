@@ -1,0 +1,24 @@
+{
+    "origin_city_name": "noapara",
+    "destination_city_name": "dhaka",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 990.0,
+            "vat_percent": 15,
+            "vat_amount": 149
+        },
+        {
+            "type": "AC_S",
+            "fare": 1185.0,
+            "vat_percent": 15,
+            "vat_amount": 178
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 595.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

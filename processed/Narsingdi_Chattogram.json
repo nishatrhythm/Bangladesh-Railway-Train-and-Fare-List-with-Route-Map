@@ -1,0 +1,24 @@
+{
+    "origin_city_name": "narsingdi",
+    "destination_city_name": "chattogram",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 340.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 570.0,
+            "vat_percent": 15,
+            "vat_amount": 86
+        },
+        {
+            "type": "AC_B",
+            "fare": 1020.0,
+            "vat_percent": 15,
+            "vat_amount": 153
+        }
+    ]
+}

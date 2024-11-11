@@ -1,0 +1,24 @@
+{
+    "origin_city_name": "lalmonirhat",
+    "destination_city_name": "gaibandha",
+    "info": [
+        {
+            "type": "AC_S",
+            "fare": 170.0,
+            "vat_percent": 15,
+            "vat_amount": 26
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 145.0,
+            "vat_percent": 15,
+            "vat_amount": 22
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 85.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

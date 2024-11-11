@@ -1,0 +1,24 @@
+{
+    "origin_city_name": "poradaha",
+    "destination_city_name": "ullapara",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 265.0,
+            "vat_percent": 15,
+            "vat_amount": 40
+        },
+        {
+            "type": "AC_S",
+            "fare": 315.0,
+            "vat_percent": 15,
+            "vat_amount": 48
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 160.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

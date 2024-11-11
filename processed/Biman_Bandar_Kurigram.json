@@ -1,0 +1,24 @@
+{
+    "origin_city_name": "biman_bandar",
+    "destination_city_name": "kurigram",
+    "info": [
+        {
+            "type": "AC_B",
+            "fare": 1910.0,
+            "vat_percent": 15,
+            "vat_amount": 287
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 1065.0,
+            "vat_percent": 15,
+            "vat_amount": 160
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 640.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

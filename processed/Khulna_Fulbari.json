@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "khulna",
+    "destination_city_name": "fulbari",
+    "info": [
+        {
+            "type": "AC_S",
+            "fare": 950.0,
+            "vat_percent": 15,
+            "vat_amount": 143
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 790.0,
+            "vat_percent": 15,
+            "vat_amount": 119
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 475.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_B",
+            "fare": 1425.0,
+            "vat_percent": 15,
+            "vat_amount": 214
+        }
+    ]
+}

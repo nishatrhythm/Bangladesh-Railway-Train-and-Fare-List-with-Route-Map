@@ -1,0 +1,24 @@
+{
+    "origin_city_name": "mubarakganj",
+    "destination_city_name": "ishwardi",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 190.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_S",
+            "fare": 380.0,
+            "vat_percent": 15,
+            "vat_amount": 57
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 315.0,
+            "vat_percent": 15,
+            "vat_amount": 48
+        }
+    ]
+}

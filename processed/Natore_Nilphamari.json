@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "natore",
+    "destination_city_name": "nilphamari",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 210.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_S",
+            "fare": 415.0,
+            "vat_percent": 15,
+            "vat_amount": 63
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 380.0,
+            "vat_percent": 15,
+            "vat_amount": 57
+        },
+        {
+            "type": "AC_B",
+            "fare": 620.0,
+            "vat_percent": 15,
+            "vat_amount": 93
+        }
+    ]
+}

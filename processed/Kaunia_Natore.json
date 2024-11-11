@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "kaunia",
+    "destination_city_name": "natore",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 430.0,
+            "vat_percent": 15,
+            "vat_amount": 65
+        }
+    ]
+}

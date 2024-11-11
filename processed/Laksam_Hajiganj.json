@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "laksam",
+    "destination_city_name": "hajiganj",
+    "info": [
+        {
+            "type": "SHOVAN",
+            "fare": 50.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

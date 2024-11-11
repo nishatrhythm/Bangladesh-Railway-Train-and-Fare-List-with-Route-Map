@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "kulaura",
+    "destination_city_name": "biman_bandar",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 530.0,
+            "vat_percent": 15,
+            "vat_amount": 80
+        },
+        {
+            "type": "AC_S",
+            "fare": 635.0,
+            "vat_percent": 15,
+            "vat_amount": 96
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 320.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "F_SEAT",
+            "fare": 425.0,
+            "vat_percent": 15,
+            "vat_amount": 64
+        }
+    ]
+}

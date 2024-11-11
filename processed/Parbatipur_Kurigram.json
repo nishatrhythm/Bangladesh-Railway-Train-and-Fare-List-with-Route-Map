@@ -1,0 +1,24 @@
+{
+    "origin_city_name": "parbatipur",
+    "destination_city_name": "kurigram",
+    "info": [
+        {
+            "type": "AC_B",
+            "fare": 300.0,
+            "vat_percent": 15,
+            "vat_amount": 45
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 170.0,
+            "vat_percent": 15,
+            "vat_amount": 26
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 100.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

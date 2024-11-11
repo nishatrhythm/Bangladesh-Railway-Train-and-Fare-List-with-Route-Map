@@ -1,0 +1,18 @@
+{
+    "origin_city_name": "rajbari",
+    "destination_city_name": "benapole",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 260.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 435.0,
+            "vat_percent": 15,
+            "vat_amount": 66
+        }
+    ]
+}

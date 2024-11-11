@@ -1,0 +1,24 @@
+{
+    "origin_city_name": "lalmonirhat",
+    "destination_city_name": "bonar_para",
+    "info": [
+        {
+            "type": "AC_S",
+            "fare": 216.0,
+            "vat_percent": 15,
+            "vat_amount": 33
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 180.0,
+            "vat_percent": 15,
+            "vat_amount": 27
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 110.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

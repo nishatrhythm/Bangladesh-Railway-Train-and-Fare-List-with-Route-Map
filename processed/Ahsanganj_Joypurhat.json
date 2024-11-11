@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "ahsanganj",
+    "destination_city_name": "joypurhat",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 120.0,
+            "vat_percent": 15,
+            "vat_amount": 18
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 65.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_S",
+            "fare": 130.0,
+            "vat_percent": 15,
+            "vat_amount": 20
+        },
+        {
+            "type": "AC_B",
+            "fare": 195.0,
+            "vat_percent": 15,
+            "vat_amount": 30
+        }
+    ]
+}

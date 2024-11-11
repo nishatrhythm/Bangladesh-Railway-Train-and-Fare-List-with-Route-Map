@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "chattogram",
+    "destination_city_name": "biman_bandar",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 405.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

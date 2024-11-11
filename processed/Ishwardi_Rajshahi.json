@@ -1,0 +1,36 @@
+{
+    "origin_city_name": "ishwardi",
+    "destination_city_name": "rajshahi",
+    "info": [
+        {
+            "type": "SHOVAN",
+            "fare": 60.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 75.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_S",
+            "fare": 145.0,
+            "vat_percent": 15,
+            "vat_amount": 22
+        },
+        {
+            "type": "F_SEAT",
+            "fare": 95.0,
+            "vat_percent": 15,
+            "vat_amount": 15
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 120.0,
+            "vat_percent": 15,
+            "vat_amount": 18
+        }
+    ]
+}

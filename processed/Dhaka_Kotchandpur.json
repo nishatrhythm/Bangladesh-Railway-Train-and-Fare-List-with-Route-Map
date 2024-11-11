@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "dhaka",
+    "destination_city_name": "kotchandpur",
+    "info": [
+        {
+            "type": "AC_S",
+            "fare": 1020.0,
+            "vat_percent": 15,
+            "vat_amount": 153
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 510.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 850.0,
+            "vat_percent": 15,
+            "vat_amount": 128
+        },
+        {
+            "type": "AC_B",
+            "fare": 1600.0,
+            "vat_percent": 15,
+            "vat_amount": 240
+        }
+    ]
+}

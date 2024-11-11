@@ -1,0 +1,18 @@
+{
+    "origin_city_name": "feni",
+    "destination_city_name": "mymensingh",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 585.0,
+            "vat_percent": 15,
+            "vat_amount": 88
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 355.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

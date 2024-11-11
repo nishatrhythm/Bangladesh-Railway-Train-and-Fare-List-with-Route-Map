@@ -1,0 +1,24 @@
+{
+    "origin_city_name": "sh m monsur ali",
+    "destination_city_name": "dinajpur",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 555.0,
+            "vat_percent": 15,
+            "vat_amount": 84
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 335.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_S",
+            "fare": 655.0,
+            "vat_percent": 15,
+            "vat_amount": 99
+        }
+    ]
+}

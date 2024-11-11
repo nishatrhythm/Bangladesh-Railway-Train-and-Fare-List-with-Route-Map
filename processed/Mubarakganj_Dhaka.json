@@ -1,0 +1,18 @@
+{
+    "origin_city_name": "mubarakganj",
+    "destination_city_name": "dhaka",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 880.0,
+            "vat_percent": 15,
+            "vat_amount": 132
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 530.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

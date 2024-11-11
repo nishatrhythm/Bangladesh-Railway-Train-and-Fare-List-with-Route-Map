@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "pirganj",
+    "destination_city_name": "setabganj",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 50.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "origin_city_name": "chattogram",
+    "destination_city_name": "cumilla",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 185.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_S",
+            "fare": 370.0,
+            "vat_percent": 15,
+            "vat_amount": 56
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 305.0,
+            "vat_percent": 15,
+            "vat_amount": 46
+        },
+        {
+            "type": "F_SEAT",
+            "fare": 245.0,
+            "vat_percent": 15,
+            "vat_amount": 37
+        },
+        {
+            "type": "AC_B",
+            "fare": 550.0,
+            "vat_percent": 15,
+            "vat_amount": 83
+        },
+        {
+            "type": "F_BERTH",
+            "fare": 370.0,
+            "vat_percent": 15,
+            "vat_amount": 56
+        }
+    ]
+}

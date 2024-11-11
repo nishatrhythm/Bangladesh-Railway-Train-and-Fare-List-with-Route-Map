@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "tangail",
+    "destination_city_name": "b sirajul islam",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 965.0,
+            "vat_percent": 15,
+            "vat_amount": 145
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 580.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_S",
+            "fare": 1160.0,
+            "vat_percent": 15,
+            "vat_amount": 174
+        },
+        {
+            "type": "AC_B",
+            "fare": 1735.0,
+            "vat_percent": 15,
+            "vat_amount": 261
+        }
+    ]
+}

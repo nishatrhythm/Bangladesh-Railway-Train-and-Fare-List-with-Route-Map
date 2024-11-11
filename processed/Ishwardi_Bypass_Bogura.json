@@ -1,0 +1,18 @@
+{
+    "origin_city_name": "ishwardi bypass",
+    "destination_city_name": "bogura",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 235.0,
+            "vat_percent": 15,
+            "vat_amount": 36
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 140.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

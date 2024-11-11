@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "saidpur",
+    "destination_city_name": "santahar",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 130.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 220.0,
+            "vat_percent": 15,
+            "vat_amount": 33
+        },
+        {
+            "type": "AC_S",
+            "fare": 260.0,
+            "vat_percent": 15,
+            "vat_amount": 39
+        },
+        {
+            "type": "AC_B",
+            "fare": 390.0,
+            "vat_percent": 15,
+            "vat_amount": 59
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "dhaka",
+    "destination_city_name": "sh m monsur ali",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 250.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 420.0,
+            "vat_percent": 15,
+            "vat_amount": 63
+        },
+        {
+            "type": "AC_S",
+            "fare": 500.0,
+            "vat_percent": 15,
+            "vat_amount": 75
+        },
+        {
+            "type": "AC_B",
+            "fare": 750.0,
+            "vat_percent": 15,
+            "vat_amount": 113
+        }
+    ]
+}

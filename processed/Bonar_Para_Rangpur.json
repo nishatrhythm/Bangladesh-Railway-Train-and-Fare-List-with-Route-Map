@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "bonar_para",
+    "destination_city_name": "rangpur",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 110.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "SHOVAN",
+            "fare": 90.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_S",
+            "fare": 215.0,
+            "vat_percent": 15,
+            "vat_amount": 33
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 180.0,
+            "vat_percent": 15,
+            "vat_amount": 27
+        }
+    ]
+}

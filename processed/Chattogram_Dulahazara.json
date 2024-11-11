@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "chattogram",
+    "destination_city_name": "dulahazara",
+    "info": [
+        {
+            "type": "SHOVAN",
+            "fare": 140.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

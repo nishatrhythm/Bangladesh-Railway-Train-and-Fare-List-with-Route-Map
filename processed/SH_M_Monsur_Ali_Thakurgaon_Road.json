@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "sh m monsur ali",
+    "destination_city_name": "thakurgaon_road",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 400.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

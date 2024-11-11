@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "chattogram",
+    "destination_city_name": "mymensingh",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 770.0,
+            "vat_percent": 15,
+            "vat_amount": 116
+        },
+        {
+            "type": "AC_S",
+            "fare": 920.0,
+            "vat_percent": 15,
+            "vat_amount": 138
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 460.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "F_SEAT",
+            "fare": 615.0,
+            "vat_percent": 15,
+            "vat_amount": 93
+        }
+    ]
+}

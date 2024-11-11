@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "akhaura",
+    "destination_city_name": "jamalpur_town",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 285.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

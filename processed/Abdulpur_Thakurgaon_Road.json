@@ -1,0 +1,18 @@
+{
+    "origin_city_name": "abdulpur",
+    "destination_city_name": "thakurgaon_road",
+    "info": [
+        {
+            "type": "AC_B",
+            "fare": 785.0,
+            "vat_percent": 15,
+            "vat_amount": 118
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 300.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "origin_city_name": "joypurhat",
+    "destination_city_name": "pirganj",
+    "info": [
+        {
+            "type": "AC_B",
+            "fare": 455.0,
+            "vat_percent": 15,
+            "vat_amount": 69
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 160.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

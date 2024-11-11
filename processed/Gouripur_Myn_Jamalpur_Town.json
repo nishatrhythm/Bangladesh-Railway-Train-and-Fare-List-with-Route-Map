@@ -1,0 +1,18 @@
+{
+    "origin_city_name": "gouripur_myn",
+    "destination_city_name": "jamalpur_town",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 175.0,
+            "vat_percent": 15,
+            "vat_amount": 27
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 105.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

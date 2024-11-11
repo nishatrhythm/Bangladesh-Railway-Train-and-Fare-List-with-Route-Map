@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "bonar_para",
+    "destination_city_name": "chirirbandar",
+    "info": [
+        {
+            "type": "SHOVAN",
+            "fare": 145.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

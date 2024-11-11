@@ -1,0 +1,18 @@
+{
+    "origin_city_name": "benapole",
+    "destination_city_name": "khoksha",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 215.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 360.0,
+            "vat_percent": 15,
+            "vat_amount": 54
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "parbatipur",
+    "destination_city_name": "domar",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 80.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_S",
+            "fare": 160.0,
+            "vat_percent": 15,
+            "vat_amount": 24
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 135.0,
+            "vat_percent": 15,
+            "vat_amount": 21
+        },
+        {
+            "type": "AC_B",
+            "fare": 240.0,
+            "vat_percent": 15,
+            "vat_amount": 36
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "parbatipur",
+    "destination_city_name": "chuadanga",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 555.0,
+            "vat_percent": 15,
+            "vat_amount": 84
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 335.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_S",
+            "fare": 665.0,
+            "vat_percent": 15,
+            "vat_amount": 100
+        },
+        {
+            "type": "AC_B",
+            "fare": 1000.0,
+            "vat_percent": 15,
+            "vat_amount": 150
+        }
+    ]
+}

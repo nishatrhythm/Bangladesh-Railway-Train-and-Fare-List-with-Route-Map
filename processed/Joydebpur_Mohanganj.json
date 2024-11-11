@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "joydebpur",
+    "destination_city_name": "mohanganj",
+    "info": [
+        {
+            "type": "SHOVAN",
+            "fare": 175.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

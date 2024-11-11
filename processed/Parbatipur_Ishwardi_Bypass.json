@@ -1,0 +1,18 @@
+{
+    "origin_city_name": "parbatipur",
+    "destination_city_name": "ishwardi bypass",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 210.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 350.0,
+            "vat_percent": 15,
+            "vat_amount": 53
+        }
+    ]
+}

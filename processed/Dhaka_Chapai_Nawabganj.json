@@ -1,0 +1,24 @@
+{
+    "origin_city_name": "dhaka",
+    "destination_city_name": "chapai nawabganj",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 515.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 850.0,
+            "vat_percent": 15,
+            "vat_amount": 128
+        },
+        {
+            "type": "AC_S",
+            "fare": 1020.0,
+            "vat_percent": 15,
+            "vat_amount": 153
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "origin_city_name": "chattogram",
+    "destination_city_name": "kulaura",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 650.0,
+            "vat_percent": 15,
+            "vat_amount": 98
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 390.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_B",
+            "fare": 1170.0,
+            "vat_percent": 15,
+            "vat_amount": 176
+        }
+    ]
+}

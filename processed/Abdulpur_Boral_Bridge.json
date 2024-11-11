@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "abdulpur",
+    "destination_city_name": "boral_bridge",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 110.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 180.0,
+            "vat_percent": 15,
+            "vat_amount": 27
+        },
+        {
+            "type": "AC_B",
+            "fare": 320.0,
+            "vat_percent": 15,
+            "vat_amount": 48
+        },
+        {
+            "type": "AC_S",
+            "fare": 215.0,
+            "vat_percent": 15,
+            "vat_amount": 33
+        }
+    ]
+}

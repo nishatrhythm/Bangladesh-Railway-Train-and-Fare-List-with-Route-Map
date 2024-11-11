@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "b sirajul islam",
+    "destination_city_name": "jamtail",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 440.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

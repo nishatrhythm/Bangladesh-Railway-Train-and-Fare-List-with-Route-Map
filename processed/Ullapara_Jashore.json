@@ -1,0 +1,24 @@
+{
+    "origin_city_name": "ullapara",
+    "destination_city_name": "jashore",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 485.0,
+            "vat_percent": 15,
+            "vat_amount": 73
+        },
+        {
+            "type": "AC_B",
+            "fare": 875.0,
+            "vat_percent": 15,
+            "vat_amount": 132
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 295.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

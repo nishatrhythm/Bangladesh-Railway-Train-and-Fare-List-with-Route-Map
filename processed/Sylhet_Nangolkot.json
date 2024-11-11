@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "sylhet",
+    "destination_city_name": "nangolkot",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 315.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

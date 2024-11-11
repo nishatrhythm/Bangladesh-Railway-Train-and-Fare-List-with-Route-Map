@@ -1,0 +1,18 @@
+{
+    "origin_city_name": "cumilla",
+    "destination_city_name": "jamalpur_town",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 570.0,
+            "vat_percent": 15,
+            "vat_amount": 86
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 345.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

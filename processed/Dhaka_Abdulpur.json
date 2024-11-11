@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "dhaka",
+    "destination_city_name": "abdulpur",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 405.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 670.0,
+            "vat_percent": 15,
+            "vat_amount": 101
+        },
+        {
+            "type": "AC_S",
+            "fare": 805.0,
+            "vat_percent": 15,
+            "vat_amount": 121
+        },
+        {
+            "type": "AC_B",
+            "fare": 1205.0,
+            "vat_percent": 15,
+            "vat_amount": 181
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "akkelpur",
+    "destination_city_name": "dhaka",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 745.0,
+            "vat_percent": 15,
+            "vat_amount": 112
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 450.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_B",
+            "fare": 1340.0,
+            "vat_percent": 15,
+            "vat_amount": 201
+        },
+        {
+            "type": "AC_S",
+            "fare": 895.0,
+            "vat_percent": 15,
+            "vat_amount": 135
+        }
+    ]
+}

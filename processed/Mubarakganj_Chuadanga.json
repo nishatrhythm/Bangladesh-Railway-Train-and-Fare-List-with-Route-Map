@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "mubarakganj",
+    "destination_city_name": "chuadanga",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 65.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

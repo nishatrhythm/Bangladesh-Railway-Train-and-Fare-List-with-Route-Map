@@ -1,0 +1,24 @@
+{
+    "origin_city_name": "kulaura",
+    "destination_city_name": "ashuganj",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 315.0,
+            "vat_percent": 15,
+            "vat_amount": 48
+        },
+        {
+            "type": "AC_S",
+            "fare": 375.0,
+            "vat_percent": 15,
+            "vat_amount": 57
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 190.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "mubarakganj",
+    "destination_city_name": "pangsha",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 260.0,
+            "vat_percent": 15,
+            "vat_amount": 39
+        }
+    ]
+}

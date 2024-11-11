@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "joydebpur",
+    "destination_city_name": "gafargaon",
+    "info": [
+        {
+            "type": "AC_B",
+            "fare": 190.0,
+            "vat_percent": 15,
+            "vat_amount": 29
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "origin_city_name": "bbsetu_e",
+    "destination_city_name": "khulna",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 820.0,
+            "vat_percent": 15,
+            "vat_amount": 123
+        },
+        {
+            "type": "AC_B",
+            "fare": 1475.0,
+            "vat_percent": 15,
+            "vat_amount": 222
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 495.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

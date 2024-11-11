@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "jashore",
+    "destination_city_name": "noapara",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 100.0,
+            "vat_percent": 15,
+            "vat_amount": 15
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 50.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_S",
+            "fare": 110.0,
+            "vat_percent": 15,
+            "vat_amount": 17
+        },
+        {
+            "type": "AC_B",
+            "fare": 130.0,
+            "vat_percent": 15,
+            "vat_amount": 20
+        }
+    ]
+}

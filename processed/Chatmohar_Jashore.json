@@ -1,0 +1,24 @@
+{
+    "origin_city_name": "chatmohar",
+    "destination_city_name": "jashore",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 425.0,
+            "vat_percent": 15,
+            "vat_amount": 64
+        },
+        {
+            "type": "AC_B",
+            "fare": 760.0,
+            "vat_percent": 15,
+            "vat_amount": 114
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 255.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

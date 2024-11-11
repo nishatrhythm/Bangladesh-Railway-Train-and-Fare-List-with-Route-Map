@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "gaibandha",
+    "destination_city_name": "patgram",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 180.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

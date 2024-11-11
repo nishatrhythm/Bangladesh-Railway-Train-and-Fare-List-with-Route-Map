@@ -1,0 +1,24 @@
+{
+    "origin_city_name": "khulna",
+    "destination_city_name": "kushtia_court",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 215.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_B",
+            "fare": 645.0,
+            "vat_percent": 15,
+            "vat_amount": 97
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 360.0,
+            "vat_percent": 15,
+            "vat_amount": 54
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "origin_city_name": "noakhali",
+    "destination_city_name": "narsingdi",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 405.0,
+            "vat_percent": 15,
+            "vat_amount": 61
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 245.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

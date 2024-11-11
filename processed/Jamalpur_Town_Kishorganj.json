@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "jamalpur_town",
+    "destination_city_name": "kishorganj",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 270.0,
+            "vat_percent": 15,
+            "vat_amount": 41
+        },
+        {
+            "type": "AC_B",
+            "fare": 485.0,
+            "vat_percent": 15,
+            "vat_amount": 73
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 165.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "F_BERTH",
+            "fare": 325.0,
+            "vat_percent": 15,
+            "vat_amount": 49
+        }
+    ]
+}

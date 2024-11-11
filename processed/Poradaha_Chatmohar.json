@@ -1,0 +1,18 @@
+{
+    "origin_city_name": "poradaha",
+    "destination_city_name": "chatmohar",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 200.0,
+            "vat_percent": 15,
+            "vat_amount": 30
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 120.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

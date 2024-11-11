@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "ishwardi",
+    "destination_city_name": "pangsha",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 145.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

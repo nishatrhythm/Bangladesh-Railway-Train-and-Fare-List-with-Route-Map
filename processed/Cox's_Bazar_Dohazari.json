@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "coxs bazar",
+    "destination_city_name": "dohazari",
+    "info": [
+        {
+            "type": "SHOVAN",
+            "fare": 140.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

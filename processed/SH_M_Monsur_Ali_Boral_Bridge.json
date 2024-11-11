@@ -1,0 +1,24 @@
+{
+    "origin_city_name": "sh m monsur ali",
+    "destination_city_name": "boral_bridge",
+    "info": [
+        {
+            "type": "AC_B",
+            "fare": 145.0,
+            "vat_percent": 15,
+            "vat_amount": 22
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 100.0,
+            "vat_percent": 15,
+            "vat_amount": 15
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 50.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

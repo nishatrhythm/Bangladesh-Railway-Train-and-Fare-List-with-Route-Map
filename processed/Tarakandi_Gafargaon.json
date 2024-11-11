@@ -1,0 +1,24 @@
+{
+    "origin_city_name": "tarakandi",
+    "destination_city_name": "gafargaon",
+    "info": [
+        {
+            "type": "F_SEAT",
+            "fare": 195.0,
+            "vat_percent": 15,
+            "vat_amount": 30
+        },
+        {
+            "type": "F_CHAIR",
+            "fare": 195.0,
+            "vat_percent": 15,
+            "vat_amount": 30
+        },
+        {
+            "type": "SHOVAN",
+            "fare": 120.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

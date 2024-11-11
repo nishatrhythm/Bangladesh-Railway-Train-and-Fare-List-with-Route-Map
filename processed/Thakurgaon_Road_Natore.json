@@ -1,0 +1,24 @@
+{
+    "origin_city_name": "thakurgaon_road",
+    "destination_city_name": "natore",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 465.0,
+            "vat_percent": 15,
+            "vat_amount": 70
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 280.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_S",
+            "fare": 495.0,
+            "vat_percent": 15,
+            "vat_amount": 75
+        }
+    ]
+}

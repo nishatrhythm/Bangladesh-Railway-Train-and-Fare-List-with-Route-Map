@@ -1,0 +1,24 @@
+{
+    "origin_city_name": "saidpur",
+    "destination_city_name": "mubarakganj",
+    "info": [
+        {
+            "type": "AC_S",
+            "fare": 825.0,
+            "vat_percent": 15,
+            "vat_amount": 124
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 685.0,
+            "vat_percent": 15,
+            "vat_amount": 103
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 415.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

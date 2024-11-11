@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "rajshahi",
+    "destination_city_name": "talma",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 300.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

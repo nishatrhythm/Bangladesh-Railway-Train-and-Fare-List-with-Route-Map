@@ -1,0 +1,24 @@
+{
+    "origin_city_name": "joydebpur",
+    "destination_city_name": "lalmonirhat",
+    "info": [
+        {
+            "type": "AC_B",
+            "fare": 1770.0,
+            "vat_percent": 15,
+            "vat_amount": 266
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 985.0,
+            "vat_percent": 15,
+            "vat_amount": 148
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 590.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

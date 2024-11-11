@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "poradaha",
+    "destination_city_name": "khoksha",
+    "info": [
+        {
+            "type": "SHOVAN",
+            "fare": 45.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

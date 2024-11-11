@@ -1,0 +1,18 @@
+{
+    "origin_city_name": "ishwardi bypass",
+    "destination_city_name": "saidpur",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 370.0,
+            "vat_percent": 15,
+            "vat_amount": 56
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 220.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

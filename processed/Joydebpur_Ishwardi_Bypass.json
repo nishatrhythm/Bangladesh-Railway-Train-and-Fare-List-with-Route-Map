@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "joydebpur",
+    "destination_city_name": "ishwardi bypass",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 300.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 495.0,
+            "vat_percent": 15,
+            "vat_amount": 75
+        },
+        {
+            "type": "AC_S",
+            "fare": 595.0,
+            "vat_percent": 15,
+            "vat_amount": 90
+        },
+        {
+            "type": "AC_B",
+            "fare": 890.0,
+            "vat_percent": 15,
+            "vat_amount": 134
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "rangpur",
+    "destination_city_name": "dhaka",
+    "info": [
+        {
+            "type": "AC_S",
+            "fare": 1170.0,
+            "vat_percent": 15,
+            "vat_amount": 176
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 975.0,
+            "vat_percent": 15,
+            "vat_amount": 147
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 585.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_B",
+            "fare": 1895.0,
+            "vat_percent": 15,
+            "vat_amount": 285
+        }
+    ]
+}

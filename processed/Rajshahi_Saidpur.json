@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "rajshahi",
+    "destination_city_name": "saidpur",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 255.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

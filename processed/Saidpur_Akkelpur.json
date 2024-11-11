@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "saidpur",
+    "destination_city_name": "akkelpur",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 115.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_S",
+            "fare": 220.0,
+            "vat_percent": 15,
+            "vat_amount": 33
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 185.0,
+            "vat_percent": 15,
+            "vat_amount": 28
+        },
+        {
+            "type": "AC_B",
+            "fare": 330.0,
+            "vat_percent": 15,
+            "vat_amount": 50
+        }
+    ]
+}

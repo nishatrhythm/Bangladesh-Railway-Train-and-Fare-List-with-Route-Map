@@ -1,0 +1,18 @@
+{
+    "origin_city_name": "bhanugach",
+    "destination_city_name": "sylhet",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 155.0,
+            "vat_percent": 15,
+            "vat_amount": 24
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 95.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

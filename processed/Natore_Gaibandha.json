@@ -1,0 +1,18 @@
+{
+    "origin_city_name": "natore",
+    "destination_city_name": "gaibandha",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 175.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 290.0,
+            "vat_percent": 15,
+            "vat_amount": 44
+        }
+    ]
+}

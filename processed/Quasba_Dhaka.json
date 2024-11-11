@@ -1,0 +1,18 @@
+{
+    "origin_city_name": "quasba",
+    "destination_city_name": "dhaka",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 315.0,
+            "vat_percent": 15,
+            "vat_amount": 48
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 190.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

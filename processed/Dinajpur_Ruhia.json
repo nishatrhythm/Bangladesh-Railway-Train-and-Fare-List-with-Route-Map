@@ -1,0 +1,36 @@
+{
+    "origin_city_name": "dinajpur",
+    "destination_city_name": "ruhia",
+    "info": [
+        {
+            "type": "AC_B",
+            "fare": 285.0,
+            "vat_percent": 15,
+            "vat_amount": 43
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 100.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 160.0,
+            "vat_percent": 15,
+            "vat_amount": 24
+        },
+        {
+            "type": "SHOVAN",
+            "fare": 80.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_S",
+            "fare": 195.0,
+            "vat_percent": 15,
+            "vat_amount": 30
+        }
+    ]
+}

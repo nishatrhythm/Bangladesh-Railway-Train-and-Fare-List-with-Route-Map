@@ -1,0 +1,18 @@
+{
+    "origin_city_name": "birampur",
+    "destination_city_name": "pirganj",
+    "info": [
+        {
+            "type": "AC_B",
+            "fare": 365.0,
+            "vat_percent": 15,
+            "vat_amount": 55
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 125.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

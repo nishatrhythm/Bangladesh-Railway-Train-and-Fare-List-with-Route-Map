@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "gouripur_myn",
+    "destination_city_name": "kishorganj",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 100.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

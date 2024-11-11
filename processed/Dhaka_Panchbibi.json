@@ -1,0 +1,24 @@
+{
+    "origin_city_name": "dhaka",
+    "destination_city_name": "panchbibi",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 795.0,
+            "vat_percent": 15,
+            "vat_amount": 120
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 480.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_S",
+            "fare": 955.0,
+            "vat_percent": 15,
+            "vat_amount": 144
+        }
+    ]
+}

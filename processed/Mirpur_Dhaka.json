@@ -1,0 +1,24 @@
+{
+    "origin_city_name": "mirpur",
+    "destination_city_name": "dhaka",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 435.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 695.0,
+            "vat_percent": 15,
+            "vat_amount": 105
+        },
+        {
+            "type": "AC_S",
+            "fare": 835.0,
+            "vat_percent": 15,
+            "vat_amount": 126
+        }
+    ]
+}

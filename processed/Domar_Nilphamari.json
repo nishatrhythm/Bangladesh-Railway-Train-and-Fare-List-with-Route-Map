@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "domar",
+    "destination_city_name": "nilphamari",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 50.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

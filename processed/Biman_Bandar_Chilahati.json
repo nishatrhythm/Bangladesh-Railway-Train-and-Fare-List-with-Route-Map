@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "biman_bandar",
+    "destination_city_name": "chilahati",
+    "info": [
+        {
+            "type": "AC_S",
+            "fare": 1235.0,
+            "vat_percent": 15,
+            "vat_amount": 186
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 1030.0,
+            "vat_percent": 15,
+            "vat_amount": 155
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 620.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_B",
+            "fare": 1850.0,
+            "vat_percent": 15,
+            "vat_amount": 278
+        }
+    ]
+}

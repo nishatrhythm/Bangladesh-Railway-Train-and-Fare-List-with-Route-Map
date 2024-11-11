@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "dinajpur",
+    "destination_city_name": "santahar",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 250.0,
+            "vat_percent": 15,
+            "vat_amount": 38
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 150.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_S",
+            "fare": 300.0,
+            "vat_percent": 15,
+            "vat_amount": 45
+        },
+        {
+            "type": "AC_B",
+            "fare": 450.0,
+            "vat_percent": 15,
+            "vat_amount": 68
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "sreemangal",
+    "destination_city_name": "feni",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 395.0,
+            "vat_percent": 15,
+            "vat_amount": 60
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 240.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_B",
+            "fare": 710.0,
+            "vat_percent": 15,
+            "vat_amount": 107
+        },
+        {
+            "type": "AC_S",
+            "fare": 475.0,
+            "vat_percent": 15,
+            "vat_amount": 72
+        }
+    ]
+}

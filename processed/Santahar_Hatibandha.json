@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "santahar",
+    "destination_city_name": "hatibandha",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 260.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

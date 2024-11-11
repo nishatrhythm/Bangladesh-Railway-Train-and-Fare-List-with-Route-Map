@@ -1,0 +1,36 @@
+{
+    "origin_city_name": "bhairab_bazar",
+    "destination_city_name": "sylhet",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 460.0,
+            "vat_percent": 15,
+            "vat_amount": 69
+        },
+        {
+            "type": "AC_B",
+            "fare": 825.0,
+            "vat_percent": 15,
+            "vat_amount": 124
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 275.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "F_SEAT",
+            "fare": 370.0,
+            "vat_percent": 15,
+            "vat_amount": 56
+        },
+        {
+            "type": "AC_S",
+            "fare": 550.0,
+            "vat_percent": 15,
+            "vat_amount": 83
+        }
+    ]
+}

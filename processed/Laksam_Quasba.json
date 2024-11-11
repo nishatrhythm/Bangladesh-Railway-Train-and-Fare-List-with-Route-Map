@@ -1,0 +1,18 @@
+{
+    "origin_city_name": "laksam",
+    "destination_city_name": "quasba",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 110.0,
+            "vat_percent": 15,
+            "vat_amount": 17
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 70.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

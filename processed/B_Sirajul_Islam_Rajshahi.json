@@ -1,0 +1,18 @@
+{
+    "origin_city_name": "b sirajul islam",
+    "destination_city_name": "rajshahi",
+    "info": [
+        {
+            "type": "AC_S",
+            "fare": 785.0,
+            "vat_percent": 15,
+            "vat_amount": 118
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 395.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

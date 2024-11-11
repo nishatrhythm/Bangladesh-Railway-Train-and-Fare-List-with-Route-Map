@@ -1,0 +1,42 @@
+{
+    "origin_city_name": "biman_bandar",
+    "destination_city_name": "bajitpur",
+    "info": [
+        {
+            "type": "F_SEAT",
+            "fare": 170.0,
+            "vat_percent": 15,
+            "vat_amount": 26
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 125.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "SHOVAN",
+            "fare": 105.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 210.0,
+            "vat_percent": 15,
+            "vat_amount": 32
+        },
+        {
+            "type": "AC_S",
+            "fare": 250.0,
+            "vat_percent": 15,
+            "vat_amount": 38
+        },
+        {
+            "type": "F_CHAIR",
+            "fare": 170.0,
+            "vat_percent": 15,
+            "vat_amount": 26
+        }
+    ]
+}

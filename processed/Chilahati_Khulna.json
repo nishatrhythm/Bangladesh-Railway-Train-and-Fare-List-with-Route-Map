@@ -1,0 +1,42 @@
+{
+    "origin_city_name": "chilahati",
+    "destination_city_name": "khulna",
+    "info": [
+        {
+            "type": "AC_S",
+            "fare": 1150.0,
+            "vat_percent": 15,
+            "vat_amount": 173
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 960.0,
+            "vat_percent": 15,
+            "vat_amount": 144
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 575.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "F_SEAT",
+            "fare": 765.0,
+            "vat_percent": 15,
+            "vat_amount": 115
+        },
+        {
+            "type": "AC_B",
+            "fare": 1720.0,
+            "vat_percent": 15,
+            "vat_amount": 258
+        },
+        {
+            "type": "F_BERTH",
+            "fare": 1150.0,
+            "vat_percent": 15,
+            "vat_amount": 173
+        }
+    ]
+}

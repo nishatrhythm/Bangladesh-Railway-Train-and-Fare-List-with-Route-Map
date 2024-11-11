@@ -1,0 +1,18 @@
+{
+    "origin_city_name": "rajshahi",
+    "destination_city_name": "madhnagar",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 90.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_B",
+            "fare": 265.0,
+            "vat_percent": 15,
+            "vat_amount": 40
+        }
+    ]
+}

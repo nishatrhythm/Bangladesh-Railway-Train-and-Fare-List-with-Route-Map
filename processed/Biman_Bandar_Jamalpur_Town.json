@@ -1,0 +1,42 @@
+{
+    "origin_city_name": "biman_bandar",
+    "destination_city_name": "jamalpur_town",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 350.0,
+            "vat_percent": 15,
+            "vat_amount": 53
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 210.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "F_SEAT",
+            "fare": 280.0,
+            "vat_percent": 15,
+            "vat_amount": 42
+        },
+        {
+            "type": "AC_S",
+            "fare": 415.0,
+            "vat_percent": 15,
+            "vat_amount": 63
+        },
+        {
+            "type": "F_CHAIR",
+            "fare": 280.0,
+            "vat_percent": 15,
+            "vat_amount": 42
+        },
+        {
+            "type": "SHOVAN",
+            "fare": 175.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

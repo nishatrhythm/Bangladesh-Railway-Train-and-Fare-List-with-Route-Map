@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bangladesh Railway Fare List</title>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <script>
+        function swapStations() {
+            const originInput = document.getElementById('origin');
+            const destinationInput = document.getElementById('destination');
+    
+            if (originInput && destinationInput) {
+                const tempValue = originInput.value;
+                originInput.value = destinationInput.value;
+                destinationInput.value = tempValue;
+            }
+        }
+
+        function validateForm() {
+            // Hide any previous error messages
+            document.querySelectorAll('.error-message').forEach(error => error.remove());
+
+            let isValid = true;
+
+            // Validate the origin field
+            const origin = document.getElementById('origin');
+            if (origin.value.trim() === "") {
+                showError(origin, "Please select an origin station.");
+                isValid = false;
+            }
+
+            // Validate the destination field
+            const destination = document.getElementById('destination');
+            if (destination.value.trim() === "") {
+                showError(destination, "Please select a destination station.");
+                isValid = false;
+            }
+
+            return isValid;
+        }
+
+        function showError(inputElement, message) {
+            const error = document.createElement('div');
+            error.className = 'error-message';
+            error.innerText = message;
+            inputElement.parentNode.appendChild(error);
+        }
+
+        function filterDropdown(inputId, dropdownId) {
+            const input = document.getElementById(inputId);
+            const filter = input.value.toLowerCase();
+            const dropdown = document.getElementById(dropdownId);
+            const options = dropdown.getElementsByTagName('div');
+
+            dropdown.style.display = filter ? "block" : "none";
+
+            for (let i = 0; i < options.length; i++) {
+                const textValue = options[i].textContent || options[i].innerText;
+                options[i].style.display = textValue.toLowerCase().includes(filter) ? "" : "none";
+            }
+        }
+
+        function selectOption(inputId, dropdownId, value) {
+            document.getElementById(inputId).value = value;
+            document.getElementById(dropdownId).style.display = "none";
+        }
+
+        function hideErrorMessage(inputId) {
+        const inputElement = document.getElementById(inputId);
+        const errorMessage = inputElement.parentNode.querySelector('.error-message');
+        
+        if (errorMessage) {
+            errorMessage.style.display = 'none'; // Hide the error message
+        }
+    }
+    </script>    
+</head>
+<body>
+    <div class="container">
+        <h1>
+            <img src="https://eticket.railway.gov.bd/assets/img/home/bangladesh-railway.png" alt="Bangladesh Railway Logo" class="railway-icon">
+            Bangladesh Railway Fare List
+        </h1>
+        <form method="POST" onsubmit="return validateForm()">
+            <div class="form-group">
+                <div class="form-element">
+                    <label for="origin">Origin Station</label>
+                    <input type="text" id="origin" name="origin" onkeyup="filterDropdown('origin', 'originDropdown')" oninput="hideErrorMessage('origin')" placeholder="Type or select an origin station" value="{{ selected_origin if selected_origin else '' }}" autocomplete="off">
+                    <div id="originDropdown" class="custom-dropdown">
+                        {% for station in stations %}
+                            <div onclick="selectOption('origin', 'originDropdown', '{{ station }}')">{{ station }}</div>
+                        {% endfor %}
+                    </div>
+                </div>
+                
+                <!-- Swap Icon -->
+                <div class="swap-icon" onclick="swapStations()" title="Swap stations">
+                    <i class="fas fa-exchange-alt"></i>
+                </div>
+                
+                <div class="form-element">
+                    <label for="destination">Destination Station</label>
+                    <input type="text" id="destination" name="destination" onkeyup="filterDropdown('destination', 'destinationDropdown')" oninput="hideErrorMessage('destination')" placeholder="Type or select a destination station" value="{{ selected_destination if selected_destination else '' }}" autocomplete="off">
+                    <div id="destinationDropdown" class="custom-dropdown">
+                        {% for station in stations %}
+                            <div onclick="selectOption('destination', 'destinationDropdown', '{{ station }}')">{{ station }}</div>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+            
+            <button type="submit" class="btn-search">Search</button>
+        </form>
+
+        <!-- Display the error message if present -->
+        {% if error %}
+            <p class="error">{{ error }}</p>
+        {% endif %}
+
+        {% if results %}
+        <h2 class="fare-list-heading">
+            Fare List for<br>
+            <span class="highlight-station">{{ results.origin }}</span> to <span class="highlight-station">{{ results.destination }}</span>
+        </h2>
+        
+            <div class="table-wrapper">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Seat Type</th>
+                            <th>Base Fare (BDT)</th>
+                            <th>VAT (15%) (BDT)</th>
+                            <th>Total Fare (BDT)</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for info in results.data['info'] %}
+                        <tr>
+                            <td>{{ info['type'] }}</td>
+                            <td>{{ "%.2f" | format(info['fare']) }}</td>
+                            <td>{{ "%.2f" | format(info['vat_amount']) }}</td>
+                            <td>{{ "%.2f" | format(info['fare'] + info['vat_amount']) }}</td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+            <p class="note">
+                <strong>Note:</strong> An extra <span class="highlight">BDT 20</span> online payment charge applies. Total fare includes <span class="highlight">BDT 50</span> bedding charges per seat for <strong>AC_B</strong> and <strong>F_BERTH</strong> seat classes.
+            </p>
+        {% endif %}
+
+        <!-- Footer -->
+        <footer class="footer">
+            <p><strong>This project is open source.</strong> Check it out on <a href="https://github.com/your-repo-link" target="_blank">GitHub</a>.</p>
+        </footer>
+    </div>
+</body>
+</html>

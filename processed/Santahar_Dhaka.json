@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "santahar",
+    "destination_city_name": "dhaka",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 710.0,
+            "vat_percent": 15,
+            "vat_amount": 107
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 430.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_B",
+            "fare": 1280.0,
+            "vat_percent": 15,
+            "vat_amount": 192
+        },
+        {
+            "type": "AC_S",
+            "fare": 855.0,
+            "vat_percent": 15,
+            "vat_amount": 129
+        }
+    ]
+}

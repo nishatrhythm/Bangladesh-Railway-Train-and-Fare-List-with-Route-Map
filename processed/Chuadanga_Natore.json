@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "chuadanga",
+    "destination_city_name": "natore",
+    "info": [
+        {
+            "type": "AC_S",
+            "fare": 340.0,
+            "vat_percent": 15,
+            "vat_amount": 51
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 285.0,
+            "vat_percent": 15,
+            "vat_amount": 43
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 170.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_B",
+            "fare": 510.0,
+            "vat_percent": 15,
+            "vat_amount": 77
+        }
+    ]
+}

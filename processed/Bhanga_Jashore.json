@@ -1,0 +1,18 @@
+{
+    "origin_city_name": "bhanga",
+    "destination_city_name": "jashore",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 295.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 490.0,
+            "vat_percent": 15,
+            "vat_amount": 74
+        }
+    ]
+}

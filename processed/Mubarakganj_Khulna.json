@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "mubarakganj",
+    "destination_city_name": "khulna",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 170.0,
+            "vat_percent": 15,
+            "vat_amount": 26
+        },
+        {
+            "type": "AC_B",
+            "fare": 305.0,
+            "vat_percent": 15,
+            "vat_amount": 46
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 105.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_S",
+            "fare": 205.0,
+            "vat_percent": 15,
+            "vat_amount": 31
+        }
+    ]
+}

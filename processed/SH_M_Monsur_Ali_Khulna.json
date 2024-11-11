@@ -1,0 +1,24 @@
+{
+    "origin_city_name": "sh m monsur ali",
+    "destination_city_name": "khulna",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 635.0,
+            "vat_percent": 15,
+            "vat_amount": 96
+        },
+        {
+            "type": "AC_B",
+            "fare": 1140.0,
+            "vat_percent": 15,
+            "vat_amount": 171
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 380.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "origin_city_name": "chattogram",
+    "destination_city_name": "sholoshohor",
+    "info": [
+        {
+            "type": "SHOVAN",
+            "fare": 45.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 50.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

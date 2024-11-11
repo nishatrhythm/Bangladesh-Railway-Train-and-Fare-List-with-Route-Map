@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "shaistaganj",
+    "destination_city_name": "laksam",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 260.0,
+            "vat_percent": 15,
+            "vat_amount": 39
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 155.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_B",
+            "fare": 460.0,
+            "vat_percent": 15,
+            "vat_amount": 69
+        },
+        {
+            "type": "AC_S",
+            "fare": 310.0,
+            "vat_percent": 15,
+            "vat_amount": 47
+        }
+    ]
+}

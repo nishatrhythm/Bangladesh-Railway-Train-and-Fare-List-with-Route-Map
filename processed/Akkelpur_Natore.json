@@ -1,0 +1,18 @@
+{
+    "origin_city_name": "akkelpur",
+    "destination_city_name": "natore",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 75.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_S",
+            "fare": 150.0,
+            "vat_percent": 15,
+            "vat_amount": 23
+        }
+    ]
+}

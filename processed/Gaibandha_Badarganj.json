@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "gaibandha",
+    "destination_city_name": "badarganj",
+    "info": [
+        {
+            "type": "SHOVAN",
+            "fare": 95.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

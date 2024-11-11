@@ -1,0 +1,24 @@
+{
+    "origin_city_name": "dhaka",
+    "destination_city_name": "sardah_road",
+    "info": [
+        {
+            "type": "AC_B",
+            "fare": 1205.0,
+            "vat_percent": 15,
+            "vat_amount": 181
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 670.0,
+            "vat_percent": 15,
+            "vat_amount": 101
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 405.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

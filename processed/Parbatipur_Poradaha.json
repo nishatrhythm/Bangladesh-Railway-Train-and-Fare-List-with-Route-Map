@@ -1,0 +1,24 @@
+{
+    "origin_city_name": "parbatipur",
+    "destination_city_name": "poradaha",
+    "info": [
+        {
+            "type": "AC_S",
+            "fare": 590.0,
+            "vat_percent": 15,
+            "vat_amount": 89
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 495.0,
+            "vat_percent": 15,
+            "vat_amount": 75
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 295.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

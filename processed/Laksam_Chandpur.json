@@ -1,0 +1,18 @@
+{
+    "origin_city_name": "laksam",
+    "destination_city_name": "chandpur",
+    "info": [
+        {
+            "type": "SHOVAN",
+            "fare": 55.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "F_CHAIR",
+            "fare": 90.0,
+            "vat_percent": 15,
+            "vat_amount": 14
+        }
+    ]
+}

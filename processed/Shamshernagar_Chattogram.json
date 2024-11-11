@@ -1,0 +1,24 @@
+{
+    "origin_city_name": "shamshernagar",
+    "destination_city_name": "chattogram",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 610.0,
+            "vat_percent": 15,
+            "vat_amount": 92
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 370.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_S",
+            "fare": 735.0,
+            "vat_percent": 15,
+            "vat_amount": 111
+        }
+    ]
+}

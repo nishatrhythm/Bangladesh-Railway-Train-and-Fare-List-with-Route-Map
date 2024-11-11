@@ -1,0 +1,24 @@
+{
+    "origin_city_name": "kotchandpur",
+    "destination_city_name": "santahar",
+    "info": [
+        {
+            "type": "AC_S",
+            "fare": 535.0,
+            "vat_percent": 15,
+            "vat_amount": 81
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 445.0,
+            "vat_percent": 15,
+            "vat_amount": 67
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 270.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "kulaura",
+    "destination_city_name": "maijgaon",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 60.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

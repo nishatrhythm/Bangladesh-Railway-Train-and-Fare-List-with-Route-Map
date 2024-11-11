@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "chattogram",
+    "destination_city_name": "sreemangal",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 575.0,
+            "vat_percent": 15,
+            "vat_amount": 87
+        },
+        {
+            "type": "AC_S",
+            "fare": 690.0,
+            "vat_percent": 15,
+            "vat_amount": 104
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 345.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_B",
+            "fare": 1030.0,
+            "vat_percent": 15,
+            "vat_amount": 155
+        }
+    ]
+}

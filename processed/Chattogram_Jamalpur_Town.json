@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "chattogram",
+    "destination_city_name": "jamalpur_town",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 875.0,
+            "vat_percent": 15,
+            "vat_amount": 132
+        },
+        {
+            "type": "AC_S",
+            "fare": 1050.0,
+            "vat_percent": 15,
+            "vat_amount": 158
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 525.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "F_SEAT",
+            "fare": 700.0,
+            "vat_percent": 15,
+            "vat_amount": 105
+        }
+    ]
+}

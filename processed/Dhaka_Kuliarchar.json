@@ -1,0 +1,42 @@
+{
+    "origin_city_name": "dhaka",
+    "destination_city_name": "kuliarchar",
+    "info": [
+        {
+            "type": "F_SEAT",
+            "fare": 160.0,
+            "vat_percent": 15,
+            "vat_amount": 24
+        },
+        {
+            "type": "F_CHAIR",
+            "fare": 160.0,
+            "vat_percent": 15,
+            "vat_amount": 24
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 120.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "SHOVAN",
+            "fare": 100.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 200.0,
+            "vat_percent": 15,
+            "vat_amount": 30
+        },
+        {
+            "type": "AC_S",
+            "fare": 240.0,
+            "vat_percent": 15,
+            "vat_amount": 36
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "abdulpur",
+    "destination_city_name": "akkelpur",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 95.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

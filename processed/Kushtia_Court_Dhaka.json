@@ -1,0 +1,36 @@
+{
+    "origin_city_name": "kushtia_court",
+    "destination_city_name": "dhaka",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 410.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_B",
+            "fare": 1230.0,
+            "vat_percent": 15,
+            "vat_amount": 185
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 685.0,
+            "vat_percent": 15,
+            "vat_amount": 103
+        },
+        {
+            "type": "F_SEAT",
+            "fare": 550.0,
+            "vat_percent": 15,
+            "vat_amount": 83
+        },
+        {
+            "type": "AC_S",
+            "fare": 820.0,
+            "vat_percent": 15,
+            "vat_amount": 123
+        }
+    ]
+}

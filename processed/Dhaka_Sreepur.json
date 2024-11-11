@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "dhaka",
+    "destination_city_name": "sreepur",
+    "info": [
+        {
+            "type": "SHOVAN",
+            "fare": 60.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

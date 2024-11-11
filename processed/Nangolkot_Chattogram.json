@@ -1,0 +1,42 @@
+{
+    "origin_city_name": "nangolkot",
+    "destination_city_name": "chattogram",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 235.0,
+            "vat_percent": 15,
+            "vat_amount": 36
+        },
+        {
+            "type": "AC_B",
+            "fare": 420.0,
+            "vat_percent": 15,
+            "vat_amount": 63
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 140.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "F_SEAT",
+            "fare": 190.0,
+            "vat_percent": 15,
+            "vat_amount": 29
+        },
+        {
+            "type": "SHOVAN",
+            "fare": 120.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "F_CHAIR",
+            "fare": 190.0,
+            "vat_percent": 15,
+            "vat_amount": 29
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "origin_city_name": "rajshahi",
+    "destination_city_name": "tangail",
+    "info": [
+        {
+            "type": "AC_S",
+            "fare": 580.0,
+            "vat_percent": 15,
+            "vat_amount": 87
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 480.0,
+            "vat_percent": 15,
+            "vat_amount": 72
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 290.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

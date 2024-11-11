@@ -1,0 +1,24 @@
+{
+    "origin_city_name": "bbsetu_e",
+    "destination_city_name": "b sirajul islam",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 925.0,
+            "vat_percent": 15,
+            "vat_amount": 139
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 555.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_S",
+            "fare": 1110.0,
+            "vat_percent": 15,
+            "vat_amount": 167
+        }
+    ]
+}

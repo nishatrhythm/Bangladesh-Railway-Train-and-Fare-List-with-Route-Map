@@ -1,0 +1,42 @@
+{
+    "origin_city_name": "narsingdi",
+    "destination_city_name": "kishorganj",
+    "info": [
+        {
+            "type": "F_SEAT",
+            "fare": 125.0,
+            "vat_percent": 15,
+            "vat_amount": 19
+        },
+        {
+            "type": "F_CHAIR",
+            "fare": 125.0,
+            "vat_percent": 15,
+            "vat_amount": 19
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 95.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "SHOVAN",
+            "fare": 80.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 160.0,
+            "vat_percent": 15,
+            "vat_amount": 24
+        },
+        {
+            "type": "AC_S",
+            "fare": 190.0,
+            "vat_percent": 15,
+            "vat_amount": 29
+        }
+    ]
+}

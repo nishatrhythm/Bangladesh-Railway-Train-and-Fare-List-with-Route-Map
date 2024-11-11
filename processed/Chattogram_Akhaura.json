@@ -1,0 +1,42 @@
+{
+    "origin_city_name": "chattogram",
+    "destination_city_name": "akhaura",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 240.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 400.0,
+            "vat_percent": 15,
+            "vat_amount": 60
+        },
+        {
+            "type": "AC_S",
+            "fare": 480.0,
+            "vat_percent": 15,
+            "vat_amount": 72
+        },
+        {
+            "type": "F_SEAT",
+            "fare": 320.0,
+            "vat_percent": 15,
+            "vat_amount": 48
+        },
+        {
+            "type": "AC_B",
+            "fare": 720.0,
+            "vat_percent": 15,
+            "vat_amount": 108
+        },
+        {
+            "type": "F_BERTH",
+            "fare": 480.0,
+            "vat_percent": 15,
+            "vat_amount": 72
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "akkelpur",
+    "destination_city_name": "chilahati",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 175.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_S",
+            "fare": 345.0,
+            "vat_percent": 15,
+            "vat_amount": 52
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 290.0,
+            "vat_percent": 15,
+            "vat_amount": 44
+        },
+        {
+            "type": "AC_B",
+            "fare": 520.0,
+            "vat_percent": 15,
+            "vat_amount": 78
+        }
+    ]
+}

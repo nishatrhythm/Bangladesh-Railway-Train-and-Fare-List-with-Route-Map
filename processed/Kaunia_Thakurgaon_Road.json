@@ -1,0 +1,18 @@
+{
+    "origin_city_name": "kaunia",
+    "destination_city_name": "thakurgaon_road",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 180.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "SHOVAN",
+            "fare": 150.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

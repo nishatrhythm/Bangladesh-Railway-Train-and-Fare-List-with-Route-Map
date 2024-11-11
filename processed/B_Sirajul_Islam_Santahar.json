@@ -1,0 +1,42 @@
+{
+    "origin_city_name": "b sirajul islam",
+    "destination_city_name": "santahar",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 405.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "SHOVAN",
+            "fare": 340.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "F_SEAT",
+            "fare": 540.0,
+            "vat_percent": 15,
+            "vat_amount": 81
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 450.0,
+            "vat_percent": 15,
+            "vat_amount": 68
+        },
+        {
+            "type": "AC_S",
+            "fare": 540.0,
+            "vat_percent": 15,
+            "vat_amount": 81
+        },
+        {
+            "type": "AC_B",
+            "fare": 805.0,
+            "vat_percent": 15,
+            "vat_amount": 121
+        }
+    ]
+}

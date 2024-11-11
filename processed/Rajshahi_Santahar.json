@@ -1,0 +1,18 @@
+{
+    "origin_city_name": "rajshahi",
+    "destination_city_name": "santahar",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 125.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_B",
+            "fare": 365.0,
+            "vat_percent": 15,
+            "vat_amount": 55
+        }
+    ]
+}

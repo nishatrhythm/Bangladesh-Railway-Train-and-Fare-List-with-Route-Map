@@ -1,0 +1,18 @@
+{
+    "origin_city_name": "rajshahi",
+    "destination_city_name": "shibganj",
+    "info": [
+        {
+            "type": "AC_B",
+            "fare": 875.0,
+            "vat_percent": 15,
+            "vat_amount": 132
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 340.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

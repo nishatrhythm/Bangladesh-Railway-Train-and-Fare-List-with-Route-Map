@@ -1,0 +1,42 @@
+{
+    "origin_city_name": "chattogram",
+    "destination_city_name": "bhairab_bazar",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 310.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 510.0,
+            "vat_percent": 15,
+            "vat_amount": 77
+        },
+        {
+            "type": "AC_S",
+            "fare": 615.0,
+            "vat_percent": 15,
+            "vat_amount": 93
+        },
+        {
+            "type": "F_SEAT",
+            "fare": 410.0,
+            "vat_percent": 15,
+            "vat_amount": 62
+        },
+        {
+            "type": "AC_B",
+            "fare": 920.0,
+            "vat_percent": 15,
+            "vat_amount": 138
+        },
+        {
+            "type": "F_BERTH",
+            "fare": 615.0,
+            "vat_percent": 15,
+            "vat_amount": 93
+        }
+    ]
+}

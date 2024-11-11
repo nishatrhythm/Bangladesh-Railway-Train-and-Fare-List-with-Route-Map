@@ -1,0 +1,24 @@
+{
+    "origin_city_name": "bheramara",
+    "destination_city_name": "darshana_halt",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 80.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_S",
+            "fare": 155.0,
+            "vat_percent": 15,
+            "vat_amount": 24
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 130.0,
+            "vat_percent": 15,
+            "vat_amount": 20
+        }
+    ]
+}

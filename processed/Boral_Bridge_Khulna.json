@@ -1,0 +1,24 @@
+{
+    "origin_city_name": "boral_bridge",
+    "destination_city_name": "khulna",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 555.0,
+            "vat_percent": 15,
+            "vat_amount": 84
+        },
+        {
+            "type": "AC_B",
+            "fare": 1000.0,
+            "vat_percent": 15,
+            "vat_amount": 150
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 335.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

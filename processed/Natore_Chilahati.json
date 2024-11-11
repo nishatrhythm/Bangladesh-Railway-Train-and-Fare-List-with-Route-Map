@@ -1,0 +1,36 @@
+{
+    "origin_city_name": "natore",
+    "destination_city_name": "chilahati",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 250.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_S",
+            "fare": 495.0,
+            "vat_percent": 15,
+            "vat_amount": 75
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 410.0,
+            "vat_percent": 15,
+            "vat_amount": 62
+        },
+        {
+            "type": "F_SEAT",
+            "fare": 330.0,
+            "vat_percent": 15,
+            "vat_amount": 50
+        },
+        {
+            "type": "AC_B",
+            "fare": 740.0,
+            "vat_percent": 15,
+            "vat_amount": 111
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "sh m monsur ali",
+    "destination_city_name": "bbsetu_e",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 115.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 190.0,
+            "vat_percent": 15,
+            "vat_amount": 29
+        },
+        {
+            "type": "AC_B",
+            "fare": 335.0,
+            "vat_percent": 15,
+            "vat_amount": 51
+        },
+        {
+            "type": "AC_S",
+            "fare": 225.0,
+            "vat_percent": 15,
+            "vat_amount": 34
+        }
+    ]
+}

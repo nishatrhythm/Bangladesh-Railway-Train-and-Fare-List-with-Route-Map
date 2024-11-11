@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "rohanpur",
+    "destination_city_name": "sardah_road",
+    "info": [
+        {
+            "type": "SHOVAN",
+            "fare": 80.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

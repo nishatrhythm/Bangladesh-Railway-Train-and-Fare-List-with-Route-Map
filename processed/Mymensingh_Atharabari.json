@@ -1,0 +1,18 @@
+{
+    "origin_city_name": "mymensingh",
+    "destination_city_name": "atharabari",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 115.0,
+            "vat_percent": 15,
+            "vat_amount": 18
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 70.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

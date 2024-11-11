@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "melandah_bazar",
+    "destination_city_name": "biman_bandar",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 370.0,
+            "vat_percent": 15,
+            "vat_amount": 56
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 225.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_S",
+            "fare": 445.0,
+            "vat_percent": 15,
+            "vat_amount": 67
+        },
+        {
+            "type": "F_SEAT",
+            "fare": 295.0,
+            "vat_percent": 15,
+            "vat_amount": 45
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "origin_city_name": "parbatipur",
+    "destination_city_name": "khulna",
+    "info": [
+        {
+            "type": "AC_S",
+            "fare": 985.0,
+            "vat_percent": 15,
+            "vat_amount": 148
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 820.0,
+            "vat_percent": 15,
+            "vat_amount": 123
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 495.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_B",
+            "fare": 1475.0,
+            "vat_percent": 15,
+            "vat_amount": 222
+        },
+        {
+            "type": "F_BERTH",
+            "fare": 985.0,
+            "vat_percent": 15,
+            "vat_amount": 148
+        }
+    ]
+}

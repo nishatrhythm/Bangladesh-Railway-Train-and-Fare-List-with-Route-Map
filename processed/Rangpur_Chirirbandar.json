@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "rangpur",
+    "destination_city_name": "chirirbandar",
+    "info": [
+        {
+            "type": "SHOVAN",
+            "fare": 55.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

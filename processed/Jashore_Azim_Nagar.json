@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "jashore",
+    "destination_city_name": "azim nagar",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 240.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

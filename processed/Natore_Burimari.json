@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "natore",
+    "destination_city_name": "burimari",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 355.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

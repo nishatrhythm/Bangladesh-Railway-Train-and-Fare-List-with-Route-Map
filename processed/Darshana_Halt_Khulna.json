@@ -1,0 +1,36 @@
+{
+    "origin_city_name": "darshana_halt",
+    "destination_city_name": "khulna",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 150.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_S",
+            "fare": 295.0,
+            "vat_percent": 15,
+            "vat_amount": 45
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 245.0,
+            "vat_percent": 15,
+            "vat_amount": 37
+        },
+        {
+            "type": "F_SEAT",
+            "fare": 195.0,
+            "vat_percent": 15,
+            "vat_amount": 30
+        },
+        {
+            "type": "AC_B",
+            "fare": 440.0,
+            "vat_percent": 15,
+            "vat_amount": 66
+        }
+    ]
+}

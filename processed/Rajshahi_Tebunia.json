@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "rajshahi",
+    "destination_city_name": "tebunia",
+    "info": [
+        {
+            "type": "SHOVAN",
+            "fare": 75.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

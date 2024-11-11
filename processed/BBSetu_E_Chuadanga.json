@@ -1,0 +1,18 @@
+{
+    "origin_city_name": "bbsetu_e",
+    "destination_city_name": "chuadanga",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 550.0,
+            "vat_percent": 15,
+            "vat_amount": 83
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 330.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

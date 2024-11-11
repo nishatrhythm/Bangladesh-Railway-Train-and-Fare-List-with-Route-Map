@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "alamdanga",
+    "destination_city_name": "khulna",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 305.0,
+            "vat_percent": 15,
+            "vat_amount": 46
+        },
+        {
+            "type": "AC_B",
+            "fare": 545.0,
+            "vat_percent": 15,
+            "vat_amount": 82
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 185.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_S",
+            "fare": 365.0,
+            "vat_percent": 15,
+            "vat_amount": 55
+        }
+    ]
+}

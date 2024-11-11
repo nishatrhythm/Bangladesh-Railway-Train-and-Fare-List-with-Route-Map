@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "feni",
+    "destination_city_name": "shaistaganj",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 335.0,
+            "vat_percent": 15,
+            "vat_amount": 51
+        },
+        {
+            "type": "AC_S",
+            "fare": 405.0,
+            "vat_percent": 15,
+            "vat_amount": 61
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 205.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_B",
+            "fare": 605.0,
+            "vat_percent": 15,
+            "vat_amount": 91
+        }
+    ]
+}

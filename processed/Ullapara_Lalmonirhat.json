@@ -1,0 +1,24 @@
+{
+    "origin_city_name": "ullapara",
+    "destination_city_name": "lalmonirhat",
+    "info": [
+        {
+            "type": "AC_B",
+            "fare": 1075.0,
+            "vat_percent": 15,
+            "vat_amount": 162
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 595.0,
+            "vat_percent": 15,
+            "vat_amount": 90
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 360.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

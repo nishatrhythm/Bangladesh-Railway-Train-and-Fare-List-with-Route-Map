@@ -1,0 +1,24 @@
+{
+    "origin_city_name": "ullapara",
+    "destination_city_name": "chuadanga",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 325.0,
+            "vat_percent": 15,
+            "vat_amount": 49
+        },
+        {
+            "type": "AC_B",
+            "fare": 585.0,
+            "vat_percent": 15,
+            "vat_amount": 88
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 195.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

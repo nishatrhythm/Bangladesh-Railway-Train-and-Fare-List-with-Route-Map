@@ -1,0 +1,24 @@
+{
+    "origin_city_name": "darshana_halt",
+    "destination_city_name": "dhaka",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 810.0,
+            "vat_percent": 15,
+            "vat_amount": 122
+        },
+        {
+            "type": "AC_S",
+            "fare": 970.0,
+            "vat_percent": 15,
+            "vat_amount": 146
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 485.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

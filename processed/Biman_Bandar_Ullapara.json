@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "biman_bandar",
+    "destination_city_name": "ullapara",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 275.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 455.0,
+            "vat_percent": 15,
+            "vat_amount": 69
+        },
+        {
+            "type": "AC_S",
+            "fare": 545.0,
+            "vat_percent": 15,
+            "vat_amount": 82
+        },
+        {
+            "type": "AC_B",
+            "fare": 815.0,
+            "vat_percent": 15,
+            "vat_amount": 123
+        }
+    ]
+}

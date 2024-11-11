@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "saidpur",
+    "destination_city_name": "panchbibi",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 80.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

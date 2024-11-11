@@ -1,0 +1,24 @@
+{
+    "origin_city_name": "rajbari",
+    "destination_city_name": "rajshahi",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 245.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "F_SEAT",
+            "fare": 325.0,
+            "vat_percent": 15,
+            "vat_amount": 49
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 405.0,
+            "vat_percent": 15,
+            "vat_amount": 61
+        }
+    ]
+}

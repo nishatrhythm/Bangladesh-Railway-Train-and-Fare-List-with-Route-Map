@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "akhaura",
+    "destination_city_name": "laksam",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 145.0,
+            "vat_percent": 15,
+            "vat_amount": 22
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 90.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_B",
+            "fare": 260.0,
+            "vat_percent": 15,
+            "vat_amount": 39
+        },
+        {
+            "type": "AC_S",
+            "fare": 175.0,
+            "vat_percent": 15,
+            "vat_amount": 27
+        }
+    ]
+}

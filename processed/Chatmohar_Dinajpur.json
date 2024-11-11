@@ -1,0 +1,18 @@
+{
+    "origin_city_name": "chatmohar",
+    "destination_city_name": "dinajpur",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 445.0,
+            "vat_percent": 15,
+            "vat_amount": 67
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 265.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

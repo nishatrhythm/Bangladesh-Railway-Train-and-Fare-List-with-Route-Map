@@ -1,0 +1,24 @@
+{
+    "origin_city_name": "faridpur",
+    "destination_city_name": "poradaha",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 125.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 205.0,
+            "vat_percent": 15,
+            "vat_amount": 31
+        },
+        {
+            "type": "AC_S",
+            "fare": 245.0,
+            "vat_percent": 15,
+            "vat_amount": 37
+        }
+    ]
+}

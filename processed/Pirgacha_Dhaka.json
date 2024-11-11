@@ -1,0 +1,24 @@
+{
+    "origin_city_name": "pirgacha",
+    "destination_city_name": "dhaka",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 990.0,
+            "vat_percent": 15,
+            "vat_amount": 149
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 595.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_B",
+            "fare": 1780.0,
+            "vat_percent": 15,
+            "vat_amount": 267
+        }
+    ]
+}

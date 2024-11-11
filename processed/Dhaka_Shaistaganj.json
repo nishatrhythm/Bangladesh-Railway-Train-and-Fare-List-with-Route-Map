@@ -1,0 +1,36 @@
+{
+    "origin_city_name": "dhaka",
+    "destination_city_name": "shaistaganj",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 395.0,
+            "vat_percent": 15,
+            "vat_amount": 60
+        },
+        {
+            "type": "AC_S",
+            "fare": 470.0,
+            "vat_percent": 15,
+            "vat_amount": 71
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 235.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_B",
+            "fare": 705.0,
+            "vat_percent": 15,
+            "vat_amount": 106
+        },
+        {
+            "type": "F_SEAT",
+            "fare": 315.0,
+            "vat_percent": 15,
+            "vat_amount": 48
+        }
+    ]
+}

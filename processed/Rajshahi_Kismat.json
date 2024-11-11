@@ -1,0 +1,18 @@
+{
+    "origin_city_name": "rajshahi",
+    "destination_city_name": "kismat",
+    "info": [
+        {
+            "type": "AC_B",
+            "fare": 995.0,
+            "vat_percent": 15,
+            "vat_amount": 150
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 395.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

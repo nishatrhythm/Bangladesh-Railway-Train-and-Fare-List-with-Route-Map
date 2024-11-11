@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "b sirajul islam",
+    "destination_city_name": "natore",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 535.0,
+            "vat_percent": 15,
+            "vat_amount": 81
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 325.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_S",
+            "fare": 645.0,
+            "vat_percent": 15,
+            "vat_amount": 97
+        },
+        {
+            "type": "AC_B",
+            "fare": 965.0,
+            "vat_percent": 15,
+            "vat_amount": 145
+        }
+    ]
+}

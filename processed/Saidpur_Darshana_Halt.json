@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "saidpur",
+    "destination_city_name": "darshana_halt",
+    "info": [
+        {
+            "type": "AC_S",
+            "fare": 735.0,
+            "vat_percent": 15,
+            "vat_amount": 111
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 615.0,
+            "vat_percent": 15,
+            "vat_amount": 93
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 370.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_B",
+            "fare": 1100.0,
+            "vat_percent": 15,
+            "vat_amount": 165
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "origin_city_name": "sylhet",
+    "destination_city_name": "mukundapur",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 325.0,
+            "vat_percent": 15,
+            "vat_amount": 49
+        },
+        {
+            "type": "AC_S",
+            "fare": 390.0,
+            "vat_percent": 15,
+            "vat_amount": 59
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 195.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

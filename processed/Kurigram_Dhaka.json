@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "kurigram",
+    "destination_city_name": "dhaka",
+    "info": [
+        {
+            "type": "AC_S",
+            "fare": 1275.0,
+            "vat_percent": 15,
+            "vat_amount": 192
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 1065.0,
+            "vat_percent": 15,
+            "vat_amount": 160
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 640.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_B",
+            "fare": 1930.0,
+            "vat_percent": 15,
+            "vat_amount": 290
+        }
+    ]
+}

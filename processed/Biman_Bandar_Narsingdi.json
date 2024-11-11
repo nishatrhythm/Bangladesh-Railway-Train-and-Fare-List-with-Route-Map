@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "biman_bandar",
+    "destination_city_name": "narsingdi",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 70.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "origin_city_name": "netrakona",
+    "destination_city_name": "dhaka",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 215.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "SHOVAN",
+            "fare": 180.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "F_SEAT",
+            "fare": 290.0,
+            "vat_percent": 15,
+            "vat_amount": 44
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 360.0,
+            "vat_percent": 15,
+            "vat_amount": 54
+        },
+        {
+            "type": "AC_B",
+            "fare": 645.0,
+            "vat_percent": 15,
+            "vat_amount": 97
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "thakurgaon_road",
+    "destination_city_name": "panchbibi",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 175.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

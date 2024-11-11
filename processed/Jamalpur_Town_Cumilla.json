@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "jamalpur_town",
+    "destination_city_name": "cumilla",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 345.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

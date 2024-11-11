@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "saidpur",
+    "destination_city_name": "ishwardi",
+    "info": [
+        {
+            "type": "AC_S",
+            "fare": 445.0,
+            "vat_percent": 15,
+            "vat_amount": 67
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 375.0,
+            "vat_percent": 15,
+            "vat_amount": 57
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 225.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_B",
+            "fare": 670.0,
+            "vat_percent": 15,
+            "vat_amount": 101
+        }
+    ]
+}

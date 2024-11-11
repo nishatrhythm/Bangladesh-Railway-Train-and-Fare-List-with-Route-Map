@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "bbsetu_e",
+    "destination_city_name": "santahar",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 290.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

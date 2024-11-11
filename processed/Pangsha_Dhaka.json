@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "pangsha",
+    "destination_city_name": "dhaka",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 370.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_B",
+            "fare": 1110.0,
+            "vat_percent": 15,
+            "vat_amount": 167
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 620.0,
+            "vat_percent": 15,
+            "vat_amount": 93
+        },
+        {
+            "type": "F_SEAT",
+            "fare": 495.0,
+            "vat_percent": 15,
+            "vat_amount": 75
+        }
+    ]
+}

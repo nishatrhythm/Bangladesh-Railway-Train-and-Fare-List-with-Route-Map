@@ -1,0 +1,18 @@
+{
+    "origin_city_name": "joydebpur",
+    "destination_city_name": "jashore",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 870.0,
+            "vat_percent": 15,
+            "vat_amount": 131
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 525.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

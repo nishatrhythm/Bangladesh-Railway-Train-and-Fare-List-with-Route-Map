@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "jashore",
+    "destination_city_name": "joypurhat",
+    "info": [
+        {
+            "type": "AC_S",
+            "fare": 710.0,
+            "vat_percent": 15,
+            "vat_amount": 107
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 595.0,
+            "vat_percent": 15,
+            "vat_amount": 90
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 355.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_B",
+            "fare": 1065.0,
+            "vat_percent": 15,
+            "vat_amount": 160
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "coxs bazar",
+    "destination_city_name": "dhaka",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 1152.0,
+            "vat_percent": 15,
+            "vat_amount": 173
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 695.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_B",
+            "fare": 2069.0,
+            "vat_percent": 15,
+            "vat_amount": 311
+        },
+        {
+            "type": "AC_S",
+            "fare": 1382.0,
+            "vat_percent": 15,
+            "vat_amount": 208
+        }
+    ]
+}

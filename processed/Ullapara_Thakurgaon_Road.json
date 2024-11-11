@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "ullapara",
+    "destination_city_name": "thakurgaon_road",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 380.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

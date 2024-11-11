@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "bhairab_bazar",
+    "destination_city_name": "manikkhali",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 50.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

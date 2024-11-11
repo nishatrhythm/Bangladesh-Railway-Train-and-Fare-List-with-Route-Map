@@ -1,0 +1,36 @@
+{
+    "origin_city_name": "bhanugach",
+    "destination_city_name": "biman_bandar",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 475.0,
+            "vat_percent": 15,
+            "vat_amount": 72
+        },
+        {
+            "type": "AC_S",
+            "fare": 570.0,
+            "vat_percent": 15,
+            "vat_amount": 86
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 285.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_B",
+            "fare": 850.0,
+            "vat_percent": 15,
+            "vat_amount": 128
+        },
+        {
+            "type": "F_SEAT",
+            "fare": 380.0,
+            "vat_percent": 15,
+            "vat_amount": 57
+        }
+    ]
+}

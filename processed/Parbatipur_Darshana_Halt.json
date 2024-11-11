@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "parbatipur",
+    "destination_city_name": "darshana_halt",
+    "info": [
+        {
+            "type": "AC_S",
+            "fare": 700.0,
+            "vat_percent": 15,
+            "vat_amount": 105
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 585.0,
+            "vat_percent": 15,
+            "vat_amount": 88
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 350.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_B",
+            "fare": 1050.0,
+            "vat_percent": 15,
+            "vat_amount": 158
+        }
+    ]
+}

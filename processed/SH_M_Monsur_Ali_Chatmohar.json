@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "sh m monsur ali",
+    "destination_city_name": "chatmohar",
+    "info": [
+        {
+            "type": "AC_B",
+            "fare": 180.0,
+            "vat_percent": 15,
+            "vat_amount": 27
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 100.0,
+            "vat_percent": 15,
+            "vat_amount": 15
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 60.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_S",
+            "fare": 120.0,
+            "vat_percent": 15,
+            "vat_amount": 18
+        }
+    ]
+}
