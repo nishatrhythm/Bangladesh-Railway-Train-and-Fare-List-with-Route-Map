@@ -20,19 +20,16 @@
         }
 
         function validateForm() {
-            // Hide any previous error messages
             document.querySelectorAll('.error-message').forEach(error => error.remove());
 
             let isValid = true;
 
-            // Validate the origin field
             const origin = document.getElementById('origin');
             if (origin.value.trim() === "") {
                 showError(origin, "Please select an origin station.");
                 isValid = false;
             }
 
-            // Validate the destination field
             const destination = document.getElementById('destination');
             if (destination.value.trim() === "") {
                 showError(destination, "Please select a destination station.");
@@ -75,12 +72,11 @@
         function hideErrorMessage(inputId) {
             const inputElement = document.getElementById(inputId);
             const errorMessage = inputElement.parentNode.querySelector('.error-message');
-        
             if (errorMessage) {
-                errorMessage.style.display = 'none'; // Hide the error message
+                errorMessage.style.display = 'none';
             }
         }
-    </script>
+    </script>    
 </head>
 <body>
     <div class="container">
@@ -88,12 +84,6 @@
             <img src="https://eticket.railway.gov.bd/assets/img/home/bangladesh-railway.png" alt="Bangladesh Railway Logo" class="railway-icon">
             Bangladesh Railway Fare List
         </h1>
-        
-        <!-- Loader -->
-        <div id="loader" class="loader">
-            <img src="https://eticket.railway.gov.bd/assets/img/bangladesh-railway-loader.gif" alt="Loading...">
-        </div>
-
         <form method="POST" onsubmit="return validateForm()">
             <div class="form-group">
                 <div class="form-element">
@@ -124,6 +114,9 @@
             
             <button type="submit" class="btn-search">Search</button>
         </form>
+
+        <!-- Loader -->
+        <div id="loader" class="loader" style="display: none;"></div>
 
         <!-- Display the error message if present -->
         {% if error %}

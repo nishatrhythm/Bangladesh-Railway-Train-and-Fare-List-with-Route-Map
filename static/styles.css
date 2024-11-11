@@ -1,18 +1,17 @@
-/* Loader styling */
+/* Loader Styling */
 .loader {
-    display: none; /* Hidden by default */
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    z-index: 1001;
-    background-color: rgba(255, 255, 255, 0.8); /* Light background overlay */
-    padding: 20px;
-    border-radius: 8px;
+    border: 8px solid #f3f3f3; /* Light grey */
+    border-top: 8px solid rgb(0, 103, 71); /* Primary green color */
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    animation: spin 1s linear infinite;
+    margin: 20px auto;
 }
 
-.loader img {
-    width: 100px; /* Adjust size as needed */
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
 }
 
 /* General Styling */
