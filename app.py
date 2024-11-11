@@ -103,5 +103,4 @@ def home():
     return render_template('index.html', stations=stations_list, results=results, error=error, selected_origin=selected_origin, selected_destination=selected_destination)
 
 if __name__ == "__main__":
-    # Ensure the app runs in production mode without debug
-    app.run(host='0.0.0.0', port=5000, debug=False)
+    app.run(host='0.0.0.0', port=int(os.environ.get("PORT", 5000)))
