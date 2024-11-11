@@ -1,2 +1,2 @@
-Flask==2.x.x
-gunicorn==20.x.x
+Flask==2.3.3
+gunicorn==20.1.0
