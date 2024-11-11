@@ -39,6 +39,10 @@
                 isValid = false;
             }
 
+            if (isValid) {
+                document.getElementById('loader').style.display = 'block'; // Show the loader
+            }
+
             return isValid;
         }
 
@@ -69,14 +73,14 @@
         }
 
         function hideErrorMessage(inputId) {
-        const inputElement = document.getElementById(inputId);
-        const errorMessage = inputElement.parentNode.querySelector('.error-message');
+            const inputElement = document.getElementById(inputId);
+            const errorMessage = inputElement.parentNode.querySelector('.error-message');
         
-        if (errorMessage) {
-            errorMessage.style.display = 'none'; // Hide the error message
+            if (errorMessage) {
+                errorMessage.style.display = 'none'; // Hide the error message
+            }
         }
-    }
-    </script>    
+    </script>
 </head>
 <body>
     <div class="container">
@@ -84,6 +88,12 @@
             <img src="https://eticket.railway.gov.bd/assets/img/home/bangladesh-railway.png" alt="Bangladesh Railway Logo" class="railway-icon">
             Bangladesh Railway Fare List
         </h1>
+        
+        <!-- Loader -->
+        <div id="loader" class="loader">
+            <img src="https://eticket.railway.gov.bd/assets/img/bangladesh-railway-loader.gif" alt="Loading...">
+        </div>
+
         <form method="POST" onsubmit="return validateForm()">
             <div class="form-group">
                 <div class="form-element">

@@ -1,3 +1,20 @@
+/* Loader styling */
+.loader {
+    display: none; /* Hidden by default */
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1001;
+    background-color: rgba(255, 255, 255, 0.8); /* Light background overlay */
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.loader img {
+    width: 100px; /* Adjust size as needed */
+}
+
 /* General Styling */
 body {
     font-family: 'Plus Jakarta Sans', sans-serif;
