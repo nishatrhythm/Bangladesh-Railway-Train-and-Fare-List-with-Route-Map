@@ -364,9 +364,21 @@ tr:hover {
         font-size: 14px;
         /* Reduce table font size for smaller screens */
     }
+
+    .note {
+        font-size: 12px;
+    }
+
+    .footer {
+        font-size: 12px;
+    }
 }
 
 @media (max-width: 480px) {
+    .container {
+        padding: 20px;
+    }
+
     h1 {
         font-size: 24px;
         /* Smaller header for mobile devices */
@@ -389,10 +401,5 @@ tr:hover {
     th,
     td {
         padding: 8px;
-    }
-
-    .note {
-        font-size: 12px;
-        /* Smaller font for the note on mobile */
     }
 }
