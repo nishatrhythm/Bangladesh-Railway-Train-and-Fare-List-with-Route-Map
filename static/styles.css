@@ -1,7 +1,9 @@
 /* Loader Styling */
 .loader {
-    border: 8px solid #f3f3f3; /* Light grey */
-    border-top: 8px solid rgb(0, 103, 71); /* Primary green color */
+    border: 8px solid #f3f3f3;
+    /* Light grey */
+    border-top: 8px solid rgb(0, 103, 71);
+    /* Primary green color */
     border-radius: 50%;
     width: 60px;
     height: 60px;
@@ -15,8 +17,13 @@
 }
 
 @keyframes spin {
-    0% { transform: rotate(0deg); }
-    100% { transform: rotate(360deg); }
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
 }
 
 /* General Styling */
@@ -44,7 +51,8 @@ body {
 
 /* Custom dropdown styling */
 .form-element {
-    position: relative; /* Ensure dropdown is positioned relative to the form element */
+    position: relative;
+    /* Ensure dropdown is positioned relative to the form element */
 }
 
 .custom-dropdown {
@@ -54,9 +62,12 @@ body {
     border-radius: 8px;
     max-height: 150px;
     overflow-y: auto;
-    width: 100%; /* Make dropdown width match the input field */
-    top: calc(100% + 2px); /* Position dropdown below the input field */
-    left: 0; /* Align with the left side of the input field */
+    width: 100%;
+    /* Make dropdown width match the input field */
+    top: calc(100% + 2px);
+    /* Position dropdown below the input field */
+    left: 0;
+    /* Align with the left side of the input field */
     display: none;
     z-index: 1000;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -74,15 +85,18 @@ body {
 
 /* Apply custom font to input fields */
 input[type="text"] {
-    font-family: 'Plus Jakarta Sans', sans-serif; /* Ensure the custom font is applied */
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    /* Ensure the custom font is applied */
     padding: 12px;
     border: 1px solid #bdc3c7;
     border-radius: 10px;
     font-size: 16px;
     background-color: #ecf0f1;
     transition: border-color 0.3s;
-    width: 100%; /* Ensure input width matches the container */
-    box-sizing: border-box; /* Include padding and border in the width */
+    width: 100%;
+    /* Ensure input width matches the container */
+    box-sizing: border-box;
+    /* Include padding and border in the width */
 }
 
 input[type="text"]:focus {
@@ -94,24 +108,28 @@ h1 {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 10px; /* Space between the icon and text */
-    color: rgb(0, 103, 71); /* Primary green color */
-    font-weight: 700;
+    gap: 10px;
+    /* Space between the icon and text */
+    color: rgb(0, 103, 71);
+    /* Primary green color */
+    font-weight: 800;
     margin-bottom: 30px;
 }
 
 .fare-list-heading {
     text-align: center;
-    color: rgb(0, 103, 71); /* Primary green color */
-    font-weight: 600;
+    color: rgb(0, 103, 71);
+    /* Primary green color */
+    font-weight: 500;
     margin-top: 30px;
     margin-bottom: 20px;
 }
 
 /* Highlight station names */
 .highlight-station {
-    color: rgb(0, 103, 71); /* Primary green color */
-    font-weight: 700;
+    color: rgb(0, 103, 71);
+    /* Primary green color */
+    font-weight: 800;
 }
 
 form {
@@ -125,7 +143,8 @@ form {
     align-items: center;
     justify-content: space-between;
     gap: 15px;
-    flex-wrap: wrap; /* Allow wrapping on smaller screens */
+    flex-wrap: wrap;
+    /* Allow wrapping on smaller screens */
 }
 
 .form-element {
@@ -133,12 +152,14 @@ form {
     display: flex;
     flex-direction: column;
     gap: 5px;
-    min-width: 250px; /* Minimum width to ensure proper layout on small devices */
+    min-width: 250px;
+    /* Minimum width to ensure proper layout on small devices */
 }
 
 label {
-    font-weight: 600;
-    color: rgb(0, 103, 71); /* Primary green color */
+    font-weight: 700;
+    color: rgb(0, 103, 71);
+    /* Primary green color */
 }
 
 select {
@@ -151,40 +172,49 @@ select {
 }
 
 select:focus {
-    border-color: rgb(0, 103, 71); /* Primary green color */
+    border-color: rgb(0, 103, 71);
+    /* Primary green color */
     outline: none;
 }
 
 .btn-search {
-    background-color: rgb(0, 103, 71); /* Primary green color */
+    background-color: rgb(0, 103, 71);
+    /* Primary green color */
+    font-family: 'Plus Jakarta Sans', sans-serif;
     color: #ffffff;
     padding: 14px;
     border: none;
     border-radius: 10px;
     font-size: 18px;
-    font-weight: 600;
+    font-weight: 800;
     cursor: pointer;
     transition: background-color 0.3s;
-    margin-top: 10px; /* Add space above the button */
+    margin-top: 10px;
+    /* Add space above the button */
 }
 
 .btn-search:hover {
-    background-color: rgb(0, 85, 58); /* Slightly darker green for hover */
+    background-color: rgb(0, 85, 58);
+    /* Slightly darker green for hover */
 }
 
 .swap-icon {
     cursor: pointer;
     font-size: 28px;
-    color: rgb(0, 103, 71); /* Primary green color */
-    margin-top: 20px; /* Align with the labels and fields */
-    transition: color 0.3s, transform 0.3s; /* Add transition for smooth rotation */
+    color: rgb(0, 103, 71);
+    /* Primary green color */
+    margin-top: 20px;
+    /* Align with the labels and fields */
+    transition: color 0.3s, transform 0.3s;
+    /* Add transition for smooth rotation */
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
 .swap-icon:hover {
-    color: rgb(0, 85, 58); /* Slightly darker green for hover */
+    color: rgb(0, 85, 58);
+    /* Slightly darker green for hover */
 }
 
 .table-wrapper {
@@ -200,16 +230,18 @@ table {
     overflow: hidden;
 }
 
-th, td {
+th,
+td {
     border: 1px solid #ddd;
     padding: 12px;
     text-align: center;
 }
 
 th {
-    background-color: rgb(0, 103, 71); /* Primary green color */
+    background-color: rgb(0, 103, 71);
+    /* Primary green color */
     color: #ffffff;
-    font-weight: 600;
+    font-weight: 700;
 }
 
 tr:nth-child(even) {
@@ -224,45 +256,61 @@ tr:hover {
     color: #e74c3c;
     text-align: center;
     margin-top: 20px;
-    font-weight: bold;
+    font-weight: 600;
 }
 
 .note {
     margin-top: 30px;
-    color: rgb(0, 103, 71); /* Primary green color */
-    background-color: #f1f8f3; /* Light green background for the note */
+    line-height: 1.6;
+    color: rgb(0, 103, 71);
+    /* Primary green color */
+    background-color: #f1f8f3;
+    /* Light green background for the note */
     padding: 15px;
     border-radius: 8px;
-    border: 1px solid rgb(0, 103, 71); /* Border matching the primary color */
+    border: 1px solid rgb(0, 103, 71);
+    /* Border matching the primary color */
     font-size: 14px;
-    font-weight: 600; /* Slightly bold for emphasis */
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    font-weight: 500;
+    /* Slightly bold for emphasis */
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    /* Subtle shadow for depth */
+}
+
+.note-bold {
+    font-weight: 800;
+    /* Adjust weight as needed */
 }
 
 .railway-icon {
-    width: 50px; /* Adjust the size as needed */
+    width: 50px;
+    /* Adjust the size as needed */
     height: auto;
     vertical-align: middle;
-    margin-right: 10px; /* Space between the icon and text */
+    margin-right: 10px;
+    /* Space between the icon and text */
 }
 
 /* Highlight for specific text */
 .highlight {
     color: #e74c3c;
-    font-weight: bold;
+    font-weight: 800;
 }
 
 .footer {
     text-align: center;
     margin-top: 30px;
     font-size: 14px;
-    color: #2c3e50; /* Darker color for emphasis */
+    font-weight: 500;
+    color: #2c3e50;
+    /* Darker color for emphasis */
 }
 
 .footer a {
-    color: rgb(0, 103, 71); /* Primary green color */
+    color: rgb(0, 103, 71);
+    /* Primary green color */
     text-decoration: none;
-    font-weight: 600;
+    font-weight: 800;
 }
 
 .footer a:hover {
@@ -271,7 +319,8 @@ tr:hover {
 
 /* Custom error message styling */
 .error-message {
-    color: #e74c3c; /* Red color for error */
+    color: #e74c3c;
+    /* Red color for error */
     font-size: 14px;
     font-weight: 600;
     margin-top: 5px;
@@ -280,13 +329,17 @@ tr:hover {
 /* Media Queries for Responsiveness */
 @media (max-width: 768px) {
     h1 {
-        flex-direction: column; /* Change to column layout on smaller screens */
-        text-align: center; /* Center the text */
+        flex-direction: column;
+        /* Change to column layout on smaller screens */
+        text-align: center;
+        /* Center the text */
     }
 
     .railway-icon {
-        margin-right: 0; /* Remove right margin when in column layout */
-        margin-bottom: 10px; /* Add bottom margin for spacing */
+        margin-right: 0;
+        /* Remove right margin when in column layout */
+        margin-bottom: 10px;
+        /* Add bottom margin for spacing */
     }
 
     .form-group {
@@ -296,8 +349,10 @@ tr:hover {
 
     .swap-icon {
         margin: 15px auto;
-        font-size: 24px; /* Slightly reduce the size for smaller screens */
-        transform: rotate(90deg); /* Rotate 90 degrees for column layout */
+        font-size: 24px;
+        /* Slightly reduce the size for smaller screens */
+        transform: rotate(90deg);
+        /* Rotate 90 degrees for column layout */
     }
 
     .btn-search {
@@ -306,13 +361,15 @@ tr:hover {
     }
 
     table {
-        font-size: 14px; /* Reduce table font size for smaller screens */
+        font-size: 14px;
+        /* Reduce table font size for smaller screens */
     }
 }
 
 @media (max-width: 480px) {
     h1 {
-        font-size: 24px; /* Smaller header for mobile devices */
+        font-size: 24px;
+        /* Smaller header for mobile devices */
     }
 
     .fare-list-heading {
@@ -320,7 +377,8 @@ tr:hover {
     }
 
     .form-element {
-        min-width: 200px; /* Adjust min width for mobile devices */
+        min-width: 200px;
+        /* Adjust min width for mobile devices */
     }
 
     .btn-search {
@@ -328,11 +386,13 @@ tr:hover {
         padding: 10px;
     }
 
-    th, td {
+    th,
+    td {
         padding: 8px;
     }
 
     .note {
-        font-size: 12px; /* Smaller font for the note on mobile */
+        font-size: 12px;
+        /* Smaller font for the note on mobile */
     }
 }

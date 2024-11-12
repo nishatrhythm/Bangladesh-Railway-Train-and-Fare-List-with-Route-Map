@@ -1,26 +1,32 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bangladesh Railway Fare List</title>
 
     <meta property='og:title' content='Bangladesh Railway Fare List'>
-    <meta property='og:image' content='https://raw.githubusercontent.com/nishatrhythm/Bangladesh-Railway-Fare-List/main/images/link_share_image.png'>
-    <meta property='og:description' content='Explore the complete fare list for Bangladesh Railway to plan your journey efficiently.'>
+    <meta property='og:image'
+        content='https://raw.githubusercontent.com/nishatrhythm/Bangladesh-Railway-Fare-List/main/images/link_share_image.png'>
+    <meta property='og:description'
+        content='Explore the complete fare list for Bangladesh Railway to plan your journey efficiently.'>
     <meta property='og:url' content='https://bdrailway.vercel.app'>
     <meta property='og:image:width' content='4800'>
     <meta property='og:image:height' content='2520'>
-    <link rel="icon" href="https://raw.githubusercontent.com/nishatrhythm/Bangladesh-Railway-Fare-List/main/images/bangladesh-railway.png" type="image/x-icon" sizes="30x30">
+    <link rel="icon"
+        href="https://raw.githubusercontent.com/nishatrhythm/Bangladesh-Railway-Fare-List/main/images/bangladesh-railway.png"
+        type="image/x-icon" sizes="30x30">
 
-    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap"
+        rel="stylesheet">
     <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <script>
         function swapStations() {
             const originInput = document.getElementById('origin');
             const destinationInput = document.getElementById('destination');
-    
+
             if (originInput && destinationInput) {
                 const tempValue = originInput.value;
                 originInput.value = destinationInput.value;
@@ -86,42 +92,50 @@
                 errorMessage.style.display = 'none';
             }
         }
-    </script>    
+    </script>
 </head>
+
 <body>
     <div class="container">
         <h1>
-            <img src="https://raw.githubusercontent.com/nishatrhythm/Bangladesh-Railway-Fare-List/main/images/bangladesh-railway.png" alt="Bangladesh Railway Logo" class="railway-icon">
+            <img src="https://raw.githubusercontent.com/nishatrhythm/Bangladesh-Railway-Fare-List/main/images/bangladesh-railway.png"
+                alt="Bangladesh Railway Logo" class="railway-icon">
             Bangladesh Railway Fare List
         </h1>
         <form method="POST" onsubmit="return validateForm()">
             <div class="form-group">
                 <div class="form-element">
                     <label for="origin">Origin Station</label>
-                    <input type="text" id="origin" name="origin" onkeyup="filterDropdown('origin', 'originDropdown')" oninput="hideErrorMessage('origin')" placeholder="Type or select an origin station" value="{{ selected_origin if selected_origin else '' }}" autocomplete="off">
+                    <input type="text" id="origin" name="origin" onkeyup="filterDropdown('origin', 'originDropdown')"
+                        oninput="hideErrorMessage('origin')" placeholder="Type or select an origin station"
+                        value="{{ selected_origin if selected_origin else '' }}" autocomplete="off">
                     <div id="originDropdown" class="custom-dropdown">
                         {% for station in stations %}
-                            <div onclick="selectOption('origin', 'originDropdown', '{{ station }}')">{{ station }}</div>
+                        <div onclick="selectOption('origin', 'originDropdown', '{{ station }}')">{{ station }}</div>
                         {% endfor %}
                     </div>
                 </div>
-                
+
                 <!-- Swap Icon -->
                 <div class="swap-icon" onclick="swapStations()" title="Swap stations">
                     <i class="fas fa-exchange-alt"></i>
                 </div>
-                
+
                 <div class="form-element">
                     <label for="destination">Destination Station</label>
-                    <input type="text" id="destination" name="destination" onkeyup="filterDropdown('destination', 'destinationDropdown')" oninput="hideErrorMessage('destination')" placeholder="Type or select a destination station" value="{{ selected_destination if selected_destination else '' }}" autocomplete="off">
+                    <input type="text" id="destination" name="destination"
+                        onkeyup="filterDropdown('destination', 'destinationDropdown')"
+                        oninput="hideErrorMessage('destination')" placeholder="Type or select a destination station"
+                        value="{{ selected_destination if selected_destination else '' }}" autocomplete="off">
                     <div id="destinationDropdown" class="custom-dropdown">
                         {% for station in stations %}
-                            <div onclick="selectOption('destination', 'destinationDropdown', '{{ station }}')">{{ station }}</div>
+                        <div onclick="selectOption('destination', 'destinationDropdown', '{{ station }}')">{{ station }}
+                        </div>
                         {% endfor %}
                     </div>
                 </div>
             </div>
-            
+
             <button type="submit" class="btn-search">Search</button>
         </form>
 
@@ -132,47 +146,51 @@
         <div id="content">
             <!-- Display the error message if present -->
             {% if error %}
-                <p class="error">{{ error }}</p>
+            <p class="error">{{ error }}</p>
             {% endif %}
 
             {% if results %}
             <h2 class="fare-list-heading">
                 Fare List for<br>
-                <span class="highlight-station">{{ results.origin }}</span> to <span class="highlight-station">{{ results.destination }}</span>
+                <span class="highlight-station">{{ results.origin }}</span> to <span class="highlight-station">{{
+                    results.destination }}</span>
             </h2>
-            
-                <div class="table-wrapper">
-                    <table>
-                        <thead>
-                            <tr>
-                                <th>Seat Type</th>
-                                <th>Base Fare (BDT)</th>
-                                <th>VAT (15%) (BDT)</th>
-                                <th>Total Fare (BDT)</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            {% for info in results.data['info'] %}
-                            <tr>
-                                <td>{{ info['type'] }}</td>
-                                <td>{{ "%.2f" | format(info['fare']) }}</td>
-                                <td>{{ "%.2f" | format(info['vat_amount']) }}</td>
-                                <td>{{ "%.2f" | format(info['fare'] + info['vat_amount']) }}</td>
-                            </tr>
-                            {% endfor %}
-                        </tbody>
-                    </table>
-                </div>
-                <p class="note">
-                    <strong>Note:</strong> An extra <span class="highlight">BDT 20</span> online payment charge applies. Total fare includes <span class="highlight">BDT 50</span> bedding charges per seat for <strong>AC_B</strong> and <strong>F_BERTH</strong> seat classes.
-                </p>
-            {% endif %}
 
-            <!-- Footer -->
-            <footer class="footer">
-                <p><strong>This project is open source.</strong> Check it out on <a href="https://github.com/nishatrhythm/Bangladesh-Railway-Fare-List" target="_blank">GitHub</a>.</p>
-            </footer>
+            <div class="table-wrapper">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Seat Type</th>
+                            <th>Base Fare (BDT)</th>
+                            <th>VAT (15%) (BDT)</th>
+                            <th>Total Fare (BDT)</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for info in results.data['info'] %}
+                        <tr>
+                            <td>{{ info['type'] }}</td>
+                            <td>{{ "%.2f" | format(info['fare']) }}</td>
+                            <td>{{ "%.2f" | format(info['vat_amount']) }}</td>
+                            <td>{{ "%.2f" | format(info['fare'] + info['vat_amount']) }}</td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+            <p class="note">
+                <span class="note-bold">Note:</span> An extra <span class="highlight">BDT 20</span> online payment
+                charge applies. Total fare includes <span class="highlight">BDT 50</span> bedding charges per seat for
+                <span class="note-bold">AC_B</span> and <span class="note-bold">F_BERTH</span> seat classes.
+            </p>
+            {% endif %}
         </div>
+        <!-- Footer -->
+        <footer class="footer">
+            <p>This project is open source. Check it out on <a
+                    href="https://github.com/nishatrhythm/Bangladesh-Railway-Fare-List" target="_blank">GitHub</a>.</p>
+        </footer>
     </div>
 </body>
+
 </html>
