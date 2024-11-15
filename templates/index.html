@@ -99,6 +99,39 @@
                 errorMessage.style.display = 'none';
             }
         }
+
+        function updateDayDisplay() {
+            const isSmallScreen = window.innerWidth < 768;
+            document.querySelectorAll('.off-day.full-form').forEach(element => {
+                element.style.display = isSmallScreen ? 'none' : 'inline';
+            });
+            document.querySelectorAll('.off-day.short-form').forEach(element => {
+                element.style.display = isSmallScreen ? 'inline' : 'none';
+            });
+
+            // Change text to "N/A" for "Runs everyday" on small screens
+            if (isSmallScreen) {
+                document.querySelectorAll('.no-off-day').forEach(element => {
+                    element.textContent = 'N/A';
+                });
+            } else {
+                // Restore the original text when width is above 768px
+                document.querySelectorAll('.no-off-day').forEach(element => {
+                    element.textContent = 'Runs everyday';
+                });
+            }
+        }
+
+        window.addEventListener('resize', updateDayDisplay);
+        window.addEventListener('load', function () {
+            // Initialize the text content for short form days on load
+            document.querySelectorAll('.short-form').forEach(element => {
+                const days = element.getAttribute('data-off-days').split(', ');
+                const shortDays = days.map(day => day.substring(0, 3)).join(', ');
+                element.textContent = shortDays;
+            });
+            updateDayDisplay(); // Ensure the display is set correctly on load
+        });
     </script>
 </head>
 
@@ -177,11 +210,13 @@
                                 {% if train['off_days'] == 'Runs everyday' %}
                                 <span class="no-off-day">{{ train['off_days'] }}</span>
                                 {% else %}
-                                <span class="off-day">{{ train['off_days'] }}</span>
+                                <span class="off-day full-form">{{ train['off_days'] }}</span>
+                                <span class="off-day short-form" style="display: none;"
+                                    data-off-days="{{ train['off_days'] }}"></span>
                                 {% endif %}
                             </td>
-                            <td>{{ train['departure_time'] }}</td>
-                            <td>{{ train['arrival_time'] }}</td>
+                            <td class="time-cell">{{ train['departure_time'] }}</td>
+                            <td class="time-cell">{{ train['arrival_time'] }}</td>
                         </tr>
                         {% endfor %}
                     </tbody>
@@ -236,7 +271,8 @@
         <!-- Footer -->
         <footer class="footer">
             <p>This project is open source. Check it out on <a
-                    href="https://github.com/nishatrhythm/Bangladesh-Railway-Train-and-Fare-List" target="_blank">GitHub</a>.</p>
+                    href="https://github.com/nishatrhythm/Bangladesh-Railway-Train-and-Fare-List"
+                    target="_blank">GitHub</a>.</p>
         </footer>
     </div>
 </body>
