@@ -1,0 +1,55 @@
+{
+    "data": {
+        "days": [
+            "Fri",
+            "Sat",
+            "Sun",
+            "Tue",
+            "Wed",
+            "Thu"
+        ],
+        "routes": [
+            {
+                "city": "Rajshahi",
+                "departure_time": "03:00 pm BST",
+                "halt": null,
+                "duration": null,
+                "arrival_time": null
+            },
+            {
+                "city": "Kakonhat",
+                "arrival_time": "03:26 pm BST",
+                "halt": "---",
+                "duration": "00:26"
+            },
+            {
+                "city": "Lolitnagar",
+                "arrival_time": "03:36 pm BST",
+                "halt": "---",
+                "duration": "---"
+            },
+            {
+                "city": "Amnura",
+                "arrival_time": "03:49 pm BST",
+                "halt": "---",
+                "duration": "---"
+            },
+            {
+                "city": "Nachole",
+                "arrival_time": "04:05 pm BST",
+                "halt": "---",
+                "duration": "---"
+            },
+            {
+                "city": "Rohanpur",
+                "arrival_time": "04:30 pm BST",
+                "halt": null,
+                "duration": "---",
+                "departure_time": null
+            }
+        ],
+        "total_duration": "01:30",
+        "train_name": "RAJSHAHI COMMUTER (77)",
+        "train_model": "77"
+    }
+}

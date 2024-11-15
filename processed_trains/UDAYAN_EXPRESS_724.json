@@ -1,0 +1,101 @@
+{
+    "data": {
+        "days": [
+            "Fri",
+            "Sat",
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+        ],
+        "routes": [
+            {
+                "city": "Sylhet",
+                "departure_time": "10:00 pm BST",
+                "halt": null,
+                "duration": null,
+                "arrival_time": null
+            },
+            {
+                "city": "Maijgaon",
+                "arrival_time": "10:39 pm BST",
+                "departure_time": "10:41 pm BST",
+                "halt": "02",
+                "duration": "00:39"
+            },
+            {
+                "city": "Baramchal",
+                "arrival_time": "10:58 pm BST",
+                "departure_time": "11:00 pm BST",
+                "halt": "02",
+                "duration": "00:17"
+            },
+            {
+                "city": "Kulaura",
+                "arrival_time": "11:13 pm BST",
+                "departure_time": "11:16 pm BST",
+                "halt": "03",
+                "duration": "00:13"
+            },
+            {
+                "city": "Shamshernagar",
+                "arrival_time": "11:40 pm BST",
+                "departure_time": "11:42 pm BST",
+                "halt": "02",
+                "duration": "00:24"
+            },
+            {
+                "city": "Sreemangal",
+                "arrival_time": "12:08 am BST",
+                "departure_time": "12:13 am BST",
+                "halt": "05",
+                "duration": "00:26"
+            },
+            {
+                "city": "Shaistaganj",
+                "arrival_time": "12:50 am BST",
+                "departure_time": "12:53 am BST",
+                "halt": "03",
+                "duration": "00:37"
+            },
+            {
+                "city": "Akhaura",
+                "arrival_time": "02:25 am BST",
+                "departure_time": "02:30 am BST",
+                "halt": "05",
+                "duration": "01:32"
+            },
+            {
+                "city": "Cumilla",
+                "arrival_time": "03:13 am BST",
+                "departure_time": "03:15 am BST",
+                "halt": "02",
+                "duration": "00:43"
+            },
+            {
+                "city": "Laksam",
+                "arrival_time": "03:37 am BST",
+                "departure_time": "03:39 am BST",
+                "halt": "02",
+                "duration": "00:22"
+            },
+            {
+                "city": "Feni",
+                "arrival_time": "04:17 am BST",
+                "departure_time": "04:19 am BST",
+                "halt": "02",
+                "duration": "00:38"
+            },
+            {
+                "city": "Chattogram",
+                "arrival_time": "05:50 am BST",
+                "halt": null,
+                "duration": "01:31",
+                "departure_time": null
+            }
+        ],
+        "total_duration": "07:50",
+        "train_name": "UDAYAN EXPRESS (724)",
+        "train_model": "724"
+    }
+}

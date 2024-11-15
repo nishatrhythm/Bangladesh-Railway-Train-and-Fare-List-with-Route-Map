@@ -1,0 +1,61 @@
+{
+    "data": {
+        "days": [
+            "Fri",
+            "Sat",
+            "Sun",
+            "Tue",
+            "Wed",
+            "Thu"
+        ],
+        "routes": [
+            {
+                "city": "Rohanpur",
+                "departure_time": "12:20 pm BST",
+                "halt": null,
+                "duration": null,
+                "arrival_time": null
+            },
+            {
+                "city": "Nachole",
+                "arrival_time": "12:38 pm BST",
+                "halt": "---",
+                "duration": "00:18"
+            },
+            {
+                "city": "Amnura",
+                "arrival_time": "12:56 pm BST",
+                "halt": "---",
+                "duration": "---"
+            },
+            {
+                "city": "Lolitnagar",
+                "arrival_time": "01:11 pm BST",
+                "halt": "---",
+                "duration": "---"
+            },
+            {
+                "city": "Kakonhat",
+                "arrival_time": "01:21 pm BST",
+                "halt": "---",
+                "duration": "---"
+            },
+            {
+                "city": "Rajshahi_Court",
+                "arrival_time": "01:44 pm BST",
+                "halt": "---",
+                "duration": "---"
+            },
+            {
+                "city": "Rajshahi",
+                "arrival_time": "02:00 pm BST",
+                "halt": null,
+                "duration": "---",
+                "departure_time": null
+            }
+        ],
+        "total_duration": "01:40",
+        "train_name": "RAJSHAHI COMMUTER (78)",
+        "train_model": "78"
+    }
+}

@@ -1,0 +1,121 @@
+{
+    "data": {
+        "days": [
+            "Fri",
+            "Sat",
+            "Sun",
+            "Mon",
+            "Tue",
+            "Thu"
+        ],
+        "routes": [
+            {
+                "city": "Noakhali",
+                "departure_time": "06:00 am BST",
+                "halt": null,
+                "duration": null,
+                "arrival_time": null
+            },
+            {
+                "city": "Maijdi Court",
+                "arrival_time": "06:07 am BST",
+                "departure_time": "06:09 am BST",
+                "halt": "02",
+                "duration": "00:07"
+            },
+            {
+                "city": "Choumuhani",
+                "arrival_time": "06:23 am BST",
+                "departure_time": "06:25 am BST",
+                "halt": "02",
+                "duration": "00:14"
+            },
+            {
+                "city": "Bajra",
+                "arrival_time": "06:34 am BST",
+                "departure_time": "06:36 am BST",
+                "halt": "02",
+                "duration": "00:09"
+            },
+            {
+                "city": "Sonaimuri",
+                "arrival_time": "06:45 am BST",
+                "departure_time": "06:47 am BST",
+                "halt": "02",
+                "duration": "00:09"
+            },
+            {
+                "city": "Natherpetua",
+                "arrival_time": "07:00 am BST",
+                "departure_time": "07:02 am BST",
+                "halt": "02",
+                "duration": "00:13"
+            },
+            {
+                "city": "Laksam",
+                "departure_time": "07:30 am BST",
+                "arrival_time": "07:25 am BST",
+                "halt": "05",
+                "duration": "00:23"
+            },
+            {
+                "city": "Cumilla",
+                "departure_time": "07:54 am BST",
+                "arrival_time": "07:52 am BST",
+                "halt": "02",
+                "duration": "00:22"
+            },
+            {
+                "city": "Quasba",
+                "arrival_time": "08:24 am BST",
+                "departure_time": "08:26 am BST",
+                "halt": "02",
+                "duration": "00:30"
+            },
+            {
+                "city": "Akhaura",
+                "arrival_time": "08:50 am BST",
+                "departure_time": "08:53 am BST",
+                "halt": "03",
+                "duration": "00:24"
+            },
+            {
+                "city": "Brahmanbaria",
+                "arrival_time": "09:10 am BST",
+                "departure_time": "09:14 am BST",
+                "halt": "04",
+                "duration": "00:17"
+            },
+            {
+                "city": "Ashuganj",
+                "departure_time": "09:31 am BST",
+                "arrival_time": "09:29 am BST",
+                "halt": "02",
+                "duration": "00:15"
+            },
+            {
+                "city": "Narsingdi",
+                "departure_time": "10:07 am BST",
+                "arrival_time": "10:05 am BST",
+                "halt": "02",
+                "duration": "00:34"
+            },
+            {
+                "city": "Biman_Bandar",
+                "arrival_time": "10:47 am BST",
+                "halt": "---",
+                "duration": "00:40"
+            },
+            {
+                "city": "Dhaka",
+                "arrival_time": "11:20 am BST",
+                "halt": null,
+                "duration": "---",
+                "departure_time": null
+            }
+        ],
+        "total_duration": "05:20",
+        "train_name": "UPAKUL EXPRESS (711)",
+        "train_model": "711"
+    }
+}

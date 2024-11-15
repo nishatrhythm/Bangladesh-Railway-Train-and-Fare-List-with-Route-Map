@@ -282,6 +282,16 @@ tr:hover {
     /* Adjust weight as needed */
 }
 
+.off-day {
+    color: #e74c3c; /* Red color for off days */
+    font-weight: 400;
+}
+
+.no-off-day {
+    color: rgb(0, 103, 71); /* Green color for "Runs everyday" */
+    font-weight: 400;
+}
+
 .railway-icon {
     width: 50px;
     /* Adjust the size as needed */

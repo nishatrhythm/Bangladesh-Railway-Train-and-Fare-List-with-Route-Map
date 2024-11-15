@@ -1,0 +1,114 @@
+{
+    "data": {
+        "days": [
+            "Fri",
+            "Sat",
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+        ],
+        "routes": [
+            {
+                "city": "Dhaka",
+                "departure_time": "09:20 pm BST",
+                "halt": null,
+                "duration": null,
+                "arrival_time": null
+            },
+            {
+                "city": "Biman_Bandar",
+                "arrival_time": "09:43 pm BST",
+                "departure_time": "09:48 pm BST",
+                "halt": "05",
+                "duration": "00:23"
+            },
+            {
+                "city": "Narsingdi",
+                "arrival_time": "10:28 pm BST",
+                "departure_time": "10:30 pm BST",
+                "halt": "02",
+                "duration": "00:40"
+            },
+            {
+                "city": "Bhairab_Bazar",
+                "arrival_time": "11:00 pm BST",
+                "departure_time": "11:03 pm BST",
+                "halt": "03",
+                "duration": "00:30"
+            },
+            {
+                "city": "Ashuganj",
+                "arrival_time": "11:11 pm BST",
+                "departure_time": "11:13 pm BST",
+                "halt": "02",
+                "duration": "00:08"
+            },
+            {
+                "city": "Brahmanbaria",
+                "arrival_time": "11:28 pm BST",
+                "departure_time": "11:32 pm BST",
+                "halt": "04",
+                "duration": "00:15"
+            },
+            {
+                "city": "Akhaura",
+                "arrival_time": "11:55 pm BST",
+                "departure_time": "11:58 pm BST",
+                "halt": "03",
+                "duration": "00:23"
+            },
+            {
+                "city": "Quasba",
+                "arrival_time": "12:14 am BST",
+                "departure_time": "12:16 am BST",
+                "halt": "02",
+                "duration": "00:16"
+            },
+            {
+                "city": "Cumilla",
+                "arrival_time": "12:46 am BST",
+                "departure_time": "12:48 am BST",
+                "halt": "02",
+                "duration": "00:30"
+            },
+            {
+                "city": "Laksam",
+                "arrival_time": "01:10 am BST",
+                "departure_time": "01:12 am BST",
+                "halt": "02",
+                "duration": "00:22"
+            },
+            {
+                "city": "Nangolkot",
+                "arrival_time": "01:26 am BST",
+                "departure_time": "01:28 am BST",
+                "halt": "02",
+                "duration": "00:14"
+            },
+            {
+                "city": "Feni",
+                "arrival_time": "01:53 am BST",
+                "departure_time": "01:55 am BST",
+                "halt": "02",
+                "duration": "00:25"
+            },
+            {
+                "city": "Kumira",
+                "arrival_time": "02:55 am BST",
+                "halt": "---",
+                "duration": "01:00"
+            },
+            {
+                "city": "Chattogram",
+                "arrival_time": "03:30 am BST",
+                "halt": null,
+                "duration": "---",
+                "departure_time": null
+            }
+        ],
+        "total_duration": "06:10",
+        "train_name": "MOHANAGAR EXPRESS (722)",
+        "train_model": "722"
+    }
+}

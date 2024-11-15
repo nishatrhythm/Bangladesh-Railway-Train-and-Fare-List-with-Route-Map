@@ -1,0 +1,97 @@
+{
+    "data": {
+        "days": [
+            "Fri",
+            "Sat",
+            "Sun",
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+        ],
+        "routes": [
+            {
+                "city": "Tarakandi",
+                "departure_time": "02:00 am BST",
+                "halt": null,
+                "duration": null,
+                "arrival_time": null
+            },
+            {
+                "city": "Sarishabari",
+                "departure_time": "02:18 am BST",
+                "arrival_time": "02:15 am BST",
+                "halt": "03",
+                "duration": "00:15"
+            },
+            {
+                "city": "Jamalpur_Town",
+                "departure_time": "03:11 am BST",
+                "arrival_time": "03:06 am BST",
+                "halt": "05",
+                "duration": "00:48"
+            },
+            {
+                "city": "Piyarpur",
+                "arrival_time": "03:46 am BST",
+                "halt": "---",
+                "duration": "00:35"
+            },
+            {
+                "city": "Narundi",
+                "arrival_time": "03:33 am BST",
+                "halt": "---",
+                "duration": "---"
+            },
+            {
+                "city": "Bidyaganj",
+                "arrival_time": "03:54 am BST",
+                "halt": "---",
+                "duration": "---"
+            },
+            {
+                "city": "Mymensingh",
+                "departure_time": "04:30 am BST",
+                "arrival_time": "04:25 am BST",
+                "halt": "05",
+                "duration": "---"
+            },
+            {
+                "city": "Gafargaon",
+                "arrival_time": "05:09 am BST",
+                "departure_time": "05:12 am BST",
+                "halt": "03",
+                "duration": "00:39"
+            },
+            {
+                "city": "Sreepur",
+                "arrival_time": "05:44 am BST",
+                "halt": "---",
+                "duration": "00:32"
+            },
+            {
+                "city": "Joydebpur",
+                "departure_time": "06:14 am BST",
+                "arrival_time": "06:12 am BST",
+                "halt": "02",
+                "duration": "---"
+            },
+            {
+                "city": "Biman_Bandar",
+                "arrival_time": "06:37 am BST",
+                "halt": "---",
+                "duration": "00:23"
+            },
+            {
+                "city": "Dhaka",
+                "arrival_time": "07:30 am BST",
+                "halt": null,
+                "duration": "---",
+                "departure_time": null
+            }
+        ],
+        "total_duration": "05:30",
+        "train_name": "JAMUNA EXPRESS (746)",
+        "train_model": "746"
+    }
+}

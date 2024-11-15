@@ -1,0 +1,94 @@
+{
+    "data": {
+        "days": [
+            "Fri",
+            "Sat",
+            "Sun",
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+        ],
+        "routes": [
+            {
+                "city": "Kishorganj",
+                "departure_time": "06:30 am BST",
+                "halt": null,
+                "duration": null,
+                "arrival_time": null
+            },
+            {
+                "city": "Gachihata",
+                "arrival_time": "06:45 am BST",
+                "departure_time": "06:47 am BST",
+                "halt": "02",
+                "duration": "00:15"
+            },
+            {
+                "city": "Manikkhali",
+                "arrival_time": "06:57 am BST",
+                "departure_time": "06:59 am BST",
+                "halt": "02",
+                "duration": "00:10"
+            },
+            {
+                "city": "Sararchar",
+                "arrival_time": "07:15 am BST",
+                "departure_time": "07:17 am BST",
+                "halt": "02",
+                "duration": "00:16"
+            },
+            {
+                "city": "Bajitpur",
+                "arrival_time": "07:25 am BST",
+                "departure_time": "07:27 am BST",
+                "halt": "02",
+                "duration": "00:08"
+            },
+            {
+                "city": "Kuliarchar",
+                "arrival_time": "07:35 am BST",
+                "departure_time": "07:37 am BST",
+                "halt": "02",
+                "duration": "00:08"
+            },
+            {
+                "city": "Bhairab_Bazar",
+                "arrival_time": "08:00 am BST",
+                "departure_time": "08:20 am BST",
+                "halt": "20",
+                "duration": "00:23"
+            },
+            {
+                "city": "Methikanda",
+                "arrival_time": "08:38 am BST",
+                "departure_time": "08:40 am BST",
+                "halt": "02",
+                "duration": "00:18"
+            },
+            {
+                "city": "Narsingdi",
+                "arrival_time": "09:02 am BST",
+                "departure_time": "09:04 am BST",
+                "halt": "02",
+                "duration": "00:22"
+            },
+            {
+                "city": "Biman_Bandar",
+                "arrival_time": "09:50 am BST",
+                "halt": "---",
+                "duration": "00:46"
+            },
+            {
+                "city": "Dhaka",
+                "arrival_time": "10:30 am BST",
+                "halt": null,
+                "duration": "---",
+                "departure_time": null
+            }
+        ],
+        "total_duration": "04:00",
+        "train_name": "EGAROSINDHUR PROVATI (738)",
+        "train_model": "738"
+    }
+}

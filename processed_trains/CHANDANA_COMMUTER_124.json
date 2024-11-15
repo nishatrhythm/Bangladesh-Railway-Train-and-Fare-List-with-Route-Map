@@ -1,0 +1,38 @@
+{
+    "data": {
+        "days": [
+            "Sat",
+            "Sun",
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+        ],
+        "routes": [
+            {
+                "city": "Bhanga",
+                "departure_time": "08:10 pm BST",
+                "halt": null,
+                "duration": null,
+                "arrival_time": null
+            },
+            {
+                "city": "Faridpur",
+                "departure_time": "08:43 pm BST",
+                "arrival_time": "08:41 pm BST",
+                "halt": "02",
+                "duration": "00:31"
+            },
+            {
+                "city": "Rajbari",
+                "arrival_time": "09:30 pm BST",
+                "halt": null,
+                "duration": "00:47",
+                "departure_time": null
+            }
+        ],
+        "total_duration": "01:20",
+        "train_name": "CHANDANA COMMUTER (124)",
+        "train_model": "124"
+    }
+}

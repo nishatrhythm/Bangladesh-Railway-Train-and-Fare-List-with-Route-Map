@@ -1,0 +1,32 @@
+{
+    "data": {
+        "days": [
+            "Fri",
+            "Sat",
+            "Sun",
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+        ],
+        "routes": [
+            {
+                "city": "Dhaka",
+                "departure_time": "09:20 am BST",
+                "halt": null,
+                "duration": null,
+                "arrival_time": null
+            },
+            {
+                "city": "Narayanganj",
+                "arrival_time": "10:05 am BST",
+                "halt": null,
+                "duration": "00:45",
+                "departure_time": null
+            }
+        ],
+        "total_duration": "00:45",
+        "train_name": "NARAYANGANJ COMMUTER 6 (1006)",
+        "train_model": "1006"
+    }
+}

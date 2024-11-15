@@ -1,0 +1,86 @@
+{
+    "data": {
+        "days": [
+            "Fri",
+            "Sat",
+            "Sun",
+            "Mon",
+            "Tue",
+            "Thu"
+        ],
+        "routes": [
+            {
+                "city": "Rajshahi",
+                "departure_time": "11:20 pm BST",
+                "halt": null,
+                "duration": null,
+                "arrival_time": null
+            },
+            {
+                "city": "Arani",
+                "arrival_time": "11:51 pm BST",
+                "halt": "---",
+                "duration": "00:31"
+            },
+            {
+                "city": "Abdulpur",
+                "arrival_time": "12:05 am BST",
+                "departure_time": "12:07 am BST",
+                "halt": "02",
+                "duration": "---"
+            },
+            {
+                "city": "Ishwardi Bypass",
+                "arrival_time": "12:23 am BST",
+                "departure_time": "12:25 am BST",
+                "halt": "02",
+                "duration": "00:16"
+            },
+            {
+                "city": "Chatmohar",
+                "arrival_time": "12:44 am BST",
+                "departure_time": "12:47 am BST",
+                "halt": "03",
+                "duration": "00:19"
+            },
+            {
+                "city": "Boral_Bridge",
+                "arrival_time": "01:00 am BST",
+                "departure_time": "01:03 am BST",
+                "halt": "03",
+                "duration": "00:13"
+            },
+            {
+                "city": "SH M Monsur Ali",
+                "arrival_time": "01:49 am BST",
+                "departure_time": "01:51 am BST",
+                "halt": "02",
+                "duration": "00:46"
+            },
+            {
+                "city": "BBSetu_E",
+                "arrival_time": "02:31 am BST",
+                "departure_time": "02:33 am BST",
+                "halt": "02",
+                "duration": "00:40"
+            },
+            {
+                "city": "Joydebpur",
+                "arrival_time": "03:49 am BST",
+                "departure_time": "03:52 am BST",
+                "halt": "03",
+                "duration": "01:16"
+            },
+            {
+                "city": "Dhaka",
+                "arrival_time": "05:00 am BST",
+                "halt": null,
+                "duration": "01:08",
+                "departure_time": null
+            }
+        ],
+        "total_duration": "05:40",
+        "train_name": "DHUMKETU EXPRESS (770)",
+        "train_model": "770"
+    }
+}

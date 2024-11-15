@@ -1,0 +1,52 @@
+{
+    "data": {
+        "days": [
+            "Sat",
+            "Sun",
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+        ],
+        "routes": [
+            {
+                "city": "Bhanga",
+                "departure_time": "07:15 am BST",
+                "halt": null,
+                "duration": null,
+                "arrival_time": null
+            },
+            {
+                "city": "Shibchar",
+                "arrival_time": "07:38 am BST",
+                "departure_time": "07:40 am BST",
+                "halt": "02",
+                "duration": "00:23"
+            },
+            {
+                "city": "Padma",
+                "arrival_time": "07:51 am BST",
+                "departure_time": "07:53 am BST",
+                "halt": "02",
+                "duration": "00:11"
+            },
+            {
+                "city": "Mawa",
+                "arrival_time": "08:08 am BST",
+                "departure_time": "08:10 am BST",
+                "halt": "02",
+                "duration": "00:15"
+            },
+            {
+                "city": "Dhaka",
+                "arrival_time": "09:15 am BST",
+                "halt": null,
+                "duration": "01:05",
+                "departure_time": null
+            }
+        ],
+        "total_duration": "02:00",
+        "train_name": "BHANGA COMMUTER (123)",
+        "train_model": "123"
+    }
+}

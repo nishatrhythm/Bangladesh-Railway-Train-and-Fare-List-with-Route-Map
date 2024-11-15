@@ -4,13 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bangladesh Railway Fare List</title>
+    <title>BD Railway Train & Fare List</title>
 
-    <meta property='og:title' content='Bangladesh Railway Fare List'>
+    <meta property='og:title' content='Bangladesh Railway Train & Fare List'>
     <meta property='og:image'
-        content='https://raw.githubusercontent.com/nishatrhythm/Bangladesh-Railway-Fare-List/main/images/link_share_image.png'>
+        content='https://raw.githubusercontent.com/nishatrhythm/Bangladesh-Railway-Train-and-Fare-List/main/images/link_share_image.png'>
     <meta property='og:description'
-        content='Explore the complete fare list for Bangladesh Railway to plan your journey efficiently.'>
+        content='Explore the complete train and fare list for Bangladesh Railway to plan your journey efficiently.'>
     <meta property='og:url' content='https://bdrailway.vercel.app'>
     <meta property='og:image:width' content='4800'>
     <meta property='og:image:height' content='2520'>
@@ -18,10 +18,11 @@
     <meta name="author" content="Nishat Mahmud">
     <meta name="publish_date" content="2024-11-11" scheme="YYYY-MM-DD">
     <meta name="keywords" content="Bangladesh Railway, train fares, travel, transportation, railway schedule">
-    <meta name="description" content="Get the most updated fare list and schedule for Bangladesh Railway to plan your journey easily.">
+    <meta name="description"
+        content="Get the most updated train schedule and fare list for Bangladesh Railway to plan your journey easily.">
 
     <link rel="icon"
-        href="https://raw.githubusercontent.com/nishatrhythm/Bangladesh-Railway-Fare-List/main/images/bangladesh-railway.png"
+        href="https://raw.githubusercontent.com/nishatrhythm/Bangladesh-Railway-Train-and-Fare-List/main/images/bangladesh-railway.png"
         type="image/x-icon" sizes="30x30">
 
     <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap"
@@ -104,9 +105,9 @@
 <body>
     <div class="container">
         <h1>
-            <img src="https://raw.githubusercontent.com/nishatrhythm/Bangladesh-Railway-Fare-List/main/images/bangladesh-railway.png"
+            <img src="https://raw.githubusercontent.com/nishatrhythm/Bangladesh-Railway-Train-and-Fare-List/main/images/bangladesh-railway.png"
                 alt="Bangladesh Railway Logo" class="railway-icon">
-            Bangladesh Railway Fare List
+            Bangladesh Railway Train and Fare List
         </h1>
         <form method="POST" onsubmit="return validateForm()">
             <div class="form-group">
@@ -150,6 +151,44 @@
 
         <!-- Content to hide when the loader is active -->
         <div id="content">
+            <!-- New section to display trains running between the selected stations -->
+            {% if trains %}
+            <h2 class="fare-list-heading">
+                Train List for<br>
+                <span class="highlight-station">{{ selected_origin }}</span> to <span class="highlight-station">{{
+                    selected_destination }}</span>
+            </h2>
+
+            <div class="table-wrapper">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Train Name</th>
+                            <th>Off Day</th>
+                            <th>Departure Time</th>
+                            <th>Arrival Time</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for train in trains %}
+                        <tr>
+                            <td>{{ train['train_name'] }}</td>
+                            <td>
+                                {% if train['off_days'] == 'Runs everyday' %}
+                                <span class="no-off-day">{{ train['off_days'] }}</span>
+                                {% else %}
+                                <span class="off-day">{{ train['off_days'] }}</span>
+                                {% endif %}
+                            </td>
+                            <td>{{ train['departure_time'] }}</td>
+                            <td>{{ train['arrival_time'] }}</td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+            {% endif %}
+
             <!-- Display the error message if present -->
             {% if error %}
             <p class="error">{{ error }}</p>
@@ -185,16 +224,19 @@
                 </table>
             </div>
             <p class="note">
-                <span class="note-bold">Note:</span> An extra <span class="highlight">BDT 20</span> online payment
+                <span class="note-bold">Note:</span> Train schedules are <span class="note-bold">subject to
+                    change</span> based on Bangladesh Railway decisions during special occasions such as Eid, Puja, and
+                other public events. An extra <span class="highlight">BDT 20</span> online payment
                 charge applies. Total fare includes <span class="highlight">BDT 50</span> bedding charges per seat for
                 <span class="note-bold">AC_B</span> and <span class="note-bold">F_BERTH</span> seat classes.
             </p>
             {% endif %}
         </div>
+
         <!-- Footer -->
         <footer class="footer">
             <p>This project is open source. Check it out on <a
-                    href="https://github.com/nishatrhythm/Bangladesh-Railway-Fare-List" target="_blank">GitHub</a>.</p>
+                    href="https://github.com/nishatrhythm/Bangladesh-Railway-Train-and-Fare-List" target="_blank">GitHub</a>.</p>
         </footer>
     </div>
 </body>

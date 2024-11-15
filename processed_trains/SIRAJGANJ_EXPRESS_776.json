@@ -1,0 +1,86 @@
+{
+    "data": {
+        "days": [
+            "Fri",
+            "Sun",
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+        ],
+        "routes": [
+            {
+                "city": "Dhaka",
+                "departure_time": "04:15 pm BST",
+                "halt": null,
+                "duration": null,
+                "arrival_time": null
+            },
+            {
+                "city": "Biman_Bandar",
+                "arrival_time": "04:38 pm BST",
+                "departure_time": "04:43 pm BST",
+                "halt": "05",
+                "duration": "00:23"
+            },
+            {
+                "city": "Joydebpur",
+                "arrival_time": "05:06 pm BST",
+                "departure_time": "05:09 pm BST",
+                "halt": "03",
+                "duration": "00:23"
+            },
+            {
+                "city": "Mirzapur",
+                "arrival_time": "05:49 pm BST",
+                "halt": "---",
+                "duration": "00:40"
+            },
+            {
+                "city": "Tangail",
+                "arrival_time": "06:17 pm BST",
+                "departure_time": "06:20 pm BST",
+                "halt": "03",
+                "duration": "---"
+            },
+            {
+                "city": "BBSetu_E",
+                "arrival_time": "06:40 pm BST",
+                "departure_time": "07:02 pm BST",
+                "halt": "22",
+                "duration": "00:20"
+            },
+            {
+                "city": "SH M Monsur Ali",
+                "arrival_time": "07:28 pm BST",
+                "departure_time": "07:32 pm BST",
+                "halt": "04",
+                "duration": "00:26"
+            },
+            {
+                "city": "Jamtail",
+                "arrival_time": "07:40 pm BST",
+                "departure_time": "08:00 pm BST",
+                "halt": "20",
+                "duration": "00:08"
+            },
+            {
+                "city": "Sirajganjraipur",
+                "arrival_time": "08:13 pm BST",
+                "departure_time": "08:15 pm BST",
+                "halt": "02",
+                "duration": "00:13"
+            },
+            {
+                "city": "Sirajganj_Bazar",
+                "arrival_time": "08:40 pm BST",
+                "halt": null,
+                "duration": "00:25",
+                "departure_time": null
+            }
+        ],
+        "total_duration": "04:25",
+        "train_name": "SIRAJGANJ EXPRESS (776)",
+        "train_model": "776"
+    }
+}

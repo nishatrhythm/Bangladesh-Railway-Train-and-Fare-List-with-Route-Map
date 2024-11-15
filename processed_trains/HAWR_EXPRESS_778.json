@@ -1,0 +1,93 @@
+{
+    "data": {
+        "days": [
+            "Fri",
+            "Sat",
+            "Sun",
+            "Mon",
+            "Tue",
+            "Wed"
+        ],
+        "routes": [
+            {
+                "city": "Mohanganj",
+                "departure_time": "08:00 am BST",
+                "halt": null,
+                "duration": null,
+                "arrival_time": null
+            },
+            {
+                "city": "Barhatta",
+                "arrival_time": "08:14 am BST",
+                "departure_time": "08:16 am BST",
+                "halt": "02",
+                "duration": "00:14"
+            },
+            {
+                "city": "Thakrokona",
+                "arrival_time": "08:26 am BST",
+                "halt": "---",
+                "duration": "00:10"
+            },
+            {
+                "city": "Netrakona",
+                "departure_time": "08:52 am BST",
+                "arrival_time": "08:47 am BST",
+                "halt": "05",
+                "duration": "---"
+            },
+            {
+                "city": "Shyamgonj",
+                "arrival_time": "09:15 am BST",
+                "departure_time": "09:17 am BST",
+                "halt": "02",
+                "duration": "00:23"
+            },
+            {
+                "city": "Gouripur_Myn",
+                "arrival_time": "09:31 am BST",
+                "departure_time": "09:34 am BST",
+                "halt": "03",
+                "duration": "00:14"
+            },
+            {
+                "city": "Mymensingh",
+                "departure_time": "10:25 am BST",
+                "arrival_time": "10:05 am BST",
+                "halt": "20",
+                "duration": "00:31"
+            },
+            {
+                "city": "Gafargaon",
+                "arrival_time": "11:10 am BST",
+                "departure_time": "11:13 am BST",
+                "halt": "03",
+                "duration": "00:45"
+            },
+            {
+                "city": "Joydebpur",
+                "arrival_time": "12:35 pm BST",
+                "departure_time": "12:37 pm BST",
+                "halt": "02",
+                "duration": "01:22"
+            },
+            {
+                "city": "Biman_Bandar",
+                "arrival_time": "01:00 pm BST",
+                "departure_time": "01:03 pm BST",
+                "halt": "03",
+                "duration": "00:23"
+            },
+            {
+                "city": "Dhaka",
+                "arrival_time": "01:40 pm BST",
+                "halt": null,
+                "duration": "00:37",
+                "departure_time": null
+            }
+        ],
+        "total_duration": "05:40",
+        "train_name": "HAWR EXPRESS (778)",
+        "train_model": "778"
+    }
+}

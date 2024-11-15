@@ -1,0 +1,99 @@
+{
+    "data": {
+        "days": [
+            "Fri",
+            "Sat",
+            "Sun",
+            "Tue",
+            "Wed",
+            "Thu"
+        ],
+        "routes": [
+            {
+                "city": "Ishwardi",
+                "departure_time": "07:00 am BST",
+                "halt": null,
+                "duration": null,
+                "arrival_time": null
+            },
+            {
+                "city": "Azim Nagar",
+                "arrival_time": "07:13 am BST",
+                "halt": "---",
+                "duration": "00:13"
+            },
+            {
+                "city": "Abdulpur",
+                "arrival_time": "07:24 am BST",
+                "departure_time": "07:45 am BST",
+                "halt": "21",
+                "duration": "---"
+            },
+            {
+                "city": "Lokmanpur",
+                "arrival_time": "07:52 am BST",
+                "halt": "---",
+                "duration": "00:07"
+            },
+            {
+                "city": "Arani",
+                "arrival_time": "08:01 am BST",
+                "halt": "---",
+                "duration": "---"
+            },
+            {
+                "city": "Sardah_Road",
+                "arrival_time": "08:35 am BST",
+                "halt": "---",
+                "duration": "---"
+            },
+            {
+                "city": "Rajshahi",
+                "arrival_time": "09:00 am BST",
+                "departure_time": "09:10 am BST",
+                "halt": "10",
+                "duration": "---"
+            },
+            {
+                "city": "Rajshahi_Court",
+                "arrival_time": "09:20 am BST",
+                "halt": "---",
+                "duration": "00:10"
+            },
+            {
+                "city": "Kakonhat",
+                "arrival_time": "09:54 am BST",
+                "halt": "---",
+                "duration": "---"
+            },
+            {
+                "city": "Lolitnagar",
+                "arrival_time": "10:06 am BST",
+                "halt": "---",
+                "duration": "---"
+            },
+            {
+                "city": "Amnura",
+                "arrival_time": "10:19 am BST",
+                "halt": "---",
+                "duration": "---"
+            },
+            {
+                "city": "Nachole",
+                "arrival_time": "10:36 am BST",
+                "halt": "---",
+                "duration": "---"
+            },
+            {
+                "city": "Rohanpur",
+                "arrival_time": "11:10 am BST",
+                "halt": null,
+                "duration": "---",
+                "departure_time": null
+            }
+        ],
+        "total_duration": "04:10",
+        "train_name": "RAJSHAHI COMMUTER (57)",
+        "train_model": "57"
+    }
+}

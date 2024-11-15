@@ -1,0 +1,115 @@
+{
+    "data": {
+        "days": [
+            "Fri",
+            "Sat",
+            "Sun",
+            "Mon",
+            "Tue",
+            "Thu"
+        ],
+        "routes": [
+            {
+                "city": "Benapole",
+                "departure_time": "01:00 pm BST",
+                "halt": null,
+                "duration": null,
+                "arrival_time": null
+            },
+            {
+                "city": "Jhikargacha",
+                "arrival_time": "01:30 pm BST",
+                "departure_time": "01:32 pm BST",
+                "halt": "02",
+                "duration": "00:30"
+            },
+            {
+                "city": "Jashore",
+                "departure_time": "02:15 pm BST",
+                "arrival_time": "01:55 pm BST",
+                "halt": "20",
+                "duration": "00:23"
+            },
+            {
+                "city": "Mubarakganj",
+                "arrival_time": "02:55 pm BST",
+                "departure_time": "02:57 pm BST",
+                "halt": "02",
+                "duration": "00:40"
+            },
+            {
+                "city": "Kotchandpur",
+                "arrival_time": "03:08 pm BST",
+                "departure_time": "03:10 pm BST",
+                "halt": "02",
+                "duration": "00:11"
+            },
+            {
+                "city": "Darshana_Halt",
+                "arrival_time": "03:34 pm BST",
+                "departure_time": "03:37 pm BST",
+                "halt": "03",
+                "duration": "00:24"
+            },
+            {
+                "city": "Chuadanga",
+                "arrival_time": "03:56 pm BST",
+                "departure_time": "03:59 pm BST",
+                "halt": "03",
+                "duration": "00:19"
+            },
+            {
+                "city": "Poradaha",
+                "arrival_time": "04:40 pm BST",
+                "departure_time": "04:44 pm BST",
+                "halt": "04",
+                "duration": "00:41"
+            },
+            {
+                "city": "Kushtia_Court",
+                "arrival_time": "04:56 pm BST",
+                "departure_time": "04:59 pm BST",
+                "halt": "03",
+                "duration": "00:12"
+            },
+            {
+                "city": "Khoksha",
+                "departure_time": "05:23 pm BST",
+                "arrival_time": "05:21 pm BST",
+                "halt": "02",
+                "duration": "00:22"
+            },
+            {
+                "city": "Rajbari",
+                "departure_time": "06:10 pm BST",
+                "arrival_time": "06:00 pm BST",
+                "halt": "10",
+                "duration": "00:37"
+            },
+            {
+                "city": "Faridpur",
+                "arrival_time": "06:42 pm BST",
+                "departure_time": "06:45 pm BST",
+                "halt": "03",
+                "duration": "00:32"
+            },
+            {
+                "city": "Bhanga",
+                "arrival_time": "07:15 pm BST",
+                "departure_time": "07:18 pm BST",
+                "halt": "03",
+                "duration": "00:30"
+            },
+            {
+                "city": "Dhaka",
+                "arrival_time": "08:45 pm BST",
+                "halt": null,
+                "duration": "01:27",
+                "departure_time": null
+            }
+        ],
+        "total_duration": "07:45",
+        "train_name": "BENAPOLE EXPRESS (795)",
+        "train_model": "795"
+    }
+}

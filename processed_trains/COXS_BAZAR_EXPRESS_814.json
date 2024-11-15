@@ -1,0 +1,45 @@
+{
+    "data": {
+        "days": [
+            "Fri",
+            "Sat",
+            "Sun",
+            "Tue",
+            "Wed",
+            "Thu"
+        ],
+        "routes": [
+            {
+                "city": "Dhaka",
+                "departure_time": "10:30 pm BST",
+                "halt": null,
+                "duration": null,
+                "arrival_time": null
+            },
+            {
+                "city": "Biman_Bandar",
+                "arrival_time": "10:53 pm BST",
+                "departure_time": "10:58 pm BST",
+                "halt": "05",
+                "duration": "00:23"
+            },
+            {
+                "city": "Chattogram",
+                "arrival_time": "03:40 am BST",
+                "departure_time": "04:00 am BST",
+                "halt": "20",
+                "duration": "04:42"
+            },
+            {
+                "city": "Cox's Bazar",
+                "arrival_time": "07:20 am BST",
+                "halt": null,
+                "duration": "03:20",
+                "departure_time": null
+            }
+        ],
+        "total_duration": "08:50",
+        "train_name": "COXS BAZAR EXPRESS (814)",
+        "train_model": "814"
+    }
+}

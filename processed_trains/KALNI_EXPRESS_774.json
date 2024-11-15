@@ -1,0 +1,100 @@
+{
+    "data": {
+        "days": [
+            "Sat",
+            "Sun",
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+        ],
+        "routes": [
+            {
+                "city": "Sylhet",
+                "departure_time": "06:15 am BST",
+                "halt": null,
+                "duration": null,
+                "arrival_time": null
+            },
+            {
+                "city": "Maijgaon",
+                "arrival_time": "06:55 am BST",
+                "departure_time": "06:57 am BST",
+                "halt": "02",
+                "duration": "00:40"
+            },
+            {
+                "city": "Kulaura",
+                "arrival_time": "07:23 am BST",
+                "departure_time": "07:26 am BST",
+                "halt": "03",
+                "duration": "00:26"
+            },
+            {
+                "city": "Shamshernagar",
+                "arrival_time": "07:50 am BST",
+                "departure_time": "07:52 am BST",
+                "halt": "02",
+                "duration": "00:24"
+            },
+            {
+                "city": "Sreemangal",
+                "arrival_time": "08:17 am BST",
+                "departure_time": "08:20 am BST",
+                "halt": "03",
+                "duration": "00:25"
+            },
+            {
+                "city": "Shaistaganj",
+                "arrival_time": "08:57 am BST",
+                "departure_time": "09:00 am BST",
+                "halt": "03",
+                "duration": "00:37"
+            },
+            {
+                "city": "Harashpur",
+                "arrival_time": "09:52 am BST",
+                "departure_time": "09:54 am BST",
+                "halt": "02",
+                "duration": "00:52"
+            },
+            {
+                "city": "Azampur",
+                "arrival_time": "10:20 am BST",
+                "departure_time": "10:22 am BST",
+                "halt": "02",
+                "duration": "00:26"
+            },
+            {
+                "city": "Bhairab_Bazar",
+                "arrival_time": "11:08 am BST",
+                "departure_time": "11:10 am BST",
+                "halt": "02",
+                "duration": "00:46"
+            },
+            {
+                "city": "Narsingdi",
+                "arrival_time": "11:40 am BST",
+                "departure_time": "11:42 am BST",
+                "halt": "02",
+                "duration": "00:30"
+            },
+            {
+                "city": "Biman_Bandar",
+                "arrival_time": "12:22 pm BST",
+                "halt": "---",
+                "duration": "00:40"
+            },
+            {
+                "city": "Dhaka",
+                "arrival_time": "01:00 pm BST",
+                "halt": null,
+                "duration": "---",
+                "departure_time": null
+            }
+        ],
+        "total_duration": "06:45",
+        "train_name": "KALNI EXPRESS (774)",
+        "train_model": "774"
+    }
+}

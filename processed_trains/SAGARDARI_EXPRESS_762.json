@@ -1,0 +1,136 @@
+{
+    "data": {
+        "days": [
+            "Fri",
+            "Sat",
+            "Sun",
+            "Tue",
+            "Wed",
+            "Thu"
+        ],
+        "routes": [
+            {
+                "city": "Rajshahi",
+                "departure_time": "06:00 am BST",
+                "halt": null,
+                "duration": null,
+                "arrival_time": null
+            },
+            {
+                "city": "Abdulpur",
+                "arrival_time": "06:40 am BST",
+                "departure_time": "06:42 am BST",
+                "halt": "02",
+                "duration": "00:40"
+            },
+            {
+                "city": "Azim Nagar",
+                "arrival_time": "06:51 am BST",
+                "departure_time": "06:53 am BST",
+                "halt": "02",
+                "duration": "00:09"
+            },
+            {
+                "city": "Ishwardi",
+                "departure_time": "07:20 am BST",
+                "arrival_time": "07:10 am BST",
+                "halt": "10",
+                "duration": "00:17"
+            },
+            {
+                "city": "Pakshi",
+                "arrival_time": "07:30 am BST",
+                "departure_time": "07:32 am BST",
+                "halt": "02",
+                "duration": "00:10"
+            },
+            {
+                "city": "Bheramara",
+                "arrival_time": "07:44 am BST",
+                "departure_time": "07:48 am BST",
+                "halt": "04",
+                "duration": "00:12"
+            },
+            {
+                "city": "Mirpur",
+                "arrival_time": "07:58 am BST",
+                "departure_time": "08:00 am BST",
+                "halt": "02",
+                "duration": "00:10"
+            },
+            {
+                "city": "Poradaha",
+                "arrival_time": "08:10 am BST",
+                "departure_time": "08:14 am BST",
+                "halt": "04",
+                "duration": "00:10"
+            },
+            {
+                "city": "Alamdanga",
+                "arrival_time": "08:29 am BST",
+                "departure_time": "08:31 am BST",
+                "halt": "02",
+                "duration": "00:15"
+            },
+            {
+                "city": "Chuadanga",
+                "arrival_time": "08:47 am BST",
+                "departure_time": "08:50 am BST",
+                "halt": "03",
+                "duration": "00:16"
+            },
+            {
+                "city": "Darshana_Halt",
+                "arrival_time": "09:20 am BST",
+                "departure_time": "09:23 am BST",
+                "halt": "03",
+                "duration": "00:30"
+            },
+            {
+                "city": "Safdarpur",
+                "arrival_time": "09:40 am BST",
+                "departure_time": "09:42 am BST",
+                "halt": "02",
+                "duration": "00:17"
+            },
+            {
+                "city": "Kotchandpur",
+                "departure_time": "09:53 am BST",
+                "arrival_time": "09:51 am BST",
+                "halt": "02",
+                "duration": "00:09"
+            },
+            {
+                "city": "Mubarakganj",
+                "arrival_time": "10:05 am BST",
+                "departure_time": "10:07 am BST",
+                "halt": "02",
+                "duration": "00:12"
+            },
+            {
+                "city": "Jashore",
+                "departure_time": "10:39 am BST",
+                "arrival_time": "10:35 am BST",
+                "halt": "04",
+                "duration": "00:28"
+            },
+            {
+                "city": "Noapara",
+                "arrival_time": "11:07 am BST",
+                "departure_time": "11:10 am BST",
+                "halt": "03",
+                "duration": "00:28"
+            },
+            {
+                "city": "Khulna",
+                "arrival_time": "12:10 pm BST",
+                "halt": null,
+                "duration": "01:00",
+                "departure_time": null
+            }
+        ],
+        "total_duration": "06:10",
+        "train_name": "SAGARDARI EXPRESS (762)",
+        "train_model": "762"
+    }
+}

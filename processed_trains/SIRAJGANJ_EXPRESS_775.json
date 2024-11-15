@@ -1,0 +1,94 @@
+{
+    "data": {
+        "days": [
+            "Fri",
+            "Sun",
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+        ],
+        "routes": [
+            {
+                "city": "Sirajganj_Bazar",
+                "departure_time": "06:00 am BST",
+                "halt": null,
+                "duration": null,
+                "arrival_time": null
+            },
+            {
+                "city": "Sirajganjraipur",
+                "arrival_time": "06:08 am BST",
+                "departure_time": "06:10 am BST",
+                "halt": "02",
+                "duration": "00:08"
+            },
+            {
+                "city": "Jamtail",
+                "departure_time": "06:40 am BST",
+                "arrival_time": "06:22 am BST",
+                "halt": "18",
+                "duration": "00:12"
+            },
+            {
+                "city": "SH M Monsur Ali",
+                "departure_time": "06:50 am BST",
+                "arrival_time": "06:48 am BST",
+                "halt": "02",
+                "duration": "00:08"
+            },
+            {
+                "city": "BBSetu_W",
+                "arrival_time": "06:57 am BST",
+                "departure_time": "07:07 am BST",
+                "halt": "10",
+                "duration": "00:07"
+            },
+            {
+                "city": "BBSetu_E",
+                "departure_time": "07:32 am BST",
+                "arrival_time": "07:30 am BST",
+                "halt": "02",
+                "duration": "00:23"
+            },
+            {
+                "city": "Tangail",
+                "departure_time": "07:54 am BST",
+                "arrival_time": "07:52 am BST",
+                "halt": "02",
+                "duration": "00:20"
+            },
+            {
+                "city": "Hi-Tech City",
+                "arrival_time": "08:33 am BST",
+                "departure_time": "08:35 am BST",
+                "halt": "02",
+                "duration": "00:39"
+            },
+            {
+                "city": "Joydebpur",
+                "arrival_time": "09:13 am BST",
+                "departure_time": "09:16 am BST",
+                "halt": "03",
+                "duration": "00:38"
+            },
+            {
+                "city": "Biman_Bandar",
+                "departure_time": "09:42 am BST",
+                "arrival_time": "09:39 am BST",
+                "halt": "03",
+                "duration": "00:23"
+            },
+            {
+                "city": "Dhaka",
+                "arrival_time": "10:10 am BST",
+                "halt": null,
+                "duration": "00:28",
+                "departure_time": null
+            }
+        ],
+        "total_duration": "04:10",
+        "train_name": "SIRAJGANJ EXPRESS (775)",
+        "train_model": "775"
+    }
+}

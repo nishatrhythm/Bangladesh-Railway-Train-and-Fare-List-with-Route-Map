@@ -1,0 +1,129 @@
+{
+    "data": {
+        "days": [
+            "Sat",
+            "Sun",
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+        ],
+        "routes": [
+            {
+                "city": "Rajshahi",
+                "departure_time": "02:30 pm BST",
+                "halt": null,
+                "duration": null,
+                "arrival_time": null
+            },
+            {
+                "city": "Azim Nagar",
+                "arrival_time": "03:16 pm BST",
+                "departure_time": "03:18 pm BST",
+                "halt": "02",
+                "duration": "00:46"
+            },
+            {
+                "city": "Ishwardi",
+                "departure_time": "03:45 pm BST",
+                "arrival_time": "03:30 pm BST",
+                "halt": "15",
+                "duration": "00:12"
+            },
+            {
+                "city": "Pakshi",
+                "arrival_time": "03:55 pm BST",
+                "departure_time": "03:57 pm BST",
+                "halt": "02",
+                "duration": "00:10"
+            },
+            {
+                "city": "Bheramara",
+                "arrival_time": "04:09 pm BST",
+                "departure_time": "04:12 pm BST",
+                "halt": "03",
+                "duration": "00:12"
+            },
+            {
+                "city": "Mirpur",
+                "arrival_time": "04:22 pm BST",
+                "departure_time": "04:24 pm BST",
+                "halt": "02",
+                "duration": "00:10"
+            },
+            {
+                "city": "Poradaha",
+                "arrival_time": "04:34 pm BST",
+                "departure_time": "04:37 pm BST",
+                "halt": "03",
+                "duration": "00:10"
+            },
+            {
+                "city": "Alamdanga",
+                "arrival_time": "04:52 pm BST",
+                "departure_time": "04:54 pm BST",
+                "halt": "02",
+                "duration": "00:15"
+            },
+            {
+                "city": "Chuadanga",
+                "arrival_time": "05:10 pm BST",
+                "departure_time": "05:13 pm BST",
+                "halt": "03",
+                "duration": "00:16"
+            },
+            {
+                "city": "Darshana_Halt",
+                "arrival_time": "05:33 pm BST",
+                "departure_time": "05:36 pm BST",
+                "halt": "03",
+                "duration": "00:20"
+            },
+            {
+                "city": "Safdarpur",
+                "arrival_time": "05:55 pm BST",
+                "departure_time": "05:58 pm BST",
+                "halt": "03",
+                "duration": "00:19"
+            },
+            {
+                "city": "Kotchandpur",
+                "departure_time": "06:19 pm BST",
+                "arrival_time": "06:17 pm BST",
+                "halt": "02",
+                "duration": "00:19"
+            },
+            {
+                "city": "Mubarakganj",
+                "arrival_time": "06:31 pm BST",
+                "departure_time": "06:33 pm BST",
+                "halt": "02",
+                "duration": "00:12"
+            },
+            {
+                "city": "Jashore",
+                "departure_time": "07:09 pm BST",
+                "arrival_time": "07:05 pm BST",
+                "halt": "04",
+                "duration": "00:32"
+            },
+            {
+                "city": "Noapara",
+                "arrival_time": "07:37 pm BST",
+                "departure_time": "07:40 pm BST",
+                "halt": "03",
+                "duration": "00:28"
+            },
+            {
+                "city": "Khulna",
+                "arrival_time": "08:25 pm BST",
+                "halt": null,
+                "duration": "00:45",
+                "departure_time": null
+            }
+        ],
+        "total_duration": "05:55",
+        "train_name": "KAPOTAKSHA EXPRESS (716)",
+        "train_model": "716"
+    }
+}

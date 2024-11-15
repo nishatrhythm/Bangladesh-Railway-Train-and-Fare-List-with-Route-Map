@@ -1,0 +1,32 @@
+{
+    "data": {
+        "days": [
+            "Fri",
+            "Sat",
+            "Sun",
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+        ],
+        "routes": [
+            {
+                "city": "Dhaka",
+                "departure_time": "05:00 am BST",
+                "halt": null,
+                "duration": null,
+                "arrival_time": null
+            },
+            {
+                "city": "Narayanganj",
+                "arrival_time": "05:45 am BST",
+                "halt": null,
+                "duration": "00:45",
+                "departure_time": null
+            }
+        ],
+        "total_duration": "00:45",
+        "train_name": "NARAYANGANJ COMMUTER 2 (1002)",
+        "train_model": "1002"
+    }
+}

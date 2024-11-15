@@ -1,0 +1,74 @@
+{
+    "data": {
+        "days": [
+            "Fri",
+            "Sat",
+            "Sun",
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+        ],
+        "routes": [
+            {
+                "city": "Chattogram",
+                "departure_time": "11:30 pm BST",
+                "halt": null,
+                "duration": null,
+                "arrival_time": null
+            },
+            {
+                "city": "Feni",
+                "arrival_time": "12:50 am BST",
+                "departure_time": "12:52 am BST",
+                "halt": "02",
+                "duration": "01:20"
+            },
+            {
+                "city": "Laksam",
+                "arrival_time": "01:30 am BST",
+                "departure_time": "01:32 am BST",
+                "halt": "02",
+                "duration": "00:38"
+            },
+            {
+                "city": "Cumilla",
+                "arrival_time": "01:55 am BST",
+                "departure_time": "01:57 am BST",
+                "halt": "02",
+                "duration": "00:23"
+            },
+            {
+                "city": "Akhaura",
+                "arrival_time": "02:47 am BST",
+                "departure_time": "02:50 am BST",
+                "halt": "03",
+                "duration": "00:50"
+            },
+            {
+                "city": "Brahmanbaria",
+                "arrival_time": "03:07 am BST",
+                "departure_time": "03:10 am BST",
+                "halt": "03",
+                "duration": "00:17"
+            },
+            {
+                "city": "Bhairab_Bazar",
+                "arrival_time": "03:30 am BST",
+                "departure_time": "03:33 am BST",
+                "halt": "03",
+                "duration": "00:20"
+            },
+            {
+                "city": "Dhaka",
+                "arrival_time": "05:15 am BST",
+                "halt": null,
+                "duration": "01:42",
+                "departure_time": null
+            }
+        ],
+        "total_duration": "05:45",
+        "train_name": "TURNA (741)",
+        "train_model": "741"
+    }
+}

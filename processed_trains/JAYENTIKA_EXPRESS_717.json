@@ -1,0 +1,129 @@
+{
+    "data": {
+        "days": [
+            "Fri",
+            "Sat",
+            "Sun",
+            "Mon",
+            "Wed",
+            "Thu"
+        ],
+        "routes": [
+            {
+                "city": "Dhaka",
+                "departure_time": "11:15 am BST",
+                "halt": null,
+                "duration": null,
+                "arrival_time": null
+            },
+            {
+                "city": "Biman_Bandar",
+                "arrival_time": "11:38 am BST",
+                "departure_time": "11:43 am BST",
+                "halt": "05",
+                "duration": "00:23"
+            },
+            {
+                "city": "Ashuganj",
+                "arrival_time": "12:54 pm BST",
+                "departure_time": "12:56 pm BST",
+                "halt": "02",
+                "duration": "01:11"
+            },
+            {
+                "city": "Brahmanbaria",
+                "arrival_time": "01:11 pm BST",
+                "departure_time": "01:15 pm BST",
+                "halt": "04",
+                "duration": "00:15"
+            },
+            {
+                "city": "Azampur",
+                "arrival_time": "01:37 pm BST",
+                "departure_time": "01:39 pm BST",
+                "halt": "02",
+                "duration": "00:22"
+            },
+            {
+                "city": "Mukundapur",
+                "arrival_time": "01:52 pm BST",
+                "departure_time": "01:54 pm BST",
+                "halt": "02",
+                "duration": "00:13"
+            },
+            {
+                "city": "Harashpur",
+                "arrival_time": "02:04 pm BST",
+                "departure_time": "02:06 pm BST",
+                "halt": "02",
+                "duration": "00:10"
+            },
+            {
+                "city": "Montola",
+                "arrival_time": "02:17 pm BST",
+                "departure_time": "02:19 pm BST",
+                "halt": "02",
+                "duration": "00:11"
+            },
+            {
+                "city": "Nayapara",
+                "arrival_time": "02:47 pm BST",
+                "departure_time": "02:49 pm BST",
+                "halt": "02",
+                "duration": "00:28"
+            },
+            {
+                "city": "Shahaji_Bazar",
+                "arrival_time": "03:00 pm BST",
+                "departure_time": "03:02 pm BST",
+                "halt": "02",
+                "duration": "00:11"
+            },
+            {
+                "city": "Shaistaganj",
+                "arrival_time": "03:15 pm BST",
+                "departure_time": "03:20 pm BST",
+                "halt": "05",
+                "duration": "00:13"
+            },
+            {
+                "city": "Sreemangal",
+                "arrival_time": "04:01 pm BST",
+                "departure_time": "04:04 pm BST",
+                "halt": "03",
+                "duration": "00:41"
+            },
+            {
+                "city": "Bhanugach",
+                "arrival_time": "04:23 pm BST",
+                "departure_time": "04:25 pm BST",
+                "halt": "02",
+                "duration": "00:19"
+            },
+            {
+                "city": "Kulaura",
+                "arrival_time": "05:11 pm BST",
+                "departure_time": "05:14 pm BST",
+                "halt": "03",
+                "duration": "00:46"
+            },
+            {
+                "city": "Maijgaon",
+                "arrival_time": "05:41 pm BST",
+                "departure_time": "05:43 pm BST",
+                "halt": "02",
+                "duration": "00:27"
+            },
+            {
+                "city": "Sylhet",
+                "arrival_time": "07:00 pm BST",
+                "halt": null,
+                "duration": "01:17",
+                "departure_time": null
+            }
+        ],
+        "total_duration": "07:45",
+        "train_name": "JAYENTIKA EXPRESS (717)",
+        "train_model": "717"
+    }
+}

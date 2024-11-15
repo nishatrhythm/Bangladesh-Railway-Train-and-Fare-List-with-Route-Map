@@ -1,0 +1,86 @@
+{
+    "data": {
+        "days": [
+            "Fri",
+            "Sat",
+            "Sun",
+            "Mon",
+            "Tue",
+            "Thu"
+        ],
+        "routes": [
+            {
+                "city": "Kishorganj",
+                "departure_time": "12:50 pm BST",
+                "halt": null,
+                "duration": null,
+                "arrival_time": null
+            },
+            {
+                "city": "Gachihata",
+                "arrival_time": "01:06 pm BST",
+                "departure_time": "01:08 pm BST",
+                "halt": "02",
+                "duration": "00:16"
+            },
+            {
+                "city": "Manikkhali",
+                "arrival_time": "01:18 pm BST",
+                "departure_time": "01:20 pm BST",
+                "halt": "02",
+                "duration": "00:10"
+            },
+            {
+                "city": "Sararchar",
+                "arrival_time": "01:50 pm BST",
+                "departure_time": "01:52 pm BST",
+                "halt": "02",
+                "duration": "00:30"
+            },
+            {
+                "city": "Bajitpur",
+                "arrival_time": "02:00 pm BST",
+                "departure_time": "02:02 pm BST",
+                "halt": "02",
+                "duration": "00:08"
+            },
+            {
+                "city": "Kuliarchar",
+                "arrival_time": "02:10 pm BST",
+                "departure_time": "02:12 pm BST",
+                "halt": "02",
+                "duration": "00:08"
+            },
+            {
+                "city": "Bhairab_Bazar",
+                "arrival_time": "02:35 pm BST",
+                "departure_time": "02:55 pm BST",
+                "halt": "20",
+                "duration": "00:23"
+            },
+            {
+                "city": "Narsingdi",
+                "arrival_time": "03:25 pm BST",
+                "departure_time": "03:27 pm BST",
+                "halt": "02",
+                "duration": "00:30"
+            },
+            {
+                "city": "Biman_Bandar",
+                "arrival_time": "04:08 pm BST",
+                "halt": "---",
+                "duration": "00:41"
+            },
+            {
+                "city": "Dhaka",
+                "arrival_time": "04:45 pm BST",
+                "halt": null,
+                "duration": "---",
+                "departure_time": null
+            }
+        ],
+        "total_duration": "03:55",
+        "train_name": "EGAROSINDHUR GODHULI (750)",
+        "train_model": "750"
+    }
+}

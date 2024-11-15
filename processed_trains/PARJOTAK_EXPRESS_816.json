@@ -1,0 +1,45 @@
+{
+    "data": {
+        "days": [
+            "Fri",
+            "Sat",
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+        ],
+        "routes": [
+            {
+                "city": "Dhaka",
+                "departure_time": "06:15 am BST",
+                "halt": null,
+                "duration": null,
+                "arrival_time": null
+            },
+            {
+                "city": "Biman_Bandar",
+                "arrival_time": "06:38 am BST",
+                "departure_time": "06:43 am BST",
+                "halt": "05",
+                "duration": "00:23"
+            },
+            {
+                "city": "Chattogram",
+                "arrival_time": "11:20 am BST",
+                "departure_time": "11:40 am BST",
+                "halt": "20",
+                "duration": "04:37"
+            },
+            {
+                "city": "Cox's Bazar",
+                "arrival_time": "03:00 pm BST",
+                "halt": null,
+                "duration": "03:20",
+                "departure_time": null
+            }
+        ],
+        "total_duration": "08:45",
+        "train_name": "PARJOTAK EXPRESS (816)",
+        "train_model": "816"
+    }
+}

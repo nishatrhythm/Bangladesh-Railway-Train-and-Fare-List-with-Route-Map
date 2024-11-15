@@ -1,0 +1,28 @@
+{
+    "data": {
+        "days": [
+            "Fri",
+            "Sun",
+            "Tue"
+        ],
+        "routes": [
+            {
+                "city": "Dhaka",
+                "departure_time": "08:15 am BST",
+                "halt": null,
+                "duration": null,
+                "arrival_time": null
+            },
+            {
+                "city": "Kolkata",
+                "arrival_time": "03:30 pm IST",
+                "halt": null,
+                "duration": "07:45",
+                "departure_time": null
+            }
+        ],
+        "total_duration": "07:45",
+        "train_name": "MAITREE EXPRESS (3107)",
+        "train_model": "3107"
+    }
+}

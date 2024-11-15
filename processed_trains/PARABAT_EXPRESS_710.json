@@ -1,0 +1,100 @@
+{
+    "data": {
+        "days": [
+            "Fri",
+            "Sat",
+            "Sun",
+            "Mon",
+            "Wed",
+            "Thu"
+        ],
+        "routes": [
+            {
+                "city": "Sylhet",
+                "departure_time": "03:30 pm BST",
+                "halt": null,
+                "duration": null,
+                "arrival_time": null
+            },
+            {
+                "city": "Maijgaon",
+                "arrival_time": "04:09 pm BST",
+                "departure_time": "04:12 pm BST",
+                "halt": "03",
+                "duration": "00:39"
+            },
+            {
+                "city": "Kulaura",
+                "arrival_time": "04:42 pm BST",
+                "departure_time": "04:45 pm BST",
+                "halt": "03",
+                "duration": "00:30"
+            },
+            {
+                "city": "Bhanugach",
+                "arrival_time": "05:17 pm BST",
+                "departure_time": "05:19 pm BST",
+                "halt": "02",
+                "duration": "00:32"
+            },
+            {
+                "city": "Sreemangal",
+                "arrival_time": "05:38 pm BST",
+                "departure_time": "05:41 pm BST",
+                "halt": "03",
+                "duration": "00:19"
+            },
+            {
+                "city": "Shaistaganj",
+                "arrival_time": "06:22 pm BST",
+                "departure_time": "06:25 pm BST",
+                "halt": "03",
+                "duration": "00:41"
+            },
+            {
+                "city": "Nayapara",
+                "arrival_time": "06:45 pm BST",
+                "departure_time": "06:47 pm BST",
+                "halt": "02",
+                "duration": "00:20"
+            },
+            {
+                "city": "Azampur",
+                "arrival_time": "07:32 pm BST",
+                "departure_time": "07:34 pm BST",
+                "halt": "02",
+                "duration": "00:45"
+            },
+            {
+                "city": "Brahmanbaria",
+                "arrival_time": "08:04 pm BST",
+                "departure_time": "08:08 pm BST",
+                "halt": "04",
+                "duration": "00:30"
+            },
+            {
+                "city": "Bhairab_Bazar",
+                "arrival_time": "08:27 pm BST",
+                "departure_time": "08:30 pm BST",
+                "halt": "03",
+                "duration": "00:19"
+            },
+            {
+                "city": "Biman_Bandar",
+                "arrival_time": "09:35 pm BST",
+                "halt": "---",
+                "duration": "01:05"
+            },
+            {
+                "city": "Dhaka",
+                "arrival_time": "10:15 pm BST",
+                "halt": null,
+                "duration": "---",
+                "departure_time": null
+            }
+        ],
+        "total_duration": "06:45",
+        "train_name": "PARABAT EXPRESS (710)",
+        "train_model": "710"
+    }
+}

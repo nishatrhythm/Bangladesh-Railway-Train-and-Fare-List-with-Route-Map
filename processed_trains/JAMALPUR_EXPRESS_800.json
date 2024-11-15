@@ -1,0 +1,65 @@
+{
+    "data": {
+        "days": [
+            "Fri",
+            "Sat",
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+        ],
+        "routes": [
+            {
+                "city": "Bhuapur",
+                "departure_time": "04:30 pm BST",
+                "halt": null,
+                "duration": null,
+                "arrival_time": null
+            },
+            {
+                "city": "Tarakandi",
+                "departure_time": "05:27 pm BST",
+                "halt": "---",
+                "duration": "---"
+            },
+            {
+                "city": "Sarishabari",
+                "departure_time": "05:47 pm BST",
+                "arrival_time": "05:42 pm BST",
+                "halt": "05",
+                "duration": "00:15"
+            },
+            {
+                "city": "Jamalpur_Town",
+                "departure_time": "06:45 pm BST",
+                "arrival_time": "06:40 pm BST",
+                "halt": "05",
+                "duration": "00:53"
+            },
+            {
+                "city": "Mymensingh",
+                "departure_time": "07:58 pm BST",
+                "arrival_time": "07:52 pm BST",
+                "halt": "06",
+                "duration": "01:07"
+            },
+            {
+                "city": "Gafargaon",
+                "arrival_time": "08:38 pm BST",
+                "departure_time": "08:40 pm BST",
+                "halt": "02",
+                "duration": "00:40"
+            },
+            {
+                "city": "Dhaka",
+                "arrival_time": "10:40 pm BST",
+                "halt": null,
+                "duration": "02:00",
+                "departure_time": null
+            }
+        ],
+        "total_duration": "06:10",
+        "train_name": "JAMALPUR EXPRESS (800)",
+        "train_model": "800"
+    }
+}

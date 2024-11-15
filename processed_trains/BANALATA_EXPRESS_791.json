@@ -1,0 +1,45 @@
+{
+    "data": {
+        "days": [
+            "Sat",
+            "Sun",
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+        ],
+        "routes": [
+            {
+                "city": "Dhaka",
+                "departure_time": "01:30 pm BST",
+                "halt": null,
+                "duration": null,
+                "arrival_time": null
+            },
+            {
+                "city": "Biman_Bandar",
+                "arrival_time": "01:53 pm BST",
+                "departure_time": "01:58 pm BST",
+                "halt": "05",
+                "duration": "00:23"
+            },
+            {
+                "city": "Rajshahi",
+                "arrival_time": "06:05 pm BST",
+                "departure_time": "06:25 pm BST",
+                "halt": "20",
+                "duration": "04:07"
+            },
+            {
+                "city": "Chapai Nawabganj",
+                "arrival_time": "07:30 pm BST",
+                "halt": null,
+                "duration": "01:05",
+                "departure_time": null
+            }
+        ],
+        "total_duration": "06:00",
+        "train_name": "BANALATA EXPRESS (791)",
+        "train_model": "791"
+    }
+}

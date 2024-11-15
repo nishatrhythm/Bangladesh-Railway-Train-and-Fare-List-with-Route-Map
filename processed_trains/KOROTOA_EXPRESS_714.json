@@ -1,0 +1,142 @@
+{
+    "data": {
+        "days": [
+            "Fri",
+            "Sat",
+            "Sun",
+            "Mon",
+            "Tue",
+            "Thu"
+        ],
+        "routes": [
+            {
+                "city": "Burimari",
+                "departure_time": "04:10 pm BST",
+                "halt": null,
+                "duration": null,
+                "arrival_time": null
+            },
+            {
+                "city": "Patgram",
+                "departure_time": "04:30 pm BST",
+                "arrival_time": "04:25 pm BST",
+                "halt": "05",
+                "duration": "00:15"
+            },
+            {
+                "city": "Barkhata",
+                "arrival_time": "04:56 pm BST",
+                "departure_time": "04:58 pm BST",
+                "halt": "02",
+                "duration": "00:26"
+            },
+            {
+                "city": "Hatibandha",
+                "departure_time": "05:08 pm BST",
+                "arrival_time": "05:06 pm BST",
+                "halt": "02",
+                "duration": "00:08"
+            },
+            {
+                "city": "Tushbhandar",
+                "arrival_time": "05:34 pm BST",
+                "departure_time": "05:36 pm BST",
+                "halt": "02",
+                "duration": "00:26"
+            },
+            {
+                "city": "Kankina",
+                "arrival_time": "05:43 pm BST",
+                "departure_time": "05:45 pm BST",
+                "halt": "02",
+                "duration": "00:07"
+            },
+            {
+                "city": "Aditmari",
+                "arrival_time": "06:02 pm BST",
+                "departure_time": "06:04 pm BST",
+                "halt": "02",
+                "duration": "00:17"
+            },
+            {
+                "city": "Lalmonirhat",
+                "departure_time": "06:45 pm BST",
+                "arrival_time": "06:20 pm BST",
+                "halt": "25",
+                "duration": "00:16"
+            },
+            {
+                "city": "Teesta_Junction",
+                "arrival_time": "07:01 pm BST",
+                "halt": "---",
+                "duration": "00:16"
+            },
+            {
+                "city": "Kaunia",
+                "arrival_time": "07:10 pm BST",
+                "departure_time": "07:13 pm BST",
+                "halt": "03",
+                "duration": "---"
+            },
+            {
+                "city": "Pirgacha",
+                "arrival_time": "07:28 pm BST",
+                "departure_time": "07:31 pm BST",
+                "halt": "03",
+                "duration": "00:15"
+            },
+            {
+                "city": "Bamondanga",
+                "arrival_time": "07:48 pm BST",
+                "departure_time": "07:50 pm BST",
+                "halt": "02",
+                "duration": "00:17"
+            },
+            {
+                "city": "Gaibandha",
+                "arrival_time": "08:20 pm BST",
+                "departure_time": "08:23 pm BST",
+                "halt": "03",
+                "duration": "00:30"
+            },
+            {
+                "city": "Bonar_Para",
+                "arrival_time": "08:45 pm BST",
+                "departure_time": "08:50 pm BST",
+                "halt": "05",
+                "duration": "00:22"
+            },
+            {
+                "city": "Mahimaganj",
+                "arrival_time": "09:00 pm BST",
+                "departure_time": "09:02 pm BST",
+                "halt": "02",
+                "duration": "00:10"
+            },
+            {
+                "city": "Sonatola",
+                "arrival_time": "09:11 pm BST",
+                "departure_time": "09:13 pm BST",
+                "halt": "02",
+                "duration": "00:09"
+            },
+            {
+                "city": "Bogura",
+                "departure_time": "09:50 pm BST",
+                "arrival_time": "09:45 pm BST",
+                "halt": "05",
+                "duration": "00:32"
+            },
+            {
+                "city": "Santahar",
+                "arrival_time": "10:40 pm BST",
+                "halt": null,
+                "duration": "00:50",
+                "departure_time": null
+            }
+        ],
+        "total_duration": "06:30",
+        "train_name": "KOROTOA EXPRESS (714)",
+        "train_model": "714"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "data": {
+        "days": [
+            "Sat",
+            "Sun",
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+        ],
+        "routes": [
+            {
+                "city": "Dhaka",
+                "departure_time": "06:00 pm BST",
+                "halt": null,
+                "duration": null,
+                "arrival_time": null
+            },
+            {
+                "city": "Mawa",
+                "arrival_time": "06:45 pm BST",
+                "departure_time": "06:47 pm BST",
+                "halt": "02",
+                "duration": "00:45"
+            },
+            {
+                "city": "Padma",
+                "arrival_time": "07:01 pm BST",
+                "departure_time": "07:03 pm BST",
+                "halt": "02",
+                "duration": "00:14"
+            },
+            {
+                "city": "Shibchar",
+                "arrival_time": "07:25 pm BST",
+                "departure_time": "07:40 pm BST",
+                "halt": "15",
+                "duration": "00:22"
+            },
+            {
+                "city": "Bhanga",
+                "arrival_time": "08:00 pm BST",
+                "halt": null,
+                "duration": "00:20",
+                "departure_time": null
+            }
+        ],
+        "total_duration": "02:00",
+        "train_name": "BHANGA COMMUTER (122)",
+        "train_model": "122"
+    }
+}

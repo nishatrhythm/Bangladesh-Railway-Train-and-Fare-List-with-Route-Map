@@ -1,0 +1,38 @@
+{
+    "data": {
+        "days": [
+            "Fri",
+            "Sat",
+            "Sun",
+            "Mon",
+            "Tue",
+            "Thu"
+        ],
+        "routes": [
+            {
+                "city": "Dhaka",
+                "departure_time": "07:00 am BST",
+                "halt": null,
+                "duration": null,
+                "arrival_time": null
+            },
+            {
+                "city": "Biman_Bandar",
+                "arrival_time": "07:22 am BST",
+                "departure_time": "07:27 am BST",
+                "halt": "05",
+                "duration": "00:22"
+            },
+            {
+                "city": "Chattogram",
+                "arrival_time": "11:55 am BST",
+                "halt": null,
+                "duration": "04:28",
+                "departure_time": null
+            }
+        ],
+        "total_duration": "04:55",
+        "train_name": "SONAR BANGLA EXPRESS (788)",
+        "train_model": "788"
+    }
+}

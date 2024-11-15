@@ -1,0 +1,32 @@
+{
+    "data": {
+        "days": [
+            "Fri",
+            "Sat",
+            "Sun",
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+        ],
+        "routes": [
+            {
+                "city": "Narayanganj",
+                "departure_time": "09:35 pm BST",
+                "halt": null,
+                "duration": null,
+                "arrival_time": null
+            },
+            {
+                "city": "Dhaka",
+                "arrival_time": "10:20 pm BST",
+                "halt": null,
+                "duration": "00:45",
+                "departure_time": null
+            }
+        ],
+        "total_duration": "00:45",
+        "train_name": "NARAYANGANJ COMMUTER 15 (1015)",
+        "train_model": "1015"
+    }
+}

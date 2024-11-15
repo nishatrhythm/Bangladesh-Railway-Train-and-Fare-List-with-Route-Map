@@ -1,0 +1,88 @@
+{
+    "data": {
+        "days": [
+            "Fri",
+            "Sat",
+            "Sun",
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+        ],
+        "routes": [
+            {
+                "city": "Dhaka",
+                "departure_time": "07:45 am BST",
+                "halt": null,
+                "duration": null,
+                "arrival_time": null
+            },
+            {
+                "city": "Biman_Bandar",
+                "arrival_time": "08:07 am BST",
+                "departure_time": "08:12 am BST",
+                "halt": "05",
+                "duration": "00:22"
+            },
+            {
+                "city": "Bhairab_Bazar",
+                "arrival_time": "09:16 am BST",
+                "departure_time": "09:19 am BST",
+                "halt": "03",
+                "duration": "01:04"
+            },
+            {
+                "city": "Brahmanbaria",
+                "arrival_time": "09:39 am BST",
+                "departure_time": "09:43 am BST",
+                "halt": "04",
+                "duration": "00:20"
+            },
+            {
+                "city": "Akhaura",
+                "arrival_time": "10:05 am BST",
+                "departure_time": "10:08 am BST",
+                "halt": "03",
+                "duration": "00:22"
+            },
+            {
+                "city": "Cumilla",
+                "arrival_time": "10:51 am BST",
+                "departure_time": "10:53 am BST",
+                "halt": "02",
+                "duration": "00:43"
+            },
+            {
+                "city": "Laksam",
+                "arrival_time": "11:15 am BST",
+                "departure_time": "11:17 am BST",
+                "halt": "02",
+                "duration": "00:22"
+            },
+            {
+                "city": "Gunabati",
+                "arrival_time": "11:43 am BST",
+                "departure_time": "11:45 am BST",
+                "halt": "02",
+                "duration": "00:26"
+            },
+            {
+                "city": "Feni",
+                "arrival_time": "12:00 pm BST",
+                "departure_time": "12:02 pm BST",
+                "halt": "02",
+                "duration": "00:15"
+            },
+            {
+                "city": "Chattogram",
+                "arrival_time": "01:35 pm BST",
+                "halt": null,
+                "duration": "01:33",
+                "departure_time": null
+            }
+        ],
+        "total_duration": "05:50",
+        "train_name": "MAHANAGAR PROVATI (704)",
+        "train_model": "704"
+    }
+}

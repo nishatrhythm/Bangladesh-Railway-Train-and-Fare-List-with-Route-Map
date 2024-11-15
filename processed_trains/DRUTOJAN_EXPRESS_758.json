@@ -1,0 +1,186 @@
+{
+    "data": {
+        "days": [
+            "Fri",
+            "Sat",
+            "Sun",
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+        ],
+        "routes": [
+            {
+                "city": "B Sirajul Islam",
+                "departure_time": "07:20 am BST",
+                "halt": null,
+                "duration": null,
+                "arrival_time": null
+            },
+            {
+                "city": "Kismat",
+                "departure_time": "07:37 am BST",
+                "arrival_time": "07:35 am BST",
+                "halt": "02",
+                "duration": "00:15"
+            },
+            {
+                "city": "Ruhia",
+                "departure_time": "07:47 am BST",
+                "arrival_time": "07:45 am BST",
+                "halt": "02",
+                "duration": "00:08"
+            },
+            {
+                "city": "Thakurgaon_Road",
+                "departure_time": "08:04 am BST",
+                "arrival_time": "08:01 am BST",
+                "halt": "03",
+                "duration": "00:14"
+            },
+            {
+                "city": "Pirganj",
+                "departure_time": "08:47 am BST",
+                "arrival_time": "08:44 am BST",
+                "halt": "03",
+                "duration": "00:40"
+            },
+            {
+                "city": "Setabganj",
+                "arrival_time": "09:01 am BST",
+                "departure_time": "09:03 am BST",
+                "halt": "02",
+                "duration": "00:14"
+            },
+            {
+                "city": "Dinajpur",
+                "departure_time": "09:45 am BST",
+                "arrival_time": "09:35 am BST",
+                "halt": "10",
+                "duration": "00:32"
+            },
+            {
+                "city": "Chirirbandar",
+                "departure_time": "10:04 am BST",
+                "arrival_time": "10:02 am BST",
+                "halt": "02",
+                "duration": "00:17"
+            },
+            {
+                "city": "Parbatipur",
+                "arrival_time": "10:25 am BST",
+                "departure_time": "10:45 am BST",
+                "halt": "20",
+                "duration": "00:21"
+            },
+            {
+                "city": "Fulbari",
+                "arrival_time": "11:04 am BST",
+                "departure_time": "11:07 am BST",
+                "halt": "03",
+                "duration": "00:19"
+            },
+            {
+                "city": "Birampur",
+                "arrival_time": "11:18 am BST",
+                "departure_time": "11:21 am BST",
+                "halt": "03",
+                "duration": "00:11"
+            },
+            {
+                "city": "Panchbibi",
+                "arrival_time": "11:41 am BST",
+                "departure_time": "11:43 am BST",
+                "halt": "02",
+                "duration": "00:20"
+            },
+            {
+                "city": "Joypurhat",
+                "arrival_time": "11:54 am BST",
+                "departure_time": "11:57 am BST",
+                "halt": "03",
+                "duration": "00:11"
+            },
+            {
+                "city": "Akkelpur",
+                "arrival_time": "12:10 pm BST",
+                "departure_time": "12:12 pm BST",
+                "halt": "02",
+                "duration": "00:13"
+            },
+            {
+                "city": "Santahar",
+                "arrival_time": "12:30 pm BST",
+                "departure_time": "12:35 pm BST",
+                "halt": "05",
+                "duration": "00:18"
+            },
+            {
+                "city": "Ahsanganj",
+                "arrival_time": "01:09 pm BST",
+                "departure_time": "01:11 pm BST",
+                "halt": "02",
+                "duration": "00:34"
+            },
+            {
+                "city": "Natore",
+                "arrival_time": "01:44 pm BST",
+                "departure_time": "01:47 pm BST",
+                "halt": "03",
+                "duration": "00:33"
+            },
+            {
+                "city": "Ishwardi Bypass",
+                "arrival_time": "02:26 pm BST",
+                "departure_time": "02:28 pm BST",
+                "halt": "02",
+                "duration": "00:39"
+            },
+            {
+                "city": "Chatmohar",
+                "arrival_time": "02:47 pm BST",
+                "departure_time": "02:50 pm BST",
+                "halt": "03",
+                "duration": "00:19"
+            },
+            {
+                "city": "Jamtail",
+                "arrival_time": "03:26 pm BST",
+                "departure_time": "03:30 pm BST",
+                "halt": "04",
+                "duration": "00:36"
+            },
+            {
+                "city": "BBSetu_E",
+                "arrival_time": "04:21 pm BST",
+                "departure_time": "04:23 pm BST",
+                "halt": "02",
+                "duration": "00:51"
+            },
+            {
+                "city": "Tangail",
+                "arrival_time": "04:43 pm BST",
+                "departure_time": "04:46 pm BST",
+                "halt": "03",
+                "duration": "00:20"
+            },
+            {
+                "city": "Joydebpur",
+                "arrival_time": "05:57 pm BST",
+                "departure_time": "06:00 pm BST",
+                "halt": "03",
+                "duration": "01:11"
+            },
+            {
+                "city": "Dhaka",
+                "arrival_time": "06:55 pm BST",
+                "halt": null,
+                "duration": "00:55",
+                "departure_time": null
+            }
+        ],
+        "total_duration": "11:35",
+        "train_name": "DRUTOJAN EXPRESS (758)",
+        "train_model": "758"
+    }
+}

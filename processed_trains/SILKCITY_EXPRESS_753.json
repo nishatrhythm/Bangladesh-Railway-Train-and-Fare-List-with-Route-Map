@@ -1,0 +1,115 @@
+{
+    "data": {
+        "days": [
+            "Fri",
+            "Sat",
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+        ],
+        "routes": [
+            {
+                "city": "Dhaka",
+                "departure_time": "02:40 pm BST",
+                "halt": null,
+                "duration": null,
+                "arrival_time": null
+            },
+            {
+                "city": "Biman_Bandar",
+                "arrival_time": "03:03 pm BST",
+                "departure_time": "03:08 pm BST",
+                "halt": "05",
+                "duration": "00:23"
+            },
+            {
+                "city": "Joydebpur",
+                "arrival_time": "03:30 pm BST",
+                "departure_time": "03:33 pm BST",
+                "halt": "03",
+                "duration": "00:22"
+            },
+            {
+                "city": "Mirzapur",
+                "arrival_time": "04:12 pm BST",
+                "departure_time": "04:14 pm BST",
+                "halt": "02",
+                "duration": "00:39"
+            },
+            {
+                "city": "Tangail",
+                "arrival_time": "04:38 pm BST",
+                "departure_time": "04:40 pm BST",
+                "halt": "02",
+                "duration": "00:24"
+            },
+            {
+                "city": "BBSetu_E",
+                "arrival_time": "05:04 pm BST",
+                "departure_time": "05:14 pm BST",
+                "halt": "10",
+                "duration": "00:24"
+            },
+            {
+                "city": "SH M Monsur Ali",
+                "arrival_time": "05:40 pm BST",
+                "departure_time": "05:42 pm BST",
+                "halt": "02",
+                "duration": "00:26"
+            },
+            {
+                "city": "Jamtail",
+                "arrival_time": "05:49 pm BST",
+                "departure_time": "05:51 pm BST",
+                "halt": "02",
+                "duration": "00:07"
+            },
+            {
+                "city": "Ullapara",
+                "arrival_time": "06:03 pm BST",
+                "departure_time": "06:06 pm BST",
+                "halt": "03",
+                "duration": "00:12"
+            },
+            {
+                "city": "Boral_Bridge",
+                "arrival_time": "06:24 pm BST",
+                "departure_time": "06:27 pm BST",
+                "halt": "03",
+                "duration": "00:18"
+            },
+            {
+                "city": "Chatmohar",
+                "arrival_time": "06:47 pm BST",
+                "departure_time": "06:50 pm BST",
+                "halt": "03",
+                "duration": "00:20"
+            },
+            {
+                "city": "Ishwardi Bypass",
+                "arrival_time": "07:21 pm BST",
+                "departure_time": "07:23 pm BST",
+                "halt": "02",
+                "duration": "00:31"
+            },
+            {
+                "city": "Abdulpur",
+                "arrival_time": "07:38 pm BST",
+                "departure_time": "07:40 pm BST",
+                "halt": "02",
+                "duration": "00:15"
+            },
+            {
+                "city": "Rajshahi",
+                "arrival_time": "08:30 pm BST",
+                "halt": null,
+                "duration": "00:50",
+                "departure_time": null
+            }
+        ],
+        "total_duration": "05:50",
+        "train_name": "SILKCITY EXPRESS (753)",
+        "train_model": "753"
+    }
+}

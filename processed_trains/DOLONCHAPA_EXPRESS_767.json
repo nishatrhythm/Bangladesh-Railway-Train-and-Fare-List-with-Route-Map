@@ -1,0 +1,176 @@
+{
+    "data": {
+        "days": [
+            "Fri",
+            "Sat",
+            "Sun",
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+        ],
+        "routes": [
+            {
+                "city": "Santahar",
+                "departure_time": "11:00 am BST",
+                "halt": null,
+                "duration": null,
+                "arrival_time": null
+            },
+            {
+                "city": "Talora",
+                "arrival_time": "11:23 am BST",
+                "halt": "---",
+                "duration": "00:23"
+            },
+            {
+                "city": "Bogura",
+                "departure_time": "11:54 am BST",
+                "arrival_time": "11:49 am BST",
+                "halt": "05",
+                "duration": "---"
+            },
+            {
+                "city": "Sonatola",
+                "arrival_time": "12:40 pm BST",
+                "halt": "---",
+                "duration": "00:46"
+            },
+            {
+                "city": "Mahimaganj",
+                "arrival_time": "12:52 pm BST",
+                "halt": "---",
+                "duration": "---"
+            },
+            {
+                "city": "Bonar_Para",
+                "arrival_time": "01:04 pm BST",
+                "departure_time": "01:09 pm BST",
+                "halt": "05",
+                "duration": "---"
+            },
+            {
+                "city": "Badiakhali",
+                "arrival_time": "01:18 pm BST",
+                "departure_time": "01:20 pm BST",
+                "halt": "02",
+                "duration": "00:09"
+            },
+            {
+                "city": "Gaibandha",
+                "arrival_time": "01:35 pm BST",
+                "departure_time": "01:40 pm BST",
+                "halt": "05",
+                "duration": "00:15"
+            },
+            {
+                "city": "Bamondanga",
+                "arrival_time": "02:10 pm BST",
+                "halt": "---",
+                "duration": "00:30"
+            },
+            {
+                "city": "Pirgacha",
+                "arrival_time": "02:30 pm BST",
+                "departure_time": "02:35 pm BST",
+                "halt": "05",
+                "duration": "---"
+            },
+            {
+                "city": "Kaunia",
+                "arrival_time": "02:55 pm BST",
+                "departure_time": "03:20 pm BST",
+                "halt": "25",
+                "duration": "00:20"
+            },
+            {
+                "city": "Rangpur",
+                "departure_time": "03:47 pm BST",
+                "arrival_time": "03:42 pm BST",
+                "halt": "05",
+                "duration": "00:22"
+            },
+            {
+                "city": "Badarganj",
+                "arrival_time": "04:13 pm BST",
+                "halt": "---",
+                "duration": "00:26"
+            },
+            {
+                "city": "Kholahati",
+                "arrival_time": "04:26 pm BST",
+                "halt": "---",
+                "duration": "---"
+            },
+            {
+                "city": "Parbatipur",
+                "arrival_time": "04:40 pm BST",
+                "departure_time": "05:00 pm BST",
+                "halt": "20",
+                "duration": "---"
+            },
+            {
+                "city": "Chirirbandar",
+                "arrival_time": "05:20 pm BST",
+                "halt": "---",
+                "duration": "00:20"
+            },
+            {
+                "city": "Dinajpur",
+                "departure_time": "05:47 pm BST",
+                "arrival_time": "05:42 pm BST",
+                "halt": "05",
+                "duration": "---"
+            },
+            {
+                "city": "Setabganj",
+                "arrival_time": "06:30 pm BST",
+                "halt": "---",
+                "duration": "00:43"
+            },
+            {
+                "city": "Pirganj",
+                "arrival_time": "06:48 pm BST",
+                "departure_time": "06:50 pm BST",
+                "halt": "02",
+                "duration": "---"
+            },
+            {
+                "city": "Bhomradah",
+                "arrival_time": "07:00 pm BST",
+                "departure_time": "07:02 pm BST",
+                "halt": "02",
+                "duration": "00:10"
+            },
+            {
+                "city": "Thakurgaon_Road",
+                "arrival_time": "07:20 pm BST",
+                "departure_time": "07:23 pm BST",
+                "halt": "03",
+                "duration": "00:18"
+            },
+            {
+                "city": "Ruhia",
+                "arrival_time": "07:41 pm BST",
+                "halt": "---",
+                "duration": "00:18"
+            },
+            {
+                "city": "Kismat",
+                "arrival_time": "07:53 pm BST",
+                "halt": "---",
+                "duration": "---"
+            },
+            {
+                "city": "B Sirajul Islam",
+                "arrival_time": "08:20 pm BST",
+                "halt": null,
+                "duration": "---",
+                "departure_time": null
+            }
+        ],
+        "total_duration": "09:20",
+        "train_name": "DOLONCHAPA EXPRESS (767)",
+        "train_model": "767"
+    }
+}

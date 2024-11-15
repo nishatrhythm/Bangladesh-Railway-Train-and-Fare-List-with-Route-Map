@@ -1,0 +1,77 @@
+{
+    "data": {
+        "days": [
+            "Fri",
+            "Sat",
+            "Sun",
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+        ],
+        "routes": [
+            {
+                "city": "Tarakandi",
+                "departure_time": "06:30 pm BST",
+                "halt": null,
+                "duration": null,
+                "arrival_time": null
+            },
+            {
+                "city": "Sarishabari",
+                "departure_time": "06:47 pm BST",
+                "halt": "---",
+                "duration": "---"
+            },
+            {
+                "city": "Kendua_Bazar",
+                "arrival_time": "07:18 pm BST",
+                "halt": "---",
+                "duration": "00:31"
+            },
+            {
+                "city": "Jamalpur_Town",
+                "departure_time": "07:42 pm BST",
+                "arrival_time": "07:40 pm BST",
+                "halt": "02",
+                "duration": "---"
+            },
+            {
+                "city": "Narundi",
+                "arrival_time": "08:03 pm BST",
+                "halt": "---",
+                "duration": "00:21"
+            },
+            {
+                "city": "Mymensingh",
+                "departure_time": "08:48 pm BST",
+                "arrival_time": "08:44 pm BST",
+                "halt": "04",
+                "duration": "---"
+            },
+            {
+                "city": "Gafargaon",
+                "arrival_time": "09:30 pm BST",
+                "departure_time": "09:33 pm BST",
+                "halt": "03",
+                "duration": "00:42"
+            },
+            {
+                "city": "Biman_Bandar",
+                "arrival_time": "11:07 pm BST",
+                "halt": "---",
+                "duration": "01:34"
+            },
+            {
+                "city": "Dhaka",
+                "arrival_time": "11:50 pm BST",
+                "halt": null,
+                "duration": "---",
+                "departure_time": null
+            }
+        ],
+        "total_duration": "05:20",
+        "train_name": "AGHNIBINA EXPRESS (736)",
+        "train_model": "736"
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "data": {
+        "days": [
+            "Fri",
+            "Sat",
+            "Sun",
+            "Tue",
+            "Wed",
+            "Thu"
+        ],
+        "routes": [
+            {
+                "city": "Sylhet",
+                "departure_time": "11:30 pm BST",
+                "halt": null,
+                "duration": null,
+                "arrival_time": null
+            },
+            {
+                "city": "Maijgaon",
+                "arrival_time": "12:09 am BST",
+                "departure_time": "12:11 am BST",
+                "halt": "02",
+                "duration": "00:39"
+            },
+            {
+                "city": "Baramchal",
+                "arrival_time": "12:28 am BST",
+                "halt": "---",
+                "duration": "00:17"
+            },
+            {
+                "city": "Kulaura",
+                "arrival_time": "12:43 am BST",
+                "departure_time": "12:46 am BST",
+                "halt": "03",
+                "duration": "---"
+            },
+            {
+                "city": "Shamshernagar",
+                "arrival_time": "01:09 am BST",
+                "departure_time": "01:11 am BST",
+                "halt": "02",
+                "duration": "00:23"
+            },
+            {
+                "city": "Bhanugach",
+                "arrival_time": "01:20 am BST",
+                "departure_time": "01:22 am BST",
+                "halt": "02",
+                "duration": "00:09"
+            },
+            {
+                "city": "Sreemangal",
+                "arrival_time": "01:41 am BST",
+                "departure_time": "01:44 am BST",
+                "halt": "03",
+                "duration": "00:19"
+            },
+            {
+                "city": "Shaistaganj",
+                "arrival_time": "02:30 am BST",
+                "departure_time": "02:33 am BST",
+                "halt": "03",
+                "duration": "00:46"
+            },
+            {
+                "city": "Bhairab_Bazar",
+                "arrival_time": "04:03 am BST",
+                "departure_time": "04:06 am BST",
+                "halt": "03",
+                "duration": "01:30"
+            },
+            {
+                "city": "Biman_Bandar",
+                "arrival_time": "05:12 am BST",
+                "halt": "---",
+                "duration": "01:06"
+            },
+            {
+                "city": "Dhaka",
+                "arrival_time": "05:45 am BST",
+                "halt": null,
+                "duration": "---",
+                "departure_time": null
+            }
+        ],
+        "total_duration": "06:15",
+        "train_name": "UPABAN EXPRESS (740)",
+        "train_model": "740"
+    }
+}

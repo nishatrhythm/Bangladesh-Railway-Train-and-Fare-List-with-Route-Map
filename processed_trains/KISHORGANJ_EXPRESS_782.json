@@ -1,0 +1,92 @@
+{
+    "data": {
+        "days": [
+            "Fri",
+            "Sat",
+            "Sun",
+            "Tue",
+            "Wed",
+            "Thu"
+        ],
+        "routes": [
+            {
+                "city": "Kishorganj",
+                "departure_time": "04:00 pm BST",
+                "halt": null,
+                "duration": null,
+                "arrival_time": null
+            },
+            {
+                "city": "Gachihata",
+                "arrival_time": "04:15 pm BST",
+                "departure_time": "04:17 pm BST",
+                "halt": "02",
+                "duration": "00:15"
+            },
+            {
+                "city": "Manikkhali",
+                "arrival_time": "04:27 pm BST",
+                "departure_time": "04:29 pm BST",
+                "halt": "02",
+                "duration": "00:10"
+            },
+            {
+                "city": "Sararchar",
+                "arrival_time": "04:45 pm BST",
+                "departure_time": "04:47 pm BST",
+                "halt": "02",
+                "duration": "00:16"
+            },
+            {
+                "city": "Bajitpur",
+                "arrival_time": "04:55 pm BST",
+                "departure_time": "04:57 pm BST",
+                "halt": "02",
+                "duration": "00:08"
+            },
+            {
+                "city": "Kuliarchar",
+                "arrival_time": "05:05 pm BST",
+                "departure_time": "05:07 pm BST",
+                "halt": "02",
+                "duration": "00:08"
+            },
+            {
+                "city": "Bhairab_Bazar",
+                "arrival_time": "05:28 pm BST",
+                "departure_time": "05:48 pm BST",
+                "halt": "20",
+                "duration": "00:21"
+            },
+            {
+                "city": "Methikanda",
+                "arrival_time": "06:05 pm BST",
+                "halt": "---",
+                "duration": "00:17"
+            },
+            {
+                "city": "Narsingdi",
+                "arrival_time": "06:25 pm BST",
+                "departure_time": "06:30 pm BST",
+                "halt": "05",
+                "duration": "---"
+            },
+            {
+                "city": "Biman_Bandar",
+                "arrival_time": "07:15 pm BST",
+                "halt": "---",
+                "duration": "00:45"
+            },
+            {
+                "city": "Dhaka",
+                "arrival_time": "07:55 pm BST",
+                "halt": null,
+                "duration": "---",
+                "departure_time": null
+            }
+        ],
+        "total_duration": "03:55",
+        "train_name": "KISHORGANJ EXPRESS (782)",
+        "train_model": "782"
+    }
+}

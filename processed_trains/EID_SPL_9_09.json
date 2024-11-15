@@ -1,0 +1,80 @@
+{
+    "data": {
+        "days": [
+            "Fri",
+            "Sat",
+            "Sun",
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+        ],
+        "routes": [
+            {
+                "city": "Chattogram",
+                "departure_time": "07:00 am BST",
+                "halt": null,
+                "duration": null,
+                "arrival_time": null
+            },
+            {
+                "city": "Sholoshohor",
+                "arrival_time": "07:10 am BST",
+                "halt": "---",
+                "duration": "00:10"
+            },
+            {
+                "city": "Janali_Hat",
+                "arrival_time": "07:23 am BST",
+                "halt": "---",
+                "duration": "---"
+            },
+            {
+                "city": "Patiya",
+                "arrival_time": "07:50 am BST",
+                "halt": "---",
+                "duration": "---"
+            },
+            {
+                "city": "Dohazari",
+                "arrival_time": "08:14 am BST",
+                "halt": "---",
+                "duration": "---"
+            },
+            {
+                "city": "Satkania",
+                "arrival_time": "08:27 am BST",
+                "halt": "---",
+                "duration": "---"
+            },
+            {
+                "city": "Chakaria",
+                "arrival_time": "09:05 am BST",
+                "halt": "---",
+                "duration": "---"
+            },
+            {
+                "city": "Dulahazara",
+                "arrival_time": "09:20 am BST",
+                "halt": "---",
+                "duration": "---"
+            },
+            {
+                "city": "Ramu",
+                "arrival_time": "09:52 am BST",
+                "halt": "---",
+                "duration": "---"
+            },
+            {
+                "city": "Cox's Bazar",
+                "arrival_time": "10:20 am BST",
+                "halt": null,
+                "duration": "---",
+                "departure_time": null
+            }
+        ],
+        "total_duration": "03:20",
+        "train_name": "EID SPL 9 (09)",
+        "train_model": "09"
+    }
+}

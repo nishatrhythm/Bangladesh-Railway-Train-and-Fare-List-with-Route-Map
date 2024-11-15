@@ -1,0 +1,81 @@
+{
+    "data": {
+        "days": [
+            "Fri",
+            "Sat",
+            "Sun",
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+        ],
+        "routes": [
+            {
+                "city": "Chattogram",
+                "departure_time": "03:00 pm BST",
+                "halt": null,
+                "duration": null,
+                "arrival_time": null
+            },
+            {
+                "city": "Feni",
+                "arrival_time": "04:20 pm BST",
+                "departure_time": "04:22 pm BST",
+                "halt": "02",
+                "duration": "01:20"
+            },
+            {
+                "city": "Gunabati",
+                "arrival_time": "04:36 pm BST",
+                "departure_time": "04:38 pm BST",
+                "halt": "02",
+                "duration": "00:14"
+            },
+            {
+                "city": "Laksam",
+                "arrival_time": "05:04 pm BST",
+                "departure_time": "05:06 pm BST",
+                "halt": "02",
+                "duration": "00:26"
+            },
+            {
+                "city": "Cumilla",
+                "arrival_time": "05:27 pm BST",
+                "departure_time": "05:29 pm BST",
+                "halt": "02",
+                "duration": "00:21"
+            },
+            {
+                "city": "Akhaura",
+                "arrival_time": "06:20 pm BST",
+                "departure_time": "06:23 pm BST",
+                "halt": "03",
+                "duration": "00:51"
+            },
+            {
+                "city": "Brahmanbaria",
+                "arrival_time": "06:41 pm BST",
+                "departure_time": "06:45 pm BST",
+                "halt": "04",
+                "duration": "00:18"
+            },
+            {
+                "city": "Bhairab_Bazar",
+                "arrival_time": "07:04 pm BST",
+                "departure_time": "07:07 pm BST",
+                "halt": "03",
+                "duration": "00:19"
+            },
+            {
+                "city": "Dhaka",
+                "arrival_time": "08:55 pm BST",
+                "halt": null,
+                "duration": "01:48",
+                "departure_time": null
+            }
+        ],
+        "total_duration": "05:55",
+        "train_name": "MAHANAGAR GODHULI (703)",
+        "train_model": "703"
+    }
+}

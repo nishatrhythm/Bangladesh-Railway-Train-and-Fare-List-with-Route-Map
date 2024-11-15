@@ -1,0 +1,32 @@
+{
+    "data": {
+        "days": [
+            "Fri",
+            "Sat",
+            "Sun",
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+        ],
+        "routes": [
+            {
+                "city": "Narayanganj",
+                "departure_time": "08:15 am BST",
+                "halt": null,
+                "duration": null,
+                "arrival_time": null
+            },
+            {
+                "city": "Dhaka",
+                "arrival_time": "09:00 am BST",
+                "halt": null,
+                "duration": "00:45",
+                "departure_time": null
+            }
+        ],
+        "total_duration": "00:45",
+        "train_name": "NARAYANGANJ COMMUTER 3 (1003)",
+        "train_model": "1003"
+    }
+}

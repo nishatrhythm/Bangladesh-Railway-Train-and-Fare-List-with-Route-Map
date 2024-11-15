@@ -1,0 +1,38 @@
+{
+    "data": {
+        "days": [
+            "Fri",
+            "Sat",
+            "Sun",
+            "Mon",
+            "Wed",
+            "Thu"
+        ],
+        "routes": [
+            {
+                "city": "Cox's Bazar",
+                "departure_time": "12:30 pm BST",
+                "halt": null,
+                "duration": null,
+                "arrival_time": null
+            },
+            {
+                "city": "Chattogram",
+                "departure_time": "04:00 pm BST",
+                "arrival_time": "03:40 pm BST",
+                "halt": "20",
+                "duration": "03:10"
+            },
+            {
+                "city": "Dhaka",
+                "arrival_time": "09:10 pm BST",
+                "halt": null,
+                "duration": "05:10",
+                "departure_time": null
+            }
+        ],
+        "total_duration": "08:40",
+        "train_name": "COXS BAZAR EXPRESS\u00a0(813)",
+        "train_model": "813"
+    }
+}

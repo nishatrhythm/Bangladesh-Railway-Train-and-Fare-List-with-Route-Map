@@ -1,0 +1,38 @@
+{
+    "data": {
+        "days": [
+            "Sat",
+            "Sun",
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu"
+        ],
+        "routes": [
+            {
+                "city": "Chapai Nawabganj",
+                "departure_time": "06:00 am BST",
+                "halt": null,
+                "duration": null,
+                "arrival_time": null
+            },
+            {
+                "city": "Rajshahi",
+                "departure_time": "07:00 am BST",
+                "arrival_time": "06:50 am BST",
+                "halt": "10",
+                "duration": "00:50"
+            },
+            {
+                "city": "Dhaka",
+                "arrival_time": "11:35 am BST",
+                "halt": null,
+                "duration": "04:35",
+                "departure_time": null
+            }
+        ],
+        "total_duration": "05:35",
+        "train_name": "BANALATA EXPRESS (792)",
+        "train_model": "792"
+    }
+}

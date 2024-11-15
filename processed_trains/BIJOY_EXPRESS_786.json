@@ -1,0 +1,113 @@
+{
+    "data": {
+        "days": [
+            "Fri",
+            "Sat",
+            "Sun",
+            "Mon",
+            "Wed",
+            "Thu"
+        ],
+        "routes": [
+            {
+                "city": "Jamalpur_Town",
+                "departure_time": "08:10 pm BST",
+                "halt": null,
+                "duration": null,
+                "arrival_time": null
+            },
+            {
+                "city": "Piyarpur",
+                "arrival_time": "08:43 pm BST",
+                "halt": "---",
+                "duration": "00:33"
+            },
+            {
+                "city": "Mymensingh",
+                "departure_time": "09:40 pm BST",
+                "arrival_time": "09:20 pm BST",
+                "halt": "20",
+                "duration": "---"
+            },
+            {
+                "city": "Gouripur_Myn",
+                "arrival_time": "10:03 pm BST",
+                "departure_time": "10:23 pm BST",
+                "halt": "20",
+                "duration": "00:23"
+            },
+            {
+                "city": "Atharabari",
+                "arrival_time": "10:50 pm BST",
+                "halt": "---",
+                "duration": "00:27"
+            },
+            {
+                "city": "Kishorganj",
+                "departure_time": "11:30 pm BST",
+                "arrival_time": "11:25 pm BST",
+                "halt": "05",
+                "duration": "---"
+            },
+            {
+                "city": "Sararchar",
+                "arrival_time": "12:05 am BST",
+                "departure_time": "12:07 am BST",
+                "halt": "02",
+                "duration": "00:35"
+            },
+            {
+                "city": "Bhairab_Bazar",
+                "arrival_time": "12:37 am BST",
+                "departure_time": "12:42 am BST",
+                "halt": "05",
+                "duration": "00:30"
+            },
+            {
+                "city": "Akhaura",
+                "arrival_time": "01:25 pm BST",
+                "departure_time": "01:30 am BST",
+                "halt": "715",
+                "duration": "12:43"
+            },
+            {
+                "city": "Cumilla",
+                "arrival_time": "02:13 am BST",
+                "departure_time": "02:15 am BST",
+                "halt": "02",
+                "duration": "00:43"
+            },
+            {
+                "city": "Laksam",
+                "arrival_time": "02:37 am BST",
+                "departure_time": "02:40 am BST",
+                "halt": "03",
+                "duration": "00:22"
+            },
+            {
+                "city": "Feni",
+                "arrival_time": "03:20 am BST",
+                "departure_time": "03:22 am BST",
+                "halt": "02",
+                "duration": "00:40"
+            },
+            {
+                "city": "Bhatiary",
+                "arrival_time": "04:30 am BST",
+                "departure_time": "04:32 am BST",
+                "halt": "02",
+                "duration": "01:08"
+            },
+            {
+                "city": "Chattogram",
+                "arrival_time": "05:00 am BST",
+                "halt": null,
+                "duration": "00:28",
+                "departure_time": null
+            }
+        ],
+        "total_duration": "08:50",
+        "train_name": "BIJOY EXPRESS (786)",
+        "train_model": "786"
+    }
+}
