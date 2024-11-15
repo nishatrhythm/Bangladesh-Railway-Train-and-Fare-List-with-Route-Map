@@ -1,4 +1,5 @@
 from flask import Flask, render_template, request, redirect, url_for, session
+from datetime import datetime
 import json, os, re
 
 app = Flask(__name__)
@@ -108,6 +109,9 @@ def find_trains_between_stations(origin, destination):
                     'arrival_time': arrival_time
                 })
                 break  # Stop once the destination is found
+
+    # Sort the list by formatted departure time (ignoring 'N/A' times)
+    matching_trains.sort(key=lambda x: datetime.strptime(x['departure_time'], '%I:%M %p') if x['departure_time'] != 'N/A' else datetime.max)
 
     return matching_trains
 
