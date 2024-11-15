@@ -1,6 +1,6 @@
 # Bangladesh Railway Fare List
 
-This project offers a user-friendly web application that allows users to check train seat fares between different stations. The website is publicly available at **[https://bdrailway.vercel.app](https://bdrailway.vercel.app)**.
+This project offers a user-friendly web application that allows users to check the available trains and the seat fares between different stations. The website is publicly available at **[https://bdrailway.vercel.app](https://bdrailway.vercel.app)**.
 
 <img src="https://github.com/nishatrhythm/Bangladesh-Railway-Train-and-Fare-List/blob/main/images/link_share_image.png" width="700">
 
