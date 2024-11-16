@@ -98,12 +98,21 @@ def find_trains_between_stations(origin, destination):
         for route in routes:
             # Set the departure time at the origin station
             if route['city'].lower() == origin.lower() and not origin_found:
-                departure_time = format_time((route.get('departure_time') or 'N/A').replace(' BST', ''))
+                # Handle IST and BST in time strings
+                departure_time_raw = (route.get('departure_time') or 'N/A').replace(' BST', '')
+                departure_time = format_time(departure_time_raw.replace(' IST', ''))
+                if 'IST' in departure_time_raw:
+                    departure_time += ' IST'  # Retain 'IST' for display
+
                 origin_found = True
 
             # Set the arrival time at the destination station
             if origin_found and route['city'].lower() == destination.lower():
-                arrival_time = format_time((route.get('arrival_time') or 'N/A').replace(' BST', ''))
+                arrival_time_raw = (route.get('arrival_time') or 'N/A').replace(' BST', '')
+                arrival_time = format_time(arrival_time_raw.replace(' IST', ''))
+                if 'IST' in arrival_time_raw:
+                    arrival_time += ' IST'  # Retain 'IST' for display
+
                 off_days = get_off_days(train_data['data']['days'])
                 matching_trains.append({
                     'train_name': train_data['data']['train_name'],
@@ -114,7 +123,7 @@ def find_trains_between_stations(origin, destination):
                 break  # Stop once the destination is found
 
     # Sort the list by formatted departure time (ignoring 'N/A' times)
-    matching_trains.sort(key=lambda x: datetime.strptime(x['departure_time'], '%I:%M %p') if x['departure_time'] != 'N/A' else datetime.max)
+    matching_trains.sort(key=lambda x: datetime.strptime(x['departure_time'].replace(' IST', ''), '%I:%M %p') if x['departure_time'] != 'N/A' else datetime.max)
 
     return matching_trains
 
@@ -137,6 +146,9 @@ def add_security_headers(response):
 @app.route('/', methods=['GET', 'POST'])
 def home():
     if request.method == 'POST':
+        # Set a flag to indicate that a search has been performed
+        session['search_performed'] = True
+
         # Preserve the original input casing
         origin = request.form['origin'].strip()
         destination = request.form['destination'].strip()
@@ -150,11 +162,14 @@ def home():
             session['error'] = "Origin and destination stations cannot be the same."
             session['selected_origin'] = origin  # Keep original casing
             session['selected_destination'] = destination  # Keep original casing
+            session.modified = True  # Ensure session data persists
             return redirect(url_for('home'))
 
         # Proceed with the search if origin and destination are different
         search_key = (origin_lower, destination_lower)
-        if search_key in index:
+
+        fare_data_found = search_key in index
+        if fare_data_found:
             file_path = index[search_key]
             data = load_json_file(file_path)  # Use the new function
 
@@ -167,16 +182,25 @@ def home():
                 'destination': destination  # Keep original casing for display
             }
 
-            # Find matching trains
-            matching_trains = find_trains_between_stations(origin, destination)
+        # Find matching trains regardless of fare data presence
+        matching_trains = find_trains_between_stations(origin, destination)
+        if matching_trains:
             session['trains'] = matching_trains
-
             session['selected_origin'] = origin  # Keep original casing
             session['selected_destination'] = destination  # Keep original casing
-        else:
+            session.modified = True  # Ensure session data persists
+
+        # Check if no fare data but train data exists
+        if not fare_data_found and matching_trains:
+            session['results'] = None  # Ensure no fare data is shown, only train data
+            session['selected_origin'] = origin  # Keep original casing
+            session['selected_destination'] = destination  # Keep original casing
+            session.modified = True  # Ensure session data persists
+        elif not fare_data_found and not matching_trains:
             session['error'] = "No data found for the selected route or the stations may not have a central server connection for online ticket management."
             session['selected_origin'] = origin  # Keep original casing
             session['selected_destination'] = destination  # Keep original casing
+            session.modified = True  # Ensure session data persists
 
         # Redirect to the home route to avoid form resubmission
         return redirect(url_for('home'))
@@ -184,11 +208,14 @@ def home():
     # Handle GET request: retrieve results and selected values from session if available
     results = session.pop('results', None)
     error = session.pop('error', False)
-    selected_origin = session.pop('selected_origin', None)
-    selected_destination = session.pop('selected_destination', None)
+    search_performed = session.pop('search_performed', False)
+
+    # Retrieve selected origin and destination if a search was performed, else reset
+    selected_origin = session.get('selected_origin') if search_performed else None
+    selected_destination = session.get('selected_destination') if search_performed else None
     trains = session.pop('trains', None)
 
-    return render_template('index.html', stations=stations_list, results=results, error=error, selected_origin=selected_origin, selected_destination=selected_destination, trains=trains)
+    return render_template('index.html', stations=stations_list, results=results, error=error, selected_origin=selected_origin, selected_destination=selected_destination, trains=trains, search_performed=search_performed)
 
 if __name__ == "__main__":
     app.run(host='0.0.0.0', port=int(os.environ.get("PORT", 5000)))
