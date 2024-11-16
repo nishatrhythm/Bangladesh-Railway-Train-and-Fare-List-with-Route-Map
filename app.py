@@ -1,6 +1,7 @@
 from flask import Flask, render_template, request, redirect, url_for, session
 from datetime import datetime
-import json, os, re
+import json, os, re, orjson
+
 
 app = Flask(__name__)
 app.secret_key = 'your_secret_key'  # Change this to a strong secret key for production
@@ -21,6 +22,10 @@ seat_order = [
     "S_CHAIR", "SHOVAN", "SHULOV", "AC_CHAIR"
 ]
 
+def load_json_file(file_path):
+    with open(file_path, 'rb') as file:
+        return orjson.loads(file.read())
+
 # Global variable to cache train data
 train_data_cache = []
 
@@ -31,9 +36,8 @@ def preload_train_data(directory):
         for filename in os.listdir(directory):
             if filename.endswith('.json'):
                 file_path = os.path.join(directory, filename)
-                with open(file_path, 'r', encoding='utf-8') as file:
-                    train_data = json.load(file)
-                    train_data_cache.append(train_data)
+                train_data = load_json_file(file_path)  # Use the new function
+                train_data_cache.append(train_data)
 
 # Call this function when the app starts to preload the data
 preload_train_data(processed_train_directory)
@@ -47,14 +51,13 @@ def format_time(time_str):
 # Function to create an index of JSON files by origin and destination
 def create_index(directory):
     index = {}
-    for filename in os.listdir(directory):
-        if filename.endswith('.json'):
-            file_path = os.path.join(directory, filename)
-            with open(file_path, 'r', encoding='utf-8') as file:
-                data = json.load(file)
-                if 'origin_city_name' in data and 'destination_city_name' in data:
-                    key = (data['origin_city_name'].lower(), data['destination_city_name'].lower())
-                    index[key] = file_path
+    for entry in os.scandir(directory):
+        if entry.is_file() and entry.name.endswith('.json'):
+            file_path = entry.path
+            data = load_json_file(file_path)  # Use the new function
+            if 'origin_city_name' in data and 'destination_city_name' in data:
+                key = (data['origin_city_name'].lower(), data['destination_city_name'].lower())
+                index[key] = file_path
     return index
 
 # Create index at the start for quick lookup
@@ -153,24 +156,23 @@ def home():
         search_key = (origin_lower, destination_lower)
         if search_key in index:
             file_path = index[search_key]
-            with open(file_path, 'r', encoding='utf-8') as file:
-                data = json.load(file)
+            data = load_json_file(file_path)  # Use the new function
 
-                # Sort the 'info' array based on the predefined seat order
-                data['info'].sort(key=lambda x: seat_order.index(x['type']) if x['type'] in seat_order else len(seat_order))
+            # Sort the 'info' array based on the predefined seat order
+            data['info'].sort(key=lambda x: seat_order.index(x['type']) if x['type'] in seat_order else len(seat_order))
 
-                session['results'] = {
-                    'data': data,
-                    'origin': origin,  # Keep original casing for display
-                    'destination': destination  # Keep original casing for display
-                }
+            session['results'] = {
+                'data': data,
+                'origin': origin,  # Keep original casing for display
+                'destination': destination  # Keep original casing for display
+            }
 
-                # Find matching trains
-                matching_trains = find_trains_between_stations(origin, destination)
-                session['trains'] = matching_trains
+            # Find matching trains
+            matching_trains = find_trains_between_stations(origin, destination)
+            session['trains'] = matching_trains
 
-                session['selected_origin'] = origin  # Keep original casing
-                session['selected_destination'] = destination  # Keep original casing
+            session['selected_origin'] = origin  # Keep original casing
+            session['selected_destination'] = destination  # Keep original casing
         else:
             session['error'] = "No data found for the selected route or the stations may not have a central server connection for online ticket management."
             session['selected_origin'] = origin  # Keep original casing
