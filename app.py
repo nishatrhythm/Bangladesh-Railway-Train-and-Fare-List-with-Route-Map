@@ -1,6 +1,6 @@
 from flask import Flask, render_template, request, redirect, url_for, session
 from datetime import datetime
-import json, os, re, orjson
+import json, os, re, ujson
 
 
 app = Flask(__name__)
@@ -24,7 +24,7 @@ seat_order = [
 
 def load_json_file(file_path):
     with open(file_path, 'rb') as file:
-        return orjson.loads(file.read())
+        return ujson.loads(file.read())
 
 # Global variable to cache train data
 train_data_cache = []
