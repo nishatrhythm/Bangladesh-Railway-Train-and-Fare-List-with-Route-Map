@@ -199,7 +199,7 @@ def home():
             session.modified = True  # Ensure session data persists
         elif not fare_data_found and not matching_trains:
             # General error when neither fare data nor train data is available
-            session['error'] = "No data found for the selected route or the stations may not have a central server connection for online ticket management."
+            session['error'] = "No data found for the selected route."
             session['selected_origin'] = origin  # Keep original casing
             session['selected_destination'] = destination  # Keep original casing
             session.modified = True  # Ensure session data persists
