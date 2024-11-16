@@ -476,6 +476,40 @@ td {
     }
 }
 
+::selection {
+    background-color: #aad2c1;
+    color: #003a2c;
+}
+
+::-moz-selection {
+    background-color: #aad2c1;
+    color: #003a2c;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: #f1f8f3;
+    border-radius: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: rgb(0, 103, 71);
+    border-radius: 8px;
+    border: 2px solid #f1f8f3;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: rgb(0, 85, 58);
+}
+
+* {
+    scrollbar-width: thin;
+    scrollbar-color: rgb(0, 103, 71) #f1f8f3;
+}
+
 @media (max-width: 768px) {
     td.time-cell {
         padding: 6px;

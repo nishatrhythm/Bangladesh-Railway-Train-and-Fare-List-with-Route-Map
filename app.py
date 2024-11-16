@@ -190,13 +190,15 @@ def home():
             session['selected_destination'] = destination  # Keep original casing
             session.modified = True  # Ensure session data persists
 
-        # Check if no fare data but train data exists
+        # If train data exists but fare data does not, set a specific message
         if not fare_data_found and matching_trains:
+            session['fare_error'] = "The fare list between these two stations is unavailable, as trains do pass through this route but may not offer seat reservations, or they might be temporarily out of service."
             session['results'] = None  # Ensure no fare data is shown, only train data
             session['selected_origin'] = origin  # Keep original casing
             session['selected_destination'] = destination  # Keep original casing
             session.modified = True  # Ensure session data persists
         elif not fare_data_found and not matching_trains:
+            # General error when neither fare data nor train data is available
             session['error'] = "No data found for the selected route or the stations may not have a central server connection for online ticket management."
             session['selected_origin'] = origin  # Keep original casing
             session['selected_destination'] = destination  # Keep original casing
@@ -208,6 +210,7 @@ def home():
     # Handle GET request: retrieve results and selected values from session if available
     results = session.pop('results', None)
     error = session.pop('error', False)
+    fare_error = session.pop('fare_error', None)  # Retrieve fare-specific error message
     search_performed = session.pop('search_performed', False)
 
     # Retrieve selected origin and destination if a search was performed, else reset
@@ -215,7 +218,7 @@ def home():
     selected_destination = session.get('selected_destination') if search_performed else None
     trains = session.pop('trains', None)
 
-    return render_template('index.html', stations=stations_list, results=results, error=error, selected_origin=selected_origin, selected_destination=selected_destination, trains=trains, search_performed=search_performed)
+    return render_template('index.html', stations=stations_list, results=results, error=error, fare_error=fare_error, selected_origin=selected_origin, selected_destination=selected_destination, trains=trains, search_performed=search_performed)
 
 if __name__ == "__main__":
     app.run(host='0.0.0.0', port=int(os.environ.get("PORT", 5000)))

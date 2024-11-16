@@ -241,6 +241,11 @@
                     </tbody>
                 </table>
             </div>
+
+            <!-- Fare-specific error message -->
+            {% if fare_error %}
+            <p class="error">{{ fare_error }}</p>
+            {% endif %}
             {% endif %}
 
             <!-- Display the error message if present -->
