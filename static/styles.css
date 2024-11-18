@@ -183,11 +183,12 @@ input[type="text"]:focus {
 .custom-dropdown div {
     padding: 10px;
     cursor: pointer;
+    color: #006747;
     transition: background-color 0.2s, transform 0.2s;
 }
 
 .custom-dropdown div:hover {
-    background-color: #f1f1f1;
+    background-color: #f1f8f3;
     transform: translateX(5px);
 }
 
@@ -476,6 +477,48 @@ td {
     }
 }
 
+#map {
+    height: 500px;
+    border-radius: 8px;
+    border: 2px solid #bdc3c7;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+    margin-top: 30px;
+    animation: slideInFromLeft 1s ease-in-out;
+    padding: 10px;
+    background-color: #f7f9fc;
+}
+
+@keyframes slideInFromLeft {
+    from {
+        transform: translateX(-50px);
+        opacity: 0;
+    }
+    to {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+.animated-wave-line {
+    stroke: #006747;
+    stroke-width: 4;
+    stroke-dasharray: 10; /* Length of each dash */
+    stroke-dashoffset: 0;
+    animation: wave 4s ease-in-out infinite alternate;
+}
+
+@keyframes wave {
+    0% {
+        stroke-dashoffset: 0;
+    }
+    50% {
+        stroke-dashoffset: -20; /* Offset to move the wave forward */
+    }
+    100% {
+        stroke-dashoffset: -40; /* Completes a wave motion */
+    }
+}
+
 ::selection {
     background-color: #aad2c1;
     color: #003a2c;
@@ -592,5 +635,9 @@ td {
     th,
     td {
         padding: 8px;
+    }
+
+    #map {
+        height: 300px;
     }
 }

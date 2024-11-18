@@ -1,0 +1,14 @@
+// https://overpass-turbo.eu/
+
+[out:json][timeout:25];
+
+// Define the area by the administrative boundary of Bangladesh (admin_level=2)
+{{geocodeArea:Bangladesh}}->.searchArea;
+
+// Find all railway ways within this area
+(
+  way["railway"](area.searchArea);
+);
+out body;
+>;
+out skel qt;

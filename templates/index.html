@@ -8,7 +8,7 @@
 
     <meta property='og:title' content='Bangladesh Railway Train & Fare List'>
     <meta property='og:image'
-        content='https://raw.githubusercontent.com/nishatrhythm/Bangladesh-Railway-Train-and-Fare-List/main/images/link_share_image.png'>
+        content='https://raw.githubusercontent.com/nishatrhythm/Bangladesh-Railway-Train-and-Fare-List-with-Route-Map/main/images/link_share_image.png'>
     <meta property='og:description'
         content='Explore the complete train and fare list for Bangladesh Railway to plan your journey efficiently.'>
     <meta property='og:url' content='https://bdrailway.vercel.app'>
@@ -22,8 +22,12 @@
         content="Get the most updated train schedule and fare list for Bangladesh Railway to plan your journey easily.">
 
     <link rel="icon"
-        href="https://raw.githubusercontent.com/nishatrhythm/Bangladesh-Railway-Train-and-Fare-List/main/images/bangladesh-railway.png"
+        href="https://raw.githubusercontent.com/nishatrhythm/Bangladesh-Railway-Train-and-Fare-List-with-Route-Map/main/images/bangladesh-railway.png"
         type="image/x-icon" sizes="30x30">
+
+    <!-- Meta and link tags -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
 
     <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap"
         rel="stylesheet">
@@ -156,7 +160,7 @@
 <body>
     <div class="container">
         <h1>
-            <img src="https://raw.githubusercontent.com/nishatrhythm/Bangladesh-Railway-Train-and-Fare-List/main/images/bangladesh-railway.png"
+            <img src="https://raw.githubusercontent.com/nishatrhythm/Bangladesh-Railway-Train-and-Fare-List-with-Route-Map/main/images/bangladesh-railway.png"
                 alt="Bangladesh Railway Logo" class="railway-icon">
             Bangladesh Railway Train and Fare List
         </h1>
@@ -295,6 +299,85 @@
             </div>
             {% endif %}
 
+            {% if geojson_filename %}
+            <div id="map"></div>
+
+            <script>
+                document.addEventListener('DOMContentLoaded', function () {
+                    var map = L.map('map').setView([24.1989818, 90.479578], 10); // Center map on an approximate location
+
+                    // Base map layer
+                    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                        maxZoom: 18,
+                        attribution: '© OpenStreetMap contributors'
+                    }).addTo(map);
+
+                    // Fetch and parse the GeoJSON data
+                    fetch('/static/geojson/{{ geojson_filename }}')
+                        .then(response => response.json())
+                        .then(data => {
+                            // Extract coordinates from all segments
+                            let segments = data.features.map(feature => feature.geometry.coordinates.map(coord => [coord[1], coord[0]]));
+
+                            // Display all segments, even if they cannot be sequenced
+                            while (segments.length > 0) {
+                                let orderedSegments = [segments.shift()]; // Start with the first segment
+
+                                while (segments.length > 0) {
+                                    let lastSegment = orderedSegments[orderedSegments.length - 1];
+                                    let lastPoint = lastSegment[lastSegment.length - 1];
+                                    let foundMatch = false;
+
+                                    for (let i = 0; i < segments.length; i++) {
+                                        let currentSegment = segments[i];
+                                        let firstPoint = currentSegment[0];
+                                        let lastPointOfCurrent = currentSegment[currentSegment.length - 1];
+
+                                        if (arePointsEqual(lastPoint, firstPoint)) {
+                                            orderedSegments.push(currentSegment);
+                                            segments.splice(i, 1);
+                                            foundMatch = true;
+                                            break;
+                                        } else if (arePointsEqual(lastPoint, lastPointOfCurrent)) {
+                                            orderedSegments.push(currentSegment.reverse());
+                                            segments.splice(i, 1);
+                                            foundMatch = true;
+                                            break;
+                                        }
+                                    }
+
+                                    if (!foundMatch) {
+                                        console.warn("Could not find a matching segment for continuation");
+                                        break;
+                                    }
+                                }
+
+                                // Draw the ordered segment as a polyline with animation
+                                let allCoordinates = orderedSegments.flat();
+                                if (allCoordinates.length > 0) {
+                                    L.polyline(allCoordinates, {
+                                        color: '#006747',
+                                        weight: 4,
+                                        className: 'animated-wave-line'
+                                    }).addTo(map);
+                                }
+                            }
+
+                            // Ensure all segments are visible
+                            let allCoordinatesFlat = data.features.flatMap(feature => feature.geometry.coordinates.map(coord => [coord[1], coord[0]]));
+                            if (allCoordinatesFlat.length > 0) {
+                                map.fitBounds(allCoordinatesFlat);
+                            }
+                        });
+
+                    function arePointsEqual(point1, point2) {
+                        return Math.abs(point1[0] - point2[0]) < 0.0001 && Math.abs(point1[1] - point2[1]) < 0.0001;
+                    }
+                });
+            </script>
+
+            {% endif %}
+
             <!-- Conditionally show the note only after a search -->
             {% if search_performed and (trains or results) %}
             <p class="note">
@@ -305,12 +388,13 @@
                     class="note-bold">AC_B</span> and <span class="note-bold">F_BERTH</span> seat classes.
             </p>
             {% endif %}
+
         </div>
 
         <!-- Footer -->
         <footer class="footer">
             <p>This project is open source. Check it out on <a
-                    href="https://github.com/nishatrhythm/Bangladesh-Railway-Train-and-Fare-List"
+                    href="https://github.com/nishatrhythm/Bangladesh-Railway-Train-and-Fare-List-with-Route-Map"
                     target="_blank">GitHub</a>.</p>
         </footer>
     </div>

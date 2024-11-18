@@ -7,6 +7,9 @@ app = Flask(__name__)
 app.secret_key = 'your_secret_key'  # Change this to a strong secret key for production
 app.config['SESSION_TYPE'] = 'filesystem'
 
+# Directory containing geojson files
+geojson_directory = 'static/geojson'
+
 # Load stations from the JSON file
 with open('stations_en.json', 'r', encoding='utf-8') as file:
     stations_data = json.load(file)
@@ -21,6 +24,19 @@ seat_order = [
     "AC_B", "AC_S", "SNIGDHA", "F_BERTH", "F_SEAT", "F_CHAIR",
     "S_CHAIR", "SHOVAN", "SHULOV", "AC_CHAIR"
 ]
+
+def find_geojson_file(origin, destination):
+    # Iterate through files in the geojson directory
+    for filename in os.listdir(geojson_directory):
+        if filename.endswith('.geojson'):
+            file_path = os.path.join(geojson_directory, filename)
+            with open(file_path, 'r', encoding='utf-8') as geojson_file:
+                geojson_data = json.load(geojson_file)
+                # Check if the origin and destination match the selected ones
+                if (geojson_data.get("origin_city_name") == origin.lower() and
+                        geojson_data.get("destination_city_name") == destination.lower()):
+                    return filename  # Return the filename if a match is found
+    return None
 
 def load_json_file(file_path):
     with open(file_path, 'rb') as file:
@@ -131,11 +147,12 @@ def find_trains_between_stations(origin, destination):
 def add_security_headers(response):
     response.headers['Content-Security-Policy'] = (
         "default-src 'self'; "
-        "img-src 'self' https://raw.githubusercontent.com/nishatrhythm/Bangladesh-Railway-Train-and-Fare-List/main/images/bangladesh-railway.png;"
-        "img-src 'self' https://raw.githubusercontent.com/nishatrhythm/Bangladesh-Railway-Train-and-Fare-List/main/images/link_share_image.png;"
+        "img-src 'self' https://raw.githubusercontent.com/nishatrhythm/Bangladesh-Railway-Train-and-Fare-List-with-Route-Map/main/images/bangladesh-railway.png "
+        "https://raw.githubusercontent.com/nishatrhythm/Bangladesh-Railway-Train-and-Fare-List-with-Route-Map/main/images/link_share_image.png "
+        "https://a.tile.openstreetmap.org https://b.tile.openstreetmap.org https://c.tile.openstreetmap.org; "
         "font-src 'self' https://fonts.gstatic.com https://cdnjs.cloudflare.com; "
-        "style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://cdnjs.cloudflare.com; "
-        "script-src 'self' 'unsafe-inline' https://cdnjs.cloudflare.com https://kit.fontawesome.com; "
+        "style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://cdnjs.cloudflare.com https://unpkg.com; "
+        "script-src 'self' 'unsafe-inline' https://cdnjs.cloudflare.com https://kit.fontawesome.com https://unpkg.com; "
     )
     response.headers['X-Content-Type-Options'] = 'nosniff'
     response.headers['X-Frame-Options'] = 'SAMEORIGIN'
@@ -145,6 +162,8 @@ def add_security_headers(response):
 
 @app.route('/', methods=['GET', 'POST'])
 def home():
+    geojson_filename = None  # Initialize with a default value
+    
     if request.method == 'POST':
         # Set a flag to indicate that a search has been performed
         session['search_performed'] = True
@@ -164,13 +183,22 @@ def home():
             session['selected_destination'] = destination  # Keep original casing
             session.modified = True  # Ensure session data persists
             return redirect(url_for('home'))
+        
+        # Find matching GeoJSON file considering both directions
+        geojson_filename = find_geojson_file(origin_lower, destination_lower)
+        if not geojson_filename:
+            geojson_filename = find_geojson_file(destination_lower, origin_lower)
+        if geojson_filename:
+            session['geojson_filename'] = geojson_filename
 
         # Proceed with the search if origin and destination are different
         search_key = (origin_lower, destination_lower)
+        reverse_key = (destination_lower, origin_lower)
 
-        fare_data_found = search_key in index
+        fare_data_found = search_key in index or reverse_key in index
         if fare_data_found:
-            file_path = index[search_key]
+            # Use the file path from either key
+            file_path = index.get(search_key) or index.get(reverse_key)
             data = load_json_file(file_path)  # Use the new function
 
             # Sort the 'info' array based on the predefined seat order
@@ -217,8 +245,9 @@ def home():
     selected_origin = session.get('selected_origin') if search_performed else None
     selected_destination = session.get('selected_destination') if search_performed else None
     trains = session.pop('trains', None)
+    geojson_filename = session.pop('geojson_filename', None)  # Retrieve geojson filename if available
 
-    return render_template('index.html', stations=stations_list, results=results, error=error, fare_error=fare_error, selected_origin=selected_origin, selected_destination=selected_destination, trains=trains, search_performed=search_performed)
+    return render_template('index.html', stations=stations_list, results=results, error=error, fare_error=fare_error, selected_origin=selected_origin, selected_destination=selected_destination, trains=trains, search_performed=search_performed, geojson_filename=geojson_filename)
 
 if __name__ == "__main__":
     app.run(host='0.0.0.0', port=int(os.environ.get("PORT", 5000)))

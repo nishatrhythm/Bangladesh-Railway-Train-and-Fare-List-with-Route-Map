@@ -2,7 +2,7 @@
 
 Easily check train schedules, seat fares, and even view route maps for trains across Bangladesh. You can try it out here: **[https://bdrailway.vercel.app](https://bdrailway.vercel.app)**.
 
-![Bangladesh Railway Image](https://github.com/nishatrhythm/Bangladesh-Railway-Train-and-Fare-List/blob/main/images/link_share_image.png)
+![Bangladesh Railway Image](https://github.com/nishatrhythm/Bangladesh-Railway-Train-and-Fare-List-with-Route-Map/blob/main/images/link_share_image.png)
 
 ## What You Can Do
 
