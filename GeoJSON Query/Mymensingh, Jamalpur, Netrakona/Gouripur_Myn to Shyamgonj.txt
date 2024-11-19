@@ -1,0 +1,5 @@
+[out:json][timeout:25];
+(
+  way(id: 1132161060);
+);
+out geom;
