@@ -10,7 +10,7 @@
         ],
         "routes": [
             {
-                "city": "Cox's Bazar",
+                "city": "Coxs Bazar",
                 "departure_time": "12:30 pm BST",
                 "halt": null,
                 "duration": null,
