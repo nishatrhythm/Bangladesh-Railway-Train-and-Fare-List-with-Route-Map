@@ -3,6 +3,12 @@
     "destination_city_name": "poradaha",
     "info": [
         {
+            "type": "AC_S",
+            "fare": 170.0,
+            "vat_percent": 15,
+            "vat_amount": 26
+        },
+        {
             "type": "S_CHAIR",
             "fare": 85.0,
             "vat_percent": 0,
@@ -13,12 +19,6 @@
             "fare": 140.0,
             "vat_percent": 15,
             "vat_amount": 21
-        },
-        {
-            "type": "AC_S",
-            "fare": 170.0,
-            "vat_percent": 15,
-            "vat_amount": 26
         }
     ]
 }

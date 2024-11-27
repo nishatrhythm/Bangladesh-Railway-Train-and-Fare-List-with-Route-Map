@@ -21,12 +21,6 @@
             "vat_amount": 42
         },
         {
-            "type": "F_SEAT",
-            "fare": 220.0,
-            "vat_percent": 15,
-            "vat_amount": 33
-        },
-        {
             "type": "AC_B",
             "fare": 490.0,
             "vat_percent": 15,
@@ -37,6 +31,12 @@
             "fare": 330.0,
             "vat_percent": 15,
             "vat_amount": 50
+        },
+        {
+            "type": "F_SEAT",
+            "fare": 220.0,
+            "vat_percent": 15,
+            "vat_amount": 33
         }
     ]
 }

@@ -3,10 +3,28 @@
     "destination_city_name": "dhaka",
     "info": [
         {
+            "type": "SHOVAN",
+            "fare": 210.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
             "type": "S_CHAIR",
             "fare": 250.0,
             "vat_percent": 0,
             "vat_amount": 0
+        },
+        {
+            "type": "F_SEAT",
+            "fare": 335.0,
+            "vat_percent": 15,
+            "vat_amount": 51
+        },
+        {
+            "type": "AC_S",
+            "fare": 500.0,
+            "vat_percent": 15,
+            "vat_amount": 75
         },
         {
             "type": "SNIGDHA",
@@ -19,12 +37,6 @@
             "fare": 750.0,
             "vat_percent": 15,
             "vat_amount": 113
-        },
-        {
-            "type": "AC_S",
-            "fare": 500.0,
-            "vat_percent": 15,
-            "vat_amount": 75
         }
     ]
 }

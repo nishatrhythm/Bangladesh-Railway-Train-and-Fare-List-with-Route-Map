@@ -1,0 +1,18 @@
+{
+    "origin_city_name": "jamtail",
+    "destination_city_name": "tangail",
+    "info": [
+        {
+            "type": "SHOVAN",
+            "fare": 120.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 145.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "jamtail",
+    "destination_city_name": "bbsetu_e",
+    "info": [
+        {
+            "type": "SHOVAN",
+            "fare": 100.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

@@ -3,10 +3,10 @@
     "destination_city_name": "birampur",
     "info": [
         {
-            "type": "AC_S",
-            "fare": 925.0,
+            "type": "AC_B",
+            "fare": 1385.0,
             "vat_percent": 15,
-            "vat_amount": 139
+            "vat_amount": 208
         },
         {
             "type": "SNIGDHA",
@@ -21,10 +21,10 @@
             "vat_amount": 0
         },
         {
-            "type": "AC_B",
-            "fare": 1385.0,
+            "type": "AC_S",
+            "fare": 925.0,
             "vat_percent": 15,
-            "vat_amount": 208
+            "vat_amount": 139
         }
     ]
 }

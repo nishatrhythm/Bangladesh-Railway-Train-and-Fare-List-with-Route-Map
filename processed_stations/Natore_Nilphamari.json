@@ -3,6 +3,18 @@
     "destination_city_name": "nilphamari",
     "info": [
         {
+            "type": "AC_B",
+            "fare": 620.0,
+            "vat_percent": 15,
+            "vat_amount": 93
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 380.0,
+            "vat_percent": 15,
+            "vat_amount": 57
+        },
+        {
             "type": "S_CHAIR",
             "fare": 210.0,
             "vat_percent": 0,
@@ -13,18 +25,6 @@
             "fare": 415.0,
             "vat_percent": 15,
             "vat_amount": 63
-        },
-        {
-            "type": "SNIGDHA",
-            "fare": 380.0,
-            "vat_percent": 15,
-            "vat_amount": 57
-        },
-        {
-            "type": "AC_B",
-            "fare": 620.0,
-            "vat_percent": 15,
-            "vat_amount": 93
         }
     ]
 }

@@ -3,10 +3,10 @@
     "destination_city_name": "lalmonirhat",
     "info": [
         {
-            "type": "AC_B",
-            "fare": 1895.0,
+            "type": "AC_S",
+            "fare": 1265.0,
             "vat_percent": 15,
-            "vat_amount": 285
+            "vat_amount": 190
         },
         {
             "type": "SNIGDHA",
@@ -21,10 +21,10 @@
             "vat_amount": 0
         },
         {
-            "type": "AC_S",
-            "fare": 1265.0,
+            "type": "AC_B",
+            "fare": 1895.0,
             "vat_percent": 15,
-            "vat_amount": 190
+            "vat_amount": 285
         }
     ]
 }

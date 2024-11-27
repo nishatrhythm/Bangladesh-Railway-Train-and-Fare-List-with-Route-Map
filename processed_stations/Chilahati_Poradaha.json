@@ -3,10 +3,16 @@
     "destination_city_name": "poradaha",
     "info": [
         {
-            "type": "AC_S",
-            "fare": 750.0,
+            "type": "S_CHAIR",
+            "fare": 375.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_B",
+            "fare": 1120.0,
             "vat_percent": 15,
-            "vat_amount": 113
+            "vat_amount": 168
         },
         {
             "type": "SNIGDHA",
@@ -15,22 +21,16 @@
             "vat_amount": 94
         },
         {
-            "type": "S_CHAIR",
-            "fare": 375.0,
-            "vat_percent": 0,
-            "vat_amount": 0
+            "type": "AC_S",
+            "fare": 750.0,
+            "vat_percent": 15,
+            "vat_amount": 113
         },
         {
             "type": "F_SEAT",
             "fare": 500.0,
             "vat_percent": 15,
             "vat_amount": 75
-        },
-        {
-            "type": "AC_B",
-            "fare": 1120.0,
-            "vat_percent": 15,
-            "vat_amount": 168
         }
     ]
 }

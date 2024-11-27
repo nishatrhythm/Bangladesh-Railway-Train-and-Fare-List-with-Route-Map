@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "tangail",
+    "destination_city_name": "hi-tech city",
+    "info": [
+        {
+            "type": "SHOVAN",
+            "fare": 45.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

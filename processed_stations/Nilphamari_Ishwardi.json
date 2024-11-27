@@ -3,18 +3,6 @@
     "destination_city_name": "ishwardi",
     "info": [
         {
-            "type": "AC_S",
-            "fare": 495.0,
-            "vat_percent": 15,
-            "vat_amount": 75
-        },
-        {
-            "type": "SNIGDHA",
-            "fare": 415.0,
-            "vat_percent": 15,
-            "vat_amount": 63
-        },
-        {
             "type": "S_CHAIR",
             "fare": 250.0,
             "vat_percent": 0,
@@ -25,6 +13,18 @@
             "fare": 745.0,
             "vat_percent": 15,
             "vat_amount": 112
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 445.0,
+            "vat_percent": 15,
+            "vat_amount": 67
+        },
+        {
+            "type": "AC_S",
+            "fare": 495.0,
+            "vat_percent": 15,
+            "vat_amount": 75
         }
     ]
 }

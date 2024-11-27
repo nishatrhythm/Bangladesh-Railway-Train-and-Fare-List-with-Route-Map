@@ -3,10 +3,10 @@
     "destination_city_name": "joypurhat",
     "info": [
         {
-            "type": "AC_S",
-            "fare": 445.0,
+            "type": "AC_B",
+            "fare": 665.0,
             "vat_percent": 15,
-            "vat_amount": 67
+            "vat_amount": 100
         },
         {
             "type": "SNIGDHA",
@@ -21,10 +21,10 @@
             "vat_amount": 0
         },
         {
-            "type": "AC_B",
-            "fare": 665.0,
+            "type": "AC_S",
+            "fare": 445.0,
             "vat_percent": 15,
-            "vat_amount": 100
+            "vat_amount": 67
         }
     ]
 }

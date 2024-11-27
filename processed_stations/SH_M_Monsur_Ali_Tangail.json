@@ -3,6 +3,24 @@
     "destination_city_name": "tangail",
     "info": [
         {
+            "type": "SHOVAN",
+            "fare": 115.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 140.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "F_SEAT",
+            "fare": 185.0,
+            "vat_percent": 15,
+            "vat_amount": 28
+        },
+        {
             "type": "AC_S",
             "fare": 275.0,
             "vat_percent": 15,
@@ -13,12 +31,6 @@
             "fare": 230.0,
             "vat_percent": 15,
             "vat_amount": 35
-        },
-        {
-            "type": "S_CHAIR",
-            "fare": 140.0,
-            "vat_percent": 0,
-            "vat_amount": 0
         }
     ]
 }

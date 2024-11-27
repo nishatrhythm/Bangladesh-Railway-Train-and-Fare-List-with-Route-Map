@@ -3,24 +3,6 @@
     "destination_city_name": "mymensingh",
     "info": [
         {
-            "type": "AC_B",
-            "fare": 140.0,
-            "vat_percent": 15,
-            "vat_amount": 21
-        },
-        {
-            "type": "F_BERTH",
-            "fare": 110.0,
-            "vat_percent": 15,
-            "vat_amount": 17
-        },
-        {
-            "type": "SHOVAN",
-            "fare": 45.0,
-            "vat_percent": 0,
-            "vat_amount": 0
-        },
-        {
             "type": "SNIGDHA",
             "fare": 100.0,
             "vat_percent": 15,
@@ -49,6 +31,24 @@
             "fare": 90.0,
             "vat_percent": 15,
             "vat_amount": 14
+        },
+        {
+            "type": "SHOVAN",
+            "fare": 45.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_B",
+            "fare": 140.0,
+            "vat_percent": 15,
+            "vat_amount": 21
+        },
+        {
+            "type": "F_BERTH",
+            "fare": 110.0,
+            "vat_percent": 15,
+            "vat_amount": 17
         }
     ]
 }

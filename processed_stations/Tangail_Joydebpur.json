@@ -1,0 +1,18 @@
+{
+    "origin_city_name": "tangail",
+    "destination_city_name": "joydebpur",
+    "info": [
+        {
+            "type": "SHOVAN",
+            "fare": 65.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "F_SEAT",
+            "fare": 100.0,
+            "vat_percent": 15,
+            "vat_amount": 15
+        }
+    ]
+}
