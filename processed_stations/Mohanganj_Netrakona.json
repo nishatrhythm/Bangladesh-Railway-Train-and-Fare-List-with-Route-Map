@@ -3,18 +3,6 @@
     "destination_city_name": "netrakona",
     "info": [
         {
-            "type": "SNIGDHA",
-            "fare": 100.0,
-            "vat_percent": 15,
-            "vat_amount": 15
-        },
-        {
-            "type": "AC_B",
-            "fare": 130.0,
-            "vat_percent": 15,
-            "vat_amount": 20
-        },
-        {
             "type": "S_CHAIR",
             "fare": 50.0,
             "vat_percent": 0,
@@ -31,6 +19,18 @@
             "fare": 90.0,
             "vat_percent": 15,
             "vat_amount": 14
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 100.0,
+            "vat_percent": 15,
+            "vat_amount": 15
+        },
+        {
+            "type": "AC_B",
+            "fare": 130.0,
+            "vat_percent": 15,
+            "vat_amount": 20
         }
     ]
 }

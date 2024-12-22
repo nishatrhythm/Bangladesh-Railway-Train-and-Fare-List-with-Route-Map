@@ -123,10 +123,10 @@
             },
             {
                 "city": "Domar",
-                "arrival_time": "12:11 pm BST",
+                "arrival_time": "12:30 pm BST",
                 "departure_time": "12:33 pm BST",
-                "halt": "22",
-                "duration": "00:03"
+                "halt": "03",
+                "duration": "00:16"
             },
             {
                 "city": "Chilahati",

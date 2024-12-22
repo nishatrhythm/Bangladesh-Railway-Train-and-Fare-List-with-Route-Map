@@ -59,11 +59,17 @@
                 "duration": "00:20"
             },
             {
+                "city": "Mirzapur",
+                "arrival_time": "08:17 am BST",
+                "halt": "---",
+                "duration": "00:23"
+            },
+            {
                 "city": "Hi-Tech City",
                 "arrival_time": "08:33 am BST",
                 "departure_time": "08:35 am BST",
                 "halt": "02",
-                "duration": "00:39"
+                "duration": "---"
             },
             {
                 "city": "Joydebpur",

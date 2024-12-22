@@ -11,118 +11,118 @@
         "routes": [
             {
                 "city": "Dhaka",
-                "departure_time": "08:15 am BST",
+                "departure_time": "08:00 am BST",
                 "halt": null,
                 "duration": null,
                 "arrival_time": null
             },
             {
                 "city": "Bhanga",
-                "arrival_time": "09:26 am BST",
-                "departure_time": "09:29 am BST",
+                "arrival_time": "09:08 am BST",
+                "departure_time": "09:11 am BST",
                 "halt": "03",
-                "duration": "01:11"
+                "duration": "01:08"
             },
             {
                 "city": "Faridpur",
-                "arrival_time": "10:05 am BST",
-                "departure_time": "10:08 am BST",
+                "arrival_time": "09:39 am BST",
+                "departure_time": "09:42 am BST",
                 "halt": "03",
-                "duration": "00:36"
+                "duration": "00:28"
             },
             {
                 "city": "Rajbari",
-                "arrival_time": "10:40 am BST",
-                "departure_time": "10:50 am BST",
+                "arrival_time": "10:15 am BST",
+                "departure_time": "10:25 am BST",
                 "halt": "10",
-                "duration": "00:32"
+                "duration": "00:33"
             },
             {
                 "city": "Pangsha",
-                "arrival_time": "11:13 am BST",
-                "departure_time": "11:15 am BST",
+                "arrival_time": "10:59 am BST",
+                "departure_time": "11:01 am BST",
                 "halt": "02",
-                "duration": "00:23"
+                "duration": "00:34"
             },
             {
                 "city": "Kushtia_Court",
-                "arrival_time": "11:47 am BST",
-                "departure_time": "11:50 am BST",
+                "arrival_time": "11:35 am BST",
+                "departure_time": "11:38 am BST",
                 "halt": "03",
-                "duration": "00:32"
+                "duration": "00:34"
             },
             {
                 "city": "Poradaha",
-                "arrival_time": "12:15 pm BST",
-                "departure_time": "12:20 pm BST",
-                "halt": "05",
-                "duration": "00:25"
+                "arrival_time": "11:49 am BST",
+                "departure_time": "11:52 am BST",
+                "halt": "03",
+                "duration": "00:11"
             },
             {
                 "city": "Alamdanga",
-                "arrival_time": "12:35 pm BST",
-                "departure_time": "12:37 pm BST",
+                "arrival_time": "12:07 pm BST",
+                "departure_time": "12:09 pm BST",
                 "halt": "02",
                 "duration": "00:15"
             },
             {
                 "city": "Chuadanga",
-                "arrival_time": "12:53 pm BST",
-                "departure_time": "12:56 pm BST",
+                "arrival_time": "12:25 pm BST",
+                "departure_time": "12:28 pm BST",
                 "halt": "03",
                 "duration": "00:16"
             },
             {
                 "city": "Darshana_Halt",
-                "arrival_time": "01:21 pm BST",
-                "departure_time": "01:24 pm BST",
+                "arrival_time": "12:50 pm BST",
+                "departure_time": "12:53 pm BST",
                 "halt": "03",
-                "duration": "00:25"
+                "duration": "00:22"
             },
             {
                 "city": "Kotchandpur",
-                "arrival_time": "01:48 pm BST",
-                "departure_time": "01:50 pm BST",
+                "arrival_time": "01:16 pm BST",
+                "departure_time": "01:18 pm BST",
                 "halt": "02",
-                "duration": "00:24"
+                "duration": "00:23"
             },
             {
                 "city": "Mubarakganj",
-                "arrival_time": "02:02 pm BST",
-                "departure_time": "02:04 pm BST",
+                "arrival_time": "01:34 pm BST",
+                "departure_time": "01:36 pm BST",
                 "halt": "02",
-                "duration": "00:12"
+                "duration": "00:16"
             },
             {
                 "city": "Jashore",
-                "arrival_time": "02:32 pm BST",
-                "departure_time": "02:35 pm BST",
+                "arrival_time": "02:05 pm BST",
+                "departure_time": "02:08 pm BST",
                 "halt": "03",
-                "duration": "00:28"
+                "duration": "00:29"
             },
             {
                 "city": "Noapara",
-                "arrival_time": "03:03 pm BST",
-                "departure_time": "03:06 pm BST",
+                "arrival_time": "02:48 pm BST",
+                "departure_time": "02:51 pm BST",
                 "halt": "03",
-                "duration": "00:28"
+                "duration": "00:40"
             },
             {
                 "city": "Daulatpur",
-                "arrival_time": "03:30 pm BST",
-                "departure_time": "03:32 pm BST",
+                "arrival_time": "03:15 pm BST",
+                "departure_time": "03:17 pm BST",
                 "halt": "02",
                 "duration": "00:24"
             },
             {
                 "city": "Khulna",
-                "arrival_time": "03:50 pm BST",
+                "arrival_time": "03:40 pm BST",
                 "halt": null,
-                "duration": "00:18",
+                "duration": "00:23",
                 "departure_time": null
             }
         ],
-        "total_duration": "07:35",
+        "total_duration": "07:40",
         "train_name": "SUNDARBAN EXPRESS (726)",
         "train_model": "726"
     }

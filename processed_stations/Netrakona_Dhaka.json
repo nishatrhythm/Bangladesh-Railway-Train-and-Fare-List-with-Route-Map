@@ -3,18 +3,6 @@
     "destination_city_name": "dhaka",
     "info": [
         {
-            "type": "SNIGDHA",
-            "fare": 360.0,
-            "vat_percent": 15,
-            "vat_amount": 54
-        },
-        {
-            "type": "AC_B",
-            "fare": 645.0,
-            "vat_percent": 15,
-            "vat_amount": 97
-        },
-        {
             "type": "S_CHAIR",
             "fare": 215.0,
             "vat_percent": 0,
@@ -31,6 +19,18 @@
             "fare": 290.0,
             "vat_percent": 15,
             "vat_amount": 44
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 360.0,
+            "vat_percent": 15,
+            "vat_amount": 54
+        },
+        {
+            "type": "AC_B",
+            "fare": 645.0,
+            "vat_percent": 15,
+            "vat_amount": 97
         }
     ]
 }

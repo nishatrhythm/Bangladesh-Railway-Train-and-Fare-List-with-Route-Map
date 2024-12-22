@@ -1,0 +1,24 @@
+{
+    "origin_city_name": "khulna",
+    "destination_city_name": "kashiani",
+    "info": [
+        {
+            "type": "AC_S",
+            "fare": 290.0,
+            "vat_percent": 15,
+            "vat_amount": 44
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 235.0,
+            "vat_percent": 15,
+            "vat_amount": 36
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 145.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

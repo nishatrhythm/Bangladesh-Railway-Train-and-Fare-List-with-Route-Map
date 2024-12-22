@@ -1,0 +1,18 @@
+{
+    "origin_city_name": "bhanga_junction",
+    "destination_city_name": "khulna",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 305.0,
+            "vat_percent": 15,
+            "vat_amount": 46
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 185.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

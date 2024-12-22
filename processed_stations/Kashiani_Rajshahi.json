@@ -1,0 +1,18 @@
+{
+    "origin_city_name": "kashiani",
+    "destination_city_name": "rajshahi",
+    "info": [
+        {
+            "type": "SHOVAN",
+            "fare": 255.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 305.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "data": {
+        "days": [
+            "Fri",
+            "Sat",
+            "Sun",
+            "Tue",
+            "Wed",
+            "Thu"
+        ],
+        "routes": [
+            {
+                "city": "Dhaka",
+                "departure_time": "10:45 am BST",
+                "halt": null,
+                "duration": null,
+                "arrival_time": null
+            },
+            {
+                "city": "Bhanga_Junction",
+                "arrival_time": "11:47 am BST",
+                "departure_time": "11:50 am BST",
+                "halt": "03",
+                "duration": "01:02"
+            },
+            {
+                "city": "Kashiani",
+                "arrival_time": "12:19 pm BST",
+                "departure_time": "12:22 pm BST",
+                "halt": "03",
+                "duration": "00:29"
+            },
+            {
+                "city": "Narail",
+                "arrival_time": "12:42 pm BST",
+                "departure_time": "12:45 pm BST",
+                "halt": "03",
+                "duration": "00:20"
+            },
+            {
+                "city": "Jashore",
+                "arrival_time": "01:14 pm BST",
+                "departure_time": "01:17 pm BST",
+                "halt": "03",
+                "duration": "00:29"
+            },
+            {
+                "city": "Benapole",
+                "arrival_time": "02:25 pm BST",
+                "halt": null,
+                "duration": "01:08",
+                "departure_time": null
+            }
+        ],
+        "total_duration": "03:40",
+        "train_name": "RUPOSHI BANGLA EXPRESS (828)",
+        "train_model": "828"
+    }
+}

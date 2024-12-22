@@ -17,25 +17,25 @@
                 "arrival_time": null
             },
             {
-                "city": "Kurigram",
-                "arrival_time": "07:20 pm BST",
-                "departure_time": "07:50 pm BST",
-                "halt": "30",
-                "duration": "00:50"
-            },
-            {
                 "city": "Kaunia",
                 "arrival_time": "08:30 pm BST",
                 "departure_time": "08:50 pm BST",
                 "halt": "20",
-                "duration": "00:40"
+                "duration": "00:20"
+            },
+            {
+                "city": "Kurigram",
+                "arrival_time": "07:20 pm BST",
+                "departure_time": "07:50 pm BST",
+                "halt": "30",
+                "duration": "01:30"
             },
             {
                 "city": "Pirgacha",
                 "arrival_time": "09:05 pm BST",
                 "departure_time": "09:07 pm BST",
                 "halt": "1438",
-                "duration": "00:15"
+                "duration": "01:15"
             },
             {
                 "city": "Bamondanga",

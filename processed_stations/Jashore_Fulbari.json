@@ -3,10 +3,10 @@
     "destination_city_name": "fulbari",
     "info": [
         {
-            "type": "AC_B",
-            "fare": 1225.0,
+            "type": "AC_S",
+            "fare": 815.0,
             "vat_percent": 15,
-            "vat_amount": 184
+            "vat_amount": 123
         },
         {
             "type": "SNIGDHA",
@@ -21,10 +21,10 @@
             "vat_amount": 0
         },
         {
-            "type": "AC_S",
-            "fare": 815.0,
+            "type": "AC_B",
+            "fare": 1225.0,
             "vat_percent": 15,
-            "vat_amount": 123
+            "vat_amount": 184
         }
     ]
 }

@@ -3,6 +3,12 @@
     "destination_city_name": "sh m monsur ali",
     "info": [
         {
+            "type": "SNIGDHA",
+            "fare": 350.0,
+            "vat_percent": 15,
+            "vat_amount": 53
+        },
+        {
             "type": "S_CHAIR",
             "fare": 210.0,
             "vat_percent": 0,
@@ -25,12 +31,6 @@
             "fare": 630.0,
             "vat_percent": 15,
             "vat_amount": 95
-        },
-        {
-            "type": "SNIGDHA",
-            "fare": 350.0,
-            "vat_percent": 15,
-            "vat_amount": 53
         }
     ]
 }

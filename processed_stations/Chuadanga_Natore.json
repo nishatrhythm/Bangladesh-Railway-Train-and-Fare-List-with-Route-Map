@@ -3,10 +3,10 @@
     "destination_city_name": "natore",
     "info": [
         {
-            "type": "AC_B",
-            "fare": 510.0,
+            "type": "AC_S",
+            "fare": 340.0,
             "vat_percent": 15,
-            "vat_amount": 77
+            "vat_amount": 51
         },
         {
             "type": "SNIGDHA",
@@ -21,10 +21,10 @@
             "vat_amount": 0
         },
         {
-            "type": "AC_S",
-            "fare": 340.0,
+            "type": "AC_B",
+            "fare": 510.0,
             "vat_percent": 15,
-            "vat_amount": 51
+            "vat_amount": 77
         }
     ]
 }

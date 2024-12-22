@@ -3,10 +3,10 @@
     "destination_city_name": "chatmohar",
     "info": [
         {
-            "type": "AC_S",
-            "fare": 620.0,
-            "vat_percent": 15,
-            "vat_amount": 93
+            "type": "S_CHAIR",
+            "fare": 310.0,
+            "vat_percent": 0,
+            "vat_amount": 0
         },
         {
             "type": "SNIGDHA",
@@ -15,10 +15,10 @@
             "vat_amount": 78
         },
         {
-            "type": "S_CHAIR",
-            "fare": 310.0,
-            "vat_percent": 0,
-            "vat_amount": 0
+            "type": "AC_S",
+            "fare": 620.0,
+            "vat_percent": 15,
+            "vat_amount": 93
         },
         {
             "type": "AC_B",

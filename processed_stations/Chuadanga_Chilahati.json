@@ -3,10 +3,10 @@
     "destination_city_name": "chilahati",
     "info": [
         {
-            "type": "AC_B",
-            "fare": 1235.0,
+            "type": "AC_S",
+            "fare": 825.0,
             "vat_percent": 15,
-            "vat_amount": 186
+            "vat_amount": 124
         },
         {
             "type": "SNIGDHA",
@@ -21,22 +21,22 @@
             "vat_amount": 0
         },
         {
-            "type": "F_BERTH",
-            "fare": 825.0,
-            "vat_percent": 15,
-            "vat_amount": 124
-        },
-        {
-            "type": "AC_S",
-            "fare": 825.0,
-            "vat_percent": 15,
-            "vat_amount": 124
-        },
-        {
             "type": "F_SEAT",
             "fare": 550.0,
             "vat_percent": 15,
             "vat_amount": 83
+        },
+        {
+            "type": "AC_B",
+            "fare": 1235.0,
+            "vat_percent": 15,
+            "vat_amount": 186
+        },
+        {
+            "type": "F_BERTH",
+            "fare": 825.0,
+            "vat_percent": 15,
+            "vat_amount": 124
         }
     ]
 }

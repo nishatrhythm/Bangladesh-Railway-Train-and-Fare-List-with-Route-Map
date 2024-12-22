@@ -3,10 +3,10 @@
     "destination_city_name": "saidpur",
     "info": [
         {
-            "type": "AC_B",
-            "fare": 1430.0,
+            "type": "AC_S",
+            "fare": 955.0,
             "vat_percent": 15,
-            "vat_amount": 215
+            "vat_amount": 144
         },
         {
             "type": "SNIGDHA",
@@ -21,10 +21,10 @@
             "vat_amount": 0
         },
         {
-            "type": "AC_S",
-            "fare": 955.0,
+            "type": "AC_B",
+            "fare": 1430.0,
             "vat_percent": 15,
-            "vat_amount": 144
+            "vat_amount": 215
         }
     ]
 }

@@ -1,0 +1,18 @@
+{
+    "origin_city_name": "kashiani",
+    "destination_city_name": "ishwardi",
+    "info": [
+        {
+            "type": "SHOVAN",
+            "fare": 195.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 235.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

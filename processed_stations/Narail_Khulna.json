@@ -1,0 +1,18 @@
+{
+    "origin_city_name": "narail",
+    "destination_city_name": "khulna",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 125.0,
+            "vat_percent": 15,
+            "vat_amount": 19
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 75.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

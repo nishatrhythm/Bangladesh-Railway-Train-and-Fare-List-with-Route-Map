@@ -1,0 +1,73 @@
+{
+    "data": {
+        "days": [
+            "Fri",
+            "Sat",
+            "Sun",
+            "Tue",
+            "Wed",
+            "Thu"
+        ],
+        "routes": [
+            {
+                "city": "Khulna",
+                "departure_time": "06:00 am BST",
+                "halt": null,
+                "duration": null,
+                "arrival_time": null
+            },
+            {
+                "city": "Noapara",
+                "arrival_time": "06:33 am BST",
+                "departure_time": "06:36 am BST",
+                "halt": "03",
+                "duration": "00:33"
+            },
+            {
+                "city": "Singia",
+                "arrival_time": "06:51 am BST",
+                "departure_time": "06:53 am BST",
+                "halt": "02",
+                "duration": "00:15"
+            },
+            {
+                "city": "Narail",
+                "arrival_time": "07:13 am BST",
+                "departure_time": "07:16 am BST",
+                "halt": "03",
+                "duration": "00:20"
+            },
+            {
+                "city": "Lohagara",
+                "arrival_time": "07:29 am BST",
+                "departure_time": "07:31 am BST",
+                "halt": "02",
+                "duration": "00:13"
+            },
+            {
+                "city": "Kashiani",
+                "arrival_time": "07:41 am BST",
+                "departure_time": "07:44 am BST",
+                "halt": "03",
+                "duration": "00:10"
+            },
+            {
+                "city": "Bhanga_Junction",
+                "arrival_time": "08:13 am BST",
+                "departure_time": "08:16 am BST",
+                "halt": "03",
+                "duration": "00:29"
+            },
+            {
+                "city": "Dhaka",
+                "arrival_time": "09:45 am BST",
+                "halt": null,
+                "duration": "01:29",
+                "departure_time": null
+            }
+        ],
+        "total_duration": "03:45",
+        "train_name": "JAHANABAD EXPRESS (825)",
+        "train_model": "825"
+    }
+}

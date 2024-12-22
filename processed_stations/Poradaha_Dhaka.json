@@ -9,28 +9,16 @@
             "vat_amount": 0
         },
         {
-            "type": "AC_B",
-            "fare": 1270.0,
+            "type": "F_SEAT",
+            "fare": 565.0,
             "vat_percent": 15,
-            "vat_amount": 191
+            "vat_amount": 85
         },
         {
             "type": "SNIGDHA",
             "fare": 705.0,
             "vat_percent": 15,
             "vat_amount": 106
-        },
-        {
-            "type": "AC_S",
-            "fare": 860.0,
-            "vat_percent": 15,
-            "vat_amount": 129
-        },
-        {
-            "type": "F_SEAT",
-            "fare": 565.0,
-            "vat_percent": 15,
-            "vat_amount": 85
         }
     ]
 }

@@ -3,12 +3,6 @@
     "destination_city_name": "mubarakganj",
     "info": [
         {
-            "type": "SNIGDHA",
-            "fare": 140.0,
-            "vat_percent": 15,
-            "vat_amount": 21
-        },
-        {
             "type": "S_CHAIR",
             "fare": 85.0,
             "vat_percent": 0,

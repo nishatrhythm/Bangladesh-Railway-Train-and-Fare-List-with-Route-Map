@@ -3,16 +3,16 @@
     "destination_city_name": "ishwardi bypass",
     "info": [
         {
-            "type": "SNIGDHA",
-            "fare": 560.0,
-            "vat_percent": 15,
-            "vat_amount": 84
-        },
-        {
             "type": "S_CHAIR",
             "fare": 340.0,
             "vat_percent": 0,
             "vat_amount": 0
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 560.0,
+            "vat_percent": 15,
+            "vat_amount": 84
         },
         {
             "type": "AC_S",

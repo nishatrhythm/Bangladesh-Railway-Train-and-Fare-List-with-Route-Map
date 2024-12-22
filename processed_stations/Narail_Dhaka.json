@@ -1,0 +1,24 @@
+{
+    "origin_city_name": "narail",
+    "destination_city_name": "dhaka",
+    "info": [
+        {
+            "type": "AC_S",
+            "fare": 740.0,
+            "vat_percent": 15,
+            "vat_amount": 111
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 615.0,
+            "vat_percent": 15,
+            "vat_amount": 93
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 370.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

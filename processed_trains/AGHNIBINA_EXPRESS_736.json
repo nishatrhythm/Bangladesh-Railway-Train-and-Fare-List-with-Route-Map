@@ -20,8 +20,9 @@
             {
                 "city": "Sarishabari",
                 "departure_time": "06:47 pm BST",
-                "halt": "---",
-                "duration": "---"
+                "arrival_time": "06:45 pm BST",
+                "halt": "02",
+                "duration": "00:15"
             },
             {
                 "city": "Kendua_Bazar",

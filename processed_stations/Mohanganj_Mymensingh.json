@@ -3,12 +3,6 @@
     "destination_city_name": "mymensingh",
     "info": [
         {
-            "type": "AC_B",
-            "fare": 354.0,
-            "vat_percent": 15,
-            "vat_amount": 54
-        },
-        {
             "type": "S_CHAIR",
             "fare": 105.0,
             "vat_percent": 0,
@@ -25,6 +19,12 @@
             "fare": 140.0,
             "vat_percent": 15,
             "vat_amount": 21
+        },
+        {
+            "type": "AC_B",
+            "fare": 354.0,
+            "vat_percent": 15,
+            "vat_amount": 54
         }
     ]
 }
