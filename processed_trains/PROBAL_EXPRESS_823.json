@@ -1,0 +1,101 @@
+{
+    "data": {
+        "days": [
+            "Fri",
+            "Sat",
+            "Sun",
+            "Tue",
+            "Wed",
+            "Thu"
+        ],
+        "routes": [
+            {
+                "city": "Chattogram",
+                "departure_time": "03:10 pm BST",
+                "halt": null,
+                "duration": null,
+                "arrival_time": null
+            },
+            {
+                "city": "Sholoshohor",
+                "arrival_time": "03:21 pm BST",
+                "departure_time": "03:23 pm BST",
+                "halt": "02",
+                "duration": "00:11"
+            },
+            {
+                "city": "GOMDANDI",
+                "arrival_time": "03:40 pm BST",
+                "departure_time": "03:42 pm BST",
+                "halt": "02",
+                "duration": "00:17"
+            },
+            {
+                "city": "Patiya",
+                "arrival_time": "04:00 pm BST",
+                "departure_time": "04:02 pm BST",
+                "halt": "02",
+                "duration": "00:18"
+            },
+            {
+                "city": "Dohazari",
+                "arrival_time": "04:22 pm BST",
+                "departure_time": "04:24 pm BST",
+                "halt": "02",
+                "duration": "00:20"
+            },
+            {
+                "city": "Satkania",
+                "arrival_time": "04:35 pm BST",
+                "departure_time": "04:37 pm BST",
+                "halt": "02",
+                "duration": "00:11"
+            },
+            {
+                "city": "LOHAGARA",
+                "arrival_time": "04:50 pm BST",
+                "departure_time": "04:52 pm BST",
+                "halt": "02",
+                "duration": "00:13"
+            },
+            {
+                "city": "Chakaria",
+                "arrival_time": "05:28 pm BST",
+                "departure_time": "05:30 pm BST",
+                "halt": "02",
+                "duration": "00:36"
+            },
+            {
+                "city": "Dulahazara",
+                "arrival_time": "05:52 pm BST",
+                "departure_time": "05:54 pm BST",
+                "halt": "02",
+                "duration": "00:22"
+            },
+            {
+                "city": "ISLAMABAD",
+                "arrival_time": "06:11 pm BST",
+                "departure_time": "06:13 pm BST",
+                "halt": "02",
+                "duration": "00:17"
+            },
+            {
+                "city": "Ramu",
+                "arrival_time": "06:30 pm BST",
+                "departure_time": "06:32 pm BST",
+                "halt": "02",
+                "duration": "00:17"
+            },
+            {
+                "city": "Cox's Bazar",
+                "arrival_time": "07:00 pm BST",
+                "halt": null,
+                "duration": "00:28",
+                "departure_time": null
+            }
+        ],
+        "total_duration": "03:50",
+        "train_name": "PROBAL EXPRESS (823)",
+        "train_model": "823"
+    }
+}

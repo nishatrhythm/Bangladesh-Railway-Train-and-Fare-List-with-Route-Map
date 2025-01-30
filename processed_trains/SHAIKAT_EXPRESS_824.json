@@ -1,0 +1,79 @@
+{
+    "data": {
+        "days": [
+            "Fri",
+            "Sat",
+            "Sun",
+            "Tue",
+            "Wed",
+            "Thu"
+        ],
+        "routes": [
+            {
+                "city": "Cox's Bazar",
+                "departure_time": "08:15 pm BST",
+                "halt": null,
+                "duration": null,
+                "arrival_time": null
+            },
+            {
+                "city": "Ramu",
+                "arrival_time": "08:27 pm BST",
+                "departure_time": "08:29 pm BST",
+                "halt": "02",
+                "duration": "00:12"
+            },
+            {
+                "city": "Dulahazara",
+                "arrival_time": "09:00 pm BST",
+                "departure_time": "09:02 pm BST",
+                "halt": "02",
+                "duration": "00:31"
+            },
+            {
+                "city": "Chakaria",
+                "arrival_time": "09:24 pm BST",
+                "departure_time": "09:26 pm BST",
+                "halt": "02",
+                "duration": "00:22"
+            },
+            {
+                "city": "Satkania",
+                "arrival_time": "10:12 pm BST",
+                "departure_time": "10:14 pm BST",
+                "halt": "02",
+                "duration": "00:46"
+            },
+            {
+                "city": "Dohazari",
+                "arrival_time": "10:25 pm BST",
+                "departure_time": "10:27 pm BST",
+                "halt": "02",
+                "duration": "00:11"
+            },
+            {
+                "city": "Patiya",
+                "arrival_time": "10:50 pm BST",
+                "departure_time": "10:52 pm BST",
+                "halt": "02",
+                "duration": "00:23"
+            },
+            {
+                "city": "Janali_Hat",
+                "arrival_time": "11:16 pm BST",
+                "halt": "---",
+                "duration": "00:24"
+            },
+            {
+                "city": "Chattogram",
+                "arrival_time": "11:50 pm BST",
+                "halt": null,
+                "duration": "---",
+                "departure_time": null
+            }
+        ],
+        "total_duration": "03:35",
+        "train_name": "SHAIKAT EXPRESS (824)",
+        "train_model": "824"
+    }
+}

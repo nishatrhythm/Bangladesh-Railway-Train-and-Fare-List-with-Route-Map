@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "chattogram",
+    "destination_city_name": "islamabad",
+    "info": [
+        {
+            "type": "SHOVAN",
+            "fare": 150.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}
