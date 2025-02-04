@@ -1,0 +1,42 @@
+{
+    "origin_city_name": "ibrahimabad",
+    "destination_city_name": "dhaka",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 140.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 235.0,
+            "vat_percent": 15,
+            "vat_amount": 36
+        },
+        {
+            "type": "AC_B",
+            "fare": 415.0,
+            "vat_percent": 15,
+            "vat_amount": 63
+        },
+        {
+            "type": "SHOVAN",
+            "fare": 120.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "F_SEAT",
+            "fare": 185.0,
+            "vat_percent": 15,
+            "vat_amount": 28
+        },
+        {
+            "type": "AC_S",
+            "fare": 280.0,
+            "vat_percent": 15,
+            "vat_amount": 42
+        }
+    ]
+}

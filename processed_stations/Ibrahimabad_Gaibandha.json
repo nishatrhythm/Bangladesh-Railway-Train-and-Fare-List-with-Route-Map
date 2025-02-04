@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "ibrahimabad",
+    "destination_city_name": "gaibandha",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 410.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

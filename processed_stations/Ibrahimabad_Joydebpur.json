@@ -1,0 +1,18 @@
+{
+    "origin_city_name": "ibrahimabad",
+    "destination_city_name": "joydebpur",
+    "info": [
+        {
+            "type": "SHOVAN",
+            "fare": 85.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "F_SEAT",
+            "fare": 135.0,
+            "vat_percent": 15,
+            "vat_amount": 21
+        }
+    ]
+}

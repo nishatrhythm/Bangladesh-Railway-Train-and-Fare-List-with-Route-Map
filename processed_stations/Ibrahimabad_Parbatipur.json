@@ -1,0 +1,24 @@
+{
+    "origin_city_name": "ibrahimabad",
+    "destination_city_name": "parbatipur",
+    "info": [
+        {
+            "type": "AC_S",
+            "fare": 800.0,
+            "vat_percent": 15,
+            "vat_amount": 120
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 665.0,
+            "vat_percent": 15,
+            "vat_amount": 100
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 400.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

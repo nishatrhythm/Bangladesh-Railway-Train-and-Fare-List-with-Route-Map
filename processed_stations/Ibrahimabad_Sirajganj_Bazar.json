@@ -1,0 +1,24 @@
+{
+    "origin_city_name": "ibrahimabad",
+    "destination_city_name": "sirajganj_bazar",
+    "info": [
+        {
+            "type": "SHOVAN",
+            "fare": 115.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 135.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "F_SEAT",
+            "fare": 180.0,
+            "vat_percent": 15,
+            "vat_amount": 27
+        }
+    ]
+}

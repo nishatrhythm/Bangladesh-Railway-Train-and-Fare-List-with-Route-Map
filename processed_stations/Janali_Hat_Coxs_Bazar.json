@@ -1,0 +1,18 @@
+{
+    "origin_city_name": "janali_hat",
+    "destination_city_name": "coxs bazar",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 210.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "SHOVAN",
+            "fare": 175.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

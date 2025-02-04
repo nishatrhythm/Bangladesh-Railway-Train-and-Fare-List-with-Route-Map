@@ -1,0 +1,18 @@
+{
+    "origin_city_name": "natore",
+    "destination_city_name": "ibrahimabad",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 240.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 395.0,
+            "vat_percent": 15,
+            "vat_amount": 60
+        }
+    ]
+}
