@@ -383,6 +383,7 @@ td {
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
     animation: fadeInUp 1s ease-in-out;
     transition: box-shadow 0.3s, background-color 0.3s;
+    text-align: justify;
 }
 
 .note:hover {
