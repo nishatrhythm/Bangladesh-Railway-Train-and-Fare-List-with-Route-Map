@@ -21,7 +21,9 @@
             }
         ],
         "total_duration": "07:45",
-        "train_name": "MAITREE EXPRESS (3110)",
-        "train_model": "3110"
+        "train_name": "MAITREE EXPRESS (3110)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

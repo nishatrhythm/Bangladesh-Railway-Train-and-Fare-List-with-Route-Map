@@ -3,28 +3,28 @@
     "destination_city_name": "melandah_bazar",
     "info": [
         {
-            "type": "SNIGDHA",
-            "fare": 100.0,
-            "vat_percent": 15,
-            "vat_amount": 15
-        },
-        {
             "type": "S_CHAIR",
             "fare": 50.0,
             "vat_percent": 0,
             "vat_amount": 0
         },
         {
-            "type": "AC_S",
-            "fare": 110.0,
+            "type": "SNIGDHA",
+            "fare": 100.0,
             "vat_percent": 15,
-            "vat_amount": 17
+            "vat_amount": 15
         },
         {
             "type": "F_SEAT",
             "fare": 90.0,
             "vat_percent": 15,
             "vat_amount": 14
+        },
+        {
+            "type": "AC_S",
+            "fare": 110.0,
+            "vat_percent": 15,
+            "vat_amount": 17
         }
     ]
 }

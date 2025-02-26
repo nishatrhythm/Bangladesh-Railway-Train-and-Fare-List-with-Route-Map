@@ -18,30 +18,31 @@
             },
             {
                 "city": "Biman_Bandar",
-                "arrival_time": "10:53 am BST",
-                "departure_time": "10:58 am BST",
+                "arrival_time": "10:52 am BST",
+                "departure_time": "10:57 am BST",
                 "halt": "05",
-                "duration": "00:23"
+                "duration": "00:22"
             },
             {
                 "city": "Narsingdi",
                 "arrival_time": "11:36 am BST",
-                "departure_time": "11:41 am BST",
-                "halt": "05",
-                "duration": "00:38"
+                "departure_time": "11:39 am BST",
+                "halt": "03",
+                "duration": "00:39"
             },
             {
                 "city": "Methikanda",
-                "arrival_time": "11:58 am BST",
-                "halt": "---",
-                "duration": "00:17"
+                "arrival_time": "11:57 am BST",
+                "departure_time": "11:59 am BST",
+                "halt": "02",
+                "duration": "00:18"
             },
             {
                 "city": "Bhairab_Bazar",
                 "arrival_time": "12:15 pm BST",
                 "departure_time": "12:35 pm BST",
                 "halt": "20",
-                "duration": "---"
+                "duration": "00:16"
             },
             {
                 "city": "Kuliarchar",
@@ -87,7 +88,9 @@
             }
         ],
         "total_duration": "03:40",
-        "train_name": "KISHORGANJ EXPRESS (781)",
-        "train_model": "781"
+        "train_name": "KISHORGANJ EXPRESS (781)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

@@ -3,16 +3,16 @@
     "destination_city_name": "bhuapur",
     "info": [
         {
-            "type": "SNIGDHA",
-            "fare": 150.0,
-            "vat_percent": 15,
-            "vat_amount": 23
-        },
-        {
             "type": "S_CHAIR",
-            "fare": 90.0,
+            "fare": 70.0,
             "vat_percent": 0,
             "vat_amount": 0
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 115.0,
+            "vat_percent": 15,
+            "vat_amount": 18
         }
     ]
 }

@@ -3,16 +3,10 @@
     "destination_city_name": "joydebpur",
     "info": [
         {
-            "type": "AC_S",
-            "fare": 215.0,
+            "type": "F_SEAT",
+            "fare": 145.0,
             "vat_percent": 15,
-            "vat_amount": 33
-        },
-        {
-            "type": "S_CHAIR",
-            "fare": 110.0,
-            "vat_percent": 0,
-            "vat_amount": 0
+            "vat_amount": 22
         },
         {
             "type": "SHOVAN",
@@ -21,10 +15,16 @@
             "vat_amount": 0
         },
         {
-            "type": "F_SEAT",
-            "fare": 145.0,
+            "type": "S_CHAIR",
+            "fare": 110.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_S",
+            "fare": 215.0,
             "vat_percent": 15,
-            "vat_amount": 22
+            "vat_amount": 33
         }
     ]
 }

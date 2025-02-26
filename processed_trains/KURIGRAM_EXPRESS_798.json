@@ -5,7 +5,7 @@
             "Sat",
             "Sun",
             "Mon",
-            "Tue",
+            "Wed",
             "Thu"
         ],
         "routes": [
@@ -81,7 +81,9 @@
             }
         ],
         "total_duration": "09:55",
-        "train_name": "KURIGRAM EXPRESS (798)",
-        "train_model": "798"
+        "train_name": "KURIGRAM EXPRESS (798)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

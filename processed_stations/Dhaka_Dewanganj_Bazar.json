@@ -3,16 +3,10 @@
     "destination_city_name": "dewanganj_bazar",
     "info": [
         {
-            "type": "SNIGDHA",
-            "fare": 415.0,
+            "type": "AC_S",
+            "fare": 500.0,
             "vat_percent": 15,
-            "vat_amount": 63
-        },
-        {
-            "type": "S_CHAIR",
-            "fare": 250.0,
-            "vat_percent": 0,
-            "vat_amount": 0
+            "vat_amount": 75
         },
         {
             "type": "F_SEAT",
@@ -21,10 +15,16 @@
             "vat_amount": 51
         },
         {
-            "type": "AC_S",
-            "fare": 500.0,
+            "type": "S_CHAIR",
+            "fare": 250.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 415.0,
             "vat_percent": 15,
-            "vat_amount": 75
+            "vat_amount": 63
         }
     ]
 }

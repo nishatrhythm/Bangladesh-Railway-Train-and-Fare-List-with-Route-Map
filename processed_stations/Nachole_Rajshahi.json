@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "nachole",
+    "destination_city_name": "rajshahi",
+    "info": [
+        {
+            "type": "SHOVAN",
+            "fare": 50.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

@@ -3,6 +3,12 @@
     "destination_city_name": "kushtia_court",
     "info": [
         {
+            "type": "S_CHAIR",
+            "fare": 115.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
             "type": "SNIGDHA",
             "fare": 195.0,
             "vat_percent": 15,

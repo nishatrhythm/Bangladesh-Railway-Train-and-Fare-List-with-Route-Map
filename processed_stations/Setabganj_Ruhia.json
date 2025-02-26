@@ -1,0 +1,18 @@
+{
+    "origin_city_name": "setabganj",
+    "destination_city_name": "ruhia",
+    "info": [
+        {
+            "type": "AC_B",
+            "fare": 185.0,
+            "vat_percent": 15,
+            "vat_amount": 28
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 65.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

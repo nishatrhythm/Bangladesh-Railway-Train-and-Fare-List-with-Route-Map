@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "fulbari",
+    "destination_city_name": "panchagarh",
+    "info": [
+        {
+            "type": "AC_B",
+            "fare": 500.0,
+            "vat_percent": 15,
+            "vat_amount": 75
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 180.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 300.0,
+            "vat_percent": 15,
+            "vat_amount": 45
+        },
+        {
+            "type": "AC_S",
+            "fare": 360.0,
+            "vat_percent": 15,
+            "vat_amount": 54
+        }
+    ]
+}

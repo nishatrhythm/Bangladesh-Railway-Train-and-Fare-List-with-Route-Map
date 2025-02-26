@@ -3,6 +3,12 @@
     "destination_city_name": "ullapara",
     "info": [
         {
+            "type": "SNIGDHA",
+            "fare": 355.0,
+            "vat_percent": 15,
+            "vat_amount": 54
+        },
+        {
             "type": "S_CHAIR",
             "fare": 215.0,
             "vat_percent": 0,

@@ -26,14 +26,15 @@
             {
                 "city": "Chirirbandar",
                 "arrival_time": "08:00 am BST",
-                "halt": "---",
+                "departure_time": "08:02 am BST",
+                "halt": "02",
                 "duration": "---"
             },
             {
                 "city": "Kawgaon",
                 "arrival_time": "08:11 am BST",
                 "halt": "---",
-                "duration": "---"
+                "duration": "00:09"
             },
             {
                 "city": "Dinajpur",
@@ -56,15 +57,16 @@
             },
             {
                 "city": "Setabganj",
-                "arrival_time": "09:33 am BST",
-                "halt": "---",
+                "arrival_time": "09:31 am BST",
+                "departure_time": "09:33 am BST",
+                "halt": "02",
                 "duration": "---"
             },
             {
                 "city": "Sultanpur",
                 "arrival_time": "09:44 am BST",
                 "halt": "---",
-                "duration": "---"
+                "duration": "00:11"
             },
             {
                 "city": "Pirganj",
@@ -101,14 +103,15 @@
             {
                 "city": "Ruhia",
                 "arrival_time": "11:16 am BST",
-                "halt": "---",
+                "departure_time": "11:18 am BST",
+                "halt": "02",
                 "duration": "---"
             },
             {
                 "city": "Kismat",
                 "arrival_time": "11:27 am BST",
                 "halt": "---",
-                "duration": "---"
+                "duration": "00:09"
             },
             {
                 "city": "Nayaniburuj",
@@ -117,7 +120,7 @@
                 "duration": "---"
             },
             {
-                "city": "B Sirajul Islam",
+                "city": "Panchagarh",
                 "arrival_time": "12:00 pm BST",
                 "halt": null,
                 "duration": "---",
@@ -125,7 +128,9 @@
             }
         ],
         "total_duration": "04:20",
-        "train_name": "KANCHON INTERCITY COMMUTER (41)",
-        "train_model": "41"
+        "train_name": "KANCHON INTERCITY COMMUTER (41)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

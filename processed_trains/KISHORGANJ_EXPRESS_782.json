@@ -4,7 +4,7 @@
             "Fri",
             "Sat",
             "Sun",
-            "Tue",
+            "Mon",
             "Wed",
             "Thu"
         ],
@@ -60,33 +60,36 @@
             },
             {
                 "city": "Methikanda",
-                "arrival_time": "06:05 pm BST",
-                "halt": "---",
-                "duration": "00:17"
+                "arrival_time": "06:04 pm BST",
+                "departure_time": "06:06 pm BST",
+                "halt": "02",
+                "duration": "00:16"
             },
             {
                 "city": "Narsingdi",
-                "arrival_time": "06:25 pm BST",
+                "arrival_time": "06:27 pm BST",
                 "departure_time": "06:30 pm BST",
-                "halt": "05",
-                "duration": "---"
+                "halt": "03",
+                "duration": "00:21"
             },
             {
                 "city": "Biman_Bandar",
-                "arrival_time": "07:15 pm BST",
+                "arrival_time": "07:20 pm BST",
                 "halt": "---",
-                "duration": "00:45"
+                "duration": "00:50"
             },
             {
                 "city": "Dhaka",
-                "arrival_time": "07:55 pm BST",
+                "arrival_time": "08:00 pm BST",
                 "halt": null,
                 "duration": "---",
                 "departure_time": null
             }
         ],
-        "total_duration": "03:55",
-        "train_name": "KISHORGANJ EXPRESS (782)",
-        "train_model": "782"
+        "total_duration": "04:00",
+        "train_name": "KISHORGANJ EXPRESS (782)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

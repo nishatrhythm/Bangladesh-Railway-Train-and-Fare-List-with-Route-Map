@@ -3,16 +3,10 @@
     "destination_city_name": "kulaura",
     "info": [
         {
-            "type": "SNIGDHA",
-            "fare": 285.0,
+            "type": "AC_S",
+            "fare": 340.0,
             "vat_percent": 15,
-            "vat_amount": 43
-        },
-        {
-            "type": "S_CHAIR",
-            "fare": 170.0,
-            "vat_percent": 0,
-            "vat_amount": 0
+            "vat_amount": 51
         },
         {
             "type": "F_SEAT",
@@ -21,10 +15,16 @@
             "vat_amount": 35
         },
         {
-            "type": "AC_S",
-            "fare": 340.0,
+            "type": "S_CHAIR",
+            "fare": 170.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 285.0,
             "vat_percent": 15,
-            "vat_amount": 51
+            "vat_amount": 43
         }
     ]
 }

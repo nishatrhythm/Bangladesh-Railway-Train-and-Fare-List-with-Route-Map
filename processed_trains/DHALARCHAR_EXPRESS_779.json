@@ -160,7 +160,9 @@
             }
         ],
         "total_duration": "04:50",
-        "train_name": "DHALARCHAR EXPRESS (779)",
-        "train_model": "779"
+        "train_name": "DHALARCHAR EXPRESS (779)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

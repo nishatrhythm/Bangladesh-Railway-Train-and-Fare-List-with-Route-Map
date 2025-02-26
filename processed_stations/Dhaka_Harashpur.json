@@ -3,10 +3,10 @@
     "destination_city_name": "harashpur",
     "info": [
         {
-            "type": "SNIGDHA",
-            "fare": 320.0,
+            "type": "AC_S",
+            "fare": 385.0,
             "vat_percent": 15,
-            "vat_amount": 48
+            "vat_amount": 58
         },
         {
             "type": "S_CHAIR",
@@ -15,10 +15,10 @@
             "vat_amount": 0
         },
         {
-            "type": "AC_S",
-            "fare": 385.0,
+            "type": "SNIGDHA",
+            "fare": 320.0,
             "vat_percent": 15,
-            "vat_amount": 58
+            "vat_amount": 48
         }
     ]
 }

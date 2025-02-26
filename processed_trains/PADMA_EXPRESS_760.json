@@ -25,77 +25,79 @@
             },
             {
                 "city": "Abdulpur",
-                "arrival_time": "04:46 pm BST",
-                "departure_time": "04:48 pm BST",
+                "arrival_time": "04:45 pm BST",
+                "departure_time": "04:47 pm BST",
                 "halt": "02",
-                "duration": "00:27"
+                "duration": "00:26"
             },
             {
                 "city": "Ishwardi Bypass",
-                "arrival_time": "05:02 pm BST",
-                "departure_time": "05:04 pm BST",
+                "arrival_time": "05:01 pm BST",
+                "departure_time": "05:03 pm BST",
                 "halt": "02",
                 "duration": "00:14"
             },
             {
                 "city": "Chatmohar",
-                "arrival_time": "05:23 pm BST",
-                "departure_time": "05:26 pm BST",
+                "arrival_time": "05:22 pm BST",
+                "departure_time": "05:25 pm BST",
                 "halt": "03",
                 "duration": "00:19"
             },
             {
                 "city": "Boral_Bridge",
-                "arrival_time": "05:39 pm BST",
-                "departure_time": "05:42 pm BST",
-                "halt": "03",
+                "arrival_time": "05:38 pm BST",
+                "departure_time": "05:40 pm BST",
+                "halt": "02",
                 "duration": "00:13"
             },
             {
                 "city": "Ullapara",
-                "departure_time": "06:04 pm BST",
-                "arrival_time": "06:00 pm BST",
-                "halt": "04",
-                "duration": "00:18"
+                "departure_time": "06:02 pm BST",
+                "arrival_time": "05:59 pm BST",
+                "halt": "03",
+                "duration": "00:19"
             },
             {
                 "city": "SH M Monsur Ali",
-                "arrival_time": "06:20 pm BST",
-                "departure_time": "06:22 pm BST",
-                "halt": "02",
+                "arrival_time": "06:18 pm BST",
+                "departure_time": "06:21 pm BST",
+                "halt": "03",
                 "duration": "00:16"
             },
             {
                 "city": "Ibrahimabad",
-                "arrival_time": "07:01 pm BST",
-                "departure_time": "07:03 pm BST",
+                "arrival_time": "06:38 pm BST",
+                "departure_time": "06:40 pm BST",
                 "halt": "02",
-                "duration": "00:39"
+                "duration": "00:17"
             },
             {
                 "city": "Tangail",
-                "departure_time": "07:25 pm BST",
-                "arrival_time": "07:23 pm BST",
+                "departure_time": "07:02 pm BST",
+                "arrival_time": "07:00 pm BST",
                 "halt": "02",
                 "duration": "00:20"
             },
             {
                 "city": "Joydebpur",
-                "arrival_time": "08:22 pm BST",
-                "departure_time": "08:25 pm BST",
-                "halt": "03",
-                "duration": "00:57"
+                "arrival_time": "08:14 pm BST",
+                "departure_time": "08:18 pm BST",
+                "halt": "04",
+                "duration": "01:12"
             },
             {
                 "city": "Dhaka",
-                "arrival_time": "09:25 pm BST",
+                "arrival_time": "09:15 pm BST",
                 "halt": null,
-                "duration": "01:00",
+                "duration": "00:57",
                 "departure_time": null
             }
         ],
-        "total_duration": "05:25",
-        "train_name": "PADMA EXPRESS (760)",
-        "train_model": "760"
+        "total_duration": "05:15",
+        "train_name": "PADMA EXPRESS (760)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

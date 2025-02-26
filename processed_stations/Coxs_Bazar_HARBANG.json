@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "coxs bazar",
+    "destination_city_name": "harbang",
+    "info": [
+        {
+            "type": "SHOVAN",
+            "fare": 90.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

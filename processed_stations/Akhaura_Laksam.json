@@ -3,10 +3,10 @@
     "destination_city_name": "laksam",
     "info": [
         {
-            "type": "SNIGDHA",
-            "fare": 145.0,
+            "type": "AC_B",
+            "fare": 260.0,
             "vat_percent": 15,
-            "vat_amount": 22
+            "vat_amount": 39
         },
         {
             "type": "S_CHAIR",
@@ -15,10 +15,10 @@
             "vat_amount": 0
         },
         {
-            "type": "AC_B",
-            "fare": 260.0,
+            "type": "SNIGDHA",
+            "fare": 145.0,
             "vat_percent": 15,
-            "vat_amount": 39
+            "vat_amount": 22
         },
         {
             "type": "AC_S",

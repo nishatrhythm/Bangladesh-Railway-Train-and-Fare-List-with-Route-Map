@@ -1,0 +1,18 @@
+{
+    "origin_city_name": "tarakandi",
+    "destination_city_name": "narundi",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 60.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "SHOVAN",
+            "fare": 50.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

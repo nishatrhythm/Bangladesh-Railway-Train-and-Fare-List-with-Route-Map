@@ -38,7 +38,7 @@
                 "duration": "00:17"
             },
             {
-                "city": "Pakshi",
+                "city": "Paksey",
                 "arrival_time": "07:30 am BST",
                 "departure_time": "07:32 am BST",
                 "halt": "02",
@@ -130,7 +130,9 @@
             }
         ],
         "total_duration": "06:10",
-        "train_name": "SAGARDARI EXPRESS (762)",
-        "train_model": "762"
+        "train_name": "SAGARDARI EXPRESS (762)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

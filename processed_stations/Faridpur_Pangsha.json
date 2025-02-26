@@ -3,10 +3,22 @@
     "destination_city_name": "pangsha",
     "info": [
         {
+            "type": "AC_S",
+            "fare": 140.0,
+            "vat_percent": 15,
+            "vat_amount": 21
+        },
+        {
             "type": "S_CHAIR",
             "fare": 70.0,
             "vat_percent": 0,
             "vat_amount": 0
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 120.0,
+            "vat_percent": 15,
+            "vat_amount": 18
         }
     ]
 }

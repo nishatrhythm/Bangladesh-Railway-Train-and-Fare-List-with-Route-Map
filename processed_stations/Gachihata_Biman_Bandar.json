@@ -3,16 +3,10 @@
     "destination_city_name": "biman_bandar",
     "info": [
         {
-            "type": "F_SEAT",
-            "fare": 215.0,
-            "vat_percent": 15,
-            "vat_amount": 33
-        },
-        {
-            "type": "F_CHAIR",
-            "fare": 215.0,
-            "vat_percent": 15,
-            "vat_amount": 33
+            "type": "SHOVAN",
+            "fare": 135.0,
+            "vat_percent": 0,
+            "vat_amount": 0
         },
         {
             "type": "S_CHAIR",
@@ -21,10 +15,16 @@
             "vat_amount": 0
         },
         {
-            "type": "SHOVAN",
-            "fare": 135.0,
-            "vat_percent": 0,
-            "vat_amount": 0
+            "type": "F_CHAIR",
+            "fare": 215.0,
+            "vat_percent": 15,
+            "vat_amount": 33
+        },
+        {
+            "type": "F_SEAT",
+            "fare": 215.0,
+            "vat_percent": 15,
+            "vat_amount": 33
         },
         {
             "type": "SNIGDHA",

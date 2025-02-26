@@ -3,6 +3,12 @@
     "destination_city_name": "noapara",
     "info": [
         {
+            "type": "SNIGDHA",
+            "fare": 115.0,
+            "vat_percent": 15,
+            "vat_amount": 18
+        },
+        {
             "type": "S_CHAIR",
             "fare": 70.0,
             "vat_percent": 0,
@@ -13,12 +19,6 @@
             "fare": 135.0,
             "vat_percent": 15,
             "vat_amount": 21
-        },
-        {
-            "type": "SNIGDHA",
-            "fare": 115.0,
-            "vat_percent": 15,
-            "vat_amount": 18
         }
     ]
 }

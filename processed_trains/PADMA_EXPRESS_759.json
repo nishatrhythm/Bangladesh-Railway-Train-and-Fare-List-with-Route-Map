@@ -89,19 +89,22 @@
             {
                 "city": "Sardah_Road",
                 "arrival_time": "03:52 am BST",
-                "halt": "---",
+                "departure_time": "03:54 am BST",
+                "halt": "02",
                 "duration": "00:26"
             },
             {
                 "city": "Rajshahi",
                 "arrival_time": "04:25 am BST",
                 "halt": null,
-                "duration": "---",
+                "duration": "00:31",
                 "departure_time": null
             }
         ],
         "total_duration": "05:40",
-        "train_name": "PADMA EXPRESS (759)",
-        "train_model": "759"
+        "train_name": "PADMA EXPRESS (759)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

@@ -3,18 +3,6 @@
     "destination_city_name": "rangpur",
     "info": [
         {
-            "type": "AC_B",
-            "fare": 140.0,
-            "vat_percent": 15,
-            "vat_amount": 21
-        },
-        {
-            "type": "SNIGDHA",
-            "fare": 100.0,
-            "vat_percent": 15,
-            "vat_amount": 15
-        },
-        {
             "type": "S_CHAIR",
             "fare": 50.0,
             "vat_percent": 0,
@@ -25,6 +13,18 @@
             "fare": 45.0,
             "vat_percent": 0,
             "vat_amount": 0
+        },
+        {
+            "type": "AC_B",
+            "fare": 140.0,
+            "vat_percent": 15,
+            "vat_amount": 21
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 100.0,
+            "vat_percent": 15,
+            "vat_amount": 15
         }
     ]
 }

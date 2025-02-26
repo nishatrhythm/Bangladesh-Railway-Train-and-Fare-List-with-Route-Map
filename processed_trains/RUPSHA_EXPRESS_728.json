@@ -101,7 +101,7 @@
                 "duration": "00:45"
             },
             {
-                "city": "Pakshi",
+                "city": "Paksey",
                 "arrival_time": "02:10 pm BST",
                 "departure_time": "02:12 pm BST",
                 "halt": "02",
@@ -179,7 +179,9 @@
             }
         ],
         "total_duration": "09:50",
-        "train_name": "RUPSHA EXPRESS (728)",
-        "train_model": "728"
+        "train_name": "RUPSHA EXPRESS (728)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

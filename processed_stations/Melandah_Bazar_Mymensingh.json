@@ -9,10 +9,10 @@
             "vat_amount": 20
         },
         {
-            "type": "S_CHAIR",
-            "fare": 80.0,
-            "vat_percent": 0,
-            "vat_amount": 0
+            "type": "F_SEAT",
+            "fare": 105.0,
+            "vat_percent": 15,
+            "vat_amount": 16
         },
         {
             "type": "AC_S",
@@ -21,10 +21,10 @@
             "vat_amount": 24
         },
         {
-            "type": "F_SEAT",
-            "fare": 105.0,
-            "vat_percent": 15,
-            "vat_amount": 16
+            "type": "S_CHAIR",
+            "fare": 80.0,
+            "vat_percent": 0,
+            "vat_amount": 0
         }
     ]
 }

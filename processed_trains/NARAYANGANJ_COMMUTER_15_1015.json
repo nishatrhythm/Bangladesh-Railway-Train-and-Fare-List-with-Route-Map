@@ -26,7 +26,9 @@
             }
         ],
         "total_duration": "00:45",
-        "train_name": "NARAYANGANJ COMMUTER 15 (1015)",
-        "train_model": "1015"
+        "train_name": "NARAYANGANJ COMMUTER 15 (1015)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

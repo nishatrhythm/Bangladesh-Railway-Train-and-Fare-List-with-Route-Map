@@ -40,10 +40,10 @@
             },
             {
                 "city": "Akhaura",
-                "arrival_time": "01:45 am BST",
+                "arrival_time": "01:47 am BST",
                 "departure_time": "01:50 am BST",
-                "halt": "05",
-                "duration": "00:29"
+                "halt": "03",
+                "duration": "00:31"
             },
             {
                 "city": "Cumilla",
@@ -54,10 +54,10 @@
             },
             {
                 "city": "Laksam",
-                "arrival_time": "02:57 am BST",
+                "arrival_time": "02:58 am BST",
                 "departure_time": "03:00 am BST",
-                "halt": "03",
-                "duration": "00:22"
+                "halt": "02",
+                "duration": "00:23"
             },
             {
                 "city": "Feni",
@@ -75,7 +75,9 @@
             }
         ],
         "total_duration": "06:00",
-        "train_name": "TURNA (742)",
-        "train_model": "742"
+        "train_name": "TURNA (742)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

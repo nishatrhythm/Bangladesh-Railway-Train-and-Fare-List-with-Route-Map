@@ -81,15 +81,15 @@
             },
             {
                 "city": "Brahmanbaria",
-                "arrival_time": "09:10 am BST",
-                "departure_time": "09:14 am BST",
+                "arrival_time": "09:11 am BST",
+                "departure_time": "09:15 am BST",
                 "halt": "04",
-                "duration": "00:17"
+                "duration": "00:18"
             },
             {
                 "city": "Ashuganj",
-                "departure_time": "09:31 am BST",
-                "arrival_time": "09:29 am BST",
+                "departure_time": "09:32 am BST",
+                "arrival_time": "09:30 am BST",
                 "halt": "02",
                 "duration": "00:15"
             },
@@ -98,7 +98,7 @@
                 "departure_time": "10:07 am BST",
                 "arrival_time": "10:05 am BST",
                 "halt": "02",
-                "duration": "00:34"
+                "duration": "00:33"
             },
             {
                 "city": "Biman_Bandar",
@@ -115,7 +115,9 @@
             }
         ],
         "total_duration": "05:20",
-        "train_name": "UPAKUL EXPRESS (711)",
-        "train_model": "711"
+        "train_name": "UPAKUL EXPRESS (711)"
+    },
+    "extra": {
+        "hash": "44984BFD06804094A56F94AE02FDF373"
     }
 }

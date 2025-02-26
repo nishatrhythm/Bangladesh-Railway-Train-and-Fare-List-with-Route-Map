@@ -46,17 +46,17 @@
             },
             {
                 "city": "Sreemangal",
-                "arrival_time": "12:54 pm BST",
-                "departure_time": "12:57 pm BST",
-                "halt": "03",
-                "duration": "00:20"
+                "arrival_time": "12:57 pm BST",
+                "departure_time": "01:02 pm BST",
+                "halt": "05",
+                "duration": "00:23"
             },
             {
                 "city": "Shaistaganj",
                 "arrival_time": "01:54 pm BST",
                 "departure_time": "01:57 pm BST",
                 "halt": "03",
-                "duration": "00:57"
+                "duration": "00:52"
             },
             {
                 "city": "Nayapara",
@@ -123,7 +123,9 @@
             }
         ],
         "total_duration": "08:25",
-        "train_name": "PAHARIKA EXPRESS (720)",
-        "train_model": "720"
+        "train_name": "PAHARIKA EXPRESS (720)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

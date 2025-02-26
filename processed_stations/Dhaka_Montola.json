@@ -3,10 +3,10 @@
     "destination_city_name": "montola",
     "info": [
         {
-            "type": "SNIGDHA",
-            "fare": 335.0,
+            "type": "AC_S",
+            "fare": 400.0,
             "vat_percent": 15,
-            "vat_amount": 51
+            "vat_amount": 60
         },
         {
             "type": "S_CHAIR",
@@ -15,10 +15,10 @@
             "vat_amount": 0
         },
         {
-            "type": "AC_S",
-            "fare": 400.0,
+            "type": "SNIGDHA",
+            "fare": 335.0,
             "vat_percent": 15,
-            "vat_amount": 60
+            "vat_amount": 51
         }
     ]
 }

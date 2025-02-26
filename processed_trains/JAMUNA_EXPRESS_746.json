@@ -33,21 +33,23 @@
             },
             {
                 "city": "Piyarpur",
+                "departure_time": "03:48 am BST",
                 "arrival_time": "03:46 am BST",
-                "halt": "---",
+                "halt": "02",
                 "duration": "00:35"
             },
             {
                 "city": "Narundi",
                 "arrival_time": "03:33 am BST",
-                "halt": "---",
-                "duration": "---"
+                "departure_time": "03:35 am BST",
+                "halt": "02",
+                "duration": "00:15"
             },
             {
                 "city": "Bidyaganj",
-                "arrival_time": "03:54 am BST",
+                "arrival_time": "04:01 am BST",
                 "halt": "---",
-                "duration": "---"
+                "duration": "00:26"
             },
             {
                 "city": "Mymensingh",
@@ -58,40 +60,42 @@
             },
             {
                 "city": "Gafargaon",
-                "arrival_time": "05:09 am BST",
-                "departure_time": "05:12 am BST",
-                "halt": "03",
-                "duration": "00:39"
+                "arrival_time": "05:16 am BST",
+                "departure_time": "05:18 am BST",
+                "halt": "02",
+                "duration": "00:46"
             },
             {
                 "city": "Sreepur",
-                "arrival_time": "05:44 am BST",
+                "arrival_time": "06:15 am BST",
                 "halt": "---",
-                "duration": "00:32"
+                "duration": "00:57"
             },
             {
                 "city": "Joydebpur",
-                "departure_time": "06:14 am BST",
-                "arrival_time": "06:12 am BST",
+                "departure_time": "06:57 am BST",
+                "arrival_time": "06:55 am BST",
                 "halt": "02",
                 "duration": "---"
             },
             {
                 "city": "Biman_Bandar",
-                "arrival_time": "06:37 am BST",
+                "arrival_time": "07:23 am BST",
                 "halt": "---",
-                "duration": "00:23"
+                "duration": "00:26"
             },
             {
                 "city": "Dhaka",
-                "arrival_time": "07:30 am BST",
+                "arrival_time": "08:00 am BST",
                 "halt": null,
                 "duration": "---",
                 "departure_time": null
             }
         ],
-        "total_duration": "05:30",
-        "train_name": "JAMUNA EXPRESS (746)",
-        "train_model": "746"
+        "total_duration": "06:00",
+        "train_name": "JAMUNA EXPRESS (746)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

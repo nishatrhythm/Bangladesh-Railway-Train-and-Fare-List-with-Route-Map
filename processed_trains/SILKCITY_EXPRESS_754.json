@@ -46,15 +46,15 @@
             },
             {
                 "city": "Ullapara",
-                "departure_time": "09:40 am BST",
-                "arrival_time": "09:38 am BST",
-                "halt": "02",
-                "duration": "00:21"
+                "departure_time": "09:39 am BST",
+                "arrival_time": "09:36 am BST",
+                "halt": "03",
+                "duration": "00:19"
             },
             {
                 "city": "Jamtail",
-                "arrival_time": "09:52 am BST",
-                "departure_time": "09:54 am BST",
+                "arrival_time": "09:51 am BST",
+                "departure_time": "09:53 am BST",
                 "halt": "02",
                 "duration": "00:12"
             },
@@ -63,46 +63,48 @@
                 "arrival_time": "10:01 am BST",
                 "departure_time": "10:04 am BST",
                 "halt": "03",
-                "duration": "00:07"
+                "duration": "00:08"
             },
             {
                 "city": "Ibrahimabad",
-                "arrival_time": "10:44 am BST",
-                "departure_time": "10:46 am BST",
+                "arrival_time": "10:20 am BST",
+                "departure_time": "10:22 am BST",
                 "halt": "02",
-                "duration": "00:40"
+                "duration": "00:16"
             },
             {
                 "city": "Tangail",
-                "departure_time": "11:08 am BST",
-                "arrival_time": "11:06 am BST",
+                "departure_time": "10:44 am BST",
+                "arrival_time": "10:42 am BST",
                 "halt": "02",
                 "duration": "00:20"
             },
             {
                 "city": "Mirzapur",
-                "arrival_time": "11:35 am BST",
-                "departure_time": "11:37 am BST",
+                "arrival_time": "11:08 am BST",
+                "departure_time": "11:10 am BST",
                 "halt": "02",
-                "duration": "00:27"
+                "duration": "00:24"
             },
             {
                 "city": "Joydebpur",
-                "arrival_time": "12:20 pm BST",
-                "departure_time": "12:23 pm BST",
+                "arrival_time": "12:05 pm BST",
+                "departure_time": "12:08 pm BST",
                 "halt": "03",
-                "duration": "00:43"
+                "duration": "00:55"
             },
             {
                 "city": "Dhaka",
-                "arrival_time": "01:20 pm BST",
+                "arrival_time": "01:10 pm BST",
                 "halt": null,
-                "duration": "00:57",
+                "duration": "01:02",
                 "departure_time": null
             }
         ],
-        "total_duration": "05:40",
-        "train_name": "SILKCITY EXPRESS (754)",
-        "train_model": "754"
+        "total_duration": "05:30",
+        "train_name": "SILKCITY EXPRESS (754)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

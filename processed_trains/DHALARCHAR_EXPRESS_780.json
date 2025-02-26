@@ -50,14 +50,15 @@
             {
                 "city": "Sardah_Road",
                 "arrival_time": "05:18 pm BST",
-                "halt": "---",
+                "departure_time": "05:20 pm BST",
+                "halt": "02",
                 "duration": "00:18"
             },
             {
                 "city": "Arani",
                 "arrival_time": "05:48 pm BST",
                 "halt": "---",
-                "duration": "---"
+                "duration": "00:28"
             },
             {
                 "city": "Abdulpur",
@@ -69,7 +70,8 @@
             {
                 "city": "Azim Nagar",
                 "arrival_time": "06:14 pm BST",
-                "halt": "---",
+                "departure_time": "06:16 pm BST",
+                "halt": "02",
                 "duration": "00:09"
             },
             {
@@ -77,7 +79,7 @@
                 "arrival_time": "06:25 pm BST",
                 "departure_time": "06:28 pm BST",
                 "halt": "03",
-                "duration": "---"
+                "duration": "00:09"
             },
             {
                 "city": "Majhgram",
@@ -149,7 +151,9 @@
             }
         ],
         "total_duration": "05:15",
-        "train_name": "DHALARCHAR EXPRESS (780)",
-        "train_model": "780"
+        "train_name": "DHALARCHAR EXPRESS (780)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

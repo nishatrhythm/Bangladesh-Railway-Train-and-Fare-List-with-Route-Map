@@ -3,10 +3,10 @@
     "destination_city_name": "alamdanga",
     "info": [
         {
-            "type": "AC_S",
-            "fare": 365.0,
-            "vat_percent": 15,
-            "vat_amount": 55
+            "type": "S_CHAIR",
+            "fare": 185.0,
+            "vat_percent": 0,
+            "vat_amount": 0
         },
         {
             "type": "SNIGDHA",
@@ -15,10 +15,10 @@
             "vat_amount": 46
         },
         {
-            "type": "S_CHAIR",
-            "fare": 185.0,
-            "vat_percent": 0,
-            "vat_amount": 0
+            "type": "AC_S",
+            "fare": 365.0,
+            "vat_percent": 15,
+            "vat_amount": 55
         }
     ]
 }

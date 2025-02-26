@@ -3,16 +3,16 @@
     "destination_city_name": "noakhali",
     "info": [
         {
-            "type": "SNIGDHA",
-            "fare": 205.0,
-            "vat_percent": 15,
-            "vat_amount": 31
-        },
-        {
             "type": "S_CHAIR",
             "fare": 125.0,
             "vat_percent": 0,
             "vat_amount": 0
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 205.0,
+            "vat_percent": 15,
+            "vat_amount": 31
         }
     ]
 }

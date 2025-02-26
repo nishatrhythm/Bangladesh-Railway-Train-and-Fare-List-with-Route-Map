@@ -61,28 +61,28 @@
             {
                 "city": "Alamdanga",
                 "arrival_time": "12:09 pm BST",
-                "departure_time": "12:12 pm BST",
-                "halt": "03",
+                "departure_time": "12:11 pm BST",
+                "halt": "02",
                 "duration": "00:16"
             },
             {
                 "city": "Poradaha",
-                "arrival_time": "12:26 pm BST",
-                "departure_time": "12:29 pm BST",
+                "arrival_time": "12:27 pm BST",
+                "departure_time": "12:30 pm BST",
                 "halt": "03",
-                "duration": "00:14"
+                "duration": "00:16"
             },
             {
                 "city": "Mirpur",
-                "arrival_time": "12:39 pm BST",
-                "departure_time": "12:41 pm BST",
+                "arrival_time": "12:40 pm BST",
+                "departure_time": "12:42 pm BST",
                 "halt": "02",
                 "duration": "00:10"
             },
             {
                 "city": "Bheramara",
-                "arrival_time": "12:51 pm BST",
-                "departure_time": "12:54 pm BST",
+                "arrival_time": "12:52 pm BST",
+                "departure_time": "12:55 pm BST",
                 "halt": "03",
                 "duration": "00:10"
             },
@@ -91,21 +91,21 @@
                 "arrival_time": "01:15 pm BST",
                 "departure_time": "01:25 pm BST",
                 "halt": "10",
-                "duration": "00:21"
+                "duration": "00:20"
             },
             {
                 "city": "Chatmohar",
-                "arrival_time": "01:47 pm BST",
-                "departure_time": "01:53 pm BST",
-                "halt": "06",
-                "duration": "00:22"
+                "arrival_time": "01:48 pm BST",
+                "departure_time": "01:51 pm BST",
+                "halt": "03",
+                "duration": "00:23"
             },
             {
                 "city": "Boral_Bridge",
                 "arrival_time": "02:06 pm BST",
                 "departure_time": "02:09 pm BST",
                 "halt": "03",
-                "duration": "00:13"
+                "duration": "00:15"
             },
             {
                 "city": "Ullapara",
@@ -116,49 +116,51 @@
             },
             {
                 "city": "SH M Monsur Ali",
-                "arrival_time": "02:46 pm BST",
-                "departure_time": "02:49 pm BST",
+                "arrival_time": "02:45 pm BST",
+                "departure_time": "02:48 pm BST",
                 "halt": "03",
-                "duration": "00:16"
+                "duration": "00:15"
             },
             {
                 "city": "Ibrahimabad",
-                "arrival_time": "03:35 pm BST",
-                "departure_time": "03:37 pm BST",
-                "halt": "02",
-                "duration": "00:46"
+                "arrival_time": "03:29 pm BST",
+                "departure_time": "03:32 pm BST",
+                "halt": "03",
+                "duration": "00:41"
             },
             {
                 "city": "Tangail",
-                "departure_time": "03:59 pm BST",
-                "arrival_time": "03:57 pm BST",
+                "departure_time": "03:54 pm BST",
+                "arrival_time": "03:52 pm BST",
                 "halt": "02",
                 "duration": "00:20"
             },
             {
                 "city": "Joydebpur",
-                "arrival_time": "05:08 pm BST",
-                "departure_time": "05:11 pm BST",
+                "arrival_time": "05:04 pm BST",
+                "departure_time": "05:07 pm BST",
                 "halt": "03",
-                "duration": "01:09"
+                "duration": "01:10"
             },
             {
                 "city": "Biman_Bandar",
-                "arrival_time": "05:32 pm BST",
-                "departure_time": "05:35 pm BST",
+                "arrival_time": "05:33 pm BST",
+                "departure_time": "05:36 pm BST",
                 "halt": "03",
-                "duration": "00:21"
+                "duration": "00:26"
             },
             {
                 "city": "Dhaka",
                 "arrival_time": "06:05 pm BST",
                 "halt": null,
-                "duration": "00:30",
+                "duration": "00:29",
                 "departure_time": null
             }
         ],
         "total_duration": "09:05",
-        "train_name": "CHITRA EXPRESS (763)",
-        "train_model": "763"
+        "train_name": "CHITRA EXPRESS (763)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

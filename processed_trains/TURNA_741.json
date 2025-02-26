@@ -61,14 +61,16 @@
             },
             {
                 "city": "Dhaka",
-                "arrival_time": "05:15 am BST",
+                "arrival_time": "05:10 am BST",
                 "halt": null,
-                "duration": "01:42",
+                "duration": "01:37",
                 "departure_time": null
             }
         ],
-        "total_duration": "05:45",
-        "train_name": "TURNA (741)",
-        "train_model": "741"
+        "total_duration": "05:40",
+        "train_name": "TURNA (741)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

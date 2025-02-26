@@ -25,91 +25,93 @@
             },
             {
                 "city": "Joydebpur",
-                "arrival_time": "06:50 am BST",
+                "arrival_time": "06:51 am BST",
                 "departure_time": "06:53 am BST",
-                "halt": "03",
-                "duration": "00:22"
+                "halt": "02",
+                "duration": "00:23"
             },
             {
                 "city": "Tangail",
                 "arrival_time": "07:47 am BST",
-                "departure_time": "07:50 am BST",
-                "halt": "03",
+                "departure_time": "07:49 am BST",
+                "halt": "02",
                 "duration": "00:54"
             },
             {
                 "city": "Ibrahimabad",
-                "arrival_time": "08:14 am BST",
-                "departure_time": "08:24 am BST",
-                "halt": "10",
-                "duration": "00:24"
+                "arrival_time": "08:09 am BST",
+                "departure_time": "08:11 am BST",
+                "halt": "02",
+                "duration": "00:20"
             },
             {
                 "city": "SH M Monsur Ali",
-                "arrival_time": "08:54 am BST",
-                "departure_time": "08:57 am BST",
+                "arrival_time": "08:27 am BST",
+                "departure_time": "08:30 am BST",
                 "halt": "03",
-                "duration": "00:30"
+                "duration": "00:16"
             },
             {
                 "city": "Jamtail",
-                "arrival_time": "09:04 am BST",
-                "departure_time": "09:06 am BST",
-                "halt": "02",
-                "duration": "00:07"
+                "arrival_time": "08:38 am BST",
+                "departure_time": "08:44 am BST",
+                "halt": "06",
+                "duration": "00:08"
             },
             {
                 "city": "Ullapara",
-                "arrival_time": "09:18 am BST",
-                "departure_time": "09:20 am BST",
-                "halt": "02",
+                "arrival_time": "08:56 am BST",
+                "departure_time": "08:59 am BST",
+                "halt": "03",
                 "duration": "00:12"
             },
             {
                 "city": "Boral_Bridge",
-                "arrival_time": "09:45 am BST",
-                "departure_time": "09:48 am BST",
+                "arrival_time": "09:28 am BST",
+                "departure_time": "09:31 am BST",
                 "halt": "03",
-                "duration": "00:25"
+                "duration": "00:29"
             },
             {
                 "city": "Chatmohar",
-                "arrival_time": "10:01 am BST",
-                "departure_time": "10:04 am BST",
+                "arrival_time": "09:44 am BST",
+                "departure_time": "09:47 am BST",
                 "halt": "03",
                 "duration": "00:13"
             },
             {
                 "city": "Ishwardi Bypass",
-                "arrival_time": "10:23 am BST",
-                "departure_time": "10:25 am BST",
-                "halt": "02",
-                "duration": "00:19"
+                "arrival_time": "10:12 am BST",
+                "departure_time": "10:15 am BST",
+                "halt": "03",
+                "duration": "00:25"
             },
             {
                 "city": "Abdulpur",
-                "arrival_time": "10:39 am BST",
-                "departure_time": "10:41 am BST",
-                "halt": "02",
-                "duration": "00:14"
+                "arrival_time": "10:33 am BST",
+                "departure_time": "10:36 am BST",
+                "halt": "03",
+                "duration": "00:18"
             },
             {
                 "city": "Arani",
-                "arrival_time": "10:53 am BST",
-                "departure_time": "10:55 am BST",
+                "arrival_time": "10:47 am BST",
+                "departure_time": "10:49 am BST",
                 "halt": "02",
-                "duration": "00:12"
+                "duration": "00:11"
             },
             {
                 "city": "Rajshahi",
                 "arrival_time": "11:40 am BST",
                 "halt": null,
-                "duration": "00:45",
+                "duration": "00:51",
                 "departure_time": null
             }
         ],
         "total_duration": "05:40",
-        "train_name": "DHUMKETU EXPRESS (769)",
-        "train_model": "769"
+        "train_name": "DHUMKETU EXPRESS (769)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

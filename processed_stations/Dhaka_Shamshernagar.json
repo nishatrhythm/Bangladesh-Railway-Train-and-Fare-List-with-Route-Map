@@ -3,18 +3,6 @@
     "destination_city_name": "shamshernagar",
     "info": [
         {
-            "type": "SNIGDHA",
-            "fare": 505.0,
-            "vat_percent": 15,
-            "vat_amount": 76
-        },
-        {
-            "type": "AC_B",
-            "fare": 905.0,
-            "vat_percent": 15,
-            "vat_amount": 136
-        },
-        {
             "type": "S_CHAIR",
             "fare": 305.0,
             "vat_percent": 0,
@@ -25,6 +13,18 @@
             "fare": 605.0,
             "vat_percent": 15,
             "vat_amount": 91
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 505.0,
+            "vat_percent": 15,
+            "vat_amount": 76
+        },
+        {
+            "type": "AC_B",
+            "fare": 905.0,
+            "vat_percent": 15,
+            "vat_amount": 136
         }
     ]
 }

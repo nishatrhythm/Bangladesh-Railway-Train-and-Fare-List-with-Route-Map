@@ -172,7 +172,9 @@
             }
         ],
         "total_duration": "09:30",
-        "train_name": "SIMANTA EXPRESS (747)",
-        "train_model": "747"
+        "train_name": "SIMANTA EXPRESS (747)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

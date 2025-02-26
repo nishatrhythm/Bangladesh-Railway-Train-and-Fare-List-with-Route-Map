@@ -11,7 +11,7 @@
         ],
         "routes": [
             {
-                "city": "B Sirajul Islam",
+                "city": "Panchagarh",
                 "departure_time": "06:00 am BST",
                 "halt": null,
                 "duration": null,
@@ -25,8 +25,9 @@
             },
             {
                 "city": "Ruhia",
+                "departure_time": "06:35 am BST",
                 "arrival_time": "06:33 am BST",
-                "halt": "---",
+                "halt": "02",
                 "duration": "---"
             },
             {
@@ -34,7 +35,7 @@
                 "departure_time": "06:54 am BST",
                 "arrival_time": "06:51 am BST",
                 "halt": "03",
-                "duration": "---"
+                "duration": "00:16"
             },
             {
                 "city": "Bhomradah",
@@ -52,21 +53,23 @@
             },
             {
                 "city": "Setabganj",
-                "arrival_time": "07:43 am BST",
-                "halt": "---",
-                "duration": "00:16"
+                "departure_time": "07:53 am BST",
+                "arrival_time": "07:51 am BST",
+                "halt": "02",
+                "duration": "00:24"
             },
             {
                 "city": "Dinajpur",
                 "departure_time": "08:33 am BST",
                 "arrival_time": "08:28 am BST",
                 "halt": "05",
-                "duration": "---"
+                "duration": "00:35"
             },
             {
                 "city": "Chirirbandar",
+                "departure_time": "08:55 am BST",
                 "arrival_time": "08:52 am BST",
-                "halt": "---",
+                "halt": "03",
                 "duration": "00:19"
             },
             {
@@ -74,7 +77,7 @@
                 "arrival_time": "09:15 am BST",
                 "departure_time": "09:35 am BST",
                 "halt": "20",
-                "duration": "---"
+                "duration": "00:20"
             },
             {
                 "city": "Kholahati",
@@ -84,8 +87,9 @@
             },
             {
                 "city": "Badarganj",
+                "departure_time": "10:01 am BST",
                 "arrival_time": "09:59 am BST",
-                "halt": "---",
+                "halt": "02",
                 "duration": "---"
             },
             {
@@ -93,7 +97,7 @@
                 "arrival_time": "10:26 am BST",
                 "departure_time": "10:31 am BST",
                 "halt": "05",
-                "duration": "---"
+                "duration": "00:25"
             },
             {
                 "city": "Kaunia",
@@ -112,7 +116,8 @@
             {
                 "city": "Bamondanga",
                 "arrival_time": "12:01 pm BST",
-                "halt": "---",
+                "departure_time": "12:13 pm BST",
+                "halt": "12",
                 "duration": "00:18"
             },
             {
@@ -120,7 +125,7 @@
                 "arrival_time": "12:42 pm BST",
                 "departure_time": "12:47 pm BST",
                 "halt": "05",
-                "duration": "---"
+                "duration": "00:29"
             },
             {
                 "city": "Badiakhali",
@@ -171,7 +176,9 @@
             }
         ],
         "total_duration": "10:10",
-        "train_name": "DOLONCHAPA EXPRESS (768)",
-        "train_model": "768"
+        "train_name": "DOLONCHAPA EXPRESS (768)"
+    },
+    "extra": {
+        "hash": "44984BFD06804094A56F94AE02FDF373"
     }
 }

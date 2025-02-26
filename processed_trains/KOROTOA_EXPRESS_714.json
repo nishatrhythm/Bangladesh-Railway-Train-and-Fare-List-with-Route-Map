@@ -136,7 +136,9 @@
             }
         ],
         "total_duration": "06:30",
-        "train_name": "KOROTOA EXPRESS (714)",
-        "train_model": "714"
+        "train_name": "KOROTOA EXPRESS (714)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

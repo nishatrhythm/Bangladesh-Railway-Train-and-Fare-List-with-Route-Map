@@ -3,16 +3,16 @@
     "destination_city_name": "brahmanbaria",
     "info": [
         {
-            "type": "SNIGDHA",
-            "fare": 380.0,
-            "vat_percent": 15,
-            "vat_amount": 57
-        },
-        {
             "type": "AC_S",
             "fare": 455.0,
             "vat_percent": 15,
             "vat_amount": 69
+        },
+        {
+            "type": "F_SEAT",
+            "fare": 305.0,
+            "vat_percent": 15,
+            "vat_amount": 46
         },
         {
             "type": "S_CHAIR",
@@ -21,10 +21,10 @@
             "vat_amount": 0
         },
         {
-            "type": "F_SEAT",
-            "fare": 305.0,
+            "type": "SNIGDHA",
+            "fare": 380.0,
             "vat_percent": 15,
-            "vat_amount": 46
+            "vat_amount": 57
         }
     ]
 }

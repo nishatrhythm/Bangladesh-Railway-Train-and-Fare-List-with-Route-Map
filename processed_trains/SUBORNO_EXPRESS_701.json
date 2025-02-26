@@ -11,21 +11,23 @@
         "routes": [
             {
                 "city": "Chattogram",
-                "departure_time": "07:30 am BST",
+                "departure_time": "07:00 am BST",
                 "halt": null,
                 "duration": null,
                 "arrival_time": null
             },
             {
                 "city": "Dhaka",
-                "arrival_time": "12:25 pm BST",
+                "arrival_time": "11:55 am BST",
                 "halt": null,
                 "duration": "04:55",
                 "departure_time": null
             }
         ],
         "total_duration": "04:55",
-        "train_name": "SUBORNO EXPRESS (701)",
-        "train_model": "701"
+        "train_name": "SUBORNO EXPRESS (701)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

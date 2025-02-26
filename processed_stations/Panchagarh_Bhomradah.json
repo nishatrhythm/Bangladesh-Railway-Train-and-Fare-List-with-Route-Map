@@ -1,0 +1,18 @@
+{
+    "origin_city_name": "panchagarh",
+    "destination_city_name": "bhomradah",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 75.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "SHOVAN",
+            "fare": 55.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

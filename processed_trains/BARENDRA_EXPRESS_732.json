@@ -122,7 +122,9 @@
             }
         ],
         "total_duration": "06:10",
-        "train_name": "BARENDRA EXPRESS (732)",
-        "train_model": "732"
+        "train_name": "BARENDRA EXPRESS (732)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

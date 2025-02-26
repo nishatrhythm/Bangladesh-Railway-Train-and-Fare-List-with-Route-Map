@@ -144,7 +144,9 @@
             }
         ],
         "total_duration": "09:40",
-        "train_name": "LALMONI EXPRESS (752)",
-        "train_model": "752"
+        "train_name": "LALMONI EXPRESS (752)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

@@ -3,10 +3,10 @@
     "destination_city_name": "mukundapur",
     "info": [
         {
-            "type": "SNIGDHA",
-            "fare": 305.0,
+            "type": "AC_S",
+            "fare": 365.0,
             "vat_percent": 15,
-            "vat_amount": 46
+            "vat_amount": 55
         },
         {
             "type": "S_CHAIR",
@@ -15,10 +15,10 @@
             "vat_amount": 0
         },
         {
-            "type": "AC_S",
-            "fare": 365.0,
+            "type": "SNIGDHA",
+            "fare": 305.0,
             "vat_percent": 15,
-            "vat_amount": 55
+            "vat_amount": 46
         }
     ]
 }

@@ -12,67 +12,71 @@
         "routes": [
             {
                 "city": "Tarakandi",
-                "departure_time": "06:30 pm BST",
+                "departure_time": "05:30 pm BST",
                 "halt": null,
                 "duration": null,
                 "arrival_time": null
             },
             {
                 "city": "Sarishabari",
-                "departure_time": "06:47 pm BST",
-                "arrival_time": "06:45 pm BST",
+                "departure_time": "05:47 pm BST",
+                "arrival_time": "05:45 pm BST",
                 "halt": "02",
                 "duration": "00:15"
             },
             {
                 "city": "Kendua_Bazar",
-                "arrival_time": "07:18 pm BST",
-                "halt": "---",
-                "duration": "00:31"
+                "arrival_time": "06:17 pm BST",
+                "departure_time": "06:19 pm BST",
+                "halt": "02",
+                "duration": "00:30"
             },
             {
                 "city": "Jamalpur_Town",
-                "departure_time": "07:42 pm BST",
-                "arrival_time": "07:40 pm BST",
-                "halt": "02",
-                "duration": "---"
+                "departure_time": "06:41 pm BST",
+                "arrival_time": "06:38 pm BST",
+                "halt": "03",
+                "duration": "00:19"
             },
             {
                 "city": "Narundi",
-                "arrival_time": "08:03 pm BST",
-                "halt": "---",
-                "duration": "00:21"
+                "arrival_time": "07:03 pm BST",
+                "departure_time": "07:05 pm BST",
+                "halt": "02",
+                "duration": "00:22"
             },
             {
                 "city": "Mymensingh",
-                "departure_time": "08:48 pm BST",
-                "arrival_time": "08:44 pm BST",
-                "halt": "04",
-                "duration": "---"
+                "departure_time": "07:48 pm BST",
+                "arrival_time": "07:45 pm BST",
+                "halt": "03",
+                "duration": "00:40"
             },
             {
                 "city": "Gafargaon",
-                "arrival_time": "09:30 pm BST",
-                "departure_time": "09:33 pm BST",
+                "arrival_time": "08:34 pm BST",
+                "departure_time": "08:37 pm BST",
                 "halt": "03",
-                "duration": "00:42"
+                "duration": "00:46"
             },
             {
                 "city": "Biman_Bandar",
-                "arrival_time": "11:07 pm BST",
+                "arrival_time": "10:22 pm BST",
                 "halt": "---",
-                "duration": "01:34"
+                "duration": "01:45"
             },
             {
                 "city": "Dhaka",
-                "arrival_time": "11:50 pm BST",
+                "arrival_time": "10:55 pm BST",
                 "halt": null,
                 "duration": "---",
                 "departure_time": null
             }
         ],
-        "total_duration": "05:20",
-        "train_name": "AGHNIBINA EXPRESS (736)",
-        "train_model": "736"
+        "total_duration": "05:25",
+        "train_name": "AGHNIBINA EXPRESS (736)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

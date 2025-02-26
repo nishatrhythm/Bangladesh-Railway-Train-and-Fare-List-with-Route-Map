@@ -25,86 +25,86 @@
             },
             {
                 "city": "Ibrahimabad",
-                "arrival_time": "11:28 am BST",
-                "departure_time": "11:38 am BST",
-                "halt": "10",
-                "duration": "01:50"
+                "arrival_time": "11:33 am BST",
+                "departure_time": "11:35 am BST",
+                "halt": "02",
+                "duration": "01:55"
             },
             {
                 "city": "Chatmohar",
-                "arrival_time": "12:52 pm BST",
-                "departure_time": "12:54 pm BST",
-                "halt": "02",
-                "duration": "01:14"
+                "arrival_time": "12:31 pm BST",
+                "departure_time": "12:34 pm BST",
+                "halt": "03",
+                "duration": "00:56"
             },
             {
                 "city": "Natore",
-                "arrival_time": "01:49 pm BST",
-                "departure_time": "01:52 pm BST",
+                "arrival_time": "01:43 pm BST",
+                "departure_time": "01:46 pm BST",
                 "halt": "03",
-                "duration": "00:55"
+                "duration": "01:09"
             },
             {
                 "city": "Santahar",
-                "arrival_time": "03:05 pm BST",
-                "departure_time": "03:10 pm BST",
+                "arrival_time": "02:45 pm BST",
+                "departure_time": "02:50 pm BST",
                 "halt": "05",
-                "duration": "01:13"
+                "duration": "00:59"
             },
             {
                 "city": "Talora",
-                "arrival_time": "03:33 pm BST",
-                "departure_time": "03:35 pm BST",
+                "arrival_time": "03:13 pm BST",
+                "departure_time": "03:15 pm BST",
                 "halt": "02",
                 "duration": "00:23"
             },
             {
                 "city": "Bogura",
-                "arrival_time": "03:56 pm BST",
-                "departure_time": "03:59 pm BST",
-                "halt": "03",
+                "arrival_time": "03:36 pm BST",
+                "departure_time": "03:41 pm BST",
+                "halt": "05",
                 "duration": "00:21"
             },
             {
                 "city": "Sonatola",
-                "arrival_time": "04:29 pm BST",
-                "departure_time": "04:31 pm BST",
+                "arrival_time": "04:11 pm BST",
+                "departure_time": "04:13 pm BST",
                 "halt": "02",
                 "duration": "00:30"
             },
             {
                 "city": "Bonar_Para",
-                "arrival_time": "04:47 pm BST",
-                "departure_time": "04:50 pm BST",
-                "halt": "03",
-                "duration": "00:16"
+                "arrival_time": "04:30 pm BST",
+                "departure_time": "04:40 pm BST",
+                "halt": "10",
+                "duration": "00:17"
             },
             {
                 "city": "Gaibandha",
-                "arrival_time": "05:20 pm BST",
-                "departure_time": "05:23 pm BST",
-                "halt": "03",
-                "duration": "00:30"
+                "arrival_time": "05:03 pm BST",
+                "departure_time": "05:08 pm BST",
+                "halt": "05",
+                "duration": "00:23"
             },
             {
                 "city": "Bamondanga",
-                "arrival_time": "05:52 pm BST",
-                "departure_time": "05:54 pm BST",
-                "halt": "02",
+                "arrival_time": "05:37 pm BST",
+                "departure_time": "05:40 pm BST",
+                "halt": "03",
                 "duration": "00:29"
             },
             {
                 "city": "Pirgacha",
-                "arrival_time": "06:11 pm BST",
-                "departure_time": "06:13 pm BST",
+                "arrival_time": "05:58 pm BST",
+                "departure_time": "06:00 pm BST",
                 "halt": "02",
-                "duration": "00:17"
+                "duration": "00:18"
             },
             {
                 "city": "Kaunia",
-                "arrival_time": "06:29 pm BST",
-                "departure_time": "06:49 pm BST",
-                "halt": "20",
+                "arrival_time": "06:16 pm BST",
+                "departure_time": "06:18 pm BST",
+                "halt": "02",
                 "duration": "00:16"
             },
             {
@@ -112,18 +112,20 @@
                 "arrival_time": "07:20 pm BST",
                 "departure_time": "07:50 pm BST",
                 "halt": "30",
-                "duration": "00:31"
+                "duration": "01:02"
             },
             {
                 "city": "Rangpur",
-                "arrival_time": "07:10 pm BST",
+                "arrival_time": "07:00 pm BST",
                 "halt": null,
-                "duration": "00:40",
+                "duration": "00:50",
                 "departure_time": null
             }
         ],
-        "total_duration": "10:00",
-        "train_name": "RANGPUR EXPRESS (771)",
-        "train_model": "771"
+        "total_duration": "09:50",
+        "train_name": "RANGPUR EXPRESS (771)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

@@ -32,7 +32,9 @@
             }
         ],
         "total_duration": "05:35",
-        "train_name": "BANALATA EXPRESS (792)",
-        "train_model": "792"
+        "train_name": "BANALATA EXPRESS (792)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

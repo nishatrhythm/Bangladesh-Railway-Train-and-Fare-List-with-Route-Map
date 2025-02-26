@@ -15,6 +15,12 @@
             "vat_amount": 22
         },
         {
+            "type": "SHOVAN",
+            "fare": 60.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
             "type": "F_SEAT",
             "fare": 95.0,
             "vat_percent": 15,
@@ -25,12 +31,6 @@
             "fare": 120.0,
             "vat_percent": 15,
             "vat_amount": 18
-        },
-        {
-            "type": "SHOVAN",
-            "fare": 60.0,
-            "vat_percent": 0,
-            "vat_amount": 0
         }
     ]
 }

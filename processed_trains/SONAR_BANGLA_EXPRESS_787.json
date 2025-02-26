@@ -11,21 +11,23 @@
         "routes": [
             {
                 "city": "Chattogram",
-                "departure_time": "04:45 pm BST",
+                "departure_time": "05:00 pm BST",
                 "halt": null,
                 "duration": null,
                 "arrival_time": null
             },
             {
                 "city": "Dhaka",
-                "arrival_time": "09:40 pm BST",
+                "arrival_time": "09:55 pm BST",
                 "halt": null,
                 "duration": "04:55",
                 "departure_time": null
             }
         ],
         "total_duration": "04:55",
-        "train_name": "SONAR BANGLA EXPRESS (787)",
-        "train_model": "787"
+        "train_name": "SONAR BANGLA EXPRESS (787)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

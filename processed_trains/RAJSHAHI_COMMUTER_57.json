@@ -4,8 +4,8 @@
             "Fri",
             "Sat",
             "Sun",
+            "Mon",
             "Tue",
-            "Wed",
             "Thu"
         ],
         "routes": [
@@ -19,7 +19,8 @@
             {
                 "city": "Azim Nagar",
                 "arrival_time": "07:13 am BST",
-                "halt": "---",
+                "departure_time": "07:15 am BST",
+                "halt": "02",
                 "duration": "00:13"
             },
             {
@@ -27,7 +28,7 @@
                 "arrival_time": "07:24 am BST",
                 "departure_time": "07:45 am BST",
                 "halt": "21",
-                "duration": "---"
+                "duration": "00:09"
             },
             {
                 "city": "Lokmanpur",
@@ -44,7 +45,8 @@
             {
                 "city": "Sardah_Road",
                 "arrival_time": "08:35 am BST",
-                "halt": "---",
+                "departure_time": "08:37 am BST",
+                "halt": "02",
                 "duration": "---"
             },
             {
@@ -52,7 +54,7 @@
                 "arrival_time": "09:00 am BST",
                 "departure_time": "09:10 am BST",
                 "halt": "10",
-                "duration": "---"
+                "duration": "00:23"
             },
             {
                 "city": "Rajshahi_Court",
@@ -81,19 +83,22 @@
             {
                 "city": "Nachole",
                 "arrival_time": "10:36 am BST",
-                "halt": "---",
+                "departure_time": "10:38 am BST",
+                "halt": "02",
                 "duration": "---"
             },
             {
                 "city": "Rohanpur",
                 "arrival_time": "11:10 am BST",
                 "halt": null,
-                "duration": "---",
+                "duration": "00:32",
                 "departure_time": null
             }
         ],
         "total_duration": "04:10",
-        "train_name": "RAJSHAHI COMMUTER (57)",
-        "train_model": "57"
+        "train_name": "RAJSHAHI COMMUTER (57)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

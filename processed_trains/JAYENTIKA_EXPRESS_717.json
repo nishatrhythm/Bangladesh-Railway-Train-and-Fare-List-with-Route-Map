@@ -25,17 +25,17 @@
             },
             {
                 "city": "Ashuganj",
-                "arrival_time": "12:54 pm BST",
-                "departure_time": "12:56 pm BST",
+                "arrival_time": "12:55 pm BST",
+                "departure_time": "12:57 pm BST",
                 "halt": "02",
-                "duration": "01:11"
+                "duration": "01:12"
             },
             {
                 "city": "Brahmanbaria",
                 "arrival_time": "01:11 pm BST",
                 "departure_time": "01:15 pm BST",
                 "halt": "04",
-                "duration": "00:15"
+                "duration": "00:14"
             },
             {
                 "city": "Azampur",
@@ -60,17 +60,17 @@
             },
             {
                 "city": "Montola",
-                "arrival_time": "02:17 pm BST",
-                "departure_time": "02:19 pm BST",
-                "halt": "02",
-                "duration": "00:11"
+                "arrival_time": "02:30 pm BST",
+                "departure_time": "02:33 pm BST",
+                "halt": "03",
+                "duration": "00:24"
             },
             {
                 "city": "Nayapara",
                 "arrival_time": "02:47 pm BST",
                 "departure_time": "02:49 pm BST",
                 "halt": "02",
-                "duration": "00:28"
+                "duration": "00:14"
             },
             {
                 "city": "Shahaji_Bazar",
@@ -81,17 +81,17 @@
             },
             {
                 "city": "Shaistaganj",
-                "arrival_time": "03:15 pm BST",
-                "departure_time": "03:20 pm BST",
-                "halt": "05",
-                "duration": "00:13"
+                "arrival_time": "03:21 pm BST",
+                "departure_time": "03:24 pm BST",
+                "halt": "03",
+                "duration": "00:19"
             },
             {
                 "city": "Sreemangal",
                 "arrival_time": "04:01 pm BST",
                 "departure_time": "04:04 pm BST",
                 "halt": "03",
-                "duration": "00:41"
+                "duration": "00:37"
             },
             {
                 "city": "Bhanugach",
@@ -102,28 +102,30 @@
             },
             {
                 "city": "Kulaura",
-                "arrival_time": "05:11 pm BST",
-                "departure_time": "05:14 pm BST",
-                "halt": "03",
-                "duration": "00:46"
+                "arrival_time": "05:05 pm BST",
+                "departure_time": "05:09 pm BST",
+                "halt": "04",
+                "duration": "00:40"
             },
             {
                 "city": "Maijgaon",
-                "arrival_time": "05:41 pm BST",
-                "departure_time": "05:43 pm BST",
+                "arrival_time": "05:33 pm BST",
+                "departure_time": "05:35 pm BST",
                 "halt": "02",
-                "duration": "00:27"
+                "duration": "00:24"
             },
             {
                 "city": "Sylhet",
                 "arrival_time": "07:00 pm BST",
                 "halt": null,
-                "duration": "01:17",
+                "duration": "01:25",
                 "departure_time": null
             }
         ],
         "total_duration": "07:45",
-        "train_name": "JAYENTIKA EXPRESS (717)",
-        "train_model": "717"
+        "train_name": "JAYENTIKA EXPRESS (717)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

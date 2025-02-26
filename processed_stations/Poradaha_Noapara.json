@@ -3,22 +3,22 @@
     "destination_city_name": "noapara",
     "info": [
         {
-            "type": "AC_S",
-            "fare": 405.0,
-            "vat_percent": 15,
-            "vat_amount": 61
-        },
-        {
             "type": "SNIGDHA",
-            "fare": 335.0,
+            "fare": 280.0,
             "vat_percent": 15,
-            "vat_amount": 51
+            "vat_amount": 42
         },
         {
             "type": "S_CHAIR",
             "fare": 170.0,
             "vat_percent": 0,
             "vat_amount": 0
+        },
+        {
+            "type": "AC_S",
+            "fare": 405.0,
+            "vat_percent": 15,
+            "vat_amount": 61
         }
     ]
 }

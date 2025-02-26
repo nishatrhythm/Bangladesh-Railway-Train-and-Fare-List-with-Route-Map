@@ -74,7 +74,7 @@
                 "duration": "00:25"
             },
             {
-                "city": "B Sirajul Islam",
+                "city": "Panchagarh",
                 "arrival_time": "09:50 am BST",
                 "halt": null,
                 "duration": "01:16",
@@ -82,7 +82,9 @@
             }
         ],
         "total_duration": "10:20",
-        "train_name": "PANCHAGARH EXPRESS (793)",
-        "train_model": "793"
+        "train_name": "PANCHAGARH EXPRESS (793)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

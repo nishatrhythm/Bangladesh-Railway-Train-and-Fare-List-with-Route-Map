@@ -5,7 +5,7 @@
             "Sat",
             "Sun",
             "Mon",
-            "Wed",
+            "Tue",
             "Thu"
         ],
         "routes": [
@@ -82,37 +82,43 @@
             {
                 "city": "Tushbhandar",
                 "arrival_time": "07:52 pm BST",
-                "halt": "---",
+                "departure_time": "07:55 pm BST",
+                "halt": "03",
                 "duration": "01:02"
             },
             {
                 "city": "Hatibandha",
                 "arrival_time": "08:28 pm BST",
-                "halt": "---",
-                "duration": "---"
+                "departure_time": "08:31 pm BST",
+                "halt": "03",
+                "duration": "00:33"
             },
             {
                 "city": "Barkhata",
                 "arrival_time": "08:42 pm BST",
-                "halt": "---",
-                "duration": "---"
+                "departure_time": "08:44 pm BST",
+                "halt": "02",
+                "duration": "00:11"
             },
             {
                 "city": "Patgram",
                 "arrival_time": "09:18 pm BST",
-                "halt": "---",
-                "duration": "---"
+                "departure_time": "09:20 pm BST",
+                "halt": "02",
+                "duration": "00:34"
             },
             {
                 "city": "Burimari",
                 "arrival_time": "09:40 pm BST",
                 "halt": null,
-                "duration": "---",
+                "duration": "00:20",
                 "departure_time": null
             }
         ],
         "total_duration": "13:10",
-        "train_name": "BURIMARI EXPRESS (809)",
-        "train_model": "809"
+        "train_name": "BURIMARI EXPRESS (809)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

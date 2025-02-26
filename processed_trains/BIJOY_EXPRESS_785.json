@@ -18,17 +18,17 @@
             },
             {
                 "city": "Bhatiary",
-                "arrival_time": "09:19 am BST",
-                "departure_time": "09:19 am BST",
-                "halt": "00",
-                "duration": "00:04"
+                "arrival_time": "09:31 am BST",
+                "departure_time": "09:33 am BST",
+                "halt": "02",
+                "duration": "00:16"
             },
             {
                 "city": "Feni",
                 "arrival_time": "10:39 am BST",
                 "departure_time": "10:41 am BST",
                 "halt": "02",
-                "duration": "01:20"
+                "duration": "01:06"
             },
             {
                 "city": "Laksam",
@@ -47,67 +47,70 @@
             {
                 "city": "Akhaura",
                 "arrival_time": "12:35 pm BST",
-                "departure_time": "12:38 pm BST",
-                "halt": "03",
+                "departure_time": "12:40 pm BST",
+                "halt": "05",
                 "duration": "00:51"
             },
             {
                 "city": "Bhairab_Bazar",
-                "arrival_time": "01:12 pm BST",
-                "departure_time": "01:17 pm BST",
+                "arrival_time": "01:15 pm BST",
+                "departure_time": "01:20 pm BST",
                 "halt": "05",
-                "duration": "00:34"
+                "duration": "00:35"
             },
             {
                 "city": "Sararchar",
-                "arrival_time": "01:46 pm BST",
-                "departure_time": "01:48 pm BST",
+                "arrival_time": "01:52 pm BST",
+                "departure_time": "01:54 pm BST",
                 "halt": "02",
-                "duration": "00:29"
+                "duration": "00:32"
             },
             {
                 "city": "Kishorganj",
-                "departure_time": "02:32 pm BST",
-                "arrival_time": "02:27 pm BST",
+                "departure_time": "02:33 pm BST",
+                "arrival_time": "02:28 pm BST",
                 "halt": "05",
-                "duration": "00:39"
+                "duration": "00:34"
             },
             {
                 "city": "Atharabari",
                 "arrival_time": "03:05 pm BST",
                 "halt": "---",
-                "duration": "00:33"
+                "duration": "00:32"
             },
             {
                 "city": "Gouripur_Myn",
-                "arrival_time": "03:32 pm BST",
-                "departure_time": "03:52 pm BST",
+                "arrival_time": "03:35 pm BST",
+                "departure_time": "03:55 pm BST",
                 "halt": "20",
                 "duration": "---"
             },
             {
                 "city": "Mymensingh",
-                "arrival_time": "04:25 pm BST",
-                "departure_time": "04:30 pm BST",
+                "arrival_time": "04:23 pm BST",
+                "departure_time": "04:28 pm BST",
                 "halt": "05",
-                "duration": "00:33"
+                "duration": "00:28"
             },
             {
                 "city": "Piyarpur",
-                "arrival_time": "05:10 pm BST",
-                "halt": "---",
-                "duration": "00:40"
+                "arrival_time": "05:06 pm BST",
+                "departure_time": "05:08 pm BST",
+                "halt": "02",
+                "duration": "00:38"
             },
             {
                 "city": "Jamalpur_Town",
-                "arrival_time": "06:10 pm BST",
+                "arrival_time": "06:00 pm BST",
                 "halt": null,
-                "duration": "---",
+                "duration": "00:52",
                 "departure_time": null
             }
         ],
-        "total_duration": "08:55",
-        "train_name": "BIJOY EXPRESS (785)",
-        "train_model": "785"
+        "total_duration": "08:45",
+        "train_name": "BIJOY EXPRESS (785)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

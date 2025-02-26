@@ -3,16 +3,16 @@
     "destination_city_name": "sylhet",
     "info": [
         {
-            "type": "SNIGDHA",
-            "fare": 490.0,
-            "vat_percent": 15,
-            "vat_amount": 74
-        },
-        {
             "type": "S_CHAIR",
             "fare": 295.0,
             "vat_percent": 0,
             "vat_amount": 0
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 490.0,
+            "vat_percent": 15,
+            "vat_amount": 74
         }
     ]
 }

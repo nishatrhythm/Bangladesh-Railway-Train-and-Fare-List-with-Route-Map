@@ -150,7 +150,7 @@
                 "duration": "00:09"
             },
             {
-                "city": "B Sirajul Islam",
+                "city": "Panchagarh",
                 "arrival_time": "04:30 am BST",
                 "halt": null,
                 "duration": "00:20",
@@ -158,7 +158,9 @@
             }
         ],
         "total_duration": "07:30",
-        "train_name": "BANGLABANDHA EXPRESS (803)",
-        "train_model": "803"
+        "train_name": "BANGLABANDHA EXPRESS (803)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

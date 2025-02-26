@@ -102,7 +102,9 @@
             }
         ],
         "total_duration": "08:50",
-        "train_name": "CHILAHATI EXPRESS (806)",
-        "train_model": "806"
+        "train_name": "CHILAHATI EXPRESS (806)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "panchagarh",
+    "destination_city_name": "chatmohar",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 395.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

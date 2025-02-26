@@ -3,10 +3,10 @@
     "destination_city_name": "shahaji_bazar",
     "info": [
         {
-            "type": "SNIGDHA",
-            "fare": 375.0,
+            "type": "AC_S",
+            "fare": 450.0,
             "vat_percent": 15,
-            "vat_amount": 57
+            "vat_amount": 68
         },
         {
             "type": "S_CHAIR",
@@ -15,10 +15,10 @@
             "vat_amount": 0
         },
         {
-            "type": "AC_S",
-            "fare": 450.0,
+            "type": "SNIGDHA",
+            "fare": 375.0,
             "vat_percent": 15,
-            "vat_amount": 68
+            "vat_amount": 57
         }
     ]
 }

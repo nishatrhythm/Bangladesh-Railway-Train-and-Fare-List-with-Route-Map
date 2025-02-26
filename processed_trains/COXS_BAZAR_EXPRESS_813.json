@@ -25,14 +25,16 @@
             },
             {
                 "city": "Dhaka",
-                "arrival_time": "09:10 pm BST",
+                "arrival_time": "09:00 pm BST",
                 "halt": null,
-                "duration": "05:10",
+                "duration": "05:00",
                 "departure_time": null
             }
         ],
-        "total_duration": "08:40",
-        "train_name": "COXS BAZAR EXPRESS\u00a0(813)",
-        "train_model": "813"
+        "total_duration": "08:30",
+        "train_name": "COXS BAZAR EXPRESS (813)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

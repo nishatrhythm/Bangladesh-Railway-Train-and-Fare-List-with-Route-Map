@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "tushbhandar",
+    "destination_city_name": "bonar_para",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 140.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

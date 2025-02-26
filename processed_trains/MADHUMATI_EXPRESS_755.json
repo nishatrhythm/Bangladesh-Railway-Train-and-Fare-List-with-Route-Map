@@ -2,11 +2,11 @@
     "data": {
         "days": [
             "Fri",
-            "Sat",
             "Sun",
             "Mon",
             "Tue",
-            "Wed"
+            "Wed",
+            "Thu"
         ],
         "routes": [
             {
@@ -18,148 +18,152 @@
             },
             {
                 "city": "Mawa",
-                "arrival_time": "03:38 pm BST",
-                "departure_time": "03:40 pm BST",
+                "arrival_time": "03:36 pm BST",
+                "departure_time": "03:38 pm BST",
                 "halt": "02",
-                "duration": "00:38"
+                "duration": "00:36"
             },
             {
                 "city": "Padma",
-                "arrival_time": "03:54 pm BST",
-                "departure_time": "03:57 pm BST",
-                "halt": "03",
-                "duration": "00:14"
+                "arrival_time": "03:51 pm BST",
+                "departure_time": "03:53 pm BST",
+                "halt": "02",
+                "duration": "00:13"
             },
             {
                 "city": "Shibchar",
-                "arrival_time": "04:08 pm BST",
-                "departure_time": "04:10 pm BST",
+                "arrival_time": "04:03 pm BST",
+                "departure_time": "04:05 pm BST",
                 "halt": "02",
-                "duration": "00:11"
+                "duration": "00:10"
             },
             {
                 "city": "Bhanga",
-                "arrival_time": "04:34 pm BST",
-                "departure_time": "04:37 pm BST",
-                "halt": "03",
-                "duration": "00:24"
+                "arrival_time": "04:28 pm BST",
+                "departure_time": "04:30 pm BST",
+                "halt": "02",
+                "duration": "00:23"
             },
             {
                 "city": "Pukuria",
                 "arrival_time": "04:45 pm BST",
                 "halt": "---",
-                "duration": "00:08"
+                "duration": "00:15"
             },
             {
                 "city": "Talma",
-                "arrival_time": "04:58 pm BST",
+                "arrival_time": "04:46 pm BST",
                 "halt": "---",
                 "duration": "---"
             },
             {
                 "city": "Faridpur",
-                "arrival_time": "05:17 pm BST",
-                "departure_time": "05:18 pm BST",
-                "halt": "01",
+                "arrival_time": "05:03 pm BST",
+                "departure_time": "05:06 pm BST",
+                "halt": "03",
                 "duration": "---"
             },
             {
                 "city": "Amirabad",
-                "arrival_time": "05:30 pm BST",
+                "arrival_time": "05:18 pm BST",
                 "halt": "---",
                 "duration": "00:12"
             },
             {
                 "city": "Pachuria",
-                "arrival_time": "05:55 pm BST",
+                "arrival_time": "05:35 pm BST",
                 "halt": "---",
                 "duration": "---"
             },
             {
                 "city": "Rajbari",
-                "arrival_time": "06:05 pm BST",
-                "departure_time": "06:20 pm BST",
+                "arrival_time": "05:45 pm BST",
+                "departure_time": "06:00 pm BST",
                 "halt": "15",
                 "duration": "---"
             },
             {
                 "city": "Kalukhali",
-                "arrival_time": "06:38 pm BST",
-                "halt": "---",
-                "duration": "00:18"
+                "arrival_time": "06:23 pm BST",
+                "departure_time": "06:25 pm BST",
+                "halt": "02",
+                "duration": "00:23"
             },
             {
                 "city": "Pangsha",
-                "arrival_time": "06:50 pm BST",
-                "departure_time": "06:53 pm BST",
-                "halt": "03",
-                "duration": "---"
+                "arrival_time": "06:35 pm BST",
+                "departure_time": "06:37 pm BST",
+                "halt": "02",
+                "duration": "00:10"
             },
             {
                 "city": "Khoksha",
-                "arrival_time": "07:07 pm BST",
-                "departure_time": "07:09 pm BST",
+                "arrival_time": "06:51 pm BST",
+                "departure_time": "06:53 pm BST",
                 "halt": "02",
                 "duration": "00:14"
             },
             {
                 "city": "Kumarkhali",
-                "arrival_time": "07:19 pm BST",
-                "departure_time": "07:21 pm BST",
+                "arrival_time": "07:03 pm BST",
+                "departure_time": "07:05 pm BST",
                 "halt": "02",
                 "duration": "00:10"
             },
             {
                 "city": "Kushtia_Court",
-                "arrival_time": "07:37 pm BST",
-                "departure_time": "07:40 pm BST",
+                "arrival_time": "07:22 pm BST",
+                "departure_time": "07:25 pm BST",
                 "halt": "03",
-                "duration": "00:16"
+                "duration": "00:17"
             },
             {
                 "city": "Poradaha",
-                "arrival_time": "07:55 pm BST",
-                "departure_time": "08:15 pm BST",
-                "halt": "20",
-                "duration": "00:15"
+                "arrival_time": "07:45 pm BST",
+                "departure_time": "08:10 pm BST",
+                "halt": "25",
+                "duration": "00:20"
             },
             {
                 "city": "Mirpur",
-                "arrival_time": "08:25 pm BST",
-                "departure_time": "08:27 pm BST",
+                "arrival_time": "08:20 pm BST",
+                "departure_time": "08:22 pm BST",
                 "halt": "02",
                 "duration": "00:10"
             },
             {
                 "city": "Bheramara",
-                "arrival_time": "08:37 pm BST",
-                "departure_time": "08:40 pm BST",
-                "halt": "03",
-                "duration": "00:10"
+                "arrival_time": "08:30 pm BST",
+                "departure_time": "08:32 pm BST",
+                "halt": "02",
+                "duration": "00:08"
             },
             {
-                "city": "Pakshi",
-                "arrival_time": "08:52 pm BST",
-                "halt": "---",
-                "duration": "00:12"
+                "city": "Paksey",
+                "arrival_time": "08:47 pm BST",
+                "departure_time": "08:49 pm BST",
+                "halt": "02",
+                "duration": "00:15"
             },
             {
                 "city": "Ishwardi",
-                "arrival_time": "09:10 pm BST",
-                "departure_time": "09:30 pm BST",
+                "arrival_time": "09:05 pm BST",
+                "departure_time": "09:25 pm BST",
                 "halt": "20",
-                "duration": "---"
+                "duration": "00:16"
             },
             {
                 "city": "Rajshahi",
-                "arrival_time": "10:40 pm BST",
+                "arrival_time": "10:30 pm BST",
                 "halt": null,
-                "duration": "01:10",
+                "duration": "01:05",
                 "departure_time": null
             }
         ],
-        "total_duration": "07:40",
-        "train_name": "MADHUMATI EXPRESS (755)",
-        "train_model": "755"
+        "total_duration": "07:30",
+        "train_name": "MADHUMATI EXPRESS (755)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

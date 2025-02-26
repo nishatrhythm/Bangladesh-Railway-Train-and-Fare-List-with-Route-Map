@@ -18,10 +18,10 @@
             },
             {
                 "city": "Feni",
-                "arrival_time": "09:13 am BST",
+                "arrival_time": "09:14 am BST",
                 "departure_time": "09:16 am BST",
-                "halt": "03",
-                "duration": "01:23"
+                "halt": "02",
+                "duration": "01:24"
             },
             {
                 "city": "Nangolkot",
@@ -39,10 +39,10 @@
             },
             {
                 "city": "Cumilla",
-                "arrival_time": "10:25 am BST",
+                "arrival_time": "10:26 am BST",
                 "departure_time": "10:28 am BST",
-                "halt": "03",
-                "duration": "00:22"
+                "halt": "02",
+                "duration": "00:23"
             },
             {
                 "city": "Quasba",
@@ -110,26 +110,29 @@
             {
                 "city": "Baramchal",
                 "arrival_time": "02:48 pm BST",
-                "halt": "---",
+                "departure_time": "02:50 pm BST",
+                "halt": "02",
                 "duration": "00:13"
             },
             {
                 "city": "Maijgaon",
-                "arrival_time": "03:07 pm BST",
-                "departure_time": "03:09 pm BST",
+                "arrival_time": "03:04 pm BST",
+                "departure_time": "03:06 pm BST",
                 "halt": "02",
-                "duration": "---"
+                "duration": "00:14"
             },
             {
                 "city": "Sylhet",
-                "arrival_time": "04:30 pm BST",
+                "arrival_time": "03:55 pm BST",
                 "halt": null,
-                "duration": "01:21",
+                "duration": "00:49",
                 "departure_time": null
             }
         ],
-        "total_duration": "08:40",
-        "train_name": "PAHARIKA EXPRESS (719)",
-        "train_model": "719"
+        "total_duration": "08:05",
+        "train_name": "PAHARIKA EXPRESS (719)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

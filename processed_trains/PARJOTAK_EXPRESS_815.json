@@ -3,15 +3,15 @@
         "days": [
             "Fri",
             "Sat",
+            "Sun",
             "Mon",
             "Tue",
-            "Wed",
             "Thu"
         ],
         "routes": [
             {
                 "city": "Coxs Bazar",
-                "departure_time": "08:00 pm BST",
+                "departure_time": "07:45 pm BST",
                 "halt": null,
                 "duration": null,
                 "arrival_time": null
@@ -19,20 +19,22 @@
             {
                 "city": "Chattogram",
                 "departure_time": "11:15 pm BST",
-                "arrival_time": "10:50 pm BST",
-                "halt": "25",
-                "duration": "02:50"
+                "arrival_time": "10:45 pm BST",
+                "halt": "30",
+                "duration": "03:00"
             },
             {
                 "city": "Dhaka",
-                "arrival_time": "04:30 am BST",
+                "arrival_time": "04:20 am BST",
                 "halt": null,
-                "duration": "05:15",
+                "duration": "05:05",
                 "departure_time": null
             }
         ],
-        "total_duration": "08:30",
-        "train_name": "PARJOTAK EXPRESS (815)",
-        "train_model": "815"
+        "total_duration": "08:35",
+        "train_name": "PARJOTAK EXPRESS (815)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

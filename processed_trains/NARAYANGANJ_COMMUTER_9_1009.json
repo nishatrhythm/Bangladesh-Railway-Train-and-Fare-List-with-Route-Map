@@ -26,7 +26,9 @@
             }
         ],
         "total_duration": "00:45",
-        "train_name": "NARAYANGANJ COMMUTER 9 (1009)",
-        "train_model": "1009"
+        "train_name": "NARAYANGANJ COMMUTER 9 (1009)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

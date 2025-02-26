@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "nachole",
+    "destination_city_name": "abdulpur",
+    "info": [
+        {
+            "type": "SHOVAN",
+            "fare": 90.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

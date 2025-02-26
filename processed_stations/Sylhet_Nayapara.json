@@ -3,10 +3,10 @@
     "destination_city_name": "nayapara",
     "info": [
         {
-            "type": "SNIGDHA",
-            "fare": 270.0,
+            "type": "AC_S",
+            "fare": 325.0,
             "vat_percent": 15,
-            "vat_amount": 41
+            "vat_amount": 49
         },
         {
             "type": "S_CHAIR",
@@ -15,10 +15,10 @@
             "vat_amount": 0
         },
         {
-            "type": "AC_S",
-            "fare": 325.0,
+            "type": "SNIGDHA",
+            "fare": 270.0,
             "vat_percent": 15,
-            "vat_amount": 49
+            "vat_amount": 41
         },
         {
             "type": "F_SEAT",

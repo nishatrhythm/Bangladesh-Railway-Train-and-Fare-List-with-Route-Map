@@ -46,17 +46,17 @@
             },
             {
                 "city": "Shaistaganj",
-                "arrival_time": "02:18 am BST",
-                "departure_time": "02:21 am BST",
+                "arrival_time": "02:29 am BST",
+                "departure_time": "02:32 am BST",
                 "halt": "03",
-                "duration": "01:08"
+                "duration": "01:19"
             },
             {
                 "city": "Sreemangal",
                 "arrival_time": "03:10 am BST",
                 "departure_time": "03:13 am BST",
                 "halt": "03",
-                "duration": "00:49"
+                "duration": "00:38"
             },
             {
                 "city": "Shamshernagar",
@@ -88,7 +88,9 @@
             }
         ],
         "total_duration": "08:00",
-        "train_name": "UDAYAN EXPRESS (723)",
-        "train_model": "723"
+        "train_name": "UDAYAN EXPRESS (723)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

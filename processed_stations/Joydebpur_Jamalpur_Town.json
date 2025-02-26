@@ -3,16 +3,10 @@
     "destination_city_name": "jamalpur_town",
     "info": [
         {
-            "type": "SNIGDHA",
-            "fare": 285.0,
+            "type": "AC_S",
+            "fare": 340.0,
             "vat_percent": 15,
-            "vat_amount": 43
-        },
-        {
-            "type": "S_CHAIR",
-            "fare": 170.0,
-            "vat_percent": 0,
-            "vat_amount": 0
+            "vat_amount": 51
         },
         {
             "type": "F_SEAT",
@@ -21,22 +15,28 @@
             "vat_amount": 35
         },
         {
-            "type": "AC_S",
-            "fare": 340.0,
-            "vat_percent": 15,
-            "vat_amount": 51
+            "type": "S_CHAIR",
+            "fare": 170.0,
+            "vat_percent": 0,
+            "vat_amount": 0
         },
         {
-            "type": "F_CHAIR",
-            "fare": 230.0,
+            "type": "SNIGDHA",
+            "fare": 285.0,
             "vat_percent": 15,
-            "vat_amount": 35
+            "vat_amount": 43
         },
         {
             "type": "SHOVAN",
-            "fare": 145.0,
+            "fare": 140.0,
             "vat_percent": 0,
             "vat_amount": 0
+        },
+        {
+            "type": "F_CHAIR",
+            "fare": 225.0,
+            "vat_percent": 15,
+            "vat_amount": 34
         }
     ]
 }

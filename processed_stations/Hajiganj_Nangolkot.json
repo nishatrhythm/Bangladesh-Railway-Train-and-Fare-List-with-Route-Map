@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "hajiganj",
+    "destination_city_name": "nangolkot",
+    "info": [
+        {
+            "type": "SHOVAN",
+            "fare": 65.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

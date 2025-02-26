@@ -3,16 +3,10 @@
     "destination_city_name": "kishorganj",
     "info": [
         {
-            "type": "SNIGDHA",
-            "fare": 605.0,
+            "type": "F_SEAT",
+            "fare": 485.0,
             "vat_percent": 15,
-            "vat_amount": 91
-        },
-        {
-            "type": "AC_S",
-            "fare": 725.0,
-            "vat_percent": 15,
-            "vat_amount": 109
+            "vat_amount": 73
         },
         {
             "type": "S_CHAIR",
@@ -21,10 +15,16 @@
             "vat_amount": 0
         },
         {
-            "type": "F_SEAT",
-            "fare": 485.0,
+            "type": "AC_S",
+            "fare": 725.0,
             "vat_percent": 15,
-            "vat_amount": 73
+            "vat_amount": 109
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 605.0,
+            "vat_percent": 15,
+            "vat_amount": 91
         }
     ]
 }

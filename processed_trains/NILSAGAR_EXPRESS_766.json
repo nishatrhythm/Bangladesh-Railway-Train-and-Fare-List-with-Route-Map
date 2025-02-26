@@ -123,7 +123,9 @@
             }
         ],
         "total_duration": "09:30",
-        "train_name": "NILSAGAR EXPRESS (766)",
-        "train_model": "766"
+        "train_name": "NILSAGAR EXPRESS (766)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

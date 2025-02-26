@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "sonaimuri",
+    "destination_city_name": "quasba",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 125.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

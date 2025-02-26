@@ -46,7 +46,9 @@
             }
         ],
         "total_duration": "02:00",
-        "train_name": "BHANGA COMMUTER (123)",
-        "train_model": "123"
+        "train_name": "BHANGA COMMUTER (123)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

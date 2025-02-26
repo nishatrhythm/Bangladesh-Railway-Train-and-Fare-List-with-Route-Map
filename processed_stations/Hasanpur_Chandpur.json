@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "hasanpur",
+    "destination_city_name": "chandpur",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 85.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

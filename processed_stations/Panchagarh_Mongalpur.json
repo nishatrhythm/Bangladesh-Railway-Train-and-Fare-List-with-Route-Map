@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "panchagarh",
+    "destination_city_name": "mongalpur",
+    "info": [
+        {
+            "type": "SHOVAN",
+            "fare": 85.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "origin_city_name": "setabganj",
+    "destination_city_name": "dhaka",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 1015.0,
+            "vat_percent": 15,
+            "vat_amount": 153
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 610.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_S",
+            "fare": 1215.0,
+            "vat_percent": 15,
+            "vat_amount": 183
+        },
+        {
+            "type": "AC_B",
+            "fare": 1825.0,
+            "vat_percent": 15,
+            "vat_amount": 274
+        }
+    ]
+}

@@ -80,7 +80,9 @@
             }
         ],
         "total_duration": "04:25",
-        "train_name": "SIRAJGANJ EXPRESS (776)",
-        "train_model": "776"
+        "train_name": "SIRAJGANJ EXPRESS (776)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

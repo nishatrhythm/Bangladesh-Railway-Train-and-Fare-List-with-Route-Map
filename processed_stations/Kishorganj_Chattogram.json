@@ -3,6 +3,18 @@
     "destination_city_name": "chattogram",
     "info": [
         {
+            "type": "F_BERTH",
+            "fare": 725.0,
+            "vat_percent": 15,
+            "vat_amount": 109
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 365.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
             "type": "SNIGDHA",
             "fare": 605.0,
             "vat_percent": 15,
@@ -13,18 +25,6 @@
             "fare": 1085.0,
             "vat_percent": 15,
             "vat_amount": 163
-        },
-        {
-            "type": "S_CHAIR",
-            "fare": 365.0,
-            "vat_percent": 0,
-            "vat_amount": 0
-        },
-        {
-            "type": "F_BERTH",
-            "fare": 725.0,
-            "vat_percent": 15,
-            "vat_amount": 109
         }
     ]
 }

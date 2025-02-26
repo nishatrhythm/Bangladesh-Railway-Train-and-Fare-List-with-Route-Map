@@ -11,7 +11,7 @@
         ],
         "routes": [
             {
-                "city": "B Sirajul Islam",
+                "city": "Panchagarh",
                 "departure_time": "03:30 pm BST",
                 "halt": null,
                 "duration": null,
@@ -31,20 +31,21 @@
             },
             {
                 "city": "Ruhia",
+                "departure_time": "04:03 pm BST",
                 "arrival_time": "04:01 pm BST",
-                "halt": "---",
+                "halt": "02",
                 "duration": "---"
             },
             {
                 "city": "Akhanagar",
                 "arrival_time": "04:12 pm BST",
                 "halt": "---",
-                "duration": "---"
+                "duration": "00:09"
             },
             {
                 "city": "Thakurgaon_Road",
-                "departure_time": "04:26 pm BST",
                 "arrival_time": "04:23 pm BST",
+                "departure_time": "04:26 pm BST",
                 "halt": "03",
                 "duration": "---"
             },
@@ -75,15 +76,16 @@
             },
             {
                 "city": "Setabganj",
+                "departure_time": "05:21 pm BST",
                 "arrival_time": "05:19 pm BST",
-                "halt": "---",
+                "halt": "02",
                 "duration": "---"
             },
             {
                 "city": "Mongalpur",
                 "arrival_time": "05:34 pm BST",
                 "halt": "---",
-                "duration": "---"
+                "duration": "00:13"
             },
             {
                 "city": "Kanchan_Junction",
@@ -107,14 +109,15 @@
             {
                 "city": "Chirirbandar",
                 "arrival_time": "06:33 pm BST",
-                "halt": "---",
+                "departure_time": "06:35 pm BST",
+                "halt": "02",
                 "duration": "---"
             },
             {
                 "city": "Manmathapur",
                 "arrival_time": "06:58 pm BST",
                 "halt": "---",
-                "duration": "---"
+                "duration": "00:23"
             },
             {
                 "city": "Parbatipur",
@@ -125,7 +128,9 @@
             }
         ],
         "total_duration": "03:45",
-        "train_name": "KANCHON INTERCITY COMMUTER (42)",
-        "train_model": "42"
+        "train_name": "KANCHON INTERCITY COMMUTER (42)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

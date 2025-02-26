@@ -67,34 +67,36 @@
             },
             {
                 "city": "Bhairab_Bazar",
-                "arrival_time": "11:08 am BST",
-                "departure_time": "11:10 am BST",
-                "halt": "02",
-                "duration": "00:46"
+                "arrival_time": "11:10 am BST",
+                "departure_time": "11:13 am BST",
+                "halt": "03",
+                "duration": "00:48"
             },
             {
                 "city": "Narsingdi",
-                "arrival_time": "11:40 am BST",
-                "departure_time": "11:42 am BST",
+                "arrival_time": "11:43 am BST",
+                "departure_time": "11:45 am BST",
                 "halt": "02",
                 "duration": "00:30"
             },
             {
                 "city": "Biman_Bandar",
-                "arrival_time": "12:22 pm BST",
+                "arrival_time": "12:24 pm BST",
                 "halt": "---",
-                "duration": "00:40"
+                "duration": "00:39"
             },
             {
                 "city": "Dhaka",
-                "arrival_time": "01:00 pm BST",
+                "arrival_time": "12:55 pm BST",
                 "halt": null,
                 "duration": "---",
                 "departure_time": null
             }
         ],
-        "total_duration": "06:45",
-        "train_name": "KALNI EXPRESS (774)",
-        "train_model": "774"
+        "total_duration": "06:40",
+        "train_name": "KALNI EXPRESS (774)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

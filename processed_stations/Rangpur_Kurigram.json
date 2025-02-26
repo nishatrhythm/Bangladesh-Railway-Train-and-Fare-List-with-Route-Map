@@ -3,16 +3,16 @@
     "destination_city_name": "kurigram",
     "info": [
         {
-            "type": "AC_B",
-            "fare": 165.0,
-            "vat_percent": 15,
-            "vat_amount": 25
-        },
-        {
             "type": "SNIGDHA",
             "fare": 100.0,
             "vat_percent": 15,
             "vat_amount": 15
+        },
+        {
+            "type": "AC_B",
+            "fare": 165.0,
+            "vat_percent": 15,
+            "vat_amount": 25
         },
         {
             "type": "S_CHAIR",

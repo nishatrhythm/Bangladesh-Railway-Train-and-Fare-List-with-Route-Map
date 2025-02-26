@@ -18,24 +18,24 @@
             },
             {
                 "city": "Islampur_Bazar",
-                "departure_time": "03:15 pm BST",
-                "arrival_time": "03:13 pm BST",
+                "departure_time": "03:16 pm BST",
+                "arrival_time": "03:14 pm BST",
                 "halt": "02",
-                "duration": "00:13"
+                "duration": "00:14"
             },
             {
                 "city": "Melandah_Bazar",
-                "departure_time": "03:34 pm BST",
+                "departure_time": "03:33 pm BST",
                 "arrival_time": "03:31 pm BST",
-                "halt": "03",
-                "duration": "00:16"
+                "halt": "02",
+                "duration": "00:15"
             },
             {
                 "city": "Jamalpur_Town",
                 "departure_time": "03:56 pm BST",
                 "arrival_time": "03:51 pm BST",
                 "halt": "05",
-                "duration": "00:17"
+                "duration": "00:18"
             },
             {
                 "city": "Piyarpur",
@@ -53,27 +53,29 @@
             },
             {
                 "city": "Gafargaon",
-                "arrival_time": "05:50 pm BST",
-                "departure_time": "05:52 pm BST",
+                "arrival_time": "05:52 pm BST",
+                "departure_time": "05:54 pm BST",
                 "halt": "02",
-                "duration": "00:44"
+                "duration": "00:46"
             },
             {
                 "city": "Biman_Bandar",
-                "arrival_time": "07:43 pm BST",
+                "arrival_time": "07:47 pm BST",
                 "halt": "---",
-                "duration": "01:51"
+                "duration": "01:53"
             },
             {
                 "city": "Dhaka",
-                "arrival_time": "08:25 pm BST",
+                "arrival_time": "08:30 pm BST",
                 "halt": null,
                 "duration": "---",
                 "departure_time": null
             }
         ],
-        "total_duration": "05:25",
-        "train_name": "TISTA EXPRESS (708)",
-        "train_model": "708"
+        "total_duration": "05:30",
+        "train_name": "TISTA EXPRESS (708)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "azim nagar",
+    "destination_city_name": "rajshahi_court",
+    "info": [
+        {
+            "type": "SHOVAN",
+            "fare": 55.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

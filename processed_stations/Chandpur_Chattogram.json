@@ -3,16 +3,10 @@
     "destination_city_name": "chattogram",
     "info": [
         {
-            "type": "F_SEAT",
+            "type": "F_CHAIR",
             "fare": 290.0,
             "vat_percent": 15,
             "vat_amount": 44
-        },
-        {
-            "type": "S_CHAIR",
-            "fare": 220.0,
-            "vat_percent": 0,
-            "vat_amount": 0
         },
         {
             "type": "SHOVAN",
@@ -21,7 +15,13 @@
             "vat_amount": 0
         },
         {
-            "type": "F_CHAIR",
+            "type": "S_CHAIR",
+            "fare": 220.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "F_SEAT",
             "fare": 290.0,
             "vat_percent": 15,
             "vat_amount": 44

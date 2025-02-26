@@ -25,63 +25,65 @@
             },
             {
                 "city": "Joydebpur",
-                "arrival_time": "08:19 am BST",
-                "departure_time": "08:21 am BST",
-                "halt": "02",
-                "duration": "00:21"
+                "arrival_time": "08:23 am BST",
+                "departure_time": "08:26 am BST",
+                "halt": "03",
+                "duration": "00:25"
             },
             {
                 "city": "Gafargaon",
-                "arrival_time": "09:15 am BST",
-                "departure_time": "09:17 am BST",
-                "halt": "02",
-                "duration": "00:54"
+                "arrival_time": "09:44 am BST",
+                "departure_time": "09:47 am BST",
+                "halt": "03",
+                "duration": "01:18"
             },
             {
                 "city": "Mymensingh",
-                "arrival_time": "10:00 am BST",
-                "departure_time": "10:03 am BST",
+                "arrival_time": "10:32 am BST",
+                "departure_time": "10:35 am BST",
                 "halt": "03",
-                "duration": "00:43"
+                "duration": "00:45"
             },
             {
                 "city": "Piyarpur",
-                "arrival_time": "10:35 am BST",
-                "departure_time": "10:37 am BST",
+                "arrival_time": "11:03 am BST",
+                "departure_time": "11:05 am BST",
                 "halt": "02",
-                "duration": "00:32"
+                "duration": "00:28"
             },
             {
                 "city": "Jamalpur_Town",
-                "arrival_time": "11:10 am BST",
-                "departure_time": "11:13 am BST",
-                "halt": "03",
-                "duration": "00:33"
+                "arrival_time": "11:36 am BST",
+                "departure_time": "11:40 am BST",
+                "halt": "04",
+                "duration": "00:31"
             },
             {
                 "city": "Melandah_Bazar",
-                "arrival_time": "11:30 am BST",
-                "departure_time": "11:32 am BST",
-                "halt": "02",
-                "duration": "00:17"
-            },
-            {
-                "city": "Islampur_Bazar",
-                "arrival_time": "11:48 am BST",
-                "departure_time": "11:50 am BST",
+                "arrival_time": "11:56 am BST",
+                "departure_time": "11:58 am BST",
                 "halt": "02",
                 "duration": "00:16"
             },
             {
+                "city": "Islampur_Bazar",
+                "arrival_time": "12:16 pm BST",
+                "departure_time": "12:18 pm BST",
+                "halt": "02",
+                "duration": "00:18"
+            },
+            {
                 "city": "Dewanganj_Bazar",
-                "arrival_time": "12:30 pm BST",
+                "arrival_time": "12:50 pm BST",
                 "halt": null,
-                "duration": "00:40",
+                "duration": "00:32",
                 "departure_time": null
             }
         ],
-        "total_duration": "05:00",
-        "train_name": "TISTA EXPRESS (707)",
-        "train_model": "707"
+        "total_duration": "05:20",
+        "train_name": "TISTA EXPRESS (707)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

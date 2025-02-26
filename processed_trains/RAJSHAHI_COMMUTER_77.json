@@ -4,8 +4,8 @@
             "Fri",
             "Sat",
             "Sun",
+            "Mon",
             "Tue",
-            "Wed",
             "Thu"
         ],
         "routes": [
@@ -37,19 +37,22 @@
             {
                 "city": "Nachole",
                 "arrival_time": "04:05 pm BST",
-                "halt": "---",
+                "departure_time": "04:07 pm BST",
+                "halt": "02",
                 "duration": "---"
             },
             {
                 "city": "Rohanpur",
                 "arrival_time": "04:30 pm BST",
                 "halt": null,
-                "duration": "---",
+                "duration": "00:23",
                 "departure_time": null
             }
         ],
         "total_duration": "01:30",
-        "train_name": "RAJSHAHI COMMUTER (77)",
-        "train_model": "77"
+        "train_name": "RAJSHAHI COMMUTER (77)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

@@ -75,20 +75,22 @@
             },
             {
                 "city": "Biman_Bandar",
-                "arrival_time": "09:50 am BST",
+                "arrival_time": "09:53 am BST",
                 "halt": "---",
-                "duration": "00:46"
+                "duration": "00:49"
             },
             {
                 "city": "Dhaka",
-                "arrival_time": "10:30 am BST",
+                "arrival_time": "10:35 am BST",
                 "halt": null,
                 "duration": "---",
                 "departure_time": null
             }
         ],
-        "total_duration": "04:00",
-        "train_name": "EGAROSINDHUR PROVATI (738)",
-        "train_model": "738"
+        "total_duration": "04:05",
+        "train_name": "EGAROSINDHUR PROVATI (738)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

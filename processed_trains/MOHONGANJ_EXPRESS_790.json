@@ -1,11 +1,11 @@
 {
     "data": {
         "days": [
+            "Fri",
             "Sat",
             "Sun",
             "Mon",
             "Tue",
-            "Wed",
             "Thu"
         ],
         "routes": [
@@ -53,28 +53,30 @@
             },
             {
                 "city": "Mymensingh",
-                "departure_time": "01:25 am BST",
-                "arrival_time": "01:05 am BST",
+                "departure_time": "01:30 am BST",
+                "arrival_time": "01:10 am BST",
                 "halt": "20",
-                "duration": "00:30"
+                "duration": "00:35"
             },
             {
                 "city": "Gafargaon",
-                "arrival_time": "02:05 am BST",
-                "departure_time": "02:08 am BST",
+                "arrival_time": "02:18 am BST",
+                "departure_time": "02:21 am BST",
                 "halt": "03",
-                "duration": "00:40"
+                "duration": "00:48"
             },
             {
                 "city": "Dhaka",
-                "arrival_time": "04:15 am BST",
+                "arrival_time": "04:55 am BST",
                 "halt": null,
-                "duration": "02:07",
+                "duration": "02:34",
                 "departure_time": null
             }
         ],
-        "total_duration": "05:15",
-        "train_name": "MOHONGANJ EXPRESS (790)",
-        "train_model": "790"
+        "total_duration": "05:55",
+        "train_name": "MOHONGANJ EXPRESS (790)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

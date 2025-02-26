@@ -19,77 +19,79 @@
             },
             {
                 "city": "Chandpur_Court",
-                "arrival_time": "05:03 am BST",
-                "departure_time": "05:05 am BST",
+                "arrival_time": "05:05 am BST",
+                "departure_time": "05:07 am BST",
                 "halt": "02",
-                "duration": "00:03"
+                "duration": "00:05"
             },
             {
                 "city": "Modhu_Road",
-                "arrival_time": "05:18 am BST",
-                "departure_time": "05:20 am BST",
+                "arrival_time": "05:22 am BST",
+                "departure_time": "05:24 am BST",
                 "halt": "02",
-                "duration": "00:13"
+                "duration": "00:15"
             },
             {
                 "city": "Hajiganj",
-                "arrival_time": "05:31 am BST",
-                "departure_time": "05:33 am BST",
+                "arrival_time": "05:35 am BST",
+                "departure_time": "05:37 am BST",
                 "halt": "02",
                 "duration": "00:11"
             },
             {
                 "city": "Meher",
-                "arrival_time": "05:46 am BST",
-                "departure_time": "05:48 am BST",
+                "arrival_time": "05:50 am BST",
+                "departure_time": "05:52 am BST",
                 "halt": "02",
                 "duration": "00:13"
             },
             {
                 "city": "Chitoshi_Road",
-                "arrival_time": "05:49 am BST",
-                "departure_time": "06:01 am BST",
-                "halt": "12",
-                "duration": "00:01"
+                "arrival_time": "06:04 am BST",
+                "departure_time": "06:06 am BST",
+                "halt": "02",
+                "duration": "00:12"
             },
             {
                 "city": "Laksam",
-                "departure_time": "06:35 am BST",
-                "arrival_time": "06:15 am BST",
+                "departure_time": "06:40 am BST",
+                "arrival_time": "06:20 am BST",
                 "halt": "20",
                 "duration": "00:14"
             },
             {
                 "city": "Nangolkot",
-                "arrival_time": "06:49 am BST",
-                "departure_time": "06:51 am BST",
+                "arrival_time": "06:54 am BST",
+                "departure_time": "06:56 am BST",
                 "halt": "02",
                 "duration": "00:14"
             },
             {
                 "city": "Hasanpur",
-                "arrival_time": "06:58 am BST",
-                "departure_time": "07:00 am BST",
+                "arrival_time": "07:03 am BST",
+                "departure_time": "07:05 am BST",
                 "halt": "02",
                 "duration": "00:07"
             },
             {
                 "city": "Feni",
-                "departure_time": "07:25 am BST",
-                "arrival_time": "07:22 am BST",
+                "departure_time": "07:30 am BST",
+                "arrival_time": "07:27 am BST",
                 "halt": "03",
                 "duration": "00:22"
             },
             {
                 "city": "Chattogram",
-                "arrival_time": "08:45 am BST",
+                "arrival_time": "09:00 am BST",
                 "halt": null,
-                "duration": "01:20",
+                "duration": "01:30",
                 "departure_time": null
             }
         ],
-        "total_duration": "03:45",
-        "train_name": "MEGHNA EXPRESS (730)",
-        "train_model": "730"
+        "total_duration": "04:00",
+        "train_name": "MEGHNA EXPRESS (730)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

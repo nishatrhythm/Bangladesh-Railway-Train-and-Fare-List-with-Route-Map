@@ -67,22 +67,22 @@
             },
             {
                 "city": "Montola",
-                "arrival_time": "04:06 pm BST",
-                "departure_time": "06:08 pm BST",
-                "halt": "122",
-                "duration": "00:14"
+                "arrival_time": "04:07 pm BST",
+                "departure_time": "04:09 pm BST",
+                "halt": "02",
+                "duration": "00:15"
             },
             {
                 "city": "Harashpur",
-                "arrival_time": "04:17 pm BST",
-                "departure_time": "04:19 pm BST",
+                "arrival_time": "04:18 pm BST",
+                "departure_time": "04:20 pm BST",
                 "halt": "02",
-                "duration": "01:51"
+                "duration": "00:09"
             },
             {
                 "city": "Mukundapur",
-                "arrival_time": "04:29 pm BST",
-                "departure_time": "04:31 pm BST",
+                "arrival_time": "04:30 pm BST",
+                "departure_time": "04:32 pm BST",
                 "halt": "02",
                 "duration": "00:10"
             },
@@ -91,7 +91,7 @@
                 "arrival_time": "04:46 pm BST",
                 "departure_time": "04:48 pm BST",
                 "halt": "02",
-                "duration": "00:15"
+                "duration": "00:14"
             },
             {
                 "city": "Brahmanbaria",
@@ -109,20 +109,22 @@
             },
             {
                 "city": "Biman_Bandar",
-                "arrival_time": "06:47 pm BST",
+                "arrival_time": "06:40 pm BST",
                 "halt": "---",
-                "duration": "01:17"
+                "duration": "01:10"
             },
             {
                 "city": "Dhaka",
-                "arrival_time": "07:25 pm BST",
+                "arrival_time": "07:15 pm BST",
                 "halt": null,
                 "duration": "---",
                 "departure_time": null
             }
         ],
-        "total_duration": "07:25",
-        "train_name": "JAYENTIKA EXPRESS (718)",
-        "train_model": "718"
+        "total_duration": "07:15",
+        "train_name": "JAYENTIKA EXPRESS (718)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

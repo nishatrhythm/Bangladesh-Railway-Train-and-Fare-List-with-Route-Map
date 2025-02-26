@@ -1,0 +1,24 @@
+{
+    "origin_city_name": "montola",
+    "destination_city_name": "biman_bandar",
+    "info": [
+        {
+            "type": "AC_S",
+            "fare": 400.0,
+            "vat_percent": 15,
+            "vat_amount": 60
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 335.0,
+            "vat_percent": 15,
+            "vat_amount": 51
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 200.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

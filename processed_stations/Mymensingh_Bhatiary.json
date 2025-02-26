@@ -3,6 +3,12 @@
     "destination_city_name": "bhatiary",
     "info": [
         {
+            "type": "S_CHAIR",
+            "fare": 445.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
             "type": "SNIGDHA",
             "fare": 740.0,
             "vat_percent": 15,
@@ -13,12 +19,6 @@
             "fare": 1330.0,
             "vat_percent": 15,
             "vat_amount": 200
-        },
-        {
-            "type": "S_CHAIR",
-            "fare": 445.0,
-            "vat_percent": 0,
-            "vat_amount": 0
         }
     ]
 }

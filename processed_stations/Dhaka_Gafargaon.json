@@ -3,16 +3,10 @@
     "destination_city_name": "gafargaon",
     "info": [
         {
-            "type": "SNIGDHA",
-            "fare": 170.0,
+            "type": "AC_S",
+            "fare": 205.0,
             "vat_percent": 15,
-            "vat_amount": 26
-        },
-        {
-            "type": "S_CHAIR",
-            "fare": 105.0,
-            "vat_percent": 0,
-            "vat_amount": 0
+            "vat_amount": 31
         },
         {
             "type": "F_SEAT",
@@ -21,16 +15,16 @@
             "vat_amount": 21
         },
         {
-            "type": "AC_S",
-            "fare": 205.0,
-            "vat_percent": 15,
-            "vat_amount": 31
+            "type": "S_CHAIR",
+            "fare": 105.0,
+            "vat_percent": 0,
+            "vat_amount": 0
         },
         {
-            "type": "F_CHAIR",
-            "fare": 135.0,
+            "type": "SNIGDHA",
+            "fare": 170.0,
             "vat_percent": 15,
-            "vat_amount": 21
+            "vat_amount": 26
         },
         {
             "type": "SHOVAN",
@@ -39,16 +33,22 @@
             "vat_amount": 0
         },
         {
-            "type": "AC_B",
-            "fare": 305.0,
+            "type": "F_CHAIR",
+            "fare": 135.0,
             "vat_percent": 15,
-            "vat_amount": 46
+            "vat_amount": 21
         },
         {
             "type": "F_BERTH",
             "fare": 205.0,
             "vat_percent": 15,
             "vat_amount": 31
+        },
+        {
+            "type": "AC_B",
+            "fare": 305.0,
+            "vat_percent": 15,
+            "vat_amount": 46
         }
     ]
 }

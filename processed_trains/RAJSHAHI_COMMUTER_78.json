@@ -4,8 +4,8 @@
             "Fri",
             "Sat",
             "Sun",
+            "Mon",
             "Tue",
-            "Wed",
             "Thu"
         ],
         "routes": [
@@ -19,14 +19,15 @@
             {
                 "city": "Nachole",
                 "arrival_time": "12:38 pm BST",
-                "halt": "---",
+                "departure_time": "12:40 pm BST",
+                "halt": "02",
                 "duration": "00:18"
             },
             {
                 "city": "Amnura",
                 "arrival_time": "12:56 pm BST",
                 "halt": "---",
-                "duration": "---"
+                "duration": "00:16"
             },
             {
                 "city": "Lolitnagar",
@@ -55,7 +56,9 @@
             }
         ],
         "total_duration": "01:40",
-        "train_name": "RAJSHAHI COMMUTER (78)",
-        "train_model": "78"
+        "train_name": "RAJSHAHI COMMUTER (78)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

@@ -25,31 +25,31 @@
             },
             {
                 "city": "Narsingdi",
-                "arrival_time": "04:18 pm BST",
+                "arrival_time": "04:17 pm BST",
                 "departure_time": "04:20 pm BST",
-                "halt": "02",
-                "duration": "00:40"
+                "halt": "03",
+                "duration": "00:39"
             },
             {
                 "city": "Bhairab_Bazar",
                 "arrival_time": "04:50 pm BST",
-                "departure_time": "04:52 pm BST",
-                "halt": "02",
+                "departure_time": "04:53 pm BST",
+                "halt": "03",
                 "duration": "00:30"
             },
             {
                 "city": "Ashuganj",
                 "arrival_time": "05:00 pm BST",
-                "departure_time": "05:02 pm BST",
-                "halt": "02",
-                "duration": "00:08"
+                "departure_time": "05:03 pm BST",
+                "halt": "03",
+                "duration": "00:07"
             },
             {
                 "city": "Brahmanbaria",
                 "arrival_time": "05:17 pm BST",
                 "departure_time": "05:21 pm BST",
                 "halt": "04",
-                "duration": "00:15"
+                "duration": "00:14"
             },
             {
                 "city": "Akhaura",
@@ -75,13 +75,13 @@
             {
                 "city": "Laksam",
                 "arrival_time": "07:03 pm BST",
-                "departure_time": "07:05 pm BST",
-                "halt": "02",
+                "departure_time": "07:06 pm BST",
+                "halt": "03",
                 "duration": "00:23"
             },
             {
                 "city": "Natherpetua",
-                "arrival_time": "07:27 pm BST",
+                "arrival_time": "07:28 pm BST",
                 "halt": "---",
                 "duration": "00:22"
             },
@@ -100,15 +100,15 @@
             {
                 "city": "Choumuhani",
                 "arrival_time": "08:04 pm BST",
-                "departure_time": "08:04 pm BST",
-                "halt": "00",
+                "departure_time": "08:06 pm BST",
+                "halt": "02",
                 "duration": "---"
             },
             {
                 "city": "Maijdi Court",
                 "arrival_time": "08:20 pm BST",
                 "halt": "---",
-                "duration": "00:16"
+                "duration": "00:14"
             },
             {
                 "city": "Noakhali",
@@ -119,7 +119,9 @@
             }
         ],
         "total_duration": "05:30",
-        "train_name": "UPAKUL EXPRESS (712)",
-        "train_model": "712"
+        "train_name": "UPAKUL EXPRESS (712)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

@@ -4,7 +4,7 @@
             "Fri",
             "Sat",
             "Sun",
-            "Tue",
+            "Mon",
             "Wed",
             "Thu"
         ],
@@ -24,34 +24,38 @@
             },
             {
                 "city": "Patgram",
+                "departure_time": "06:15 pm BST",
                 "arrival_time": "06:13 pm BST",
-                "halt": "---",
+                "halt": "02",
                 "duration": "00:13"
             },
             {
                 "city": "Barkhata",
                 "arrival_time": "06:44 pm BST",
-                "halt": "---",
-                "duration": "---"
+                "departure_time": "06:47 pm BST",
+                "halt": "03",
+                "duration": "00:29"
             },
             {
                 "city": "Hatibandha",
+                "departure_time": "07:01 pm BST",
                 "arrival_time": "06:58 pm BST",
-                "halt": "---",
-                "duration": "---"
+                "halt": "03",
+                "duration": "00:11"
             },
             {
                 "city": "Tushbhandar",
                 "arrival_time": "07:31 pm BST",
-                "halt": "---",
-                "duration": "---"
+                "departure_time": "07:33 pm BST",
+                "halt": "02",
+                "duration": "00:30"
             },
             {
                 "city": "Kaunia",
                 "arrival_time": "09:33 pm BST",
                 "departure_time": "09:36 pm BST",
                 "halt": "03",
-                "duration": "---"
+                "duration": "02:00"
             },
             {
                 "city": "Gaibandha",
@@ -97,7 +101,9 @@
             }
         ],
         "total_duration": "09:50",
-        "train_name": "BURIMARI EXPRESS (810)",
-        "train_model": "810"
+        "train_name": "BURIMARI EXPRESS (810)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

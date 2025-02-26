@@ -3,16 +3,10 @@
     "destination_city_name": "bhairab_bazar",
     "info": [
         {
-            "type": "SNIGDHA",
-            "fare": 305.0,
+            "type": "AC_S",
+            "fare": 370.0,
             "vat_percent": 15,
-            "vat_amount": 46
-        },
-        {
-            "type": "S_CHAIR",
-            "fare": 185.0,
-            "vat_percent": 0,
-            "vat_amount": 0
+            "vat_amount": 56
         },
         {
             "type": "F_SEAT",
@@ -21,10 +15,16 @@
             "vat_amount": 37
         },
         {
-            "type": "AC_S",
-            "fare": 370.0,
+            "type": "S_CHAIR",
+            "fare": 185.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 305.0,
             "vat_percent": 15,
-            "vat_amount": 56
+            "vat_amount": 46
         }
     ]
 }

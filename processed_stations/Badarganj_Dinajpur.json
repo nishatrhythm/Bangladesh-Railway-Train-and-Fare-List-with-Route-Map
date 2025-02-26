@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "badarganj",
+    "destination_city_name": "dinajpur",
+    "info": [
+        {
+            "type": "SHOVAN",
+            "fare": 50.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

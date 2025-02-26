@@ -18,112 +18,114 @@
             },
             {
                 "city": "Kumira",
-                "arrival_time": "06:24 am BST",
-                "departure_time": "06:26 am BST",
+                "arrival_time": "06:26 am BST",
+                "departure_time": "06:28 am BST",
                 "halt": "02",
-                "duration": "00:24"
+                "duration": "00:26"
             },
             {
                 "city": "Feni",
-                "arrival_time": "07:25 am BST",
-                "departure_time": "07:30 am BST",
-                "halt": "05",
-                "duration": "00:59"
+                "arrival_time": "07:28 am BST",
+                "departure_time": "07:31 am BST",
+                "halt": "03",
+                "duration": "01:00"
             },
             {
                 "city": "Hasanpur",
-                "arrival_time": "07:50 am BST",
-                "departure_time": "07:52 am BST",
-                "halt": "02",
-                "duration": "00:20"
-            },
-            {
-                "city": "Nangolkot",
-                "arrival_time": "07:58 am BST",
-                "departure_time": "08:00 am BST",
-                "halt": "02",
-                "duration": "00:06"
-            },
-            {
-                "city": "Laksam",
-                "arrival_time": "08:13 am BST",
-                "departure_time": "08:18 am BST",
-                "halt": "05",
-                "duration": "00:13"
-            },
-            {
-                "city": "Cumilla",
-                "arrival_time": "08:39 am BST",
-                "departure_time": "08:41 am BST",
+                "arrival_time": "07:52 am BST",
+                "departure_time": "07:54 am BST",
                 "halt": "02",
                 "duration": "00:21"
             },
             {
-                "city": "Shashidal",
-                "arrival_time": "09:00 am BST",
-                "departure_time": "09:02 am BST",
+                "city": "Nangolkot",
+                "arrival_time": "08:02 am BST",
+                "departure_time": "08:04 am BST",
                 "halt": "02",
-                "duration": "00:19"
+                "duration": "00:08"
+            },
+            {
+                "city": "Laksam",
+                "arrival_time": "08:17 am BST",
+                "departure_time": "08:20 am BST",
+                "halt": "03",
+                "duration": "00:13"
+            },
+            {
+                "city": "Cumilla",
+                "arrival_time": "08:41 am BST",
+                "departure_time": "08:44 am BST",
+                "halt": "03",
+                "duration": "00:21"
+            },
+            {
+                "city": "Shashidal",
+                "arrival_time": "09:05 am BST",
+                "departure_time": "09:07 am BST",
+                "halt": "02",
+                "duration": "00:21"
             },
             {
                 "city": "Quasba",
-                "arrival_time": "09:14 am BST",
-                "departure_time": "09:16 am BST",
+                "arrival_time": "09:39 am BST",
+                "departure_time": "09:41 am BST",
                 "halt": "02",
-                "duration": "00:12"
+                "duration": "00:32"
             },
             {
                 "city": "Akhaura",
-                "arrival_time": "09:35 am BST",
-                "departure_time": "09:37 am BST",
-                "halt": "02",
-                "duration": "00:19"
+                "arrival_time": "10:05 am BST",
+                "departure_time": "10:08 am BST",
+                "halt": "03",
+                "duration": "00:24"
             },
             {
                 "city": "Brahmanbaria",
-                "arrival_time": "09:55 am BST",
-                "departure_time": "09:57 am BST",
-                "halt": "02",
+                "arrival_time": "10:26 am BST",
+                "departure_time": "10:29 am BST",
+                "halt": "03",
                 "duration": "00:18"
             },
             {
                 "city": "Bhairab_Bazar",
-                "arrival_time": "10:16 am BST",
-                "departure_time": "10:21 am BST",
-                "halt": "05",
-                "duration": "00:19"
+                "arrival_time": "10:50 am BST",
+                "departure_time": "10:53 am BST",
+                "halt": "03",
+                "duration": "00:21"
             },
             {
                 "city": "Methikanda",
-                "arrival_time": "10:36 am BST",
-                "departure_time": "10:38 am BST",
+                "arrival_time": "11:08 am BST",
+                "departure_time": "11:10 am BST",
                 "halt": "02",
                 "duration": "00:15"
             },
             {
                 "city": "Narsingdi",
-                "arrival_time": "10:55 am BST",
-                "departure_time": "11:00 am BST",
-                "halt": "05",
+                "arrival_time": "11:27 am BST",
+                "departure_time": "11:30 am BST",
+                "halt": "03",
                 "duration": "00:17"
             },
             {
                 "city": "Biman_Bandar",
-                "arrival_time": "11:43 am BST",
-                "departure_time": "11:46 am BST",
+                "arrival_time": "12:10 pm BST",
+                "departure_time": "12:13 pm BST",
                 "halt": "03",
-                "duration": "00:43"
+                "duration": "00:40"
             },
             {
                 "city": "Dhaka",
-                "arrival_time": "12:10 pm BST",
+                "arrival_time": "12:40 pm BST",
                 "halt": null,
-                "duration": "00:24",
+                "duration": "00:27",
                 "departure_time": null
             }
         ],
-        "total_duration": "06:10",
-        "train_name": "CHATTALA EXPRESS (801)",
-        "train_model": "801"
+        "total_duration": "06:40",
+        "train_name": "CHATTALA EXPRESS (801)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

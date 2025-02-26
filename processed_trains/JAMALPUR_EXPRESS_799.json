@@ -18,37 +18,37 @@
             },
             {
                 "city": "Biman_Bandar",
-                "arrival_time": "10:23 am BST",
-                "departure_time": "10:28 am BST",
+                "arrival_time": "10:22 am BST",
+                "departure_time": "10:27 am BST",
                 "halt": "05",
-                "duration": "00:23"
+                "duration": "00:22"
             },
             {
                 "city": "Joydebpur",
-                "arrival_time": "10:49 am BST",
-                "departure_time": "10:52 am BST",
+                "arrival_time": "10:53 am BST",
+                "departure_time": "10:56 am BST",
                 "halt": "03",
-                "duration": "00:21"
+                "duration": "00:26"
             },
             {
                 "city": "Gafargaon",
-                "arrival_time": "11:46 am BST",
-                "departure_time": "11:49 am BST",
+                "arrival_time": "12:14 pm BST",
+                "departure_time": "12:17 pm BST",
                 "halt": "03",
-                "duration": "00:54"
+                "duration": "01:18"
             },
             {
                 "city": "Mymensingh",
-                "arrival_time": "12:28 pm BST",
-                "departure_time": "12:33 pm BST",
+                "arrival_time": "01:05 pm BST",
+                "departure_time": "01:10 pm BST",
                 "halt": "05",
-                "duration": "00:39"
+                "duration": "00:48"
             },
             {
                 "city": "Bidyaganj",
-                "arrival_time": "12:53 pm BST",
+                "arrival_time": "01:32 pm BST",
                 "halt": "---",
-                "duration": "00:20"
+                "duration": "00:22"
             },
             {
                 "city": "Narundi",
@@ -58,58 +58,62 @@
             },
             {
                 "city": "Nandina",
-                "arrival_time": "01:25 pm BST",
-                "halt": "---",
+                "arrival_time": "02:08 pm BST",
+                "departure_time": "02:12 pm BST",
+                "halt": "04",
                 "duration": "---"
             },
             {
                 "city": "Jamalpur_Town",
-                "arrival_time": "01:40 pm BST",
-                "departure_time": "01:45 pm BST",
-                "halt": "05",
-                "duration": "---"
+                "arrival_time": "02:25 pm BST",
+                "departure_time": "02:28 pm BST",
+                "halt": "03",
+                "duration": "00:13"
             },
             {
                 "city": "Jaforshahi",
-                "arrival_time": "03:08 pm BST",
+                "arrival_time": "02:59 pm BST",
                 "halt": "---",
-                "duration": "01:23"
+                "duration": "00:31"
             },
             {
                 "city": "Sarishabari",
-                "arrival_time": "02:38 pm BST",
-                "departure_time": "02:43 pm BST",
-                "halt": "05",
+                "arrival_time": "03:21 pm BST",
+                "departure_time": "03:24 pm BST",
+                "halt": "03",
                 "duration": "---"
             },
             {
                 "city": "Tarakandi",
-                "arrival_time": "02:58 pm BST",
-                "halt": "---",
-                "duration": "00:15"
+                "arrival_time": "03:42 pm BST",
+                "departure_time": "03:45 pm BST",
+                "halt": "03",
+                "duration": "00:18"
             },
             {
-                "city": "Adv. Motiur Rahman",
-                "arrival_time": "03:14 pm BST",
+                "city": "Jagannathgonj_Bazar",
+                "arrival_time": "03:56 pm BST",
                 "halt": "---",
-                "duration": "---"
+                "duration": "00:11"
             },
             {
                 "city": "Hemnagar",
-                "arrival_time": "03:32 pm BST",
+                "arrival_time": "04:16 pm BST",
                 "halt": "---",
                 "duration": "---"
             },
             {
                 "city": "Bhuapur",
-                "arrival_time": "04:00 pm BST",
+                "arrival_time": "04:45 pm BST",
                 "halt": null,
                 "duration": "---",
                 "departure_time": null
             }
         ],
-        "total_duration": "06:00",
-        "train_name": "JAMALPUR EXPRESS (799)",
-        "train_model": "799"
+        "total_duration": "06:45",
+        "train_name": "JAMALPUR EXPRESS (799)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

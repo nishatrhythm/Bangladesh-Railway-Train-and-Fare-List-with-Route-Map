@@ -1,0 +1,18 @@
+{
+    "origin_city_name": "khoksha",
+    "destination_city_name": "chuadanga",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 80.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 130.0,
+            "vat_percent": 15,
+            "vat_amount": 20
+        }
+    ]
+}

@@ -3,16 +3,16 @@
     "destination_city_name": "shaistaganj",
     "info": [
         {
-            "type": "SNIGDHA",
-            "fare": 260.0,
-            "vat_percent": 15,
-            "vat_amount": 39
-        },
-        {
             "type": "S_CHAIR",
             "fare": 155.0,
             "vat_percent": 0,
             "vat_amount": 0
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 260.0,
+            "vat_percent": 15,
+            "vat_amount": 39
         },
         {
             "type": "AC_B",

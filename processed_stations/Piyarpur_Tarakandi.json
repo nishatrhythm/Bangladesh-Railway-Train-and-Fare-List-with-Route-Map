@@ -1,0 +1,24 @@
+{
+    "origin_city_name": "piyarpur",
+    "destination_city_name": "tarakandi",
+    "info": [
+        {
+            "type": "SHOVAN",
+            "fare": 60.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 70.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "F_CHAIR",
+            "fare": 90.0,
+            "vat_percent": 15,
+            "vat_amount": 14
+        }
+    ]
+}

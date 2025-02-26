@@ -38,7 +38,7 @@
                 "duration": "00:08"
             },
             {
-                "city": "Saidabad",
+                "city": "SOYDABAD",
                 "arrival_time": "06:57 am BST",
                 "departure_time": "07:07 am BST",
                 "halt": "10",
@@ -94,7 +94,9 @@
             }
         ],
         "total_duration": "04:10",
-        "train_name": "SIRAJGANJ EXPRESS (775)",
-        "train_model": "775"
+        "train_name": "SIRAJGANJ EXPRESS (775)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

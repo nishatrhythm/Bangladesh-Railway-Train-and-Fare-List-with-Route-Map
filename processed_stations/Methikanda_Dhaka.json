@@ -1,0 +1,24 @@
+{
+    "origin_city_name": "methikanda",
+    "destination_city_name": "dhaka",
+    "info": [
+        {
+            "type": "SHOVAN",
+            "fare": 75.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 90.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 145.0,
+            "vat_percent": 15,
+            "vat_amount": 22
+        }
+    ]
+}

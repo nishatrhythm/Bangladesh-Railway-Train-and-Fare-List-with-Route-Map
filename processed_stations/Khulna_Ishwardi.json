@@ -3,6 +3,12 @@
     "destination_city_name": "ishwardi",
     "info": [
         {
+            "type": "S_CHAIR",
+            "fare": 290.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
             "type": "AC_S",
             "fare": 580.0,
             "vat_percent": 15,
@@ -15,18 +21,6 @@
             "vat_amount": 73
         },
         {
-            "type": "S_CHAIR",
-            "fare": 290.0,
-            "vat_percent": 0,
-            "vat_amount": 0
-        },
-        {
-            "type": "F_SEAT",
-            "fare": 390.0,
-            "vat_percent": 15,
-            "vat_amount": 59
-        },
-        {
             "type": "AC_B",
             "fare": 870.0,
             "vat_percent": 15,
@@ -37,6 +31,12 @@
             "fare": 580.0,
             "vat_percent": 15,
             "vat_amount": 87
+        },
+        {
+            "type": "F_SEAT",
+            "fare": 390.0,
+            "vat_percent": 15,
+            "vat_amount": 59
         }
     ]
 }

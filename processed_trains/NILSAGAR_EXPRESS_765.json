@@ -18,31 +18,31 @@
             },
             {
                 "city": "Biman_Bandar",
-                "arrival_time": "07:07 am BST",
+                "arrival_time": "07:08 am BST",
                 "departure_time": "07:12 am BST",
-                "halt": "05",
-                "duration": "00:22"
-            },
-            {
-                "city": "Joydebpur",
-                "arrival_time": "07:35 am BST",
-                "departure_time": "07:37 am BST",
-                "halt": "02",
+                "halt": "04",
                 "duration": "00:23"
             },
             {
+                "city": "Joydebpur",
+                "arrival_time": "07:36 am BST",
+                "departure_time": "07:37 am BST",
+                "halt": "01",
+                "duration": "00:24"
+            },
+            {
                 "city": "Ibrahimabad",
-                "arrival_time": "08:59 am BST",
+                "arrival_time": "08:54 am BST",
                 "departure_time": "09:09 am BST",
-                "halt": "10",
-                "duration": "01:22"
+                "halt": "15",
+                "duration": "01:17"
             },
             {
                 "city": "Muladhuli",
-                "arrival_time": "10:39 am BST",
+                "arrival_time": "10:16 am BST",
                 "departure_time": "10:42 am BST",
-                "halt": "03",
-                "duration": "01:30"
+                "halt": "26",
+                "duration": "01:07"
             },
             {
                 "city": "Natore",
@@ -53,10 +53,10 @@
             },
             {
                 "city": "Ahsanganj",
-                "arrival_time": "11:41 am BST",
+                "arrival_time": "11:20 am BST",
                 "departure_time": "11:43 am BST",
-                "halt": "02",
-                "duration": "00:20"
+                "halt": "23",
+                "duration": "00:01"
             },
             {
                 "city": "Santahar",
@@ -67,10 +67,10 @@
             },
             {
                 "city": "Akkelpur",
-                "arrival_time": "12:55 pm BST",
+                "arrival_time": "12:38 pm BST",
                 "departure_time": "12:57 pm BST",
-                "halt": "02",
-                "duration": "00:20"
+                "halt": "19",
+                "duration": "00:03"
             },
             {
                 "city": "Joypurhat",
@@ -130,7 +130,9 @@
             }
         ],
         "total_duration": "09:15",
-        "train_name": "NILSAGAR EXPRESS (765)",
-        "train_model": "765"
+        "train_name": "NILSAGAR EXPRESS (765)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

@@ -11,7 +11,7 @@
         ],
         "routes": [
             {
-                "city": "B Sirajul Islam",
+                "city": "Panchagarh",
                 "departure_time": "09:10 pm BST",
                 "halt": null,
                 "duration": null,
@@ -54,9 +54,9 @@
             },
             {
                 "city": "Dinajpur",
-                "departure_time": "11:10 pm BST",
+                "departure_time": "11:13 pm BST",
                 "arrival_time": "11:05 pm BST",
-                "halt": "05",
+                "halt": "08",
                 "duration": "00:31"
             },
             {
@@ -64,7 +64,7 @@
                 "departure_time": "11:32 pm BST",
                 "arrival_time": "11:30 pm BST",
                 "halt": "02",
-                "duration": "00:20"
+                "duration": "00:17"
             },
             {
                 "city": "Parbatipur",
@@ -75,91 +75,93 @@
             },
             {
                 "city": "Fulbari",
-                "arrival_time": "12:31 am BST",
-                "departure_time": "12:34 am BST",
+                "arrival_time": "12:28 am BST",
+                "departure_time": "12:31 am BST",
                 "halt": "03",
-                "duration": "00:36"
+                "duration": "00:33"
             },
             {
                 "city": "Birampur",
-                "arrival_time": "12:45 am BST",
-                "departure_time": "12:48 am BST",
-                "halt": "03",
-                "duration": "00:11"
+                "arrival_time": "12:42 pm BST",
+                "departure_time": "12:45 am BST",
+                "halt": "717",
+                "duration": "12:11"
             },
             {
                 "city": "Panchbibi",
-                "arrival_time": "01:15 am BST",
-                "departure_time": "01:17 am BST",
+                "arrival_time": "01:05 am BST",
+                "departure_time": "01:07 am BST",
                 "halt": "02",
-                "duration": "00:27"
+                "duration": "00:20"
             },
             {
                 "city": "Joypurhat",
-                "arrival_time": "01:28 am BST",
-                "departure_time": "01:31 am BST",
+                "arrival_time": "01:18 am BST",
+                "departure_time": "01:21 am BST",
                 "halt": "03",
                 "duration": "00:11"
             },
             {
                 "city": "Akkelpur",
-                "arrival_time": "01:45 am BST",
-                "departure_time": "01:47 am BST",
+                "arrival_time": "01:35 am BST",
+                "departure_time": "01:37 am BST",
                 "halt": "02",
                 "duration": "00:14"
             },
             {
                 "city": "Santahar",
-                "arrival_time": "02:15 am BST",
-                "departure_time": "02:20 am BST",
+                "arrival_time": "01:55 am BST",
+                "departure_time": "02:00 am BST",
                 "halt": "05",
-                "duration": "00:28"
+                "duration": "00:18"
             },
             {
                 "city": "Natore",
-                "arrival_time": "03:13 am BST",
-                "departure_time": "03:16 am BST",
+                "arrival_time": "02:41 am BST",
+                "departure_time": "02:44 am BST",
                 "halt": "03",
-                "duration": "00:53"
+                "duration": "00:41"
             },
             {
                 "city": "Ullapara",
-                "departure_time": "04:30 am BST",
-                "arrival_time": "04:27 am BST",
+                "departure_time": "04:15 am BST",
+                "arrival_time": "04:12 am BST",
                 "halt": "03",
-                "duration": "01:11"
+                "duration": "01:28"
             },
             {
                 "city": "Ibrahimabad",
-                "departure_time": "05:25 am BST",
-                "arrival_time": "05:23 am BST",
+                "departure_time": "04:52 am BST",
+                "arrival_time": "04:50 am BST",
                 "halt": "02",
-                "duration": "00:53"
+                "duration": "00:35"
             },
             {
                 "city": "Tangail",
-                "departure_time": "05:47 am BST",
-                "arrival_time": "05:45 am BST",
+                "departure_time": "05:14 am BST",
+                "arrival_time": "05:12 am BST",
                 "halt": "02",
                 "duration": "00:20"
             },
             {
                 "city": "Joydebpur",
-                "departure_time": "06:50 am BST",
-                "arrival_time": "06:47 am BST",
+                "departure_time": "06:21 am BST",
+                "arrival_time": "06:18 am BST",
                 "halt": "03",
-                "duration": "01:00"
+                "duration": "01:04"
             },
             {
                 "city": "Dhaka",
-                "arrival_time": "07:50 am BST",
+                "arrival_time": "07:20 am BST",
                 "halt": null,
-                "duration": "01:00",
+                "duration": "00:59",
                 "departure_time": null
             }
         ],
-        "total_duration": "10:40",
-        "train_name": "EKOTA EXPRESS (706)",
-        "train_model": "706"
+        "total_duration": "10:10",
+        "train_name": "EKOTA EXPRESS (706)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

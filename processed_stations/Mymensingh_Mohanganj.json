@@ -3,10 +3,10 @@
     "destination_city_name": "mohanganj",
     "info": [
         {
-            "type": "AC_B",
-            "fare": 354.0,
+            "type": "SNIGDHA",
+            "fare": 170.0,
             "vat_percent": 15,
-            "vat_amount": 54
+            "vat_amount": 26
         },
         {
             "type": "S_CHAIR",
@@ -21,10 +21,10 @@
             "vat_amount": 0
         },
         {
-            "type": "SNIGDHA",
-            "fare": 170.0,
+            "type": "AC_B",
+            "fare": 354.0,
             "vat_percent": 15,
-            "vat_amount": 26
+            "vat_amount": 54
         }
     ]
 }

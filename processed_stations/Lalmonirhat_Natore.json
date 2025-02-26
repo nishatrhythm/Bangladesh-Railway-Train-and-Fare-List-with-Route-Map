@@ -3,16 +3,16 @@
     "destination_city_name": "natore",
     "info": [
         {
-            "type": "S_CHAIR",
-            "fare": 260.0,
-            "vat_percent": 0,
-            "vat_amount": 0
-        },
-        {
             "type": "SNIGDHA",
             "fare": 430.0,
             "vat_percent": 15,
             "vat_amount": 65
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 260.0,
+            "vat_percent": 0,
+            "vat_amount": 0
         }
     ]
 }

@@ -1,0 +1,18 @@
+{
+    "origin_city_name": "ibrahimabad",
+    "destination_city_name": "jashore",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 710.0,
+            "vat_percent": 15,
+            "vat_amount": 107
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 425.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

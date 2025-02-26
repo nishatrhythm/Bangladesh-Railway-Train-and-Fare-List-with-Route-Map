@@ -39,7 +39,9 @@
             }
         ],
         "total_duration": "06:00",
-        "train_name": "BANALATA EXPRESS (791)",
-        "train_model": "791"
+        "train_name": "BANALATA EXPRESS (791)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

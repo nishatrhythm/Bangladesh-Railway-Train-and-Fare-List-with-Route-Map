@@ -34,7 +34,8 @@
             {
                 "city": "Methikanda",
                 "arrival_time": "08:12 pm BST",
-                "halt": "---",
+                "departure_time": "08:14 pm BST",
+                "halt": "02",
                 "duration": "00:17"
             },
             {
@@ -42,7 +43,7 @@
                 "arrival_time": "08:30 pm BST",
                 "departure_time": "08:50 pm BST",
                 "halt": "20",
-                "duration": "---"
+                "duration": "00:16"
             },
             {
                 "city": "Kuliarchar",
@@ -88,7 +89,9 @@
             }
         ],
         "total_duration": "03:55",
-        "train_name": "EGAROSINDHUR GODHULI (749)",
-        "train_model": "749"
+        "train_name": "EGAROSINDHUR GODHULI (749)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

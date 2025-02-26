@@ -59,30 +59,37 @@
                 "duration": "00:13"
             },
             {
-                "city": "Chakaria",
-                "arrival_time": "05:28 pm BST",
-                "departure_time": "05:30 pm BST",
+                "city": "HARBANG",
+                "arrival_time": "05:18 pm BST",
+                "departure_time": "05:20 pm BST",
                 "halt": "02",
-                "duration": "00:36"
+                "duration": "00:26"
+            },
+            {
+                "city": "Chakaria",
+                "arrival_time": "05:32 pm BST",
+                "departure_time": "05:34 pm BST",
+                "halt": "02",
+                "duration": "00:12"
             },
             {
                 "city": "Dulahazara",
-                "arrival_time": "05:52 pm BST",
-                "departure_time": "05:54 pm BST",
+                "arrival_time": "05:56 pm BST",
+                "departure_time": "05:58 pm BST",
                 "halt": "02",
                 "duration": "00:22"
             },
             {
                 "city": "ISLAMABAD",
-                "arrival_time": "06:11 pm BST",
-                "departure_time": "06:13 pm BST",
+                "arrival_time": "06:15 pm BST",
+                "departure_time": "06:17 pm BST",
                 "halt": "02",
                 "duration": "00:17"
             },
             {
                 "city": "Ramu",
-                "arrival_time": "06:30 pm BST",
-                "departure_time": "06:32 pm BST",
+                "arrival_time": "06:34 pm BST",
+                "departure_time": "06:36 pm BST",
                 "halt": "02",
                 "duration": "00:17"
             },
@@ -90,12 +97,14 @@
                 "city": "Coxs Bazar",
                 "arrival_time": "07:00 pm BST",
                 "halt": null,
-                "duration": "00:28",
+                "duration": "00:24",
                 "departure_time": null
             }
         ],
         "total_duration": "03:50",
-        "train_name": "PROBAL EXPRESS (823)",
-        "train_model": "823"
+        "train_name": "PROBAL EXPRESS (823)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

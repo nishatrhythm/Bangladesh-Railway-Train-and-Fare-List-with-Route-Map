@@ -61,21 +61,23 @@
             },
             {
                 "city": "Bhairab_Bazar",
-                "arrival_time": "07:04 pm BST",
-                "departure_time": "07:07 pm BST",
+                "arrival_time": "07:05 pm BST",
+                "departure_time": "07:08 pm BST",
                 "halt": "03",
-                "duration": "00:19"
+                "duration": "00:20"
             },
             {
                 "city": "Dhaka",
-                "arrival_time": "08:55 pm BST",
+                "arrival_time": "08:45 pm BST",
                 "halt": null,
-                "duration": "01:48",
+                "duration": "01:37",
                 "departure_time": null
             }
         ],
-        "total_duration": "05:55",
-        "train_name": "MAHANAGAR GODHULI (703)",
-        "train_model": "703"
+        "total_duration": "05:45",
+        "train_name": "MAHANAGAR GODHULI (703)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

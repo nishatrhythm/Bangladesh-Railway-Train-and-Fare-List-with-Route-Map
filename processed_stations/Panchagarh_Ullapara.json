@@ -1,0 +1,24 @@
+{
+    "origin_city_name": "panchagarh",
+    "destination_city_name": "ullapara",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 705.0,
+            "vat_percent": 15,
+            "vat_amount": 106
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 425.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_B",
+            "fare": 1265.0,
+            "vat_percent": 15,
+            "vat_amount": 190
+        }
+    ]
+}

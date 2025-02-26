@@ -1,0 +1,18 @@
+{
+    "origin_city_name": "kalukhali",
+    "destination_city_name": "rajshahi",
+    "info": [
+        {
+            "type": "SHOVAN",
+            "fare": 190.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 225.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

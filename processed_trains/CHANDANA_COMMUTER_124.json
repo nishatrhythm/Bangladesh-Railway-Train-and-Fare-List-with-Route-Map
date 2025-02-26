@@ -32,7 +32,9 @@
             }
         ],
         "total_duration": "01:20",
-        "train_name": "CHANDANA COMMUTER (124)",
-        "train_model": "124"
+        "train_name": "CHANDANA COMMUTER (124)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

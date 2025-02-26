@@ -3,10 +3,10 @@
     "destination_city_name": "cumilla",
     "info": [
         {
-            "type": "SNIGDHA",
-            "fare": 445.0,
+            "type": "AC_S",
+            "fare": 530.0,
             "vat_percent": 15,
-            "vat_amount": 67
+            "vat_amount": 80
         },
         {
             "type": "S_CHAIR",
@@ -15,10 +15,10 @@
             "vat_amount": 0
         },
         {
-            "type": "AC_S",
-            "fare": 530.0,
+            "type": "SNIGDHA",
+            "fare": 445.0,
             "vat_percent": 15,
-            "vat_amount": 80
+            "vat_amount": 67
         }
     ]
 }

@@ -3,10 +3,10 @@
     "destination_city_name": "chattogram",
     "info": [
         {
-            "type": "SNIGDHA",
-            "fare": 515.0,
+            "type": "AC_B",
+            "fare": 920.0,
             "vat_percent": 15,
-            "vat_amount": 78
+            "vat_amount": 138
         },
         {
             "type": "S_CHAIR",
@@ -15,10 +15,10 @@
             "vat_amount": 0
         },
         {
-            "type": "AC_B",
-            "fare": 920.0,
+            "type": "SNIGDHA",
+            "fare": 515.0,
             "vat_percent": 15,
-            "vat_amount": 138
+            "vat_amount": 78
         },
         {
             "type": "AC_S",

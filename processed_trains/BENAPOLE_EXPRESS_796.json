@@ -109,7 +109,9 @@
             }
         ],
         "total_duration": "07:35",
-        "train_name": "BENAPOLE EXPRESS (796)",
-        "train_model": "796"
+        "train_name": "BENAPOLE EXPRESS (796)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

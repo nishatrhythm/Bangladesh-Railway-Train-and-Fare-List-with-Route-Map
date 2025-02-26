@@ -1,11 +1,11 @@
 {
     "data": {
         "days": [
+            "Fri",
             "Sat",
             "Sun",
             "Mon",
             "Tue",
-            "Wed",
             "Thu"
         ],
         "routes": [
@@ -18,70 +18,72 @@
             },
             {
                 "city": "Biman_Bandar",
-                "arrival_time": "01:38 pm BST",
-                "departure_time": "01:43 pm BST",
+                "arrival_time": "01:37 pm BST",
+                "departure_time": "01:42 pm BST",
                 "halt": "05",
-                "duration": "00:23"
+                "duration": "00:22"
             },
             {
                 "city": "Gafargaon",
-                "arrival_time": "02:55 pm BST",
-                "departure_time": "02:58 pm BST",
+                "arrival_time": "03:21 pm BST",
+                "departure_time": "03:24 pm BST",
                 "halt": "03",
-                "duration": "01:12"
+                "duration": "01:39"
             },
             {
                 "city": "Mymensingh",
-                "arrival_time": "03:38 pm BST",
-                "departure_time": "03:58 pm BST",
+                "arrival_time": "04:10 pm BST",
+                "departure_time": "04:30 pm BST",
                 "halt": "20",
-                "duration": "00:40"
+                "duration": "00:46"
             },
             {
                 "city": "Gouripur_Myn",
-                "arrival_time": "04:23 pm BST",
-                "departure_time": "04:26 pm BST",
+                "arrival_time": "04:54 pm BST",
+                "departure_time": "04:57 pm BST",
                 "halt": "03",
-                "duration": "00:25"
+                "duration": "00:24"
             },
             {
                 "city": "Shyamgonj",
-                "arrival_time": "04:38 pm BST",
-                "departure_time": "04:41 pm BST",
+                "arrival_time": "05:11 pm BST",
+                "departure_time": "05:14 pm BST",
                 "halt": "03",
-                "duration": "00:12"
+                "duration": "00:14"
             },
             {
                 "city": "Netrakona",
-                "arrival_time": "05:02 pm BST",
-                "departure_time": "05:05 pm BST",
+                "arrival_time": "05:33 pm BST",
+                "departure_time": "05:36 pm BST",
                 "halt": "03",
-                "duration": "00:21"
+                "duration": "00:19"
             },
             {
                 "city": "Thakrokona",
-                "arrival_time": "05:21 pm BST",
-                "departure_time": "05:24 pm BST",
+                "arrival_time": "05:50 pm BST",
+                "departure_time": "05:53 pm BST",
                 "halt": "03",
-                "duration": "00:16"
+                "duration": "00:14"
             },
             {
                 "city": "Barhatta",
-                "arrival_time": "05:25 pm BST",
-                "departure_time": "05:27 pm BST",
-                "halt": "02",
-                "duration": "00:01"
+                "arrival_time": "06:01 pm BST",
+                "departure_time": "06:04 pm BST",
+                "halt": "03",
+                "duration": "00:08"
             },
             {
                 "city": "Mohanganj",
-                "arrival_time": "06:20 pm BST",
+                "arrival_time": "06:40 pm BST",
                 "halt": null,
-                "duration": "00:53",
+                "duration": "00:36",
                 "departure_time": null
             }
         ],
-        "total_duration": "05:05",
-        "train_name": "MOHONGANJ EXPRESS (789)",
-        "train_model": "789"
+        "total_duration": "05:25",
+        "train_name": "MOHONGANJ EXPRESS (789)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

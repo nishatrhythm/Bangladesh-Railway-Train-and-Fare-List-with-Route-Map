@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "barkhata",
+    "destination_city_name": "bogura",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 220.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

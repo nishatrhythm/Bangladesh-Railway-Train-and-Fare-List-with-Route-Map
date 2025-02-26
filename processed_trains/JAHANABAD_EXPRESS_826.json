@@ -31,7 +31,7 @@
                 "duration": "00:28"
             },
             {
-                "city": "Lohagara",
+                "city": "Lohagora",
                 "arrival_time": "09:48 pm BST",
                 "departure_time": "09:50 pm BST",
                 "halt": "02",
@@ -67,7 +67,9 @@
             }
         ],
         "total_duration": "03:45",
-        "train_name": "JAHANABAD EXPRESS (826)",
-        "train_model": "826"
+        "train_name": "JAHANABAD EXPRESS (826)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

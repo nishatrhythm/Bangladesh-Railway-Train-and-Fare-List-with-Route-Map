@@ -137,7 +137,9 @@
             }
         ],
         "total_duration": "06:40",
-        "train_name": "TITUMIR EXPRESS (733)",
-        "train_model": "733"
+        "train_name": "TITUMIR EXPRESS (733)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

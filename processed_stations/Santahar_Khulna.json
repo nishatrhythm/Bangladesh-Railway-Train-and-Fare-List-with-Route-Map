@@ -3,28 +3,10 @@
     "destination_city_name": "khulna",
     "info": [
         {
-            "type": "AC_S",
-            "fare": 765.0,
-            "vat_percent": 15,
-            "vat_amount": 115
-        },
-        {
-            "type": "SNIGDHA",
-            "fare": 640.0,
-            "vat_percent": 15,
-            "vat_amount": 96
-        },
-        {
             "type": "S_CHAIR",
             "fare": 385.0,
             "vat_percent": 0,
             "vat_amount": 0
-        },
-        {
-            "type": "F_SEAT",
-            "fare": 510.0,
-            "vat_percent": 15,
-            "vat_amount": 77
         },
         {
             "type": "AC_B",
@@ -33,10 +15,28 @@
             "vat_amount": 172
         },
         {
+            "type": "SNIGDHA",
+            "fare": 640.0,
+            "vat_percent": 15,
+            "vat_amount": 96
+        },
+        {
             "type": "F_BERTH",
             "fare": 765.0,
             "vat_percent": 15,
             "vat_amount": 115
+        },
+        {
+            "type": "AC_S",
+            "fare": 765.0,
+            "vat_percent": 15,
+            "vat_amount": 115
+        },
+        {
+            "type": "F_SEAT",
+            "fare": 510.0,
+            "vat_percent": 15,
+            "vat_amount": 77
         }
     ]
 }

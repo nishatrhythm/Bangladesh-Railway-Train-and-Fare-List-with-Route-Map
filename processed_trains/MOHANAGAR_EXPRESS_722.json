@@ -25,10 +25,10 @@
             },
             {
                 "city": "Narsingdi",
-                "arrival_time": "10:28 pm BST",
+                "arrival_time": "10:27 pm BST",
                 "departure_time": "10:30 pm BST",
-                "halt": "02",
-                "duration": "00:40"
+                "halt": "03",
+                "duration": "00:39"
             },
             {
                 "city": "Bhairab_Bazar",
@@ -47,8 +47,8 @@
             {
                 "city": "Brahmanbaria",
                 "arrival_time": "11:28 pm BST",
-                "departure_time": "11:32 pm BST",
-                "halt": "04",
+                "departure_time": "11:31 pm BST",
+                "halt": "03",
                 "duration": "00:15"
             },
             {
@@ -56,7 +56,7 @@
                 "arrival_time": "11:55 pm BST",
                 "departure_time": "11:58 pm BST",
                 "halt": "03",
-                "duration": "00:23"
+                "duration": "00:24"
             },
             {
                 "city": "Quasba",
@@ -108,7 +108,9 @@
             }
         ],
         "total_duration": "06:10",
-        "train_name": "MOHANAGAR EXPRESS (722)",
-        "train_model": "722"
+        "train_name": "MOHANAGAR EXPRESS (722)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

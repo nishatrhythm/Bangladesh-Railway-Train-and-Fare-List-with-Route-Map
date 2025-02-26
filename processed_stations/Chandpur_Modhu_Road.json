@@ -3,7 +3,7 @@
     "destination_city_name": "modhu_road",
     "info": [
         {
-            "type": "F_SEAT",
+            "type": "F_CHAIR",
             "fare": 90.0,
             "vat_percent": 15,
             "vat_amount": 14
@@ -15,7 +15,7 @@
             "vat_amount": 0
         },
         {
-            "type": "F_CHAIR",
+            "type": "F_SEAT",
             "fare": 90.0,
             "vat_percent": 15,
             "vat_amount": 14

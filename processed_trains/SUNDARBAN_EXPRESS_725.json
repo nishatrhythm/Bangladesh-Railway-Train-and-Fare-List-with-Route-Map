@@ -18,43 +18,43 @@
             },
             {
                 "city": "Daulatpur",
-                "arrival_time": "09:56 pm BST",
-                "departure_time": "09:58 pm BST",
+                "arrival_time": "09:57 pm BST",
+                "departure_time": "09:59 pm BST",
                 "halt": "02",
-                "duration": "00:11"
+                "duration": "00:12"
             },
             {
                 "city": "Noapara",
-                "arrival_time": "10:21 pm BST",
-                "departure_time": "10:24 pm BST",
+                "arrival_time": "10:22 pm BST",
+                "departure_time": "10:25 pm BST",
                 "halt": "03",
                 "duration": "00:23"
             },
             {
                 "city": "Jashore",
-                "departure_time": "10:56 pm BST",
-                "arrival_time": "10:52 pm BST",
+                "departure_time": "10:57 pm BST",
+                "arrival_time": "10:53 pm BST",
                 "halt": "04",
                 "duration": "00:28"
             },
             {
                 "city": "Mubarakganj",
-                "arrival_time": "11:23 pm BST",
-                "departure_time": "11:25 pm BST",
+                "arrival_time": "11:24 pm BST",
+                "departure_time": "11:26 pm BST",
                 "halt": "02",
                 "duration": "00:27"
             },
             {
                 "city": "Kotchandpur",
-                "arrival_time": "11:37 pm BST",
-                "departure_time": "11:39 pm BST",
+                "arrival_time": "11:38 pm BST",
+                "departure_time": "11:40 pm BST",
                 "halt": "02",
                 "duration": "00:12"
             },
             {
                 "city": "Chuadanga",
-                "arrival_time": "12:20 am BST",
-                "departure_time": "12:23 am BST",
+                "arrival_time": "12:21 am BST",
+                "departure_time": "12:24 am BST",
                 "halt": "03",
                 "duration": "00:41"
             },
@@ -63,7 +63,7 @@
                 "arrival_time": "12:39 am BST",
                 "departure_time": "12:41 am BST",
                 "halt": "02",
-                "duration": "00:16"
+                "duration": "00:15"
             },
             {
                 "city": "Poradaha",
@@ -116,7 +116,9 @@
             }
         ],
         "total_duration": "07:25",
-        "train_name": "SUNDARBAN EXPRESS (725)",
-        "train_model": "725"
+        "train_name": "SUNDARBAN EXPRESS (725)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

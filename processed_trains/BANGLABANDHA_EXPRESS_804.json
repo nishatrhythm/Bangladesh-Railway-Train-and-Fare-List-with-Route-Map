@@ -10,7 +10,7 @@
         ],
         "routes": [
             {
-                "city": "B Sirajul Islam",
+                "city": "Panchagarh",
                 "departure_time": "09:00 am BST",
                 "halt": null,
                 "duration": null,
@@ -158,7 +158,9 @@
             }
         ],
         "total_duration": "08:35",
-        "train_name": "BANGLABANDHA EXPRESS (804)",
-        "train_model": "804"
+        "train_name": "BANGLABANDHA EXPRESS (804)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

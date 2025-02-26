@@ -3,9 +3,9 @@
         "days": [
             "Fri",
             "Sat",
+            "Sun",
             "Mon",
             "Tue",
-            "Wed",
             "Thu"
         ],
         "routes": [
@@ -32,14 +32,16 @@
             },
             {
                 "city": "Coxs Bazar",
-                "arrival_time": "03:00 pm BST",
+                "arrival_time": "02:40 pm BST",
                 "halt": null,
-                "duration": "03:20",
+                "duration": "03:00",
                 "departure_time": null
             }
         ],
-        "total_duration": "08:45",
-        "train_name": "PARJOTAK EXPRESS (816)",
-        "train_model": "816"
+        "total_duration": "08:25",
+        "train_name": "PARJOTAK EXPRESS (816)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

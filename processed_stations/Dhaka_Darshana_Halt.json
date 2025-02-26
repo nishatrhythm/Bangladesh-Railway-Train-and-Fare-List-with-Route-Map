@@ -3,6 +3,12 @@
     "destination_city_name": "darshana_halt",
     "info": [
         {
+            "type": "AC_S",
+            "fare": 955.0,
+            "vat_percent": 15,
+            "vat_amount": 144
+        },
+        {
             "type": "S_CHAIR",
             "fare": 480.0,
             "vat_percent": 0,

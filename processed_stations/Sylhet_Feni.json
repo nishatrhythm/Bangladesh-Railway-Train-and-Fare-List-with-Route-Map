@@ -3,10 +3,10 @@
     "destination_city_name": "feni",
     "info": [
         {
-            "type": "SNIGDHA",
-            "fare": 570.0,
+            "type": "AC_S",
+            "fare": 680.0,
             "vat_percent": 15,
-            "vat_amount": 86
+            "vat_amount": 102
         },
         {
             "type": "S_CHAIR",
@@ -15,10 +15,10 @@
             "vat_amount": 0
         },
         {
-            "type": "AC_S",
-            "fare": 680.0,
+            "type": "SNIGDHA",
+            "fare": 570.0,
             "vat_percent": 15,
-            "vat_amount": 102
+            "vat_amount": 86
         }
     ]
 }

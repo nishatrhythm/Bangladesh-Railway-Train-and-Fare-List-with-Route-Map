@@ -31,7 +31,7 @@
                 "duration": "00:12"
             },
             {
-                "city": "Pakshi",
+                "city": "Paksey",
                 "arrival_time": "03:55 pm BST",
                 "departure_time": "03:57 pm BST",
                 "halt": "02",
@@ -123,7 +123,9 @@
             }
         ],
         "total_duration": "05:55",
-        "train_name": "KAPOTAKSHA EXPRESS (716)",
-        "train_model": "716"
+        "train_name": "KAPOTAKSHA EXPRESS (716)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

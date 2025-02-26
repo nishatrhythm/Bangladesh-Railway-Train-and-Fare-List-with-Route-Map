@@ -3,16 +3,16 @@
     "destination_city_name": "atharabari",
     "info": [
         {
-            "type": "SNIGDHA",
-            "fare": 660.0,
-            "vat_percent": 15,
-            "vat_amount": 99
-        },
-        {
             "type": "S_CHAIR",
             "fare": 395.0,
             "vat_percent": 0,
             "vat_amount": 0
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 660.0,
+            "vat_percent": 15,
+            "vat_amount": 99
         }
     ]
 }

@@ -53,35 +53,37 @@
             },
             {
                 "city": "Chakaria",
-                "arrival_time": "08:30 am BST",
-                "departure_time": "08:32 am BST",
+                "arrival_time": "08:35 am BST",
+                "departure_time": "08:37 am BST",
                 "halt": "02",
-                "duration": "00:46"
+                "duration": "00:51"
             },
             {
                 "city": "Dulahazara",
-                "arrival_time": "08:54 am BST",
-                "departure_time": "08:56 am BST",
+                "arrival_time": "08:58 am BST",
+                "departure_time": "09:00 am BST",
                 "halt": "02",
-                "duration": "00:22"
+                "duration": "00:21"
             },
             {
                 "city": "Ramu",
-                "arrival_time": "09:27 am BST",
-                "departure_time": "09:29 am BST",
+                "arrival_time": "09:31 am BST",
+                "departure_time": "09:33 am BST",
                 "halt": "02",
                 "duration": "00:31"
             },
             {
                 "city": "Coxs Bazar",
-                "arrival_time": "09:55 am BST",
+                "arrival_time": "09:50 am BST",
                 "halt": null,
-                "duration": "00:26",
+                "duration": "00:17",
                 "departure_time": null
             }
         ],
-        "total_duration": "03:40",
-        "train_name": "SHAIKAT EXPRESS (821)",
-        "train_model": "821"
+        "total_duration": "03:35",
+        "train_name": "SHAIKAT EXPRESS (821)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

@@ -3,10 +3,10 @@
     "destination_city_name": "hajiganj",
     "info": [
         {
-            "type": "SHOVAN",
-            "fare": 180.0,
-            "vat_percent": 0,
-            "vat_amount": 0
+            "type": "F_CHAIR",
+            "fare": 290.0,
+            "vat_percent": 15,
+            "vat_amount": 44
         },
         {
             "type": "S_CHAIR",
@@ -15,10 +15,10 @@
             "vat_amount": 0
         },
         {
-            "type": "F_CHAIR",
-            "fare": 290.0,
-            "vat_percent": 15,
-            "vat_amount": 44
+            "type": "SHOVAN",
+            "fare": 180.0,
+            "vat_percent": 0,
+            "vat_amount": 0
         }
     ]
 }

@@ -1,0 +1,18 @@
+{
+    "origin_city_name": "tangail",
+    "destination_city_name": "jashore",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 750.0,
+            "vat_percent": 15,
+            "vat_amount": 113
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 450.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

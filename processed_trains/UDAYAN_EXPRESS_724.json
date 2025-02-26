@@ -60,42 +60,44 @@
             },
             {
                 "city": "Akhaura",
-                "arrival_time": "02:25 am BST",
-                "departure_time": "02:30 am BST",
+                "arrival_time": "02:15 am BST",
+                "departure_time": "02:20 am BST",
                 "halt": "05",
-                "duration": "01:32"
+                "duration": "01:22"
             },
             {
                 "city": "Cumilla",
-                "arrival_time": "03:13 am BST",
-                "departure_time": "03:15 am BST",
+                "arrival_time": "03:03 am BST",
+                "departure_time": "03:05 am BST",
                 "halt": "02",
                 "duration": "00:43"
             },
             {
                 "city": "Laksam",
-                "arrival_time": "03:37 am BST",
-                "departure_time": "03:39 am BST",
+                "arrival_time": "03:27 am BST",
+                "departure_time": "03:29 am BST",
                 "halt": "02",
                 "duration": "00:22"
             },
             {
                 "city": "Feni",
-                "arrival_time": "04:17 am BST",
-                "departure_time": "04:19 am BST",
+                "arrival_time": "04:07 am BST",
+                "departure_time": "04:09 am BST",
                 "halt": "02",
                 "duration": "00:38"
             },
             {
                 "city": "Chattogram",
-                "arrival_time": "05:50 am BST",
+                "arrival_time": "05:35 am BST",
                 "halt": null,
-                "duration": "01:31",
+                "duration": "01:26",
                 "departure_time": null
             }
         ],
-        "total_duration": "07:50",
-        "train_name": "UDAYAN EXPRESS (724)",
-        "train_model": "724"
+        "total_duration": "07:35",
+        "train_name": "UDAYAN EXPRESS (724)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

@@ -21,7 +21,9 @@
             }
         ],
         "total_duration": "10:15",
-        "train_name": "MITALI EXPRESS (3132)",
-        "train_model": "3132"
+        "train_name": "MITALI EXPRESS (3132)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

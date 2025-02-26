@@ -109,7 +109,9 @@
             }
         ],
         "total_duration": "09:55",
-        "train_name": "RANGPUR EXPRESS (772)",
-        "train_model": "772"
+        "train_name": "RANGPUR EXPRESS (772)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

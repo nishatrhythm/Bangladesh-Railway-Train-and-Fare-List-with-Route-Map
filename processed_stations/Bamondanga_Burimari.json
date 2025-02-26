@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "bamondanga",
+    "destination_city_name": "burimari",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 165.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

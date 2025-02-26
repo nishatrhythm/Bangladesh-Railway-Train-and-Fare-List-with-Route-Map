@@ -81,7 +81,9 @@
             }
         ],
         "total_duration": "03:55",
-        "train_name": "EGAROSINDHUR PROVATI (737)",
-        "train_model": "737"
+        "train_name": "EGAROSINDHUR PROVATI (737)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

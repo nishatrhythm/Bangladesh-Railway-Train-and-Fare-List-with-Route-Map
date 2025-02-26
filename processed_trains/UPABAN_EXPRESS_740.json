@@ -26,7 +26,8 @@
             {
                 "city": "Baramchal",
                 "arrival_time": "12:28 am BST",
-                "halt": "---",
+                "departure_time": "12:30 am BST",
+                "halt": "02",
                 "duration": "00:17"
             },
             {
@@ -34,7 +35,7 @@
                 "arrival_time": "12:43 am BST",
                 "departure_time": "12:46 am BST",
                 "halt": "03",
-                "duration": "---"
+                "duration": "00:13"
             },
             {
                 "city": "Shamshernagar",
@@ -54,14 +55,14 @@
                 "city": "Sreemangal",
                 "arrival_time": "01:41 am BST",
                 "departure_time": "01:44 am BST",
-                "halt": "03",
+                "halt": "1437",
                 "duration": "00:19"
             },
             {
                 "city": "Shaistaganj",
                 "arrival_time": "02:30 am BST",
                 "departure_time": "02:33 am BST",
-                "halt": "03",
+                "halt": "1437",
                 "duration": "00:46"
             },
             {
@@ -79,14 +80,16 @@
             },
             {
                 "city": "Dhaka",
-                "arrival_time": "05:45 am BST",
+                "arrival_time": "05:40 am BST",
                 "halt": null,
                 "duration": "---",
                 "departure_time": null
             }
         ],
-        "total_duration": "06:15",
-        "train_name": "UPABAN EXPRESS (740)",
-        "train_model": "740"
+        "total_duration": "06:10",
+        "train_name": "UPABAN EXPRESS (740)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

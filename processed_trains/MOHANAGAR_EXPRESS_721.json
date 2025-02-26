@@ -18,43 +18,43 @@
             },
             {
                 "city": "Kumira",
-                "arrival_time": "12:53 pm BST",
-                "departure_time": "12:55 pm BST",
+                "arrival_time": "12:56 pm BST",
+                "departure_time": "12:58 pm BST",
                 "halt": "02",
-                "duration": "00:23"
+                "duration": "00:26"
             },
             {
                 "city": "Feni",
-                "arrival_time": "01:53 pm BST",
-                "departure_time": "01:56 pm BST",
-                "halt": "03",
-                "duration": "00:58"
+                "arrival_time": "01:57 pm BST",
+                "departure_time": "01:59 pm BST",
+                "halt": "02",
+                "duration": "00:59"
             },
             {
                 "city": "Nangolkot",
-                "arrival_time": "02:20 pm BST",
-                "departure_time": "02:22 pm BST",
+                "arrival_time": "02:24 pm BST",
+                "departure_time": "02:26 pm BST",
                 "halt": "02",
-                "duration": "00:24"
+                "duration": "00:25"
             },
             {
                 "city": "Laksam",
-                "arrival_time": "02:35 pm BST",
-                "departure_time": "02:40 pm BST",
-                "halt": "05",
-                "duration": "00:13"
+                "arrival_time": "02:42 pm BST",
+                "departure_time": "02:44 pm BST",
+                "halt": "02",
+                "duration": "00:16"
             },
             {
                 "city": "Cumilla",
-                "arrival_time": "03:02 pm BST",
-                "departure_time": "03:07 pm BST",
-                "halt": "05",
+                "arrival_time": "03:06 pm BST",
+                "departure_time": "03:08 pm BST",
+                "halt": "02",
                 "duration": "00:22"
             },
             {
                 "city": "Quasba",
-                "arrival_time": "03:37 pm BST",
-                "departure_time": "03:39 pm BST",
+                "arrival_time": "03:38 pm BST",
+                "departure_time": "03:40 pm BST",
                 "halt": "02",
                 "duration": "00:30"
             },
@@ -63,7 +63,7 @@
                 "arrival_time": "04:05 pm BST",
                 "departure_time": "04:08 pm BST",
                 "halt": "03",
-                "duration": "00:26"
+                "duration": "00:25"
             },
             {
                 "city": "Brahmanbaria",
@@ -88,21 +88,23 @@
             },
             {
                 "city": "Narsingdi",
-                "arrival_time": "05:28 pm BST",
-                "departure_time": "05:30 pm BST",
+                "arrival_time": "05:27 pm BST",
+                "departure_time": "05:29 pm BST",
                 "halt": "02",
-                "duration": "00:31"
+                "duration": "00:30"
             },
             {
                 "city": "Dhaka",
                 "arrival_time": "06:40 pm BST",
                 "halt": null,
-                "duration": "01:10",
+                "duration": "01:11",
                 "departure_time": null
             }
         ],
         "total_duration": "06:10",
-        "train_name": "MOHANAGAR EXPRESS (721)",
-        "train_model": "721"
+        "train_name": "MOHANAGAR EXPRESS (721)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

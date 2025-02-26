@@ -1,0 +1,18 @@
+{
+    "origin_city_name": "piyarpur",
+    "destination_city_name": "chattogram",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 525.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 875.0,
+            "vat_percent": 15,
+            "vat_amount": 132
+        }
+    ]
+}

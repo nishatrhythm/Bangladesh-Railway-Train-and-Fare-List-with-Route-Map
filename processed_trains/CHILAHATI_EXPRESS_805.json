@@ -109,7 +109,9 @@
             }
         ],
         "total_duration": "10:00",
-        "train_name": "CHILAHATI EXPRESS (805)",
-        "train_model": "805"
+        "train_name": "CHILAHATI EXPRESS (805)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

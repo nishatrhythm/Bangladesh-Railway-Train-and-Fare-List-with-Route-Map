@@ -11,7 +11,7 @@
         ],
         "routes": [
             {
-                "city": "B Sirajul Islam",
+                "city": "Panchagarh",
                 "departure_time": "12:20 pm BST",
                 "halt": null,
                 "duration": null,
@@ -75,7 +75,9 @@
             }
         ],
         "total_duration": "09:35",
-        "train_name": "PANCHAGARH EXPRESS (794)",
-        "train_model": "794"
+        "train_name": "PANCHAGARH EXPRESS (794)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }

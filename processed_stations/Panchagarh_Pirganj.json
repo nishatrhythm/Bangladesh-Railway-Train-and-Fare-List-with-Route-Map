@@ -1,0 +1,36 @@
+{
+    "origin_city_name": "panchagarh",
+    "destination_city_name": "pirganj",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 75.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "SHOVAN",
+            "fare": 65.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 125.0,
+            "vat_percent": 15,
+            "vat_amount": 19
+        },
+        {
+            "type": "AC_S",
+            "fare": 150.0,
+            "vat_percent": 15,
+            "vat_amount": 23
+        },
+        {
+            "type": "AC_B",
+            "fare": 220.0,
+            "vat_percent": 15,
+            "vat_amount": 33
+        }
+    ]
+}

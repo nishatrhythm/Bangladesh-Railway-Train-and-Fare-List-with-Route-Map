@@ -3,16 +3,16 @@
     "destination_city_name": "sreemangal",
     "info": [
         {
-            "type": "SNIGDHA",
-            "fare": 320.0,
-            "vat_percent": 15,
-            "vat_amount": 48
-        },
-        {
             "type": "S_CHAIR",
             "fare": 190.0,
             "vat_percent": 0,
             "vat_amount": 0
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 320.0,
+            "vat_percent": 15,
+            "vat_amount": 48
         },
         {
             "type": "AC_B",

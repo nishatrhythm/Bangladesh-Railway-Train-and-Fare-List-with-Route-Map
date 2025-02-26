@@ -4,7 +4,7 @@
             "Fri",
             "Sat",
             "Sun",
-            "Mon",
+            "Tue",
             "Wed",
             "Thu"
         ],
@@ -95,7 +95,9 @@
             }
         ],
         "total_duration": "06:30",
-        "train_name": "PARABAT EXPRESS (709)",
-        "train_model": "709"
+        "train_name": "PARABAT EXPRESS (709)"
+    },
+    "extra": {
+        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
     }
 }
