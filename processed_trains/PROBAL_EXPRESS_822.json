@@ -101,9 +101,7 @@
             }
         ],
         "total_duration": "03:50",
-        "train_name": "PROBAL EXPRESS (822)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "train_name": "PROBAL EXPRESS (822)",
+        "train_model": "822"
     }
 }

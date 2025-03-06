@@ -95,29 +95,29 @@
             },
             {
                 "city": "Dinajpur",
-                "departure_time": "06:12 pm BST",
-                "arrival_time": "06:07 pm BST",
-                "halt": "05",
+                "departure_time": "06:10 pm BST",
+                "arrival_time": "06:00 pm BST",
+                "halt": "10",
                 "duration": "---"
             },
             {
                 "city": "Kawgaon",
-                "arrival_time": "06:22 pm BST",
+                "arrival_time": "06:21 pm BST",
                 "halt": "---",
-                "duration": "00:10"
+                "duration": "00:11"
             },
             {
                 "city": "Chirirbandar",
-                "arrival_time": "06:33 pm BST",
-                "departure_time": "06:35 pm BST",
-                "halt": "02",
+                "arrival_time": "06:34 pm BST",
+                "departure_time": "06:45 pm BST",
+                "halt": "11",
                 "duration": "---"
             },
             {
                 "city": "Manmathapur",
-                "arrival_time": "06:58 pm BST",
+                "arrival_time": "06:54 pm BST",
                 "halt": "---",
-                "duration": "00:23"
+                "duration": "00:09"
             },
             {
                 "city": "Parbatipur",
@@ -128,9 +128,7 @@
             }
         ],
         "total_duration": "03:45",
-        "train_name": "KANCHON INTERCITY COMMUTER (42)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "train_name": "KANCHON INTERCITY COMMUTER (42)",
+        "train_model": "42"
     }
 }

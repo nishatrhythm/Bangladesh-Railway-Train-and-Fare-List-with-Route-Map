@@ -60,29 +60,29 @@
             },
             {
                 "city": "Alamdanga",
-                "arrival_time": "10:22 am BST",
-                "departure_time": "10:24 am BST",
+                "arrival_time": "10:21 am BST",
+                "departure_time": "10:23 am BST",
                 "halt": "02",
-                "duration": "00:16"
+                "duration": "00:15"
             },
             {
                 "city": "Poradaha",
-                "arrival_time": "10:38 am BST",
-                "departure_time": "10:41 am BST",
+                "arrival_time": "10:39 am BST",
+                "departure_time": "10:42 am BST",
                 "halt": "03",
-                "duration": "00:14"
+                "duration": "00:16"
             },
             {
                 "city": "Bheramara",
-                "arrival_time": "10:58 am BST",
-                "departure_time": "11:01 am BST",
+                "arrival_time": "10:59 am BST",
+                "departure_time": "11:02 am BST",
                 "halt": "03",
                 "duration": "00:17"
             },
             {
                 "city": "Paksey",
-                "arrival_time": "11:13 am BST",
-                "departure_time": "11:15 am BST",
+                "arrival_time": "11:14 am BST",
+                "departure_time": "11:16 am BST",
                 "halt": "02",
                 "duration": "00:12"
             },
@@ -91,97 +91,95 @@
                 "arrival_time": "11:25 am BST",
                 "departure_time": "11:40 am BST",
                 "halt": "15",
-                "duration": "00:10"
+                "duration": "00:09"
             },
             {
                 "city": "Natore",
-                "arrival_time": "12:12 pm BST",
-                "departure_time": "12:15 pm BST",
+                "arrival_time": "12:13 pm BST",
+                "departure_time": "12:16 pm BST",
                 "halt": "03",
-                "duration": "00:32"
+                "duration": "00:33"
             },
             {
                 "city": "Ahsanganj",
-                "arrival_time": "12:54 pm BST",
-                "departure_time": "12:57 pm BST",
+                "arrival_time": "12:57 pm BST",
+                "departure_time": "01:00 pm BST",
                 "halt": "03",
-                "duration": "00:39"
+                "duration": "00:41"
             },
             {
                 "city": "Santahar",
-                "arrival_time": "01:20 pm BST",
-                "departure_time": "01:25 pm BST",
+                "arrival_time": "01:25 pm BST",
+                "departure_time": "01:30 pm BST",
                 "halt": "05",
-                "duration": "00:23"
+                "duration": "00:25"
             },
             {
                 "city": "Akkelpur",
-                "arrival_time": "01:45 pm BST",
-                "departure_time": "01:47 pm BST",
+                "arrival_time": "01:50 pm BST",
+                "departure_time": "01:52 pm BST",
                 "halt": "02",
                 "duration": "00:20"
             },
             {
                 "city": "Joypurhat",
-                "arrival_time": "02:02 pm BST",
-                "departure_time": "02:05 pm BST",
+                "arrival_time": "02:05 pm BST",
+                "departure_time": "02:08 pm BST",
                 "halt": "03",
-                "duration": "00:15"
+                "duration": "00:13"
             },
             {
                 "city": "Birampur",
-                "departure_time": "02:35 pm BST",
-                "arrival_time": "02:33 pm BST",
+                "departure_time": "02:38 pm BST",
+                "arrival_time": "02:36 pm BST",
                 "halt": "02",
                 "duration": "00:28"
             },
             {
                 "city": "Fulbari",
-                "departure_time": "02:48 pm BST",
-                "arrival_time": "02:46 pm BST",
+                "departure_time": "02:51 pm BST",
+                "arrival_time": "02:49 pm BST",
                 "halt": "02",
                 "duration": "00:11"
             },
             {
                 "city": "Parbatipur",
-                "arrival_time": "03:05 pm BST",
-                "departure_time": "03:15 pm BST",
+                "arrival_time": "03:10 pm BST",
+                "departure_time": "03:20 pm BST",
                 "halt": "10",
-                "duration": "00:17"
+                "duration": "00:19"
             },
             {
                 "city": "Saidpur",
-                "arrival_time": "03:32 pm BST",
-                "departure_time": "03:37 pm BST",
+                "arrival_time": "03:37 pm BST",
+                "departure_time": "03:42 pm BST",
                 "halt": "05",
                 "duration": "00:17"
             },
             {
                 "city": "Nilphamari",
-                "arrival_time": "04:13 pm BST",
-                "departure_time": "04:16 pm BST",
+                "arrival_time": "04:05 pm BST",
+                "departure_time": "04:08 pm BST",
                 "halt": "03",
-                "duration": "00:36"
+                "duration": "00:23"
             },
             {
                 "city": "Domar",
-                "arrival_time": "04:32 pm BST",
-                "departure_time": "04:35 pm BST",
+                "arrival_time": "04:24 pm BST",
+                "departure_time": "04:27 pm BST",
                 "halt": "03",
                 "duration": "00:16"
             },
             {
                 "city": "Chilahati",
-                "arrival_time": "05:05 pm BST",
+                "arrival_time": "05:00 pm BST",
                 "halt": null,
-                "duration": "00:30",
+                "duration": "00:33",
                 "departure_time": null
             }
         ],
-        "total_duration": "09:50",
-        "train_name": "RUPSHA EXPRESS (727)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "total_duration": "09:45",
+        "train_name": "RUPSHA EXPRESS (727)",
+        "train_model": "727"
     }
 }

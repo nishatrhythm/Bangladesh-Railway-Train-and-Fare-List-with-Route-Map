@@ -25,17 +25,17 @@
             },
             {
                 "city": "Ishwardi Bypass",
-                "arrival_time": "12:28 pm BST",
-                "departure_time": "12:30 pm BST",
+                "arrival_time": "12:30 pm BST",
+                "departure_time": "12:32 pm BST",
                 "halt": "02",
-                "duration": "03:30"
+                "duration": "03:32"
             },
             {
                 "city": "Natore",
                 "arrival_time": "01:01 pm BST",
                 "departure_time": "01:05 pm BST",
                 "halt": "04",
-                "duration": "00:31"
+                "duration": "00:29"
             },
             {
                 "city": "Santahar",
@@ -54,71 +54,69 @@
             {
                 "city": "Bonar_Para",
                 "arrival_time": "03:55 pm BST",
-                "departure_time": "04:00 pm BST",
-                "halt": "05",
+                "departure_time": "04:03 pm BST",
+                "halt": "08",
                 "duration": "00:50"
             },
             {
                 "city": "Gaibandha",
-                "arrival_time": "04:24 pm BST",
-                "departure_time": "04:29 pm BST",
+                "arrival_time": "04:28 pm BST",
+                "departure_time": "04:33 pm BST",
                 "halt": "05",
-                "duration": "00:24"
+                "duration": "00:25"
             },
             {
                 "city": "Kaunia",
-                "arrival_time": "05:36 pm BST",
-                "departure_time": "05:39 pm BST",
-                "halt": "03",
-                "duration": "01:07"
+                "arrival_time": "04:43 pm BST",
+                "departure_time": "05:46 pm BST",
+                "halt": "63",
+                "duration": "00:10"
             },
             {
                 "city": "Lalmonirhat",
                 "arrival_time": "06:10 pm BST",
-                "departure_time": "06:50 pm BST",
-                "halt": "40",
-                "duration": "00:31"
+                "departure_time": "06:30 pm BST",
+                "halt": "20",
+                "duration": "00:24"
             },
             {
                 "city": "Tushbhandar",
                 "arrival_time": "07:52 pm BST",
                 "departure_time": "07:55 pm BST",
                 "halt": "03",
-                "duration": "01:02"
+                "duration": "01:22"
             },
             {
                 "city": "Hatibandha",
-                "arrival_time": "08:28 pm BST",
-                "departure_time": "08:31 pm BST",
-                "halt": "03",
-                "duration": "00:33"
+                "arrival_time": "07:26 pm BST",
+                "departure_time": "07:26 pm BST",
+                "halt": "00",
+                "duration": "00:29"
             },
             {
                 "city": "Barkhata",
                 "arrival_time": "08:42 pm BST",
                 "departure_time": "08:44 pm BST",
                 "halt": "02",
-                "duration": "00:11"
+                "duration": "01:16"
             },
             {
                 "city": "Patgram",
-                "arrival_time": "09:18 pm BST",
-                "departure_time": "09:20 pm BST",
-                "halt": "02",
-                "duration": "00:34"
+                "arrival_time": "08:00 pm BST",
+                "departure_time": "08:03 pm BST",
+                "halt": "03",
+                "duration": "00:44"
             },
             {
                 "city": "Burimari",
-                "arrival_time": "09:40 pm BST",
+                "arrival_time": "08:20 pm BST",
                 "halt": null,
-                "duration": "00:20",
+                "duration": "00:17",
                 "departure_time": null
             }
         ],
-        "total_duration": "13:10",
-        "train_name": "BURIMARI EXPRESS (809)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "total_duration": "11:50",
+        "train_name": "BURIMARI EXPRESS (809)",
+        "train_model": "809"
     }
 }

@@ -103,29 +103,27 @@
             {
                 "city": "Kaunia",
                 "arrival_time": "06:16 pm BST",
-                "departure_time": "06:18 pm BST",
-                "halt": "02",
+                "departure_time": "06:36 pm BST",
+                "halt": "20",
                 "duration": "00:16"
             },
             {
                 "city": "Kurigram",
                 "arrival_time": "07:20 pm BST",
-                "departure_time": "07:50 pm BST",
-                "halt": "30",
-                "duration": "01:02"
+                "departure_time": "07:20 pm BST",
+                "halt": "00",
+                "duration": "00:44"
             },
             {
                 "city": "Rangpur",
                 "arrival_time": "07:00 pm BST",
                 "halt": null,
-                "duration": "00:50",
+                "duration": "00:20",
                 "departure_time": null
             }
         ],
         "total_duration": "09:50",
-        "train_name": "RANGPUR EXPRESS (771)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "train_name": "RANGPUR EXPRESS (771)",
+        "train_model": "771"
     }
 }

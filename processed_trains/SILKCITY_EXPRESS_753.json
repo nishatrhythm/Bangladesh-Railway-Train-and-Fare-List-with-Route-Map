@@ -109,9 +109,7 @@
             }
         ],
         "total_duration": "05:50",
-        "train_name": "SILKCITY EXPRESS (753)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "train_name": "SILKCITY EXPRESS (753)",
+        "train_model": "753"
     }
 }

@@ -102,9 +102,7 @@
             }
         ],
         "total_duration": "06:10",
-        "train_name": "MOHANAGAR EXPRESS (721)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "train_name": "MOHANAGAR EXPRESS (721)",
+        "train_model": "721"
     }
 }

@@ -130,9 +130,7 @@
             }
         ],
         "total_duration": "08:05",
-        "train_name": "PAHARIKA EXPRESS (719)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "train_name": "PAHARIKA EXPRESS (719)",
+        "train_model": "719"
     }
 }

@@ -19,35 +19,35 @@
             },
             {
                 "city": "Manmathapur",
-                "arrival_time": "07:49 am BST",
+                "arrival_time": "07:50 am BST",
                 "halt": "---",
-                "duration": "00:09"
+                "duration": "00:10"
             },
             {
                 "city": "Chirirbandar",
-                "arrival_time": "08:00 am BST",
-                "departure_time": "08:02 am BST",
-                "halt": "02",
+                "arrival_time": "08:02 am BST",
+                "departure_time": "08:05 am BST",
+                "halt": "03",
                 "duration": "---"
             },
             {
                 "city": "Kawgaon",
-                "arrival_time": "08:11 am BST",
+                "arrival_time": "08:14 am BST",
                 "halt": "---",
                 "duration": "00:09"
             },
             {
                 "city": "Dinajpur",
-                "departure_time": "08:38 am BST",
-                "arrival_time": "08:23 am BST",
-                "halt": "15",
+                "departure_time": "08:36 am BST",
+                "arrival_time": "08:26 am BST",
+                "halt": "10",
                 "duration": "---"
             },
             {
                 "city": "Kanchan_Junction",
-                "arrival_time": "08:43 am BST",
+                "arrival_time": "08:42 am BST",
                 "halt": "---",
-                "duration": "00:05"
+                "duration": "00:06"
             },
             {
                 "city": "Mongalpur",
@@ -57,65 +57,65 @@
             },
             {
                 "city": "Setabganj",
-                "arrival_time": "09:31 am BST",
-                "departure_time": "09:33 am BST",
+                "arrival_time": "09:35 am BST",
+                "departure_time": "09:37 am BST",
                 "halt": "02",
                 "duration": "---"
             },
             {
                 "city": "Sultanpur",
-                "arrival_time": "09:44 am BST",
+                "arrival_time": "09:46 am BST",
                 "halt": "---",
-                "duration": "00:11"
+                "duration": "00:09"
             },
             {
                 "city": "Pirganj",
-                "arrival_time": "09:58 am BST",
-                "departure_time": "10:19 am BST",
-                "halt": "21",
+                "arrival_time": "10:00 am BST",
+                "departure_time": "10:20 am BST",
+                "halt": "20",
                 "duration": "---"
             },
             {
                 "city": "Bhomradah",
-                "arrival_time": "10:29 am BST",
+                "arrival_time": "10:30 am BST",
                 "halt": "---",
                 "duration": "00:10"
             },
             {
                 "city": "Shibganj",
-                "arrival_time": "10:40 am BST",
+                "arrival_time": "10:41 am BST",
                 "halt": "---",
                 "duration": "---"
             },
             {
                 "city": "Thakurgaon_Road",
-                "arrival_time": "10:50 am BST",
-                "departure_time": "10:55 am BST",
+                "arrival_time": "10:51 am BST",
+                "departure_time": "10:56 am BST",
                 "halt": "05",
                 "duration": "---"
             },
             {
                 "city": "Akhanagar",
-                "arrival_time": "11:04 am BST",
+                "arrival_time": "11:05 am BST",
                 "halt": "---",
                 "duration": "00:09"
             },
             {
                 "city": "Ruhia",
-                "arrival_time": "11:16 am BST",
-                "departure_time": "11:18 am BST",
+                "arrival_time": "11:17 am BST",
+                "departure_time": "11:19 am BST",
                 "halt": "02",
                 "duration": "---"
             },
             {
                 "city": "Kismat",
-                "arrival_time": "11:27 am BST",
+                "arrival_time": "11:28 am BST",
                 "halt": "---",
                 "duration": "00:09"
             },
             {
                 "city": "Nayaniburuj",
-                "arrival_time": "11:38 am BST",
+                "arrival_time": "11:39 am BST",
                 "halt": "---",
                 "duration": "---"
             },
@@ -128,9 +128,7 @@
             }
         ],
         "total_duration": "04:20",
-        "train_name": "KANCHON INTERCITY COMMUTER (41)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "train_name": "KANCHON INTERCITY COMMUTER (41)",
+        "train_model": "41"
     }
 }

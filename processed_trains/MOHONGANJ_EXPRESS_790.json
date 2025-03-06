@@ -74,9 +74,7 @@
             }
         ],
         "total_duration": "05:55",
-        "train_name": "MOHONGANJ EXPRESS (790)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "train_name": "MOHONGANJ EXPRESS (790)",
+        "train_model": "790"
     }
 }

@@ -81,17 +81,22 @@
                 "duration": "00:22"
             },
             {
+                "city": "Kumira",
+                "departure_time": "08:32 am BST",
+                "arrival_time": "08:30 am BST",
+                "halt": "02",
+                "duration": "01:00"
+            },
+            {
                 "city": "Chattogram",
                 "arrival_time": "09:00 am BST",
                 "halt": null,
-                "duration": "01:30",
+                "duration": "00:28",
                 "departure_time": null
             }
         ],
         "total_duration": "04:00",
-        "train_name": "MEGHNA EXPRESS (730)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "train_name": "MEGHNA EXPRESS (730)",
+        "train_model": "730"
     }
 }

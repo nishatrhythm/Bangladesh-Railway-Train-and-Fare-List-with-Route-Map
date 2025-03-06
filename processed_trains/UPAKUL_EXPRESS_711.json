@@ -115,9 +115,7 @@
             }
         ],
         "total_duration": "05:20",
-        "train_name": "UPAKUL EXPRESS (711)"
-    },
-    "extra": {
-        "hash": "44984BFD06804094A56F94AE02FDF373"
+        "train_name": "UPAKUL EXPRESS (711)",
+        "train_model": "711"
     }
 }

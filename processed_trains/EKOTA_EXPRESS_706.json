@@ -82,10 +82,10 @@
             },
             {
                 "city": "Birampur",
-                "arrival_time": "12:42 pm BST",
+                "arrival_time": "12:42 am BST",
                 "departure_time": "12:45 am BST",
-                "halt": "717",
-                "duration": "12:11"
+                "halt": "03",
+                "duration": "00:11"
             },
             {
                 "city": "Panchbibi",
@@ -159,9 +159,7 @@
             }
         ],
         "total_duration": "10:10",
-        "train_name": "EKOTA EXPRESS (706)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "train_name": "EKOTA EXPRESS (706)",
+        "train_model": "706"
     }
 }

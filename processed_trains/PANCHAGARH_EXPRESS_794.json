@@ -12,31 +12,31 @@
         "routes": [
             {
                 "city": "Panchagarh",
-                "departure_time": "12:20 pm BST",
+                "departure_time": "12:10 pm BST",
                 "halt": null,
                 "duration": null,
                 "arrival_time": null
             },
             {
                 "city": "Thakurgaon_Road",
-                "departure_time": "01:01 pm BST",
-                "arrival_time": "12:58 pm BST",
-                "halt": "03",
-                "duration": "00:38"
+                "departure_time": "12:55 pm BST",
+                "arrival_time": "12:50 pm BST",
+                "halt": "05",
+                "duration": "00:40"
             },
             {
                 "city": "Pirganj",
-                "departure_time": "01:27 pm BST",
-                "arrival_time": "01:24 pm BST",
+                "departure_time": "01:23 pm BST",
+                "arrival_time": "01:20 pm BST",
                 "halt": "03",
-                "duration": "00:23"
+                "duration": "00:25"
             },
             {
                 "city": "Dinajpur",
                 "departure_time": "02:20 pm BST",
-                "arrival_time": "02:13 pm BST",
-                "halt": "07",
-                "duration": "00:46"
+                "arrival_time": "02:12 pm BST",
+                "halt": "08",
+                "duration": "00:49"
             },
             {
                 "city": "Parbatipur",
@@ -68,16 +68,14 @@
             },
             {
                 "city": "Dhaka",
-                "arrival_time": "09:55 pm BST",
+                "arrival_time": "10:10 pm BST",
                 "halt": null,
-                "duration": "04:16",
+                "duration": "04:31",
                 "departure_time": null
             }
         ],
-        "total_duration": "09:35",
-        "train_name": "PANCHAGARH EXPRESS (794)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "total_duration": "10:00",
+        "train_name": "PANCHAGARH EXPRESS (794)",
+        "train_model": "794"
     }
 }

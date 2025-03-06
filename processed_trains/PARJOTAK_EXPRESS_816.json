@@ -39,9 +39,7 @@
             }
         ],
         "total_duration": "08:25",
-        "train_name": "PARJOTAK EXPRESS (816)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "train_name": "PARJOTAK EXPRESS (816)",
+        "train_model": "816"
     }
 }

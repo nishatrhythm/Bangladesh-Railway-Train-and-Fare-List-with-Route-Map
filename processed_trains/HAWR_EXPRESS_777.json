@@ -81,9 +81,7 @@
             }
         ],
         "total_duration": "05:55",
-        "train_name": "HAWR EXPRESS (777)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "train_name": "HAWR EXPRESS (777)",
+        "train_model": "777"
     }
 }

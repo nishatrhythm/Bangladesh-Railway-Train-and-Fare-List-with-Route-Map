@@ -108,9 +108,7 @@
             }
         ],
         "total_duration": "08:45",
-        "train_name": "BIJOY EXPRESS (785)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "train_name": "BIJOY EXPRESS (785)",
+        "train_model": "785"
     }
 }

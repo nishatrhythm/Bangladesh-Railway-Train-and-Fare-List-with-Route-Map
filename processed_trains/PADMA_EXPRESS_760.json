@@ -95,9 +95,7 @@
             }
         ],
         "total_duration": "05:15",
-        "train_name": "PADMA EXPRESS (760)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "train_name": "PADMA EXPRESS (760)",
+        "train_model": "760"
     }
 }

@@ -4,7 +4,7 @@
             "Fri",
             "Sat",
             "Sun",
-            "Tue",
+            "Mon",
             "Wed",
             "Thu"
         ],
@@ -88,9 +88,7 @@
             }
         ],
         "total_duration": "03:40",
-        "train_name": "KISHORGANJ EXPRESS (781)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "train_name": "KISHORGANJ EXPRESS (781)",
+        "train_model": "781"
     }
 }

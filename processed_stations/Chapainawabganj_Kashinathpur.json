@@ -1,16 +1,16 @@
 {
-    "origin_city_name": "chapai nawabganj",
-    "destination_city_name": "dhalarchar",
+    "origin_city_name": "chapainawabganj",
+    "destination_city_name": "kashinathpur",
     "info": [
         {
             "type": "S_CHAIR",
-            "fare": 225.0,
+            "fare": 205.0,
             "vat_percent": 0,
             "vat_amount": 0
         },
         {
             "type": "SHOVAN",
-            "fare": 185.0,
+            "fare": 170.0,
             "vat_percent": 0,
             "vat_amount": 0
         }

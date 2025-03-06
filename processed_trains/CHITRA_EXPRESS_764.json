@@ -18,10 +18,10 @@
             },
             {
                 "city": "Biman_Bandar",
-                "arrival_time": "05:53 pm BST",
+                "arrival_time": "07:53 pm BST",
                 "departure_time": "07:58 pm BST",
-                "halt": "125",
-                "duration": "01:37"
+                "halt": "05",
+                "duration": "00:23"
             },
             {
                 "city": "Joydebpur",
@@ -144,9 +144,7 @@
             }
         ],
         "total_duration": "09:10",
-        "train_name": "CHITRA EXPRESS (764)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "train_name": "CHITRA EXPRESS (764)",
+        "train_model": "764"
     }
 }

@@ -122,9 +122,7 @@
             }
         ],
         "total_duration": "07:15",
-        "train_name": "JAYENTIKA EXPRESS (718)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "train_name": "JAYENTIKA EXPRESS (718)",
+        "train_model": "718"
     }
 }

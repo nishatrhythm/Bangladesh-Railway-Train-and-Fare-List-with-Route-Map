@@ -32,15 +32,15 @@
             },
             {
                 "city": "Kashiani",
-                "arrival_time": "05:07 pm BST",
-                "departure_time": "05:10 pm BST",
+                "arrival_time": "05:08 pm BST",
+                "departure_time": "05:11 pm BST",
                 "halt": "03",
-                "duration": "00:21"
+                "duration": "00:22"
             },
             {
                 "city": "Bhanga_Junction",
-                "arrival_time": "05:43 pm BST",
-                "departure_time": "05:46 pm BST",
+                "arrival_time": "05:44 pm BST",
+                "departure_time": "05:47 pm BST",
                 "halt": "03",
                 "duration": "00:33"
             },
@@ -48,14 +48,12 @@
                 "city": "Dhaka",
                 "arrival_time": "07:00 pm BST",
                 "halt": null,
-                "duration": "01:14",
+                "duration": "01:13",
                 "departure_time": null
             }
         ],
         "total_duration": "03:35",
-        "train_name": "RUPOSHI BANGLA EXPRESS (827)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "train_name": "RUPOSHI BANGLA EXPRESS (827)",
+        "train_model": "827"
     }
 }

@@ -39,23 +39,21 @@
             },
             {
                 "city": "Jashore",
-                "arrival_time": "01:14 pm BST",
-                "departure_time": "01:17 pm BST",
-                "halt": "03",
-                "duration": "00:29"
+                "arrival_time": "01:15 pm BST",
+                "departure_time": "01:25 pm BST",
+                "halt": "10",
+                "duration": "00:30"
             },
             {
                 "city": "Benapole",
                 "arrival_time": "02:25 pm BST",
                 "halt": null,
-                "duration": "01:08",
+                "duration": "01:00",
                 "departure_time": null
             }
         ],
         "total_duration": "03:40",
-        "train_name": "RUPOSHI BANGLA EXPRESS (828)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "train_name": "RUPOSHI BANGLA EXPRESS (828)",
+        "train_model": "828"
     }
 }

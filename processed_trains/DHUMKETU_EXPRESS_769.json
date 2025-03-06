@@ -109,9 +109,7 @@
             }
         ],
         "total_duration": "05:40",
-        "train_name": "DHUMKETU EXPRESS (769)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "train_name": "DHUMKETU EXPRESS (769)",
+        "train_model": "769"
     }
 }

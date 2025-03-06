@@ -87,9 +87,7 @@
             }
         ],
         "total_duration": "04:00",
-        "train_name": "KISHORGANJ EXPRESS (782)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "train_name": "KISHORGANJ EXPRESS (782)",
+        "train_model": "782"
     }
 }

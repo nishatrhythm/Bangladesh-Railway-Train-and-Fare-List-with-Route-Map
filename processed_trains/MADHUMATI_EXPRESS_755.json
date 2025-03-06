@@ -133,17 +133,17 @@
             },
             {
                 "city": "Bheramara",
-                "arrival_time": "08:30 pm BST",
-                "departure_time": "08:32 pm BST",
-                "halt": "02",
-                "duration": "00:08"
+                "arrival_time": "08:32 pm BST",
+                "departure_time": "08:35 pm BST",
+                "halt": "03",
+                "duration": "00:10"
             },
             {
                 "city": "Paksey",
                 "arrival_time": "08:47 pm BST",
                 "departure_time": "08:49 pm BST",
                 "halt": "02",
-                "duration": "00:15"
+                "duration": "00:12"
             },
             {
                 "city": "Ishwardi",
@@ -161,9 +161,7 @@
             }
         ],
         "total_duration": "07:30",
-        "train_name": "MADHUMATI EXPRESS (755)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "train_name": "MADHUMATI EXPRESS (755)",
+        "train_model": "755"
     }
 }

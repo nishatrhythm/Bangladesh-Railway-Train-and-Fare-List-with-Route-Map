@@ -25,17 +25,17 @@
             },
             {
                 "city": "Natore",
-                "arrival_time": "07:49 am BST",
-                "departure_time": "07:52 am BST",
-                "halt": "03",
-                "duration": "00:29"
+                "arrival_time": "07:47 am BST",
+                "departure_time": "07:51 am BST",
+                "halt": "04",
+                "duration": "00:27"
             },
             {
                 "city": "Madhnagar",
                 "arrival_time": "08:05 am BST",
                 "departure_time": "08:07 am BST",
                 "halt": "02",
-                "duration": "00:13"
+                "duration": "00:14"
             },
             {
                 "city": "Ahsanganj",
@@ -137,9 +137,7 @@
             }
         ],
         "total_duration": "06:40",
-        "train_name": "TITUMIR EXPRESS (733)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "train_name": "TITUMIR EXPRESS (733)",
+        "train_model": "733"
     }
 }

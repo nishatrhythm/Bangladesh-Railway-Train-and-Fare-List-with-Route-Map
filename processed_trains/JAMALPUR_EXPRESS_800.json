@@ -104,9 +104,7 @@
             }
         ],
         "total_duration": "06:40",
-        "train_name": "JAMALPUR EXPRESS (800)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "train_name": "JAMALPUR EXPRESS (800)",
+        "train_model": "800"
     }
 }

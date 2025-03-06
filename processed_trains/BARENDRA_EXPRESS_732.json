@@ -25,93 +25,93 @@
             },
             {
                 "city": "Nilphamari",
-                "departure_time": "05:48 am BST",
-                "arrival_time": "05:45 am BST",
+                "departure_time": "05:39 am BST",
+                "arrival_time": "05:36 am BST",
                 "halt": "03",
-                "duration": "00:24"
+                "duration": "00:15"
             },
             {
                 "city": "Saidpur",
-                "departure_time": "06:19 am BST",
-                "arrival_time": "06:15 am BST",
+                "departure_time": "06:08 am BST",
+                "arrival_time": "06:04 am BST",
                 "halt": "04",
-                "duration": "00:27"
+                "duration": "00:25"
             },
             {
                 "city": "Parbatipur",
-                "arrival_time": "06:35 am BST",
-                "departure_time": "06:55 am BST",
+                "arrival_time": "06:25 am BST",
+                "departure_time": "06:45 am BST",
                 "halt": "20",
-                "duration": "00:16"
+                "duration": "00:17"
             },
             {
                 "city": "Fulbari",
-                "departure_time": "07:16 am BST",
-                "arrival_time": "07:13 am BST",
+                "departure_time": "07:06 am BST",
+                "arrival_time": "07:03 am BST",
                 "halt": "03",
                 "duration": "00:18"
             },
             {
                 "city": "Birampur",
-                "departure_time": "07:30 am BST",
-                "arrival_time": "07:27 am BST",
+                "departure_time": "07:20 am BST",
+                "arrival_time": "07:17 am BST",
                 "halt": "03",
                 "duration": "00:11"
             },
             {
                 "city": "Hili",
-                "arrival_time": "07:43 am BST",
+                "arrival_time": "07:33 am BST",
                 "halt": "---",
                 "duration": "00:13"
             },
             {
                 "city": "Panchbibi",
-                "arrival_time": "07:55 am BST",
-                "departure_time": "07:57 am BST",
+                "arrival_time": "07:45 am BST",
+                "departure_time": "07:47 am BST",
                 "halt": "02",
                 "duration": "---"
             },
             {
                 "city": "Joypurhat",
-                "arrival_time": "08:08 am BST",
-                "departure_time": "08:11 am BST",
+                "arrival_time": "07:58 am BST",
+                "departure_time": "08:01 am BST",
                 "halt": "03",
                 "duration": "00:11"
             },
             {
                 "city": "Akkelpur",
-                "arrival_time": "08:24 am BST",
-                "departure_time": "08:26 am BST",
+                "arrival_time": "08:15 am BST",
+                "departure_time": "08:17 am BST",
                 "halt": "02",
-                "duration": "00:13"
+                "duration": "00:14"
             },
             {
                 "city": "Santahar",
-                "arrival_time": "08:45 am BST",
-                "departure_time": "08:50 am BST",
+                "arrival_time": "08:40 am BST",
+                "departure_time": "08:45 am BST",
                 "halt": "05",
-                "duration": "00:19"
+                "duration": "00:23"
             },
             {
                 "city": "Ahsanganj",
-                "arrival_time": "09:12 am BST",
-                "departure_time": "09:15 am BST",
+                "arrival_time": "09:07 am BST",
+                "departure_time": "09:10 am BST",
                 "halt": "03",
                 "duration": "00:22"
             },
             {
                 "city": "Natore",
-                "arrival_time": "09:36 am BST",
-                "departure_time": "09:39 am BST",
+                "arrival_time": "09:32 am BST",
+                "departure_time": "09:35 am BST",
                 "halt": "03",
-                "duration": "00:21"
+                "duration": "00:22"
             },
             {
                 "city": "Abdulpur",
                 "arrival_time": "09:55 am BST",
                 "departure_time": "10:15 am BST",
                 "halt": "20",
-                "duration": "00:16"
+                "duration": "00:20"
             },
             {
                 "city": "Rajshahi",
@@ -122,9 +122,7 @@
             }
         ],
         "total_duration": "06:10",
-        "train_name": "BARENDRA EXPRESS (732)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "train_name": "BARENDRA EXPRESS (732)",
+        "train_model": "732"
     }
 }

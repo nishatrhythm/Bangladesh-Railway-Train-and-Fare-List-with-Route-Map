@@ -75,9 +75,7 @@
             }
         ],
         "total_duration": "05:45",
-        "train_name": "MAHANAGAR GODHULI (703)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "train_name": "MAHANAGAR GODHULI (703)",
+        "train_model": "703"
     }
 }

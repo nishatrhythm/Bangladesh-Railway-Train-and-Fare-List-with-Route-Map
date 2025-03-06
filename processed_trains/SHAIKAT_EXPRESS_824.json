@@ -74,9 +74,7 @@
             }
         ],
         "total_duration": "03:50",
-        "train_name": "SHAIKAT EXPRESS (824)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "train_name": "SHAIKAT EXPRESS (824)",
+        "train_model": "824"
     }
 }

@@ -67,9 +67,7 @@
             }
         ],
         "total_duration": "03:45",
-        "train_name": "JAHANABAD EXPRESS (825)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "train_name": "JAHANABAD EXPRESS (825)",
+        "train_model": "825"
     }
 }

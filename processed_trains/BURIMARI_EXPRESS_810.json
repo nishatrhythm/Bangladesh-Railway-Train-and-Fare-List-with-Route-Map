@@ -11,99 +11,97 @@
         "routes": [
             {
                 "city": "Lalmonirhat",
-                "departure_time": "09:10 pm BST",
+                "departure_time": "11:20 pm BST",
                 "halt": null,
                 "duration": null,
                 "arrival_time": null
             },
             {
                 "city": "Burimari",
-                "departure_time": "06:00 pm BST",
+                "departure_time": "09:20 pm BST",
                 "halt": "---",
                 "duration": "---"
             },
             {
                 "city": "Patgram",
-                "departure_time": "06:15 pm BST",
-                "arrival_time": "06:13 pm BST",
-                "halt": "02",
-                "duration": "00:13"
+                "departure_time": "09:38 pm BST",
+                "arrival_time": "09:35 pm BST",
+                "halt": "03",
+                "duration": "00:15"
             },
             {
                 "city": "Barkhata",
                 "arrival_time": "06:44 pm BST",
                 "departure_time": "06:47 pm BST",
                 "halt": "03",
-                "duration": "00:29"
+                "duration": "02:54"
             },
             {
                 "city": "Hatibandha",
-                "departure_time": "07:01 pm BST",
-                "arrival_time": "06:58 pm BST",
-                "halt": "03",
-                "duration": "00:11"
+                "departure_time": "10:13 pm BST",
+                "arrival_time": "10:11 pm BST",
+                "halt": "02",
+                "duration": "03:24"
             },
             {
                 "city": "Tushbhandar",
                 "arrival_time": "07:31 pm BST",
                 "departure_time": "07:33 pm BST",
                 "halt": "02",
-                "duration": "00:30"
+                "duration": "02:42"
             },
             {
                 "city": "Kaunia",
-                "arrival_time": "09:33 pm BST",
-                "departure_time": "09:36 pm BST",
+                "arrival_time": "11:43 pm BST",
+                "departure_time": "11:46 pm BST",
                 "halt": "03",
-                "duration": "02:00"
+                "duration": "04:10"
             },
             {
                 "city": "Gaibandha",
-                "arrival_time": "10:42 pm BST",
-                "departure_time": "10:47 pm BST",
-                "halt": "05",
+                "arrival_time": "12:52 am BST",
+                "departure_time": "12:55 am BST",
+                "halt": "03",
                 "duration": "01:06"
             },
             {
                 "city": "Bonar_Para",
-                "arrival_time": "11:09 pm BST",
-                "departure_time": "11:14 pm BST",
-                "halt": "05",
+                "arrival_time": "01:17 am BST",
+                "departure_time": "01:20 am BST",
+                "halt": "03",
                 "duration": "00:22"
             },
             {
                 "city": "Bogura",
-                "departure_time": "12:08 am BST",
-                "arrival_time": "12:03 am BST",
-                "halt": "05",
-                "duration": "00:49"
+                "departure_time": "02:16 am BST",
+                "arrival_time": "02:13 am BST",
+                "halt": "03",
+                "duration": "00:53"
             },
             {
                 "city": "Santahar",
-                "arrival_time": "12:50 am BST",
-                "departure_time": "12:55 am BST",
+                "arrival_time": "03:00 am BST",
+                "departure_time": "03:05 am BST",
                 "halt": "05",
-                "duration": "00:42"
+                "duration": "00:44"
             },
             {
                 "city": "Natore",
-                "arrival_time": "01:50 am BST",
-                "departure_time": "02:00 am BST",
-                "halt": "10",
-                "duration": "00:55"
+                "arrival_time": "04:01 am BST",
+                "departure_time": "04:04 am BST",
+                "halt": "03",
+                "duration": "00:56"
             },
             {
                 "city": "Dhaka",
-                "arrival_time": "07:00 am BST",
+                "arrival_time": "08:50 am BST",
                 "halt": null,
-                "duration": "05:00",
+                "duration": "04:46",
                 "departure_time": null
             }
         ],
-        "total_duration": "09:50",
-        "train_name": "BURIMARI EXPRESS (810)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "total_duration": "09:30",
+        "train_name": "BURIMARI EXPRESS (810)",
+        "train_model": "810"
     }
 }

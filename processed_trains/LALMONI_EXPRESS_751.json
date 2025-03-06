@@ -26,134 +26,132 @@
             {
                 "city": "Joydebpur",
                 "arrival_time": "10:36 pm BST",
-                "departure_time": "10:39 pm BST",
-                "halt": "03",
+                "departure_time": "10:38 pm BST",
+                "halt": "02",
                 "duration": "00:23"
             },
             {
                 "city": "Tangail",
-                "arrival_time": "11:33 pm BST",
-                "departure_time": "11:35 pm BST",
+                "arrival_time": "11:32 pm BST",
+                "departure_time": "11:34 pm BST",
                 "halt": "02",
                 "duration": "00:54"
             },
             {
                 "city": "Ibrahimabad",
-                "arrival_time": "11:55 pm BST",
-                "departure_time": "12:05 am BST",
-                "halt": "10",
+                "arrival_time": "11:54 pm BST",
+                "departure_time": "11:56 pm BST",
+                "halt": "02",
                 "duration": "00:20"
             },
             {
                 "city": "SH M Monsur Ali",
-                "arrival_time": "12:31 am BST",
-                "departure_time": "12:34 am BST",
-                "halt": "03",
-                "duration": "00:26"
+                "arrival_time": "12:12 am BST",
+                "departure_time": "12:14 am BST",
+                "halt": "02",
+                "duration": "00:16"
             },
             {
                 "city": "Ullapara",
-                "arrival_time": "12:51 am BST",
-                "departure_time": "12:53 am BST",
+                "arrival_time": "12:31 am BST",
+                "departure_time": "12:33 am BST",
                 "halt": "02",
                 "duration": "00:17"
             },
             {
                 "city": "Boral_Bridge",
-                "arrival_time": "01:13 am BST",
-                "departure_time": "01:15 am BST",
+                "arrival_time": "12:53 am BST",
+                "departure_time": "12:55 am BST",
                 "halt": "02",
                 "duration": "00:20"
             },
             {
                 "city": "Azim Nagar",
-                "arrival_time": "02:01 am BST",
-                "departure_time": "02:03 am BST",
+                "arrival_time": "02:07 am BST",
+                "departure_time": "02:09 am BST",
                 "halt": "02",
-                "duration": "00:46"
+                "duration": "01:12"
             },
             {
                 "city": "Natore",
-                "arrival_time": "02:39 am BST",
-                "departure_time": "02:42 am BST",
+                "arrival_time": "02:35 am BST",
+                "departure_time": "02:38 am BST",
                 "halt": "03",
-                "duration": "00:36"
+                "duration": "00:26"
             },
             {
                 "city": "Santahar",
-                "arrival_time": "03:45 am BST",
-                "departure_time": "03:50 am BST",
+                "arrival_time": "03:35 am BST",
+                "departure_time": "03:40 am BST",
                 "halt": "05",
-                "duration": "01:03"
+                "duration": "00:57"
             },
             {
                 "city": "Bogura",
-                "arrival_time": "04:30 am BST",
-                "departure_time": "04:33 am BST",
+                "arrival_time": "04:20 am BST",
+                "departure_time": "04:23 am BST",
                 "halt": "03",
                 "duration": "00:40"
             },
             {
                 "city": "Sonatola",
-                "arrival_time": "05:03 am BST",
-                "departure_time": "05:05 am BST",
+                "arrival_time": "04:53 am BST",
+                "departure_time": "04:55 am BST",
                 "halt": "02",
                 "duration": "00:30"
             },
             {
                 "city": "Bonar_Para",
-                "arrival_time": "05:21 am BST",
-                "departure_time": "05:25 am BST",
-                "halt": "04",
+                "arrival_time": "05:11 am BST",
+                "departure_time": "05:14 am BST",
+                "halt": "03",
                 "duration": "00:16"
             },
             {
                 "city": "Gaibandha",
-                "arrival_time": "05:48 am BST",
-                "departure_time": "05:51 am BST",
+                "arrival_time": "05:37 am BST",
+                "departure_time": "05:40 am BST",
                 "halt": "03",
                 "duration": "00:23"
             },
             {
                 "city": "Bamondanga",
-                "arrival_time": "06:20 am BST",
-                "departure_time": "06:22 am BST",
+                "arrival_time": "06:09 am BST",
+                "departure_time": "06:11 am BST",
                 "halt": "02",
                 "duration": "00:29"
             },
             {
                 "city": "Pirgacha",
-                "arrival_time": "06:40 am BST",
-                "departure_time": "06:43 am BST",
-                "halt": "03",
+                "arrival_time": "06:29 am BST",
+                "departure_time": "06:31 am BST",
+                "halt": "02",
                 "duration": "00:18"
             },
             {
                 "city": "Kaunia",
-                "arrival_time": "07:00 am BST",
-                "departure_time": "07:03 am BST",
+                "arrival_time": "06:48 am BST",
+                "departure_time": "06:51 am BST",
                 "halt": "03",
                 "duration": "00:17"
             },
             {
                 "city": "Teesta_Junction",
-                "arrival_time": "07:10 am BST",
-                "departure_time": "07:12 am BST",
+                "arrival_time": "06:58 am BST",
+                "departure_time": "07:00 am BST",
                 "halt": "02",
                 "duration": "00:07"
             },
             {
                 "city": "Lalmonirhat",
-                "arrival_time": "07:30 am BST",
+                "arrival_time": "07:20 am BST",
                 "halt": null,
-                "duration": "00:18",
+                "duration": "00:20",
                 "departure_time": null
             }
         ],
-        "total_duration": "09:45",
-        "train_name": "LALMONI EXPRESS (751)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "total_duration": "09:35",
+        "train_name": "LALMONI EXPRESS (751)",
+        "train_model": "751"
     }
 }

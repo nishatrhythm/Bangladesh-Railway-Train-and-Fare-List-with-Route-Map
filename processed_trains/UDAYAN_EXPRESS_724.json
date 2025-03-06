@@ -95,9 +95,7 @@
             }
         ],
         "total_duration": "07:35",
-        "train_name": "UDAYAN EXPRESS (724)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "train_name": "UDAYAN EXPRESS (724)",
+        "train_model": "724"
     }
 }

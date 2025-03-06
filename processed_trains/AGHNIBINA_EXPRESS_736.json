@@ -74,9 +74,7 @@
             }
         ],
         "total_duration": "05:25",
-        "train_name": "AGHNIBINA EXPRESS (736)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "train_name": "AGHNIBINA EXPRESS (736)",
+        "train_model": "736"
     }
 }

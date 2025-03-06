@@ -1,16 +1,10 @@
 {
-    "origin_city_name": "rajshahi",
-    "destination_city_name": "chapai nawabganj",
+    "origin_city_name": "chapainawabganj",
+    "destination_city_name": "rajshahi",
     "info": [
         {
             "type": "S_CHAIR",
-            "fare": 65.0,
-            "vat_percent": 0,
-            "vat_amount": 0
-        },
-        {
-            "type": "SHOVAN",
-            "fare": 55.0,
+            "fare": 75.0,
             "vat_percent": 0,
             "vat_amount": 0
         },
@@ -25,6 +19,12 @@
             "fare": 140.0,
             "vat_percent": 15,
             "vat_amount": 21
+        },
+        {
+            "type": "SHOVAN",
+            "fare": 55.0,
+            "vat_percent": 0,
+            "vat_amount": 0
         }
     ]
 }

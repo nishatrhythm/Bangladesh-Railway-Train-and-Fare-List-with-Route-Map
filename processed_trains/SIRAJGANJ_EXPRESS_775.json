@@ -25,78 +25,76 @@
             },
             {
                 "city": "Jamtail",
-                "departure_time": "06:40 am BST",
-                "arrival_time": "06:22 am BST",
-                "halt": "18",
-                "duration": "00:12"
+                "departure_time": "06:45 am BST",
+                "arrival_time": "06:25 am BST",
+                "halt": "20",
+                "duration": "00:15"
             },
             {
                 "city": "SH M Monsur Ali",
-                "departure_time": "06:50 am BST",
-                "arrival_time": "06:48 am BST",
-                "halt": "02",
+                "departure_time": "06:56 am BST",
+                "arrival_time": "06:53 am BST",
+                "halt": "03",
                 "duration": "00:08"
             },
             {
                 "city": "SOYDABAD",
-                "arrival_time": "06:57 am BST",
-                "departure_time": "07:07 am BST",
-                "halt": "10",
+                "arrival_time": "07:03 am BST",
+                "departure_time": "07:06 am BST",
+                "halt": "03",
                 "duration": "00:07"
             },
             {
                 "city": "Ibrahimabad",
-                "departure_time": "07:32 am BST",
-                "arrival_time": "07:30 am BST",
+                "departure_time": "07:20 am BST",
+                "arrival_time": "07:18 am BST",
                 "halt": "02",
-                "duration": "00:23"
+                "duration": "00:12"
             },
             {
                 "city": "Tangail",
-                "departure_time": "07:54 am BST",
-                "arrival_time": "07:52 am BST",
-                "halt": "02",
+                "departure_time": "07:48 am BST",
+                "arrival_time": "07:40 am BST",
+                "halt": "08",
                 "duration": "00:20"
             },
             {
                 "city": "Mirzapur",
-                "arrival_time": "08:17 am BST",
+                "arrival_time": "08:12 am BST",
                 "halt": "---",
-                "duration": "00:23"
+                "duration": "00:24"
             },
             {
                 "city": "Hi-Tech City",
-                "arrival_time": "08:33 am BST",
-                "departure_time": "08:35 am BST",
+                "arrival_time": "08:31 am BST",
+                "departure_time": "08:33 am BST",
                 "halt": "02",
                 "duration": "---"
             },
             {
                 "city": "Joydebpur",
-                "arrival_time": "09:13 am BST",
-                "departure_time": "09:16 am BST",
+                "arrival_time": "09:14 am BST",
+                "departure_time": "09:17 am BST",
                 "halt": "03",
-                "duration": "00:38"
+                "duration": "00:41"
             },
             {
                 "city": "Biman_Bandar",
-                "departure_time": "09:42 am BST",
-                "arrival_time": "09:39 am BST",
+                "departure_time": "09:46 am BST",
+                "arrival_time": "09:43 am BST",
                 "halt": "03",
-                "duration": "00:23"
+                "duration": "00:26"
             },
             {
                 "city": "Dhaka",
-                "arrival_time": "10:10 am BST",
+                "arrival_time": "10:15 am BST",
                 "halt": null,
-                "duration": "00:28",
+                "duration": "00:29",
                 "departure_time": null
             }
         ],
-        "total_duration": "04:10",
-        "train_name": "SIRAJGANJ EXPRESS (775)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "total_duration": "04:15",
+        "train_name": "SIRAJGANJ EXPRESS (775)",
+        "train_model": "775"
     }
 }

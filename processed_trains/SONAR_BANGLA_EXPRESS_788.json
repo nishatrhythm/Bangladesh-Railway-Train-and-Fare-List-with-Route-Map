@@ -32,9 +32,7 @@
             }
         ],
         "total_duration": "04:55",
-        "train_name": "SONAR BANGLA EXPRESS (788)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "train_name": "SONAR BANGLA EXPRESS (788)",
+        "train_model": "788"
     }
 }

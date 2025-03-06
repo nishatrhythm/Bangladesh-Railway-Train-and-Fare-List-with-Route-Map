@@ -81,9 +81,7 @@
             }
         ],
         "total_duration": "06:35",
-        "train_name": "KALNI EXPRESS (773)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "train_name": "KALNI EXPRESS (773)",
+        "train_model": "773"
     }
 }

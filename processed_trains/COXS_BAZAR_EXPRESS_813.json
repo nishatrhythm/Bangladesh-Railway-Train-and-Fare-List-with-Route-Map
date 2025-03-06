@@ -32,9 +32,7 @@
             }
         ],
         "total_duration": "08:30",
-        "train_name": "COXS BAZAR EXPRESS (813)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "train_name": "COXS BAZAR EXPRESS (813)",
+        "train_model": "813"
     }
 }

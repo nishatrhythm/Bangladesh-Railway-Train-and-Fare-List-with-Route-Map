@@ -40,71 +40,69 @@
             {
                 "city": "Ibrahimabad",
                 "arrival_time": "12:54 am BST",
-                "departure_time": "01:04 am BST",
-                "halt": "10",
+                "departure_time": "12:56 am BST",
+                "halt": "02",
                 "duration": "00:20"
             },
             {
                 "city": "SH M Monsur Ali",
-                "arrival_time": "01:30 am BST",
-                "departure_time": "01:33 am BST",
+                "arrival_time": "01:11 am BST",
+                "departure_time": "01:14 am BST",
                 "halt": "03",
-                "duration": "00:26"
+                "duration": "00:15"
             },
             {
                 "city": "Ullapara",
-                "arrival_time": "01:50 am BST",
-                "departure_time": "01:53 am BST",
+                "arrival_time": "01:30 am BST",
+                "departure_time": "01:33 am BST",
                 "halt": "03",
-                "duration": "00:17"
+                "duration": "00:16"
             },
             {
                 "city": "Boral_Bridge",
-                "arrival_time": "02:14 am BST",
-                "departure_time": "02:17 am BST",
-                "halt": "03",
-                "duration": "00:21"
+                "arrival_time": "01:51 am BST",
+                "departure_time": "01:53 am BST",
+                "halt": "02",
+                "duration": "00:18"
             },
             {
                 "city": "Chatmohar",
-                "arrival_time": "02:37 am BST",
-                "departure_time": "02:40 am BST",
+                "arrival_time": "02:07 am BST",
+                "departure_time": "02:10 am BST",
+                "halt": "03",
+                "duration": "00:14"
+            },
+            {
+                "city": "Ishwardi Bypass",
+                "arrival_time": "02:30 am BST",
+                "departure_time": "02:33 am BST",
                 "halt": "03",
                 "duration": "00:20"
             },
             {
-                "city": "Ishwardi Bypass",
-                "arrival_time": "03:06 am BST",
-                "departure_time": "03:09 am BST",
-                "halt": "03",
-                "duration": "00:26"
-            },
-            {
                 "city": "Abdulpur",
-                "arrival_time": "03:24 am BST",
-                "departure_time": "03:26 am BST",
+                "arrival_time": "02:48 am BST",
+                "departure_time": "02:50 am BST",
                 "halt": "02",
                 "duration": "00:15"
             },
             {
                 "city": "Sardah_Road",
-                "arrival_time": "03:52 am BST",
-                "departure_time": "03:54 am BST",
+                "arrival_time": "03:16 am BST",
+                "departure_time": "03:18 am BST",
                 "halt": "02",
                 "duration": "00:26"
             },
             {
                 "city": "Rajshahi",
-                "arrival_time": "04:25 am BST",
+                "arrival_time": "04:00 am BST",
                 "halt": null,
-                "duration": "00:31",
+                "duration": "00:42",
                 "departure_time": null
             }
         ],
-        "total_duration": "05:40",
-        "train_name": "PADMA EXPRESS (759)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "total_duration": "05:15",
+        "train_name": "PADMA EXPRESS (759)",
+        "train_model": "759"
     }
 }

@@ -74,37 +74,35 @@
             },
             {
                 "city": "Natore",
-                "arrival_time": "10:00 am BST",
-                "departure_time": "10:03 am BST",
+                "arrival_time": "10:01 am BST",
+                "departure_time": "10:04 am BST",
                 "halt": "03",
-                "duration": "00:40"
+                "duration": "00:41"
             },
             {
                 "city": "Ishwardi Bypass",
-                "arrival_time": "10:31 am BST",
-                "departure_time": "10:33 am BST",
+                "arrival_time": "10:34 am BST",
+                "departure_time": "10:36 am BST",
                 "halt": "02",
-                "duration": "00:28"
+                "duration": "00:30"
             },
             {
                 "city": "Joydebpur",
-                "arrival_time": "01:50 pm BST",
-                "departure_time": "01:53 pm BST",
+                "arrival_time": "01:52 pm BST",
+                "departure_time": "01:55 pm BST",
                 "halt": "03",
-                "duration": "03:17"
+                "duration": "03:16"
             },
             {
                 "city": "Dhaka",
-                "arrival_time": "02:50 pm BST",
+                "arrival_time": "02:55 pm BST",
                 "halt": null,
-                "duration": "00:57",
+                "duration": "01:00",
                 "departure_time": null
             }
         ],
-        "total_duration": "08:50",
-        "train_name": "CHILAHATI EXPRESS (806)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "total_duration": "08:55",
+        "train_name": "CHILAHATI EXPRESS (806)",
+        "train_model": "806"
     }
 }

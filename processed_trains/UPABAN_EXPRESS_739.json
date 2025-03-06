@@ -95,9 +95,7 @@
             }
         ],
         "total_duration": "07:00",
-        "train_name": "UPABAN EXPRESS (739)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "train_name": "UPABAN EXPRESS (739)",
+        "train_model": "739"
     }
 }

@@ -93,9 +93,7 @@
             }
         ],
         "total_duration": "06:00",
-        "train_name": "JAMUNA EXPRESS (746)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "train_name": "JAMUNA EXPRESS (746)",
+        "train_model": "746"
     }
 }

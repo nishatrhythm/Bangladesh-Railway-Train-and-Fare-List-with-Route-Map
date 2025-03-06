@@ -73,9 +73,7 @@
             }
         ],
         "total_duration": "05:30",
-        "train_name": "TISTA EXPRESS (708)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "train_name": "TISTA EXPRESS (708)",
+        "train_model": "708"
     }
 }

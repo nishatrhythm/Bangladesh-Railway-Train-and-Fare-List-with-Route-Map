@@ -158,9 +158,7 @@
             }
         ],
         "total_duration": "09:05",
-        "train_name": "CHITRA EXPRESS (763)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "train_name": "CHITRA EXPRESS (763)",
+        "train_model": "763"
     }
 }

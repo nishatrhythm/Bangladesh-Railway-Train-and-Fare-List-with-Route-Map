@@ -25,23 +25,21 @@
             },
             {
                 "city": "Rajshahi",
-                "arrival_time": "06:05 pm BST",
-                "departure_time": "06:25 pm BST",
+                "arrival_time": "05:45 pm BST",
+                "departure_time": "06:05 pm BST",
                 "halt": "20",
-                "duration": "04:07"
+                "duration": "03:47"
             },
             {
-                "city": "Chapai Nawabganj",
-                "arrival_time": "07:30 pm BST",
+                "city": "Chapainawabganj",
+                "arrival_time": "07:15 pm BST",
                 "halt": null,
-                "duration": "01:05",
+                "duration": "01:10",
                 "departure_time": null
             }
         ],
-        "total_duration": "06:00",
-        "train_name": "BANALATA EXPRESS (791)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "total_duration": "05:45",
+        "train_name": "BANALATA EXPRESS (791)",
+        "train_model": "791"
     }
 }

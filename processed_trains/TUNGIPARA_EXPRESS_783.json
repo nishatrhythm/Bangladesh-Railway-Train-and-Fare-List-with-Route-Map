@@ -11,115 +11,115 @@
         "routes": [
             {
                 "city": "Gobra",
-                "departure_time": "06:40 am BST",
+                "departure_time": "06:30 am BST",
                 "halt": null,
                 "duration": null,
                 "arrival_time": null
             },
             {
                 "city": "Borashi",
-                "arrival_time": "06:49 am BST",
-                "departure_time": "06:51 am BST",
+                "arrival_time": "06:39 am BST",
+                "departure_time": "06:41 am BST",
                 "halt": "02",
                 "duration": "00:09"
             },
             {
                 "city": "Gopalganj",
-                "departure_time": "07:03 am BST",
-                "arrival_time": "07:00 am BST",
+                "departure_time": "06:53 am BST",
+                "arrival_time": "06:50 am BST",
                 "halt": "03",
                 "duration": "00:09"
             },
             {
                 "city": "Chandradighalia",
-                "arrival_time": "07:15 am BST",
-                "departure_time": "07:17 am BST",
+                "arrival_time": "07:05 am BST",
+                "departure_time": "07:07 am BST",
                 "halt": "02",
                 "duration": "00:12"
             },
             {
                 "city": "Choto Bahirbag",
-                "arrival_time": "07:28 am BST",
-                "departure_time": "07:30 am BST",
+                "arrival_time": "07:18 am BST",
+                "departure_time": "07:20 am BST",
                 "halt": "02",
                 "duration": "00:11"
             },
             {
                 "city": "Chapta",
-                "arrival_time": "07:41 am BST",
-                "departure_time": "07:43 am BST",
+                "arrival_time": "07:32 am BST",
+                "departure_time": "07:34 am BST",
                 "halt": "02",
-                "duration": "00:11"
+                "duration": "00:12"
             },
             {
                 "city": "Kashiani",
-                "arrival_time": "07:53 am BST",
-                "departure_time": "07:58 am BST",
-                "halt": "05",
+                "arrival_time": "07:44 am BST",
+                "departure_time": "07:47 am BST",
+                "halt": "03",
                 "duration": "00:10"
             },
             {
                 "city": "Boalmari_Bazar",
-                "arrival_time": "08:19 am BST",
-                "departure_time": "08:21 am BST",
+                "arrival_time": "08:09 am BST",
+                "departure_time": "08:11 am BST",
                 "halt": "02",
-                "duration": "00:21"
+                "duration": "00:22"
             },
             {
                 "city": "Madhukhali",
-                "arrival_time": "08:40 am BST",
-                "departure_time": "08:42 am BST",
+                "arrival_time": "08:30 am BST",
+                "departure_time": "08:32 am BST",
                 "halt": "02",
                 "duration": "00:19"
             },
             {
                 "city": "Baharpur",
-                "arrival_time": "09:02 am BST",
-                "departure_time": "09:04 am BST",
+                "arrival_time": "08:55 am BST",
+                "departure_time": "08:57 am BST",
                 "halt": "02",
-                "duration": "00:20"
+                "duration": "00:23"
             },
             {
                 "city": "Kalukhali",
-                "arrival_time": "09:18 am BST",
-                "departure_time": "09:21 am BST",
-                "halt": "03",
-                "duration": "00:14"
+                "arrival_time": "09:10 am BST",
+                "departure_time": "09:12 am BST",
+                "halt": "02",
+                "duration": "00:13"
             },
             {
                 "city": "Pangsha",
-                "departure_time": "09:32 am BST",
-                "arrival_time": "09:30 am BST",
+                "departure_time": "09:23 am BST",
+                "arrival_time": "09:21 am BST",
                 "halt": "02",
                 "duration": "00:09"
             },
             {
                 "city": "Khoksha",
-                "departure_time": "09:50 am BST",
-                "arrival_time": "09:47 am BST",
-                "halt": "03",
-                "duration": "00:15"
+                "departure_time": "09:38 am BST",
+                "arrival_time": "09:36 am BST",
+                "halt": "02",
+                "duration": "00:13"
             },
             {
                 "city": "Kumarkhali",
-                "departure_time": "10:09 am BST",
-                "arrival_time": "10:07 am BST",
+                "departure_time": "09:49 am BST",
+                "arrival_time": "09:47 am BST",
                 "halt": "02",
-                "duration": "00:17"
+                "duration": "00:09"
             },
             {
                 "city": "Kushtia_Court",
-                "arrival_time": "10:26 am BST",
-                "departure_time": "10:29 am BST",
+                "arrival_time": "10:06 am BST",
+                "departure_time": "10:09 am BST",
                 "halt": "03",
                 "duration": "00:17"
             },
             {
                 "city": "Poradaha",
-                "arrival_time": "10:40 am BST",
+                "arrival_time": "10:30 am BST",
                 "departure_time": "11:00 am BST",
-                "halt": "20",
-                "duration": "00:11"
+                "halt": "30",
+                "duration": "00:21"
             },
             {
                 "city": "Bheramara",
@@ -143,10 +143,8 @@
                 "departure_time": null
             }
         ],
-        "total_duration": "06:35",
-        "train_name": "TUNGIPARA EXPRESS (783)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "total_duration": "06:45",
+        "train_name": "TUNGIPARA EXPRESS (783)",
+        "train_model": "783"
     }
 }

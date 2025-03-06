@@ -152,7 +152,7 @@
                 "duration": "---"
             },
             {
-                "city": "Chapai Nawabganj",
+                "city": "Chapainawabganj",
                 "arrival_time": "11:50 am BST",
                 "halt": null,
                 "duration": "---",
@@ -160,9 +160,7 @@
             }
         ],
         "total_duration": "04:50",
-        "train_name": "DHALARCHAR EXPRESS (779)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "train_name": "DHALARCHAR EXPRESS (779)",
+        "train_model": "779"
     }
 }

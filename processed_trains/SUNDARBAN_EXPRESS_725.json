@@ -60,17 +60,17 @@
             },
             {
                 "city": "Alamdanga",
-                "arrival_time": "12:39 am BST",
-                "departure_time": "12:41 am BST",
+                "arrival_time": "12:40 am BST",
+                "departure_time": "12:42 am BST",
                 "halt": "02",
-                "duration": "00:15"
+                "duration": "00:16"
             },
             {
                 "city": "Poradaha",
-                "arrival_time": "12:56 am BST",
+                "arrival_time": "12:58 am BST",
                 "departure_time": "01:00 am BST",
-                "halt": "04",
-                "duration": "00:15"
+                "halt": "02",
+                "duration": "00:16"
             },
             {
                 "city": "Kushtia_Court",
@@ -81,44 +81,42 @@
             },
             {
                 "city": "Pangsha",
-                "departure_time": "01:51 am BST",
-                "arrival_time": "01:49 am BST",
+                "departure_time": "01:53 am BST",
+                "arrival_time": "01:51 am BST",
                 "halt": "02",
-                "duration": "00:34"
+                "duration": "00:36"
             },
             {
                 "city": "Rajbari",
-                "departure_time": "02:25 am BST",
-                "arrival_time": "02:20 am BST",
-                "halt": "05",
-                "duration": "00:29"
+                "departure_time": "02:40 am BST",
+                "arrival_time": "02:30 am BST",
+                "halt": "10",
+                "duration": "00:37"
             },
             {
                 "city": "Faridpur",
-                "arrival_time": "02:57 am BST",
-                "departure_time": "03:00 am BST",
+                "arrival_time": "03:12 am BST",
+                "departure_time": "03:15 am BST",
                 "halt": "03",
                 "duration": "00:32"
             },
             {
                 "city": "Bhanga",
                 "arrival_time": "03:45 am BST",
-                "departure_time": "03:48 am BST",
-                "halt": "03",
-                "duration": "00:45"
+                "departure_time": "03:47 am BST",
+                "halt": "02",
+                "duration": "00:30"
             },
             {
                 "city": "Dhaka",
                 "arrival_time": "05:10 am BST",
                 "halt": null,
-                "duration": "01:22",
+                "duration": "01:23",
                 "departure_time": null
             }
         ],
         "total_duration": "07:25",
-        "train_name": "SUNDARBAN EXPRESS (725)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "train_name": "SUNDARBAN EXPRESS (725)",
+        "train_model": "725"
     }
 }

@@ -161,9 +161,7 @@
             }
         ],
         "total_duration": "07:20",
-        "train_name": "MADHUMATI EXPRESS (756)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "train_name": "MADHUMATI EXPRESS (756)",
+        "train_model": "756"
     }
 }

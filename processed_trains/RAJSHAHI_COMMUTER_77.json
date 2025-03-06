@@ -50,9 +50,7 @@
             }
         ],
         "total_duration": "01:30",
-        "train_name": "RAJSHAHI COMMUTER (77)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "train_name": "RAJSHAHI COMMUTER (77)",
+        "train_model": "77"
     }
 }

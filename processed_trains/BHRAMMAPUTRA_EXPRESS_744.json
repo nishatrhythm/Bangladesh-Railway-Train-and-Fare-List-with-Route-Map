@@ -81,9 +81,7 @@
             }
         ],
         "total_duration": "05:35",
-        "train_name": "BHRAMMAPUTRA EXPRESS (744)"
-    },
-    "extra": {
-        "hash": "44984BFD06804094A56F94AE02FDF373"
+        "train_name": "BHRAMMAPUTRA EXPRESS (744)",
+        "train_model": "744"
     }
 }

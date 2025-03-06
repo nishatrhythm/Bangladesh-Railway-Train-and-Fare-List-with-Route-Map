@@ -18,11 +18,18 @@
                 "arrival_time": null
             },
             {
+                "city": "Kumira",
+                "arrival_time": "05:40 pm BST",
+                "departure_time": "05:42 pm BST",
+                "halt": "02",
+                "duration": "00:25"
+            },
+            {
                 "city": "Feni",
                 "arrival_time": "06:40 pm BST",
                 "departure_time": "06:43 pm BST",
                 "halt": "03",
-                "duration": "01:25"
+                "duration": "00:58"
             },
             {
                 "city": "Hasanpur",
@@ -88,9 +95,7 @@
             }
         ],
         "total_duration": "04:10",
-        "train_name": "MEGHNA EXPRESS (729)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "train_name": "MEGHNA EXPRESS (729)",
+        "train_model": "729"
     }
 }

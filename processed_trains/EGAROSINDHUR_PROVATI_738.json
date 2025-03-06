@@ -88,9 +88,7 @@
             }
         ],
         "total_duration": "04:05",
-        "train_name": "EGAROSINDHUR PROVATI (738)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "train_name": "EGAROSINDHUR PROVATI (738)",
+        "train_model": "738"
     }
 }

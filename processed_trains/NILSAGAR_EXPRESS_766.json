@@ -46,22 +46,22 @@
             },
             {
                 "city": "Fulbari",
-                "departure_time": "10:01 pm BST",
+                "departure_time": "10:00 pm BST",
                 "arrival_time": "09:58 pm BST",
-                "halt": "03",
+                "halt": "02",
                 "duration": "00:18"
             },
             {
                 "city": "Birampur",
-                "departure_time": "10:15 pm BST",
-                "arrival_time": "10:12 pm BST",
+                "departure_time": "10:14 pm BST",
+                "arrival_time": "10:11 pm BST",
                 "halt": "03",
                 "duration": "00:11"
             },
             {
                 "city": "Joypurhat",
-                "arrival_time": "10:44 pm BST",
-                "departure_time": "10:47 pm BST",
+                "arrival_time": "10:43 pm BST",
+                "departure_time": "10:46 pm BST",
                 "halt": "03",
                 "duration": "00:29"
             },
@@ -70,7 +70,7 @@
                 "arrival_time": "11:00 pm BST",
                 "departure_time": "11:02 pm BST",
                 "halt": "02",
-                "duration": "00:13"
+                "duration": "00:14"
             },
             {
                 "city": "Santahar",
@@ -95,37 +95,35 @@
             },
             {
                 "city": "Muladhuli",
-                "arrival_time": "01:15 am BST",
-                "departure_time": "01:17 am BST",
+                "arrival_time": "01:12 am BST",
+                "departure_time": "01:14 am BST",
                 "halt": "02",
-                "duration": "01:02"
+                "duration": "00:59"
             },
             {
                 "city": "Ibrahimabad",
-                "arrival_time": "02:58 am BST",
-                "departure_time": "03:00 am BST",
-                "halt": "02",
-                "duration": "01:41"
+                "arrival_time": "02:46 am BST",
+                "departure_time": "02:49 am BST",
+                "halt": "03",
+                "duration": "01:32"
             },
             {
                 "city": "Joydebpur",
-                "arrival_time": "04:21 am BST",
-                "departure_time": "04:24 am BST",
-                "halt": "03",
-                "duration": "01:21"
+                "arrival_time": "04:11 am BST",
+                "departure_time": "04:15 am BST",
+                "halt": "04",
+                "duration": "01:22"
             },
             {
                 "city": "Dhaka",
-                "arrival_time": "05:30 am BST",
+                "arrival_time": "05:25 am BST",
                 "halt": null,
-                "duration": "01:06",
+                "duration": "01:10",
                 "departure_time": null
             }
         ],
-        "total_duration": "09:30",
-        "train_name": "NILSAGAR EXPRESS (766)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "total_duration": "09:25",
+        "train_name": "NILSAGAR EXPRESS (766)",
+        "train_model": "766"
     }
 }

@@ -75,9 +75,7 @@
             }
         ],
         "total_duration": "06:00",
-        "train_name": "TURNA (742)"
-    },
-    "extra": {
-        "hash": "FE8AB15B345270CFF53BFA245BE670BC"
+        "train_name": "TURNA (742)",
+        "train_model": "742"
     }
 }
