@@ -3,18 +3,6 @@
     "destination_city_name": "brahmanbaria",
     "info": [
         {
-            "type": "AC_S",
-            "fare": 455.0,
-            "vat_percent": 15,
-            "vat_amount": 69
-        },
-        {
-            "type": "F_SEAT",
-            "fare": 305.0,
-            "vat_percent": 15,
-            "vat_amount": 46
-        },
-        {
             "type": "S_CHAIR",
             "fare": 230.0,
             "vat_percent": 0,
@@ -25,6 +13,18 @@
             "fare": 380.0,
             "vat_percent": 15,
             "vat_amount": 57
+        },
+        {
+            "type": "F_SEAT",
+            "fare": 305.0,
+            "vat_percent": 15,
+            "vat_amount": 46
+        },
+        {
+            "type": "AC_S",
+            "fare": 455.0,
+            "vat_percent": 15,
+            "vat_amount": 69
         }
     ]
 }

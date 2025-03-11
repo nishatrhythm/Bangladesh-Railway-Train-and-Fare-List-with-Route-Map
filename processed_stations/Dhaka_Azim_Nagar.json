@@ -3,8 +3,14 @@
     "destination_city_name": "azim nagar",
     "info": [
         {
+            "type": "SNIGDHA",
+            "fare": 655.0,
+            "vat_percent": 15,
+            "vat_amount": 99
+        },
+        {
             "type": "S_CHAIR",
-            "fare": 345.0,
+            "fare": 395.0,
             "vat_percent": 0,
             "vat_amount": 0
         }

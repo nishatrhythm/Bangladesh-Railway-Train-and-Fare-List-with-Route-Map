@@ -3,6 +3,12 @@
     "destination_city_name": "panchagarh",
     "info": [
         {
+            "type": "SNIGDHA",
+            "fare": 705.0,
+            "vat_percent": 15,
+            "vat_amount": 106
+        },
+        {
             "type": "S_CHAIR",
             "fare": 425.0,
             "vat_percent": 0,
@@ -13,12 +19,6 @@
             "fare": 845.0,
             "vat_percent": 15,
             "vat_amount": 127
-        },
-        {
-            "type": "SNIGDHA",
-            "fare": 705.0,
-            "vat_percent": 15,
-            "vat_amount": 106
         }
     ]
 }

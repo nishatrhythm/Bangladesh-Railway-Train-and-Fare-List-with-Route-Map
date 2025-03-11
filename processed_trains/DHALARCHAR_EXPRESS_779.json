@@ -5,161 +5,121 @@
             "Sat",
             "Sun",
             "Mon",
-            "Wed",
-            "Thu"
+            "Tue",
+            "Wed"
         ],
         "routes": [
             {
                 "city": "Dhalarchar",
-                "departure_time": "07:00 am BST",
+                "departure_time": "06:30 am BST",
                 "halt": null,
                 "duration": null,
                 "arrival_time": null
             },
             {
                 "city": "Badherhat",
-                "arrival_time": "07:09 am BST",
-                "departure_time": "07:09 am BST",
-                "halt": "00",
-                "duration": "00:09"
+                "arrival_time": "06:41 am BST",
+                "halt": "---",
+                "duration": "00:11"
             },
             {
                 "city": "Kashinathpur",
-                "departure_time": "07:24 am BST",
-                "arrival_time": "07:22 am BST",
-                "halt": "02",
-                "duration": "00:13"
+                "arrival_time": "06:57 am BST",
+                "halt": "---",
+                "duration": "---"
             },
             {
                 "city": "Sathia_Rajapur",
-                "departure_time": "07:37 am BST",
+                "arrival_time": "07:13 am BST",
                 "halt": "---",
                 "duration": "---"
             },
             {
                 "city": "Tantibandha",
-                "arrival_time": "07:46 am BST",
-                "departure_time": "07:48 am BST",
-                "halt": "02",
-                "duration": "00:09"
+                "arrival_time": "07:26 am BST",
+                "halt": "---",
+                "duration": "---"
             },
             {
                 "city": "Dublia",
-                "arrival_time": "07:54 am BST",
-                "departure_time": "07:56 am BST",
-                "halt": "02",
-                "duration": "00:06"
+                "arrival_time": "07:36 am BST",
+                "halt": "---",
+                "duration": "---"
             },
             {
                 "city": "Raghabpur",
-                "arrival_time": "08:05 am BST",
-                "departure_time": "08:07 am BST",
-                "halt": "02",
-                "duration": "00:09"
+                "arrival_time": "07:47 am BST",
+                "halt": "---",
+                "duration": "---"
             },
             {
                 "city": "Pabna",
-                "departure_time": "08:20 am BST",
-                "arrival_time": "08:15 am BST",
-                "halt": "05",
-                "duration": "00:08"
+                "departure_time": "08:04 am BST",
+                "arrival_time": "08:01 am BST",
+                "halt": "03",
+                "duration": "---"
             },
             {
                 "city": "Tebunia",
-                "arrival_time": "08:30 am BST",
-                "departure_time": "08:34 am BST",
-                "halt": "04",
-                "duration": "00:10"
+                "arrival_time": "08:16 am BST",
+                "halt": "---",
+                "duration": "00:12"
             },
             {
                 "city": "Dashuria",
-                "departure_time": "08:47 am BST",
-                "arrival_time": "08:44 am BST",
-                "halt": "03",
-                "duration": "00:10"
+                "arrival_time": "08:30 am BST",
+                "halt": "---",
+                "duration": "---"
             },
             {
                 "city": "Majhgram",
-                "arrival_time": "08:56 am BST",
-                "departure_time": "08:58 am BST",
-                "halt": "02",
-                "duration": "00:09"
+                "arrival_time": "08:43 am BST",
+                "halt": "---",
+                "duration": "---"
             },
             {
                 "city": "Ishwardi Bypass",
-                "arrival_time": "09:05 am BST",
-                "departure_time": "09:08 am BST",
+                "arrival_time": "09:00 am BST",
+                "departure_time": "09:03 am BST",
                 "halt": "03",
-                "duration": "00:07"
+                "duration": "---"
             },
             {
                 "city": "Azim Nagar",
-                "arrival_time": "09:17 am BST",
-                "departure_time": "09:19 am BST",
-                "halt": "02",
+                "departure_time": "09:15 am BST",
+                "arrival_time": "09:12 am BST",
+                "halt": "03",
                 "duration": "00:09"
             },
             {
                 "city": "Abdulpur",
-                "arrival_time": "09:28 am BST",
-                "departure_time": "09:31 am BST",
+                "departure_time": "09:27 am BST",
+                "arrival_time": "09:24 am BST",
                 "halt": "03",
                 "duration": "00:09"
             },
             {
                 "city": "Arani",
-                "arrival_time": "09:42 am BST",
-                "departure_time": "09:44 am BST",
-                "halt": "02",
+                "arrival_time": "09:38 am BST",
+                "halt": "---",
                 "duration": "00:11"
             },
             {
                 "city": "Sardah_Road",
-                "arrival_time": "10:02 am BST",
-                "departure_time": "10:04 am BST",
+                "arrival_time": "09:56 am BST",
+                "departure_time": "09:58 am BST",
                 "halt": "02",
-                "duration": "00:18"
+                "duration": "---"
             },
             {
                 "city": "Rajshahi",
                 "arrival_time": "10:25 am BST",
-                "departure_time": "10:35 am BST",
-                "halt": "10",
-                "duration": "00:21"
-            },
-            {
-                "city": "Sitlai",
-                "arrival_time": "10:39 am BST",
-                "halt": "---",
-                "duration": "00:04"
-            },
-            {
-                "city": "Kakonhat",
-                "arrival_time": "11:03 am BST",
-                "halt": "---",
-                "duration": "---"
-            },
-            {
-                "city": "Lolitnagar",
-                "arrival_time": "11:13 am BST",
-                "halt": "---",
-                "duration": "---"
-            },
-            {
-                "city": "Amnura_Bypass",
-                "arrival_time": "11:24 am BST",
-                "halt": "---",
-                "duration": "---"
-            },
-            {
-                "city": "Chapainawabganj",
-                "arrival_time": "11:50 am BST",
                 "halt": null,
-                "duration": "---",
+                "duration": "00:27",
                 "departure_time": null
             }
         ],
-        "total_duration": "04:50",
+        "total_duration": "03:55",
         "train_name": "DHALARCHAR EXPRESS (779)",
         "train_model": "779"
     }

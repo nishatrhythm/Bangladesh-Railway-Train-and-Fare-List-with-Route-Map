@@ -3,6 +3,12 @@
     "destination_city_name": "azim nagar",
     "info": [
         {
+            "type": "AC_S",
+            "fare": 570.0,
+            "vat_percent": 15,
+            "vat_amount": 86
+        },
+        {
             "type": "SNIGDHA",
             "fare": 475.0,
             "vat_percent": 15,

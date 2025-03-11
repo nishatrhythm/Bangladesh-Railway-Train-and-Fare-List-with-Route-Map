@@ -3,6 +3,12 @@
     "destination_city_name": "dinajpur",
     "info": [
         {
+            "type": "SNIGDHA",
+            "fare": 515.0,
+            "vat_percent": 15,
+            "vat_amount": 78
+        },
+        {
             "type": "S_CHAIR",
             "fare": 310.0,
             "vat_percent": 0,
@@ -13,12 +19,6 @@
             "fare": 620.0,
             "vat_percent": 15,
             "vat_amount": 93
-        },
-        {
-            "type": "SNIGDHA",
-            "fare": 515.0,
-            "vat_percent": 15,
-            "vat_amount": 78
         }
     ]
 }

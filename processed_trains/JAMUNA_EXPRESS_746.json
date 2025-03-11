@@ -32,24 +32,24 @@
                 "duration": "00:48"
             },
             {
-                "city": "Piyarpur",
-                "departure_time": "03:48 am BST",
-                "arrival_time": "03:46 am BST",
-                "halt": "02",
-                "duration": "00:35"
-            },
-            {
                 "city": "Narundi",
                 "arrival_time": "03:33 am BST",
                 "departure_time": "03:35 am BST",
                 "halt": "02",
-                "duration": "00:15"
+                "duration": "00:22"
+            },
+            {
+                "city": "Piyarpur",
+                "departure_time": "03:48 am BST",
+                "arrival_time": "03:46 am BST",
+                "halt": "02",
+                "duration": "00:11"
             },
             {
                 "city": "Bidyaganj",
                 "arrival_time": "04:01 am BST",
                 "halt": "---",
-                "duration": "00:26"
+                "duration": "00:13"
             },
             {
                 "city": "Mymensingh",
@@ -66,10 +66,16 @@
                 "duration": "00:46"
             },
             {
+                "city": "Kaoraid",
+                "arrival_time": "05:42 am BST",
+                "halt": "---",
+                "duration": "00:24"
+            },
+            {
                 "city": "Sreepur",
                 "arrival_time": "06:15 am BST",
                 "halt": "---",
-                "duration": "00:57"
+                "duration": "---"
             },
             {
                 "city": "Joydebpur",

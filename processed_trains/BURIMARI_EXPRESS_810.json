@@ -18,44 +18,44 @@
             },
             {
                 "city": "Burimari",
-                "departure_time": "09:20 pm BST",
+                "departure_time": "07:30 pm BST",
                 "halt": "---",
                 "duration": "---"
             },
             {
                 "city": "Patgram",
-                "departure_time": "09:38 pm BST",
-                "arrival_time": "09:35 pm BST",
-                "halt": "03",
+                "departure_time": "07:50 pm BST",
+                "arrival_time": "07:45 pm BST",
+                "halt": "05",
                 "duration": "00:15"
             },
             {
                 "city": "Barkhata",
-                "arrival_time": "06:44 pm BST",
-                "departure_time": "06:47 pm BST",
+                "arrival_time": "08:17 pm BST",
+                "departure_time": "08:20 pm BST",
                 "halt": "03",
-                "duration": "02:54"
+                "duration": "00:27"
             },
             {
                 "city": "Hatibandha",
-                "departure_time": "10:13 pm BST",
-                "arrival_time": "10:11 pm BST",
-                "halt": "02",
-                "duration": "03:24"
+                "departure_time": "08:35 pm BST",
+                "arrival_time": "08:32 pm BST",
+                "halt": "03",
+                "duration": "00:12"
             },
             {
                 "city": "Tushbhandar",
-                "arrival_time": "07:31 pm BST",
-                "departure_time": "07:33 pm BST",
+                "arrival_time": "09:03 pm BST",
+                "departure_time": "09:05 pm BST",
                 "halt": "02",
-                "duration": "02:42"
+                "duration": "00:28"
             },
             {
                 "city": "Kaunia",
                 "arrival_time": "11:43 pm BST",
                 "departure_time": "11:46 pm BST",
                 "halt": "03",
-                "duration": "04:10"
+                "duration": "02:38"
             },
             {
                 "city": "Gaibandha",
@@ -72,11 +72,17 @@
                 "duration": "00:22"
             },
             {
+                "city": "Mahimaganj",
+                "arrival_time": "01:30 am BST",
+                "halt": "---",
+                "duration": "00:10"
+            },
+            {
                 "city": "Bogura",
                 "departure_time": "02:16 am BST",
                 "arrival_time": "02:13 am BST",
                 "halt": "03",
-                "duration": "00:53"
+                "duration": "---"
             },
             {
                 "city": "Santahar",

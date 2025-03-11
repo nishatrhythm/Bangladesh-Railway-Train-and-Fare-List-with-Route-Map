@@ -3,6 +3,12 @@
     "destination_city_name": "pirgacha",
     "info": [
         {
+            "type": "SNIGDHA",
+            "fare": 100.0,
+            "vat_percent": 15,
+            "vat_amount": 15
+        },
+        {
             "type": "S_CHAIR",
             "fare": 50.0,
             "vat_percent": 0,

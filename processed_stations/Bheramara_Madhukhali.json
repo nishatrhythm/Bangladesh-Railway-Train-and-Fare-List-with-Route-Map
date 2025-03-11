@@ -3,14 +3,14 @@
     "destination_city_name": "madhukhali",
     "info": [
         {
-            "type": "S_CHAIR",
-            "fare": 125.0,
+            "type": "SHOVAN",
+            "fare": 105.0,
             "vat_percent": 0,
             "vat_amount": 0
         },
         {
-            "type": "SHOVAN",
-            "fare": 105.0,
+            "type": "S_CHAIR",
+            "fare": 125.0,
             "vat_percent": 0,
             "vat_amount": 0
         }

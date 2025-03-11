@@ -4,13 +4,13 @@
     "info": [
         {
             "type": "SNIGDHA",
-            "fare": 485.0,
+            "fare": 565.0,
             "vat_percent": 15,
-            "vat_amount": 73
+            "vat_amount": 85
         },
         {
             "type": "S_CHAIR",
-            "fare": 295.0,
+            "fare": 340.0,
             "vat_percent": 0,
             "vat_amount": 0
         }

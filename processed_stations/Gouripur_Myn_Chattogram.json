@@ -13,6 +13,12 @@
             "fare": 705.0,
             "vat_percent": 15,
             "vat_amount": 106
+        },
+        {
+            "type": "AC_B",
+            "fare": 1265.0,
+            "vat_percent": 15,
+            "vat_amount": 190
         }
     ]
 }

@@ -3,14 +3,26 @@
     "destination_city_name": "kaunia",
     "info": [
         {
-            "type": "SHOVAN",
-            "fare": 60.0,
+            "type": "AC_B",
+            "fare": 300.0,
+            "vat_percent": 15,
+            "vat_amount": 45
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 170.0,
+            "vat_percent": 15,
+            "vat_amount": 26
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 100.0,
             "vat_percent": 0,
             "vat_amount": 0
         },
         {
-            "type": "S_CHAIR",
-            "fare": 70.0,
+            "type": "SHOVAN",
+            "fare": 60.0,
             "vat_percent": 0,
             "vat_amount": 0
         }

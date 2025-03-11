@@ -26,8 +26,8 @@
             {
                 "city": "Kurigram",
                 "arrival_time": "07:50 pm BST",
-                "departure_time": "07:50 pm BST",
-                "halt": "00",
+                "departure_time": "07:30 pm BST",
+                "halt": "20",
                 "duration": "00:50"
             },
             {
@@ -35,7 +35,7 @@
                 "arrival_time": "08:56 pm BST",
                 "departure_time": "08:58 pm BST",
                 "halt": "02",
-                "duration": "01:06"
+                "duration": "01:26"
             },
             {
                 "city": "Bamondanga",

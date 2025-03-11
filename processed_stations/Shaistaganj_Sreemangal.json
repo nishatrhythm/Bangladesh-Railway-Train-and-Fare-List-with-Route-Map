@@ -3,6 +3,12 @@
     "destination_city_name": "sreemangal",
     "info": [
         {
+            "type": "AC_S",
+            "fare": 110.0,
+            "vat_percent": 15,
+            "vat_amount": 17
+        },
+        {
             "type": "S_CHAIR",
             "fare": 50.0,
             "vat_percent": 0,
@@ -13,6 +19,12 @@
             "fare": 100.0,
             "vat_percent": 15,
             "vat_amount": 15
+        },
+        {
+            "type": "AC_B",
+            "fare": 130.0,
+            "vat_percent": 15,
+            "vat_amount": 20
         }
     ]
 }

@@ -3,6 +3,18 @@
     "destination_city_name": "barhatta",
     "info": [
         {
+            "type": "SNIGDHA",
+            "fare": 410.0,
+            "vat_percent": 15,
+            "vat_amount": 62
+        },
+        {
+            "type": "AC_S",
+            "fare": 495.0,
+            "vat_percent": 15,
+            "vat_amount": 75
+        },
+        {
             "type": "S_CHAIR",
             "fare": 250.0,
             "vat_percent": 0,

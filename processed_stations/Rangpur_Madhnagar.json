@@ -3,14 +3,20 @@
     "destination_city_name": "madhnagar",
     "info": [
         {
-            "type": "SNIGDHA",
-            "fare": 325.0,
+            "type": "AC_S",
+            "fare": 395.0,
             "vat_percent": 15,
-            "vat_amount": 49
+            "vat_amount": 60
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 330.0,
+            "vat_percent": 15,
+            "vat_amount": 50
         },
         {
             "type": "S_CHAIR",
-            "fare": 195.0,
+            "fare": 200.0,
             "vat_percent": 0,
             "vat_amount": 0
         }

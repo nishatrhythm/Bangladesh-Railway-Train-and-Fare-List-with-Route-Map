@@ -3,6 +3,12 @@
     "destination_city_name": "bogura",
     "info": [
         {
+            "type": "AC_S",
+            "fare": 315.0,
+            "vat_percent": 15,
+            "vat_amount": 48
+        },
+        {
             "type": "SNIGDHA",
             "fare": 265.0,
             "vat_percent": 15,

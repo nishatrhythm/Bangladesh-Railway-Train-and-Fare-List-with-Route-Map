@@ -3,6 +3,18 @@
     "destination_city_name": "rajshahi",
     "info": [
         {
+            "type": "F_SEAT",
+            "fare": 215.0,
+            "vat_percent": 15,
+            "vat_amount": 33
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 270.0,
+            "vat_percent": 15,
+            "vat_amount": 41
+        },
+        {
             "type": "S_CHAIR",
             "fare": 160.0,
             "vat_percent": 0,
@@ -15,16 +27,10 @@
             "vat_amount": 0
         },
         {
-            "type": "F_SEAT",
-            "fare": 215.0,
+            "type": "AC_S",
+            "fare": 320.0,
             "vat_percent": 15,
-            "vat_amount": 33
-        },
-        {
-            "type": "SNIGDHA",
-            "fare": 270.0,
-            "vat_percent": 15,
-            "vat_amount": 41
+            "vat_amount": 48
         }
     ]
 }

@@ -3,16 +3,10 @@
     "destination_city_name": "azampur",
     "info": [
         {
-            "type": "AC_S",
-            "fare": 145.0,
+            "type": "SNIGDHA",
+            "fare": 120.0,
             "vat_percent": 15,
-            "vat_amount": 22
-        },
-        {
-            "type": "F_SEAT",
-            "fare": 95.0,
-            "vat_percent": 15,
-            "vat_amount": 15
+            "vat_amount": 18
         },
         {
             "type": "S_CHAIR",
@@ -21,10 +15,16 @@
             "vat_amount": 0
         },
         {
-            "type": "SNIGDHA",
-            "fare": 120.0,
+            "type": "F_SEAT",
+            "fare": 95.0,
             "vat_percent": 15,
-            "vat_amount": 18
+            "vat_amount": 15
+        },
+        {
+            "type": "AC_S",
+            "fare": 145.0,
+            "vat_percent": 15,
+            "vat_amount": 22
         }
     ]
 }

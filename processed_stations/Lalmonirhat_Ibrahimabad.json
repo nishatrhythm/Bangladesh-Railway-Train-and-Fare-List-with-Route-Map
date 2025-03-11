@@ -3,14 +3,20 @@
     "destination_city_name": "ibrahimabad",
     "info": [
         {
-            "type": "SNIGDHA",
-            "fare": 825.0,
+            "type": "AC_S",
+            "fare": 1075.0,
             "vat_percent": 15,
-            "vat_amount": 124
+            "vat_amount": 162
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 900.0,
+            "vat_percent": 15,
+            "vat_amount": 135
         },
         {
             "type": "S_CHAIR",
-            "fare": 495.0,
+            "fare": 540.0,
             "vat_percent": 0,
             "vat_amount": 0
         }

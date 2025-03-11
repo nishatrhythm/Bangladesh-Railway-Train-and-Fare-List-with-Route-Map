@@ -3,10 +3,28 @@
     "destination_city_name": "islampur_bazar",
     "info": [
         {
+            "type": "AC_S",
+            "fare": 110.0,
+            "vat_percent": 15,
+            "vat_amount": 17
+        },
+        {
+            "type": "F_SEAT",
+            "fare": 90.0,
+            "vat_percent": 15,
+            "vat_amount": 14
+        },
+        {
             "type": "S_CHAIR",
             "fare": 50.0,
             "vat_percent": 0,
             "vat_amount": 0
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 100.0,
+            "vat_percent": 15,
+            "vat_amount": 15
         }
     ]
 }

@@ -3,10 +3,10 @@
     "destination_city_name": "gobra",
     "info": [
         {
-            "type": "S_CHAIR",
-            "fare": 360.0,
-            "vat_percent": 0,
-            "vat_amount": 0
+            "type": "F_SEAT",
+            "fare": 475.0,
+            "vat_percent": 15,
+            "vat_amount": 72
         },
         {
             "type": "SHOVAN",
@@ -15,10 +15,10 @@
             "vat_amount": 0
         },
         {
-            "type": "F_SEAT",
-            "fare": 475.0,
-            "vat_percent": 15,
-            "vat_amount": 72
+            "type": "S_CHAIR",
+            "fare": 360.0,
+            "vat_percent": 0,
+            "vat_amount": 0
         }
     ]
 }

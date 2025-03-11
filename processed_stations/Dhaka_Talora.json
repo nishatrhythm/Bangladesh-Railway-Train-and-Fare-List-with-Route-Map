@@ -3,22 +3,22 @@
     "destination_city_name": "talora",
     "info": [
         {
-            "type": "AC_S",
-            "fare": 905.0,
-            "vat_percent": 15,
-            "vat_amount": 136
+            "type": "S_CHAIR",
+            "fare": 500.0,
+            "vat_percent": 0,
+            "vat_amount": 0
         },
         {
             "type": "SNIGDHA",
-            "fare": 755.0,
+            "fare": 830.0,
             "vat_percent": 15,
-            "vat_amount": 114
+            "vat_amount": 125
         },
         {
-            "type": "S_CHAIR",
-            "fare": 455.0,
-            "vat_percent": 0,
-            "vat_amount": 0
+            "type": "AC_S",
+            "fare": 995.0,
+            "vat_percent": 15,
+            "vat_amount": 150
         }
     ]
 }

@@ -1,0 +1,18 @@
+{
+    "origin_city_name": "lalmonirhat",
+    "destination_city_name": "mahimaganj",
+    "info": [
+        {
+            "type": "SNIGDHA",
+            "fare": 190.0,
+            "vat_percent": 15,
+            "vat_amount": 29
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 115.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

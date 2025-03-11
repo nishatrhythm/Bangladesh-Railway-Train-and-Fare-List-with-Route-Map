@@ -4,21 +4,21 @@
     "info": [
         {
             "type": "SHOVAN",
-            "fare": 100.0,
+            "fare": 140.0,
             "vat_percent": 0,
             "vat_amount": 0
         },
         {
             "type": "S_CHAIR",
-            "fare": 120.0,
+            "fare": 165.0,
             "vat_percent": 0,
             "vat_amount": 0
         },
         {
             "type": "F_SEAT",
-            "fare": 160.0,
+            "fare": 220.0,
             "vat_percent": 15,
-            "vat_amount": 24
+            "vat_amount": 33
         }
     ]
 }

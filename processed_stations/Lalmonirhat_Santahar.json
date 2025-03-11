@@ -3,6 +3,12 @@
     "destination_city_name": "santahar",
     "info": [
         {
+            "type": "AC_S",
+            "fare": 410.0,
+            "vat_percent": 15,
+            "vat_amount": 62
+        },
+        {
             "type": "SNIGDHA",
             "fare": 345.0,
             "vat_percent": 15,

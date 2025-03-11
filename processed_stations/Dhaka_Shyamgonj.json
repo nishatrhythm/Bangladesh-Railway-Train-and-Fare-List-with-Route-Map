@@ -3,6 +3,18 @@
     "destination_city_name": "shyamgonj",
     "info": [
         {
+            "type": "SNIGDHA",
+            "fare": 330.0,
+            "vat_percent": 15,
+            "vat_amount": 50
+        },
+        {
+            "type": "AC_S",
+            "fare": 395.0,
+            "vat_percent": 15,
+            "vat_amount": 60
+        },
+        {
             "type": "S_CHAIR",
             "fare": 200.0,
             "vat_percent": 0,

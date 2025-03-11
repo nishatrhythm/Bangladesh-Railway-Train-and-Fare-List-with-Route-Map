@@ -7,6 +7,12 @@
             "fare": 125.0,
             "vat_percent": 0,
             "vat_amount": 0
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 150.0,
+            "vat_percent": 0,
+            "vat_amount": 0
         }
     ]
 }

@@ -47,8 +47,8 @@
             {
                 "city": "Shaistaganj",
                 "arrival_time": "08:57 am BST",
-                "departure_time": "09:00 am BST",
-                "halt": "03",
+                "departure_time": "08:20 am BST",
+                "halt": "37",
                 "duration": "00:37"
             },
             {
@@ -56,7 +56,7 @@
                 "arrival_time": "09:52 am BST",
                 "departure_time": "09:54 am BST",
                 "halt": "02",
-                "duration": "00:52"
+                "duration": "01:32"
             },
             {
                 "city": "Azampur",
@@ -66,11 +66,18 @@
                 "duration": "00:26"
             },
             {
+                "city": "Brahmanbaria",
+                "arrival_time": "10:48 am BST",
+                "departure_time": "10:51 am BST",
+                "halt": "03",
+                "duration": "00:26"
+            },
+            {
                 "city": "Bhairab_Bazar",
                 "arrival_time": "11:10 am BST",
                 "departure_time": "11:13 am BST",
                 "halt": "03",
-                "duration": "00:48"
+                "duration": "00:19"
             },
             {
                 "city": "Narsingdi",

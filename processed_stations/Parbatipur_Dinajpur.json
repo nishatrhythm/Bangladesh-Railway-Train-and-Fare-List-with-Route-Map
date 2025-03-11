@@ -16,9 +16,9 @@
         },
         {
             "type": "SNIGDHA",
-            "fare": 110.0,
+            "fare": 100.0,
             "vat_percent": 15,
-            "vat_amount": 17
+            "vat_amount": 15
         },
         {
             "type": "SHOVAN",

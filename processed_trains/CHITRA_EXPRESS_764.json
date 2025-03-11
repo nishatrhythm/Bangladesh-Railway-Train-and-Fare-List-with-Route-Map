@@ -76,7 +76,7 @@
                 "city": "Ishwardi",
                 "arrival_time": "11:45 pm BST",
                 "departure_time": "11:55 pm BST",
-                "halt": "1450",
+                "halt": "10",
                 "duration": "00:38"
             },
             {
@@ -84,7 +84,7 @@
                 "arrival_time": "12:25 am BST",
                 "departure_time": "12:28 am BST",
                 "halt": "03",
-                "duration": "23:30"
+                "duration": "00:30"
             },
             {
                 "city": "Poradaha",

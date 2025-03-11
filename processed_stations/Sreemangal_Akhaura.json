@@ -3,10 +3,22 @@
     "destination_city_name": "akhaura",
     "info": [
         {
+            "type": "AC_S",
+            "fare": 210.0,
+            "vat_percent": 15,
+            "vat_amount": 32
+        },
+        {
             "type": "S_CHAIR",
             "fare": 105.0,
             "vat_percent": 0,
             "vat_amount": 0
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 175.0,
+            "vat_percent": 15,
+            "vat_amount": 27
         }
     ]
 }

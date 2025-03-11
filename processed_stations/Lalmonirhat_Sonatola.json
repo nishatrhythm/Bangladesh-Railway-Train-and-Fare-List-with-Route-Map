@@ -3,6 +3,12 @@
     "destination_city_name": "sonatola",
     "info": [
         {
+            "type": "AC_S",
+            "fare": 250.0,
+            "vat_percent": 15,
+            "vat_amount": 38
+        },
+        {
             "type": "SNIGDHA",
             "fare": 205.0,
             "vat_percent": 15,

@@ -4,9 +4,9 @@
     "info": [
         {
             "type": "AC_B",
-            "fare": 299.0,
+            "fare": 255.0,
             "vat_percent": 15,
-            "vat_amount": 45
+            "vat_amount": 39
         },
         {
             "type": "SNIGDHA",

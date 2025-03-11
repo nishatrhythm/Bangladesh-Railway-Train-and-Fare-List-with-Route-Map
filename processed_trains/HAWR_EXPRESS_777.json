@@ -66,11 +66,17 @@
                 "duration": "00:19"
             },
             {
+                "city": "Thakrokona",
+                "arrival_time": "02:57 am BST",
+                "halt": "---",
+                "duration": "00:14"
+            },
+            {
                 "city": "Barhatta",
                 "arrival_time": "03:10 am BST",
                 "departure_time": "03:13 am BST",
                 "halt": "03",
-                "duration": "00:27"
+                "duration": "---"
             },
             {
                 "city": "Mohanganj",

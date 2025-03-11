@@ -22,9 +22,9 @@
         },
         {
             "type": "AC_S",
-            "fare": 935.0,
+            "fare": 1025.0,
             "vat_percent": 15,
-            "vat_amount": 141
+            "vat_amount": 154
         }
     ]
 }

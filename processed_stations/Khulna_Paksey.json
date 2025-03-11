@@ -3,6 +3,12 @@
     "destination_city_name": "paksey",
     "info": [
         {
+            "type": "SNIGDHA",
+            "fare": 470.0,
+            "vat_percent": 15,
+            "vat_amount": 71
+        },
+        {
             "type": "S_CHAIR",
             "fare": 280.0,
             "vat_percent": 0,
@@ -13,12 +19,6 @@
             "fare": 560.0,
             "vat_percent": 15,
             "vat_amount": 84
-        },
-        {
-            "type": "SNIGDHA",
-            "fare": 470.0,
-            "vat_percent": 15,
-            "vat_amount": 71
         }
     ]
 }

@@ -4,33 +4,33 @@
     "info": [
         {
             "type": "S_CHAIR",
-            "fare": 210.0,
+            "fare": 260.0,
             "vat_percent": 0,
             "vat_amount": 0
         },
         {
             "type": "SHOVAN",
-            "fare": 175.0,
+            "fare": 215.0,
             "vat_percent": 0,
             "vat_amount": 0
         },
         {
             "type": "F_SEAT",
-            "fare": 280.0,
+            "fare": 345.0,
             "vat_percent": 15,
-            "vat_amount": 42
+            "vat_amount": 52
         },
         {
             "type": "AC_B",
-            "fare": 630.0,
+            "fare": 770.0,
             "vat_percent": 15,
-            "vat_amount": 95
+            "vat_amount": 116
         },
         {
             "type": "SNIGDHA",
-            "fare": 350.0,
+            "fare": 430.0,
             "vat_percent": 15,
-            "vat_amount": 53
+            "vat_amount": 65
         }
     ]
 }

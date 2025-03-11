@@ -7,6 +7,12 @@
             "fare": 325.0,
             "vat_percent": 0,
             "vat_amount": 0
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 600.0,
+            "vat_percent": 15,
+            "vat_amount": 90
         }
     ]
 }

@@ -38,6 +38,12 @@
                 "duration": "00:36"
             },
             {
+                "city": "Kaoraid",
+                "arrival_time": "06:56 pm BST",
+                "halt": "---",
+                "duration": "---"
+            },
+            {
                 "city": "Gafargaon",
                 "arrival_time": "07:22 pm BST",
                 "departure_time": "07:25 pm BST",
@@ -52,17 +58,11 @@
                 "duration": "01:07"
             },
             {
-                "city": "Bidyaganj",
-                "arrival_time": "09:13 pm BST",
-                "halt": "---",
-                "duration": "00:36"
-            },
-            {
                 "city": "Narundi",
-                "arrival_time": "09:41 pm BST",
+                "arrival_time": "09:13 pm BST",
                 "departure_time": "09:43 pm BST",
-                "halt": "02",
-                "duration": "---"
+                "halt": "30",
+                "duration": "00:36"
             },
             {
                 "city": "Piyarpur",
@@ -72,11 +72,18 @@
                 "duration": "00:15"
             },
             {
-                "city": "Jamalpur_Town",
-                "arrival_time": "10:05 pm BST",
+                "city": "Narundi",
+                "arrival_time": "09:41 pm BST",
+                "departure_time": "09:43 pm BST",
+                "halt": "02",
+                "duration": "00:11"
+            },
+            {
+                "city": "Sarishabari",
+                "arrival_time": "10:58 pm BST",
                 "departure_time": "10:09 pm BST",
-                "halt": "04",
-                "duration": "00:35"
+                "halt": "49",
+                "duration": "01:15"
             },
             {
                 "city": "Sarishabari",

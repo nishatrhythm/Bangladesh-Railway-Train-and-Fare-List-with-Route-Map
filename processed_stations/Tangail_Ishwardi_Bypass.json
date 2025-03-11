@@ -4,27 +4,27 @@
     "info": [
         {
             "type": "AC_B",
-            "fare": 670.0,
+            "fare": 810.0,
             "vat_percent": 15,
-            "vat_amount": 101
+            "vat_amount": 122
         },
         {
             "type": "SNIGDHA",
-            "fare": 375.0,
+            "fare": 450.0,
             "vat_percent": 15,
-            "vat_amount": 57
+            "vat_amount": 68
         },
         {
             "type": "S_CHAIR",
-            "fare": 225.0,
+            "fare": 270.0,
             "vat_percent": 0,
             "vat_amount": 0
         },
         {
             "type": "AC_S",
-            "fare": 445.0,
+            "fare": 540.0,
             "vat_percent": 15,
-            "vat_amount": 67
+            "vat_amount": 81
         }
     ]
 }

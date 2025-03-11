@@ -3,10 +3,10 @@
     "destination_city_name": "piyarpur",
     "info": [
         {
-            "type": "F_CHAIR",
-            "fare": 90.0,
-            "vat_percent": 15,
-            "vat_amount": 14
+            "type": "SHOVAN",
+            "fare": 60.0,
+            "vat_percent": 0,
+            "vat_amount": 0
         },
         {
             "type": "S_CHAIR",
@@ -15,10 +15,10 @@
             "vat_amount": 0
         },
         {
-            "type": "SHOVAN",
-            "fare": 60.0,
-            "vat_percent": 0,
-            "vat_amount": 0
+            "type": "F_CHAIR",
+            "fare": 90.0,
+            "vat_percent": 15,
+            "vat_amount": 14
         }
     ]
 }

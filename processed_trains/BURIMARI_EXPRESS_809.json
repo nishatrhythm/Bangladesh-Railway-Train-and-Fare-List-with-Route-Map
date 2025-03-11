@@ -32,10 +32,10 @@
             },
             {
                 "city": "Natore",
-                "arrival_time": "01:01 pm BST",
+                "arrival_time": "01:02 pm BST",
                 "departure_time": "01:05 pm BST",
-                "halt": "04",
-                "duration": "00:29"
+                "halt": "03",
+                "duration": "00:30"
             },
             {
                 "city": "Santahar",
@@ -52,11 +52,17 @@
                 "duration": "00:40"
             },
             {
+                "city": "Mahimaganj",
+                "arrival_time": "03:46 pm BST",
+                "halt": "---",
+                "duration": "00:41"
+            },
+            {
                 "city": "Bonar_Para",
-                "arrival_time": "03:55 pm BST",
+                "arrival_time": "03:58 pm BST",
                 "departure_time": "04:03 pm BST",
-                "halt": "08",
-                "duration": "00:50"
+                "halt": "05",
+                "duration": "---"
             },
             {
                 "city": "Gaibandha",
@@ -67,55 +73,55 @@
             },
             {
                 "city": "Kaunia",
-                "arrival_time": "04:43 pm BST",
+                "arrival_time": "05:43 pm BST",
                 "departure_time": "05:46 pm BST",
-                "halt": "63",
-                "duration": "00:10"
+                "halt": "03",
+                "duration": "01:10"
             },
             {
                 "city": "Lalmonirhat",
                 "arrival_time": "06:10 pm BST",
-                "departure_time": "06:30 pm BST",
-                "halt": "20",
+                "departure_time": "07:00 pm BST",
+                "halt": "50",
                 "duration": "00:24"
             },
             {
                 "city": "Tushbhandar",
-                "arrival_time": "07:52 pm BST",
-                "departure_time": "07:55 pm BST",
-                "halt": "03",
-                "duration": "01:22"
+                "arrival_time": "07:45 pm BST",
+                "departure_time": "07:47 pm BST",
+                "halt": "02",
+                "duration": "00:45"
             },
             {
                 "city": "Hatibandha",
-                "arrival_time": "07:26 pm BST",
-                "departure_time": "07:26 pm BST",
-                "halt": "00",
-                "duration": "00:29"
+                "arrival_time": "08:21 pm BST",
+                "departure_time": "08:37 pm BST",
+                "halt": "16",
+                "duration": "00:34"
             },
             {
                 "city": "Barkhata",
-                "arrival_time": "08:42 pm BST",
-                "departure_time": "08:44 pm BST",
-                "halt": "02",
-                "duration": "01:16"
+                "arrival_time": "08:48 pm BST",
+                "departure_time": "08:51 pm BST",
+                "halt": "03",
+                "duration": "00:11"
             },
             {
                 "city": "Patgram",
-                "arrival_time": "08:00 pm BST",
-                "departure_time": "08:03 pm BST",
-                "halt": "03",
-                "duration": "00:44"
+                "arrival_time": "09:23 pm BST",
+                "departure_time": "09:28 pm BST",
+                "halt": "05",
+                "duration": "00:32"
             },
             {
                 "city": "Burimari",
-                "arrival_time": "08:20 pm BST",
+                "arrival_time": "09:45 pm BST",
                 "halt": null,
                 "duration": "00:17",
                 "departure_time": null
             }
         ],
-        "total_duration": "11:50",
+        "total_duration": "13:15",
         "train_name": "BURIMARI EXPRESS (809)",
         "train_model": "809"
     }

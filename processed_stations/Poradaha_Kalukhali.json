@@ -3,14 +3,14 @@
     "destination_city_name": "kalukhali",
     "info": [
         {
-            "type": "S_CHAIR",
-            "fare": 65.0,
+            "type": "SHOVAN",
+            "fare": 55.0,
             "vat_percent": 0,
             "vat_amount": 0
         },
         {
-            "type": "SHOVAN",
-            "fare": 55.0,
+            "type": "S_CHAIR",
+            "fare": 65.0,
             "vat_percent": 0,
             "vat_amount": 0
         }

@@ -3,6 +3,12 @@
     "destination_city_name": "biman_bandar",
     "info": [
         {
+            "type": "S_CHAIR",
+            "fare": 200.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
             "type": "SNIGDHA",
             "fare": 330.0,
             "vat_percent": 15,

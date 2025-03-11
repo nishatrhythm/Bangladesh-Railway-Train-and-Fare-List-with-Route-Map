@@ -3,10 +3,10 @@
     "destination_city_name": "parbatipur",
     "info": [
         {
-            "type": "SNIGDHA",
-            "fare": 190.0,
+            "type": "AC_B",
+            "fare": 345.0,
             "vat_percent": 15,
-            "vat_amount": 29
+            "vat_amount": 52
         },
         {
             "type": "S_CHAIR",
@@ -15,10 +15,10 @@
             "vat_amount": 0
         },
         {
-            "type": "AC_B",
-            "fare": 345.0,
+            "type": "SNIGDHA",
+            "fare": 190.0,
             "vat_percent": 15,
-            "vat_amount": 52
+            "vat_amount": 29
         },
         {
             "type": "AC_S",

@@ -1,0 +1,52 @@
+{
+    "data": {
+        "days": [
+            "Fri",
+            "Sat",
+            "Sun",
+            "Mon",
+            "Tue",
+            "Wed"
+        ],
+        "routes": [
+            {
+                "city": "Rajshahi",
+                "departure_time": "10:35 am BST",
+                "halt": null,
+                "duration": null,
+                "arrival_time": null
+            },
+            {
+                "city": "Kakonhat",
+                "arrival_time": "11:03 am BST",
+                "departure_time": "11:05 am BST",
+                "halt": "02",
+                "duration": "00:28"
+            },
+            {
+                "city": "Lolitnagar",
+                "arrival_time": "11:13 am BST",
+                "departure_time": "11:15 am BST",
+                "halt": "02",
+                "duration": "00:08"
+            },
+            {
+                "city": "Amnura_Bypass",
+                "arrival_time": "11:24 am BST",
+                "departure_time": "11:26 am BST",
+                "halt": "02",
+                "duration": "00:09"
+            },
+            {
+                "city": "Chapainawabganj",
+                "arrival_time": "11:50 am BST",
+                "halt": null,
+                "duration": "00:24",
+                "departure_time": null
+            }
+        ],
+        "total_duration": "01:15",
+        "train_name": "CHAPAINAWABGANJ SHUTTLE (109)",
+        "train_model": "109"
+    }
+}
