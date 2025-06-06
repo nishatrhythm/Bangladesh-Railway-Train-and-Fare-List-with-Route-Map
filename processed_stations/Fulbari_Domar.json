@@ -9,16 +9,16 @@
             "vat_amount": 0
         },
         {
-            "type": "SNIGDHA",
-            "fare": 170.0,
-            "vat_percent": 15,
-            "vat_amount": 26
-        },
-        {
             "type": "AC_B",
             "fare": 350.0,
             "vat_percent": 15,
             "vat_amount": 53
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 170.0,
+            "vat_percent": 15,
+            "vat_amount": 26
         },
         {
             "type": "AC_S",

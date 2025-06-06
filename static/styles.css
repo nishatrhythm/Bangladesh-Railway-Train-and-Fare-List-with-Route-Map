@@ -141,6 +141,12 @@ input[type="text"]:focus {
     cursor: pointer;
     margin-top: 30px;
     transition: transform 0.3s ease, background-color 0.3s;
+    -webkit-tap-highlight-color: transparent;
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -webkit-user-drag: none;
 }
 
 .swap-icon {
@@ -178,6 +184,8 @@ input[type="text"]:focus {
     display: none;
     z-index: 1000;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    -webkit-tap-highlight-color: transparent;
+    -webkit-user-drag: none;
 }
 
 .custom-dropdown div {
@@ -189,7 +197,6 @@ input[type="text"]:focus {
 
 .custom-dropdown div:hover {
     background-color: #f1f8f3;
-    transform: translateX(5px);
 }
 
 .btn-search {
@@ -208,6 +215,12 @@ input[type="text"]:focus {
     align-items: center;
     justify-content: center;
     gap: 8px;
+    -webkit-tap-highlight-color: transparent;
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -webkit-user-drag: none;
 }
 
 .btn-search i {
@@ -423,7 +436,7 @@ td {
 
 .footer {
     text-align: center;
-    margin-top: 30px;
+    margin-top: 40px;
     font-size: 14px;
     font-weight: 500;
     color: #2c3e50;
@@ -437,6 +450,8 @@ td {
     text-decoration: none;
     font-weight: 800;
     transition: color 0.2s, text-decoration 0.2s;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-user-drag: none;
 }
 
 .footer a:hover {

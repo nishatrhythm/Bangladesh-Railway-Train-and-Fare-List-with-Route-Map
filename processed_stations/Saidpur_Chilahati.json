@@ -21,22 +21,10 @@
             "vat_amount": 0
         },
         {
-            "type": "F_BERTH",
-            "fare": 130.0,
-            "vat_percent": 15,
-            "vat_amount": 20
-        },
-        {
             "type": "AC_S",
             "fare": 130.0,
             "vat_percent": 15,
             "vat_amount": 20
-        },
-        {
-            "type": "F_SEAT",
-            "fare": 90.0,
-            "vat_percent": 15,
-            "vat_amount": 14
         }
     ]
 }

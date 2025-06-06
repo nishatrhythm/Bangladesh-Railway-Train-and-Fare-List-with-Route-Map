@@ -3,15 +3,15 @@
     "destination_city_name": "natore",
     "info": [
         {
-            "type": "AC_S",
-            "fare": 0.0,
-            "vat_percent": 15,
-            "vat_amount": 0
-        },
-        {
             "type": "S_CHAIR",
             "fare": 255.0,
             "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
+            "type": "AC_S",
+            "fare": 0.0,
+            "vat_percent": 15,
             "vat_amount": 0
         }
     ]

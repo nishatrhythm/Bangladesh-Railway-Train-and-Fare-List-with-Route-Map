@@ -3,16 +3,16 @@
     "destination_city_name": "hasanpur",
     "info": [
         {
-            "type": "S_CHAIR",
-            "fare": 135.0,
-            "vat_percent": 0,
-            "vat_amount": 0
-        },
-        {
             "type": "F_CHAIR",
             "fare": 180.0,
             "vat_percent": 15,
             "vat_amount": 27
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 135.0,
+            "vat_percent": 0,
+            "vat_amount": 0
         },
         {
             "type": "SHOVAN",

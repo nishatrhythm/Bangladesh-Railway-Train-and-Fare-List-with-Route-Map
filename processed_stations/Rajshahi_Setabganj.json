@@ -3,16 +3,16 @@
     "destination_city_name": "setabganj",
     "info": [
         {
-            "type": "AC_B",
-            "fare": 800.0,
-            "vat_percent": 15,
-            "vat_amount": 120
-        },
-        {
             "type": "S_CHAIR",
             "fare": 305.0,
             "vat_percent": 0,
             "vat_amount": 0
+        },
+        {
+            "type": "AC_B",
+            "fare": 800.0,
+            "vat_percent": 15,
+            "vat_amount": 120
         }
     ]
 }

@@ -3,28 +3,28 @@
     "destination_city_name": "chuadanga",
     "info": [
         {
-            "type": "AC_S",
-            "fare": 395.0,
-            "vat_percent": 15,
-            "vat_amount": 60
-        },
-        {
             "type": "S_CHAIR",
             "fare": 200.0,
             "vat_percent": 0,
             "vat_amount": 0
         },
         {
-            "type": "F_SEAT",
-            "fare": 265.0,
+            "type": "AC_S",
+            "fare": 395.0,
             "vat_percent": 15,
-            "vat_amount": 40
+            "vat_amount": 60
         },
         {
             "type": "SNIGDHA",
             "fare": 330.0,
             "vat_percent": 15,
             "vat_amount": 50
+        },
+        {
+            "type": "F_SEAT",
+            "fare": 265.0,
+            "vat_percent": 15,
+            "vat_amount": 40
         }
     ]
 }

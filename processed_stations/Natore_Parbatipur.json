@@ -25,6 +25,12 @@
             "fare": 335.0,
             "vat_percent": 15,
             "vat_amount": 51
+        },
+        {
+            "type": "SHOVAN",
+            "fare": 140.0,
+            "vat_percent": 0,
+            "vat_amount": 0
         }
     ]
 }

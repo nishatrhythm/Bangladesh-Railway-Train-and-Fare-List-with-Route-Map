@@ -3,12 +3,6 @@
     "destination_city_name": "nangolkot",
     "info": [
         {
-            "type": "SNIGDHA",
-            "fare": 445.0,
-            "vat_percent": 15,
-            "vat_amount": 67
-        },
-        {
             "type": "S_CHAIR",
             "fare": 270.0,
             "vat_percent": 0,
@@ -19,6 +13,12 @@
             "fare": 800.0,
             "vat_percent": 15,
             "vat_amount": 120
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 445.0,
+            "vat_percent": 15,
+            "vat_amount": 67
         }
     ]
 }

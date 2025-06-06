@@ -103,8 +103,8 @@
             {
                 "city": "Noapara",
                 "arrival_time": "02:41 pm BST",
-                "departure_time": "02:44 pm BST",
-                "halt": "03",
+                "departure_time": "04:10 pm BST",
+                "halt": "89",
                 "duration": "00:33"
             },
             {
@@ -112,7 +112,7 @@
                 "arrival_time": "03:08 pm BST",
                 "departure_time": "03:10 pm BST",
                 "halt": "02",
-                "duration": "00:24"
+                "duration": "01:02"
             },
             {
                 "city": "Khulna",

@@ -3,6 +3,18 @@
     "destination_city_name": "jashore",
     "info": [
         {
+            "type": "AC_S",
+            "fare": 890.0,
+            "vat_percent": 15,
+            "vat_amount": 134
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 745.0,
+            "vat_percent": 15,
+            "vat_amount": 112
+        },
+        {
             "type": "S_CHAIR",
             "fare": 445.0,
             "vat_percent": 0,
@@ -13,18 +25,6 @@
             "fare": 1335.0,
             "vat_percent": 15,
             "vat_amount": 201
-        },
-        {
-            "type": "SNIGDHA",
-            "fare": 745.0,
-            "vat_percent": 15,
-            "vat_amount": 112
-        },
-        {
-            "type": "AC_S",
-            "fare": 890.0,
-            "vat_percent": 15,
-            "vat_amount": 134
         }
     ]
 }

@@ -3,16 +3,16 @@
     "destination_city_name": "bogura",
     "info": [
         {
-            "type": "S_CHAIR",
-            "fare": 165.0,
-            "vat_percent": 0,
-            "vat_amount": 0
-        },
-        {
             "type": "SNIGDHA",
             "fare": 275.0,
             "vat_percent": 15,
             "vat_amount": 42
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 165.0,
+            "vat_percent": 0,
+            "vat_amount": 0
         }
     ]
 }

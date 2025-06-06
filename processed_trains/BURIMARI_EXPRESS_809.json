@@ -67,8 +67,8 @@
             {
                 "city": "Gaibandha",
                 "arrival_time": "04:28 pm BST",
-                "departure_time": "04:33 pm BST",
-                "halt": "05",
+                "departure_time": "05:20 pm BST",
+                "halt": "52",
                 "duration": "00:25"
             },
             {
@@ -76,7 +76,7 @@
                 "arrival_time": "05:43 pm BST",
                 "departure_time": "05:46 pm BST",
                 "halt": "03",
-                "duration": "01:10"
+                "duration": "00:23"
             },
             {
                 "city": "Lalmonirhat",

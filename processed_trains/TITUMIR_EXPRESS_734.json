@@ -25,9 +25,9 @@
             },
             {
                 "city": "Nilphamari",
-                "departure_time": "03:44 pm BST",
+                "departure_time": "04:42 pm BST",
                 "arrival_time": "03:41 pm BST",
-                "halt": "03",
+                "halt": "61",
                 "duration": "00:17"
             },
             {
@@ -35,7 +35,7 @@
                 "departure_time": "04:19 pm BST",
                 "arrival_time": "04:15 pm BST",
                 "halt": "04",
-                "duration": "00:31"
+                "duration": "00:27"
             },
             {
                 "city": "Parbatipur",

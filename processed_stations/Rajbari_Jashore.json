@@ -3,12 +3,6 @@
     "destination_city_name": "jashore",
     "info": [
         {
-            "type": "AC_S",
-            "fare": 440.0,
-            "vat_percent": 15,
-            "vat_amount": 66
-        },
-        {
             "type": "S_CHAIR",
             "fare": 220.0,
             "vat_percent": 0,
@@ -19,6 +13,12 @@
             "fare": 365.0,
             "vat_percent": 15,
             "vat_amount": 55
+        },
+        {
+            "type": "AC_S",
+            "fare": 440.0,
+            "vat_percent": 15,
+            "vat_amount": 66
         }
     ]
 }

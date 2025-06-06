@@ -10,9 +10,15 @@
         },
         {
             "type": "AC_S",
-            "fare": 315.0,
+            "fare": 335.0,
             "vat_percent": 15,
-            "vat_amount": 48
+            "vat_amount": 51
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 280.0,
+            "vat_percent": 15,
+            "vat_amount": 42
         },
         {
             "type": "AC_B",
@@ -21,10 +27,10 @@
             "vat_amount": 75
         },
         {
-            "type": "SNIGDHA",
-            "fare": 280.0,
-            "vat_percent": 15,
-            "vat_amount": 42
+            "type": "SHOVAN",
+            "fare": 140.0,
+            "vat_percent": 0,
+            "vat_amount": 0
         }
     ]
 }

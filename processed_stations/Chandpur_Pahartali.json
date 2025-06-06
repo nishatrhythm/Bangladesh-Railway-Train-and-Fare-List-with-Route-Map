@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "chandpur",
+    "destination_city_name": "pahartali",
+    "info": [
+        {
+            "type": "SHOVAN",
+            "fare": 180.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

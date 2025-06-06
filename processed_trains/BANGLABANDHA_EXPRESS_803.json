@@ -48,7 +48,7 @@
                 "city": "Santahar",
                 "departure_time": "11:25 pm BST",
                 "arrival_time": "11:21 pm BST",
-                "halt": "04",
+                "halt": "1436",
                 "duration": "00:22"
             },
             {
@@ -125,7 +125,7 @@
                 "city": "Shibganj",
                 "departure_time": "03:36 am BST",
                 "arrival_time": "03:34 am BST",
-                "halt": "1438",
+                "halt": "02",
                 "duration": "00:15"
             },
             {

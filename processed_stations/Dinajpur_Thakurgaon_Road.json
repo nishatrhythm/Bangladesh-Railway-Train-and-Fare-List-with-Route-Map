@@ -3,16 +3,16 @@
     "destination_city_name": "thakurgaon_road",
     "info": [
         {
-            "type": "AC_B",
-            "fare": 230.0,
-            "vat_percent": 15,
-            "vat_amount": 35
-        },
-        {
             "type": "S_CHAIR",
             "fare": 80.0,
             "vat_percent": 0,
             "vat_amount": 0
+        },
+        {
+            "type": "AC_B",
+            "fare": 230.0,
+            "vat_percent": 15,
+            "vat_amount": 35
         },
         {
             "type": "SNIGDHA",

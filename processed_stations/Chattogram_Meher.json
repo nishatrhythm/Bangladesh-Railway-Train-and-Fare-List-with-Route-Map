@@ -3,6 +3,12 @@
     "destination_city_name": "meher",
     "info": [
         {
+            "type": "SHOVAN",
+            "fare": 150.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
             "type": "F_CHAIR",
             "fare": 240.0,
             "vat_percent": 15,
@@ -11,12 +17,6 @@
         {
             "type": "S_CHAIR",
             "fare": 180.0,
-            "vat_percent": 0,
-            "vat_amount": 0
-        },
-        {
-            "type": "SHOVAN",
-            "fare": 150.0,
             "vat_percent": 0,
             "vat_amount": 0
         },

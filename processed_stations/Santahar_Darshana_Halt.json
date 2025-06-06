@@ -3,6 +3,18 @@
     "destination_city_name": "darshana_halt",
     "info": [
         {
+            "type": "AC_S",
+            "fare": 475.0,
+            "vat_percent": 15,
+            "vat_amount": 72
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 395.0,
+            "vat_percent": 15,
+            "vat_amount": 60
+        },
+        {
             "type": "S_CHAIR",
             "fare": 240.0,
             "vat_percent": 0,
@@ -13,18 +25,6 @@
             "fare": 710.0,
             "vat_percent": 15,
             "vat_amount": 107
-        },
-        {
-            "type": "SNIGDHA",
-            "fare": 395.0,
-            "vat_percent": 15,
-            "vat_amount": 60
-        },
-        {
-            "type": "AC_S",
-            "fare": 475.0,
-            "vat_percent": 15,
-            "vat_amount": 72
         }
     ]
 }

@@ -3,6 +3,12 @@
     "destination_city_name": "narsingdi",
     "info": [
         {
+            "type": "S_CHAIR",
+            "fare": 310.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
             "type": "SNIGDHA",
             "fare": 515.0,
             "vat_percent": 15,
@@ -13,12 +19,6 @@
             "fare": 615.0,
             "vat_percent": 15,
             "vat_amount": 93
-        },
-        {
-            "type": "S_CHAIR",
-            "fare": 310.0,
-            "vat_percent": 0,
-            "vat_amount": 0
         }
     ]
 }

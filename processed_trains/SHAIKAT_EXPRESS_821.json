@@ -52,11 +52,17 @@
                 "duration": "00:11"
             },
             {
+                "city": "HARBANG",
+                "arrival_time": "08:21 am BST",
+                "halt": "---",
+                "duration": "00:37"
+            },
+            {
                 "city": "Chakaria",
                 "arrival_time": "08:35 am BST",
                 "departure_time": "08:37 am BST",
                 "halt": "02",
-                "duration": "00:51"
+                "duration": "---"
             },
             {
                 "city": "Dulahazara",

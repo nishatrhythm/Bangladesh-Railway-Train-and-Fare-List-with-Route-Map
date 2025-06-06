@@ -1,5 +1,5 @@
 {
-    "origin_city_name": "biman_bandar",
+    "origin_city_name": "dhaka",
     "destination_city_name": "sreemangal",
     "info": [
         {
@@ -7,12 +7,6 @@
             "fare": 455.0,
             "vat_percent": 15,
             "vat_amount": 69
-        },
-        {
-            "type": "S_CHAIR",
-            "fare": 275.0,
-            "vat_percent": 0,
-            "vat_amount": 0
         },
         {
             "type": "F_SEAT",
@@ -25,6 +19,12 @@
             "fare": 545.0,
             "vat_percent": 15,
             "vat_amount": 82
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 275.0,
+            "vat_percent": 0,
+            "vat_amount": 0
         },
         {
             "type": "AC_B",

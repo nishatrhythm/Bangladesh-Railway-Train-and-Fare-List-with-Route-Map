@@ -109,23 +109,29 @@
             {
                 "city": "Hatibandha",
                 "arrival_time": "03:02 pm BST",
-                "departure_time": "03:04 pm BST",
-                "halt": "02",
+                "departure_time": "03:50 pm BST",
+                "halt": "48",
                 "duration": "00:26"
             },
             {
                 "city": "Barkhata",
                 "arrival_time": "03:16 pm BST",
-                "departure_time": "03:18 pm BST",
-                "halt": "02",
-                "duration": "00:12"
+                "departure_time": "04:00 pm BST",
+                "halt": "44",
+                "duration": "00:34"
+            },
+            {
+                "city": "Baura",
+                "arrival_time": "03:27 pm BST",
+                "halt": "---",
+                "duration": "00:33"
             },
             {
                 "city": "Patgram",
                 "arrival_time": "03:44 pm BST",
                 "departure_time": "03:47 pm BST",
                 "halt": "03",
-                "duration": "00:26"
+                "duration": "---"
             },
             {
                 "city": "Burimari",

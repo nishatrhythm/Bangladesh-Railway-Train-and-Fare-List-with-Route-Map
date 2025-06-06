@@ -67,10 +67,17 @@
                 "duration": "00:20"
             },
             {
+                "city": "Narsingdi",
+                "arrival_time": "07:36 pm BST",
+                "departure_time": "07:38 pm BST",
+                "halt": "02",
+                "duration": "00:28"
+            },
+            {
                 "city": "Dhaka",
                 "arrival_time": "08:45 pm BST",
                 "halt": null,
-                "duration": "01:37",
+                "duration": "01:07",
                 "departure_time": null
             }
         ],

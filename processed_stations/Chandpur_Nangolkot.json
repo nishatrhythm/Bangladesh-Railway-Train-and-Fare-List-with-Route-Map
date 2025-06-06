@@ -3,16 +3,16 @@
     "destination_city_name": "nangolkot",
     "info": [
         {
-            "type": "F_CHAIR",
-            "fare": 105.0,
-            "vat_percent": 15,
-            "vat_amount": 16
-        },
-        {
             "type": "SHOVAN",
             "fare": 70.0,
             "vat_percent": 0,
             "vat_amount": 0
+        },
+        {
+            "type": "F_CHAIR",
+            "fare": 105.0,
+            "vat_percent": 15,
+            "vat_amount": 16
         },
         {
             "type": "S_CHAIR",

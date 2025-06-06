@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "dhaka",
+    "destination_city_name": "harashpur",
+    "info": [
+        {
+            "type": "S_CHAIR",
+            "fare": 195.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

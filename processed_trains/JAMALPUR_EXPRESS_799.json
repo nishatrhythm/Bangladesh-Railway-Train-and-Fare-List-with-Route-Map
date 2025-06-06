@@ -47,14 +47,15 @@
             {
                 "city": "Bidyaganj",
                 "arrival_time": "01:32 pm BST",
-                "halt": "---",
+                "departure_time": "01:34 pm BST",
+                "halt": "02",
                 "duration": "00:22"
             },
             {
                 "city": "Narundi",
                 "arrival_time": "01:25 pm BST",
                 "halt": "---",
-                "duration": "---"
+                "duration": "00:09"
             },
             {
                 "city": "Nandina",

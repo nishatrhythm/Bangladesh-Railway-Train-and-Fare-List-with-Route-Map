@@ -3,16 +3,16 @@
     "destination_city_name": "ishwardi",
     "info": [
         {
-            "type": "SNIGDHA",
-            "fare": 425.0,
-            "vat_percent": 15,
-            "vat_amount": 64
-        },
-        {
             "type": "S_CHAIR",
             "fare": 255.0,
             "vat_percent": 0,
             "vat_amount": 0
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 425.0,
+            "vat_percent": 15,
+            "vat_amount": 64
         }
     ]
 }

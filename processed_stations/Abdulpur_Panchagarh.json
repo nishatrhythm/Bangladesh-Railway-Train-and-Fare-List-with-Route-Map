@@ -3,16 +3,16 @@
     "destination_city_name": "panchagarh",
     "info": [
         {
-            "type": "AC_B",
-            "fare": 885.0,
-            "vat_percent": 15,
-            "vat_amount": 133
-        },
-        {
             "type": "S_CHAIR",
             "fare": 345.0,
             "vat_percent": 0,
             "vat_amount": 0
+        },
+        {
+            "type": "AC_B",
+            "fare": 885.0,
+            "vat_percent": 15,
+            "vat_amount": 133
         }
     ]
 }

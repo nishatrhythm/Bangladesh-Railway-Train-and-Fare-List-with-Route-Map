@@ -3,6 +3,12 @@
     "destination_city_name": "ashuganj",
     "info": [
         {
+            "type": "SNIGDHA",
+            "fare": 410.0,
+            "vat_percent": 15,
+            "vat_amount": 62
+        },
+        {
             "type": "S_CHAIR",
             "fare": 245.0,
             "vat_percent": 0,
@@ -13,12 +19,6 @@
             "fare": 490.0,
             "vat_percent": 15,
             "vat_amount": 74
-        },
-        {
-            "type": "SNIGDHA",
-            "fare": 410.0,
-            "vat_percent": 15,
-            "vat_amount": 62
         }
     ]
 }

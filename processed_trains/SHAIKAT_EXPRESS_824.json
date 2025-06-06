@@ -38,11 +38,17 @@
                 "duration": "00:22"
             },
             {
+                "city": "HARBANG",
+                "arrival_time": "09:26 pm BST",
+                "halt": "---",
+                "duration": "00:12"
+            },
+            {
                 "city": "Satkania",
                 "arrival_time": "10:05 pm BST",
                 "departure_time": "10:07 pm BST",
                 "halt": "02",
-                "duration": "00:51"
+                "duration": "---"
             },
             {
                 "city": "Dohazari",

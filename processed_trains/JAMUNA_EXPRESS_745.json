@@ -58,10 +58,10 @@
                 "duration": "01:07"
             },
             {
-                "city": "Narundi",
+                "city": "Bidyaganj",
                 "arrival_time": "09:13 pm BST",
-                "departure_time": "09:43 pm BST",
-                "halt": "30",
+                "departure_time": "09:15 pm BST",
+                "halt": "02",
                 "duration": "00:36"
             },
             {
@@ -69,7 +69,7 @@
                 "arrival_time": "09:28 pm BST",
                 "departure_time": "09:30 pm BST",
                 "halt": "02",
-                "duration": "00:15"
+                "duration": "00:13"
             },
             {
                 "city": "Narundi",
@@ -79,11 +79,11 @@
                 "duration": "00:11"
             },
             {
-                "city": "Sarishabari",
-                "arrival_time": "10:58 pm BST",
+                "city": "Jamalpur_Town",
+                "arrival_time": "10:05 pm BST",
                 "departure_time": "10:09 pm BST",
-                "halt": "49",
-                "duration": "01:15"
+                "halt": "04",
+                "duration": "00:22"
             },
             {
                 "city": "Sarishabari",

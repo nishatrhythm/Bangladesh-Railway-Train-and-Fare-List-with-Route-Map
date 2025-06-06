@@ -48,7 +48,8 @@
             {
                 "city": "Bidyaganj",
                 "arrival_time": "04:01 am BST",
-                "halt": "---",
+                "departure_time": "04:03 am BST",
+                "halt": "02",
                 "duration": "00:13"
             },
             {
@@ -56,7 +57,7 @@
                 "departure_time": "04:30 am BST",
                 "arrival_time": "04:25 am BST",
                 "halt": "05",
-                "duration": "---"
+                "duration": "00:22"
             },
             {
                 "city": "Gafargaon",

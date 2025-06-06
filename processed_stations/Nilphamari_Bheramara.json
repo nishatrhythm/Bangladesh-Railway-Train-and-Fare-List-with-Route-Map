@@ -3,6 +3,18 @@
     "destination_city_name": "bheramara",
     "info": [
         {
+            "type": "AC_S",
+            "fare": 630.0,
+            "vat_percent": 15,
+            "vat_amount": 95
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 525.0,
+            "vat_percent": 15,
+            "vat_amount": 79
+        },
+        {
             "type": "S_CHAIR",
             "fare": 315.0,
             "vat_percent": 0,
@@ -13,18 +25,6 @@
             "fare": 945.0,
             "vat_percent": 15,
             "vat_amount": 142
-        },
-        {
-            "type": "SNIGDHA",
-            "fare": 550.0,
-            "vat_percent": 15,
-            "vat_amount": 83
-        },
-        {
-            "type": "AC_S",
-            "fare": 630.0,
-            "vat_percent": 15,
-            "vat_amount": 95
         }
     ]
 }

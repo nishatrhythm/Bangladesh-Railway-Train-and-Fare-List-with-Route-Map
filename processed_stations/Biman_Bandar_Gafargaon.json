@@ -1,5 +1,5 @@
 {
-    "origin_city_name": "biman_bandar",
+    "origin_city_name": "dhaka",
     "destination_city_name": "gafargaon",
     "info": [
         {
@@ -15,16 +15,16 @@
             "vat_amount": 21
         },
         {
-            "type": "S_CHAIR",
-            "fare": 105.0,
-            "vat_percent": 0,
-            "vat_amount": 0
-        },
-        {
             "type": "SNIGDHA",
             "fare": 170.0,
             "vat_percent": 15,
             "vat_amount": 26
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 105.0,
+            "vat_percent": 0,
+            "vat_amount": 0
         },
         {
             "type": "SHOVAN",

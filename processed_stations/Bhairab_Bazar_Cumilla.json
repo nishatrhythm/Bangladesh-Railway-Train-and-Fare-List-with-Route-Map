@@ -3,12 +3,6 @@
     "destination_city_name": "cumilla",
     "info": [
         {
-            "type": "S_CHAIR",
-            "fare": 125.0,
-            "vat_percent": 0,
-            "vat_amount": 0
-        },
-        {
             "type": "F_SEAT",
             "fare": 170.0,
             "vat_percent": 15,
@@ -25,6 +19,12 @@
             "fare": 210.0,
             "vat_percent": 15,
             "vat_amount": 32
+        },
+        {
+            "type": "S_CHAIR",
+            "fare": 125.0,
+            "vat_percent": 0,
+            "vat_amount": 0
         }
     ]
 }

@@ -1,0 +1,12 @@
+{
+    "origin_city_name": "parbatipur",
+    "destination_city_name": "joydebpur",
+    "info": [
+        {
+            "type": "SHOVAN",
+            "fare": 455.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        }
+    ]
+}

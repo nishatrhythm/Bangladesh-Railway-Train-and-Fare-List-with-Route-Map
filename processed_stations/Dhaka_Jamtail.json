@@ -3,10 +3,10 @@
     "destination_city_name": "jamtail",
     "info": [
         {
-            "type": "AC_S",
-            "fare": 610.0,
-            "vat_percent": 15,
-            "vat_amount": 92
+            "type": "S_CHAIR",
+            "fare": 305.0,
+            "vat_percent": 0,
+            "vat_amount": 0
         },
         {
             "type": "SNIGDHA",
@@ -15,10 +15,10 @@
             "vat_amount": 77
         },
         {
-            "type": "S_CHAIR",
-            "fare": 305.0,
-            "vat_percent": 0,
-            "vat_amount": 0
+            "type": "AC_S",
+            "fare": 610.0,
+            "vat_percent": 15,
+            "vat_amount": 92
         },
         {
             "type": "SHOVAN",

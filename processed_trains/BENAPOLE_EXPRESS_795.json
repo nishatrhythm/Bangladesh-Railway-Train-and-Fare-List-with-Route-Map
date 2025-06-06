@@ -74,9 +74,9 @@
             },
             {
                 "city": "Khoksha",
-                "departure_time": "04:51 pm BST",
+                "departure_time": "04:59 pm BST",
                 "arrival_time": "04:49 pm BST",
-                "halt": "02",
+                "halt": "10",
                 "duration": "00:34"
             },
             {
@@ -84,7 +84,7 @@
                 "departure_time": "05:50 pm BST",
                 "arrival_time": "05:30 pm BST",
                 "halt": "20",
-                "duration": "00:39"
+                "duration": "00:31"
             },
             {
                 "city": "Faridpur",

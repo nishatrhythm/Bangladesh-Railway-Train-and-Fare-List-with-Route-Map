@@ -11,31 +11,37 @@
         "routes": [
             {
                 "city": "Burimari",
-                "departure_time": "04:20 pm BST",
+                "departure_time": "05:10 pm BST",
                 "halt": null,
                 "duration": null,
                 "arrival_time": null
             },
             {
                 "city": "Patgram",
-                "departure_time": "04:36 pm BST",
+                "departure_time": "05:59 pm BST",
                 "arrival_time": "04:33 pm BST",
-                "halt": "03",
-                "duration": "00:13"
+                "halt": "86",
+                "duration": "00:37"
+            },
+            {
+                "city": "Baura",
+                "arrival_time": "04:51 pm BST",
+                "halt": "---",
+                "duration": "01:08"
             },
             {
                 "city": "Barkhata",
                 "arrival_time": "05:02 pm BST",
-                "departure_time": "05:04 pm BST",
-                "halt": "02",
-                "duration": "00:26"
+                "departure_time": "05:30 pm BST",
+                "halt": "28",
+                "duration": "---"
             },
             {
                 "city": "Hatibandha",
                 "departure_time": "05:19 pm BST",
                 "arrival_time": "05:16 pm BST",
                 "halt": "03",
-                "duration": "00:12"
+                "duration": "00:14"
             },
             {
                 "city": "Tushbhandar",
@@ -135,7 +141,7 @@
                 "departure_time": null
             }
         ],
-        "total_duration": "06:20",
+        "total_duration": "05:30",
         "train_name": "KOROTOA EXPRESS (714)",
         "train_model": "714"
     }

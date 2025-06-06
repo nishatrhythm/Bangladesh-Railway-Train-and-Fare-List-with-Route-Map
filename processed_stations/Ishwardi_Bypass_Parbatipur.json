@@ -3,6 +3,12 @@
     "destination_city_name": "parbatipur",
     "info": [
         {
+            "type": "SHOVAN",
+            "fare": 170.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
             "type": "SNIGDHA",
             "fare": 340.0,
             "vat_percent": 15,

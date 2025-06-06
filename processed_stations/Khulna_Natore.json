@@ -3,10 +3,10 @@
     "destination_city_name": "natore",
     "info": [
         {
-            "type": "S_CHAIR",
-            "fare": 335.0,
-            "vat_percent": 0,
-            "vat_amount": 0
+            "type": "AC_S",
+            "fare": 665.0,
+            "vat_percent": 15,
+            "vat_amount": 100
         },
         {
             "type": "SNIGDHA",
@@ -15,22 +15,16 @@
             "vat_amount": 84
         },
         {
+            "type": "S_CHAIR",
+            "fare": 335.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
             "type": "AC_B",
             "fare": 995.0,
             "vat_percent": 15,
             "vat_amount": 150
-        },
-        {
-            "type": "AC_S",
-            "fare": 665.0,
-            "vat_percent": 15,
-            "vat_amount": 100
-        },
-        {
-            "type": "F_SEAT",
-            "fare": 445.0,
-            "vat_percent": 15,
-            "vat_amount": 67
         }
     ]
 }

@@ -3,10 +3,10 @@
     "destination_city_name": "sh m monsur ali",
     "info": [
         {
-            "type": "AC_S",
-            "fare": 590.0,
-            "vat_percent": 15,
-            "vat_amount": 89
+            "type": "S_CHAIR",
+            "fare": 295.0,
+            "vat_percent": 0,
+            "vat_amount": 0
         },
         {
             "type": "SNIGDHA",
@@ -15,10 +15,10 @@
             "vat_amount": 75
         },
         {
-            "type": "S_CHAIR",
-            "fare": 295.0,
-            "vat_percent": 0,
-            "vat_amount": 0
+            "type": "AC_S",
+            "fare": 590.0,
+            "vat_percent": 15,
+            "vat_amount": 89
         },
         {
             "type": "SHOVAN",

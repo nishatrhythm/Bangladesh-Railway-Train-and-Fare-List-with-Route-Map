@@ -3,10 +3,10 @@
     "destination_city_name": "birampur",
     "info": [
         {
-            "type": "S_CHAIR",
-            "fare": 465.0,
-            "vat_percent": 0,
-            "vat_amount": 0
+            "type": "AC_S",
+            "fare": 925.0,
+            "vat_percent": 15,
+            "vat_amount": 139
         },
         {
             "type": "SNIGDHA",
@@ -15,16 +15,16 @@
             "vat_amount": 116
         },
         {
+            "type": "S_CHAIR",
+            "fare": 465.0,
+            "vat_percent": 0,
+            "vat_amount": 0
+        },
+        {
             "type": "AC_B",
             "fare": 1385.0,
             "vat_percent": 15,
             "vat_amount": 208
-        },
-        {
-            "type": "AC_S",
-            "fare": 925.0,
-            "vat_percent": 15,
-            "vat_amount": 139
         }
     ]
 }

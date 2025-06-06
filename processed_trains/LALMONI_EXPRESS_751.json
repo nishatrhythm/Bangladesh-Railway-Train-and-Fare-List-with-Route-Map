@@ -67,24 +67,24 @@
             },
             {
                 "city": "Azim Nagar",
-                "arrival_time": "02:07 am BST",
-                "departure_time": "02:09 am BST",
+                "arrival_time": "01:57 am BST",
+                "departure_time": "01:59 am BST",
                 "halt": "02",
-                "duration": "01:12"
+                "duration": "01:02"
             },
             {
                 "city": "Natore",
-                "arrival_time": "02:35 am BST",
-                "departure_time": "02:38 am BST",
-                "halt": "03",
-                "duration": "00:26"
+                "arrival_time": "02:36 am BST",
+                "departure_time": "02:45 am BST",
+                "halt": "09",
+                "duration": "00:37"
             },
             {
                 "city": "Santahar",
                 "arrival_time": "03:35 am BST",
                 "departure_time": "03:40 am BST",
                 "halt": "05",
-                "duration": "00:57"
+                "duration": "00:50"
             },
             {
                 "city": "Bogura",

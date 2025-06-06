@@ -3,6 +3,18 @@
     "destination_city_name": "kotchandpur",
     "info": [
         {
+            "type": "AC_S",
+            "fare": 795.0,
+            "vat_percent": 15,
+            "vat_amount": 120
+        },
+        {
+            "type": "SNIGDHA",
+            "fare": 660.0,
+            "vat_percent": 15,
+            "vat_amount": 99
+        },
+        {
             "type": "S_CHAIR",
             "fare": 400.0,
             "vat_percent": 0,
@@ -13,18 +25,6 @@
             "fare": 1190.0,
             "vat_percent": 15,
             "vat_amount": 179
-        },
-        {
-            "type": "SNIGDHA",
-            "fare": 660.0,
-            "vat_percent": 15,
-            "vat_amount": 99
-        },
-        {
-            "type": "AC_S",
-            "fare": 795.0,
-            "vat_percent": 15,
-            "vat_amount": 120
         }
     ]
 }

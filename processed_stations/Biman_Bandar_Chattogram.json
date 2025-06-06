@@ -1,13 +1,7 @@
 {
-    "origin_city_name": "biman_bandar",
+    "origin_city_name": "dhaka",
     "destination_city_name": "chattogram",
     "info": [
-        {
-            "type": "S_CHAIR",
-            "fare": 450.0,
-            "vat_percent": 0,
-            "vat_amount": 0
-        },
         {
             "type": "SNIGDHA",
             "fare": 743.0,
@@ -15,16 +9,22 @@
             "vat_amount": 112
         },
         {
-            "type": "F_SEAT",
-            "fare": 540.0,
-            "vat_percent": 15,
-            "vat_amount": 81
+            "type": "S_CHAIR",
+            "fare": 450.0,
+            "vat_percent": 0,
+            "vat_amount": 0
         },
         {
             "type": "AC_S",
             "fare": 810.0,
             "vat_percent": 15,
             "vat_amount": 122
+        },
+        {
+            "type": "F_SEAT",
+            "fare": 540.0,
+            "vat_percent": 15,
+            "vat_amount": 81
         },
         {
             "type": "AC_B",
